@@ -12,4 +12,6 @@ Imports:
     readr,
     dplyr,
     rvest,
-    stringr
+    stringr,
+    httr,
+    curl

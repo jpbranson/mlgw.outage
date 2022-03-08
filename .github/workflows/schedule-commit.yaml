@@ -35,10 +35,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages("rvest")
-          install.packages("dplyr")
-          install.packages("readr")
-          install.packages("stringr")
+          install.packages(c("rvest", "dplyr", "stringr", "readr", "httr", "curl"))
         shell: Rscript {0}
 
       - name: Generate data
