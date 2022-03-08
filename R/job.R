@@ -1,7 +1,12 @@
-options(tidyverse.quiet = TRUE)
-library(tidyverse, quietly = T, warn.conflicts = F)
+# options(tidyverse.quiet = TRUE)
+# library(tidyverse, quietly = T, warn.conflicts = F)
 #library(rvest, quietly = T, warn.conflicts = F)
 #library(httr, quietly = T, warn.conflicts = F)
+
+library(rvest)
+library(dplyr)
+library(readr)
+library(stringr)
 
 timestamp <- Sys.time()
 datestamp <- Sys.time() %>% str_replace_all(":", "_") %>% str_replace_all(" ", "_")
