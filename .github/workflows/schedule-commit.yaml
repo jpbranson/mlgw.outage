@@ -31,12 +31,10 @@ jobs:
 
       - uses: r-lib/actions/setup-pandoc@master
 
+      - uses: r-lib/actions/setup-r-dependencies@v2
 
-
-      - name: Install dependencies
-        run: |
-          install.packages(c("rvest", "dplyr", "stringr", "readr", "httr", "curl"))
-        shell: Rscript {0}
+      - name: Install OpenSSL
+        run: sudo apt install libcurl4-openssl-dev
 
       - name: Generate data
         run: |
