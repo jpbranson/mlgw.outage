@@ -1,0 +1,25 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,03/10/2022 04:32 PM, 03/10/2022 04:32 PM, Customer Svc is working this single customer outage, , 1195763];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[1]=[051,03/10/2022 04:49 AM, 03/10/2022 04:49 AM, Trouble Shooter is determining repairs required, , 1195683];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[2]=[052,03/10/2022 04:49 AM, 03/10/2022 04:49 AM, Trouble Shooter is determining repairs required, , 1195683];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[3]=[062,03/10/2022 04:49 AM, 03/10/2022 04:49 AM, Trouble Shooter is determining repairs required, , 1195683];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[4]=[063,03/10/2022 04:49 AM, 03/10/2022 04:49 AM, Trouble Shooter is determining repairs required, , 1195683];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[5]=[073,03/10/2022 02:11 PM, 03/10/2022 02:11 PM, Trouble Shooter is determining repairs required, , 1195716];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[6]=[085,03/10/2022 03:15 PM, 03/10/2022 03:15 PM, Trouble Shooter is working on the problem, 03/10/2022 06:30 PM, 1195741];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[7]=[085,03/10/2022 03:32 PM, 03/10/2022 03:32 PM, Trouble Shooter is working on the problem, 03/10/2022 06:30 PM, 1195757];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[8]=[085,03/10/2022 04:52 PM, 03/10/2022 04:52 PM, Waiting to be analyzed, , 1195768];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[9]=[088,03/10/2022 02:23 PM, 03/10/2022 02:23 PM, Waiting for an available crew to perform repairs, , 1195719];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[10]=[088,03/10/2022 03:36 PM, 03/10/2022 03:36 PM, Customer Svc is working this single customer outage, , 1195758];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[11]=[099,03/10/2022 03:15 PM, 03/10/2022 03:15 PM, Trouble Shooter is working on the problem, 03/10/2022 06:30 PM, 1195741];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[12]=[099,03/10/2022 04:50 PM, 03/10/2022 04:50 PM, Waiting to be analyzed, , 1195766];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[13]=[099,03/10/2022 04:51 PM, 03/10/2022 04:51 PM, Waiting to be analyzed, , 1195767];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[14]=[099,03/10/2022 04:54 PM, 03/10/2022 04:54 PM, Waiting to be analyzed, , 1195769];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[15]=[099,03/10/2022 04:54 PM, 03/10/2022 04:54 PM, Waiting to be analyzed, , 1195770];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[16]=[099,03/10/2022 04:55 PM, 03/10/2022 04:55 PM, Waiting to be analyzed, , 1195771];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[17]=[099,03/10/2022 05:02 PM, 03/10/2022 05:02 PM, Waiting to be analyzed, , 1195772];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[18]=[100,03/10/2022 03:15 PM, 03/10/2022 03:15 PM, Trouble Shooter is working on the problem, 03/10/2022 06:30 PM, 1195741];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[19]=[100,03/10/2022 03:16 PM, 03/10/2022 03:16 PM, Trouble Shooter is working on the problem, 03/10/2022 06:30 PM, 1195744];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[20]=[101,03/10/2022 02:23 PM, 03/10/2022 02:23 PM, Waiting for an available crew to perform repairs, , 1195719];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[21]=[102,03/10/2022 02:23 PM, 03/10/2022 02:23 PM, Waiting for an available crew to perform repairs, , 1195719];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[22]=[114,03/10/2022 01:50 PM, 03/10/2022 01:50 PM, A crew is currently working on the problem, 03/10/2022 11:00 PM, 1195714];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
+events[23]=[118,03/10/2022 04:46 PM, 03/10/2022 04:46 PM, Waiting to be analyzed, , 1195765];,# of Outages: 17,Customers Affected: 1446,2022-03-10T23:09:56Z
