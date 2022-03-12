@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[060,03/12/2022 09:06 AM, 03/12/2022 09:06 AM, The extent of the outage has been determined, , 1196163];,# of Outages: 9,Customers Affected: 433,2022-03-12T15:20:35Z
+events[1]=[063,03/12/2022 04:47 AM, 03/12/2022 04:47 AM, Waiting for an available crew to perform repairs, , 1196096];,# of Outages: 9,Customers Affected: 433,2022-03-12T15:20:35Z
+events[2]=[066,03/11/2022 06:15 PM, 03/11/2022 06:15 PM, A crew is currently working on the problem, 03/12/2022 12:00 PM, 1195998];,# of Outages: 9,Customers Affected: 433,2022-03-12T15:20:35Z
+events[3]=[085,03/11/2022 08:15 PM, 03/11/2022 08:15 PM, A crew is currently working on the problem, , 1196046];,# of Outages: 9,Customers Affected: 433,2022-03-12T15:20:35Z
+events[4]=[088,03/12/2022 09:14 AM, 03/12/2022 09:14 AM, Waiting to be analyzed, , 1196168];,# of Outages: 9,Customers Affected: 433,2022-03-12T15:20:35Z
+events[5]=[101,03/12/2022 09:13 AM, 03/12/2022 09:13 AM, Waiting to be analyzed, , 1196166];,# of Outages: 9,Customers Affected: 433,2022-03-12T15:20:35Z
+events[6]=[102,03/12/2022 09:02 AM, 03/12/2022 09:02 AM, A crew is currently working on the problem, , 1196162];,# of Outages: 9,Customers Affected: 433,2022-03-12T15:20:35Z
+events[7]=[113,03/12/2022 08:16 AM, 03/12/2022 08:16 AM, Customer Svc is working this single customer outage, , 1196155];,# of Outages: 9,Customers Affected: 433,2022-03-12T15:20:35Z
+events[8]=[114,03/11/2022 04:09 PM, 03/11/2022 04:09 PM, A crew is currently working on the problem, 03/12/2022 10:00 AM, 1195928];,# of Outages: 9,Customers Affected: 433,2022-03-12T15:20:35Z
