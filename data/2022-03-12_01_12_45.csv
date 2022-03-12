@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,03/11/2022 01:36 PM, 03/11/2022 01:36 PM, A crew is currently working on the problem, , 1195913];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[1]=[061,03/11/2022 06:23 PM, 03/11/2022 06:23 PM, Waiting for an available crew to perform repairs, , 1195999];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[2]=[066,03/11/2022 06:16 PM, 03/11/2022 06:16 PM, Waiting for an available crew to perform repairs, , 1195998];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[3]=[071,03/11/2022 03:17 PM, 03/11/2022 03:17 PM, A crew is currently working on the problem, 03/11/2022 09:00 PM, 1195921];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[4]=[073,03/11/2022 04:11 PM, 03/11/2022 04:11 PM, Tree Trimming is clearing debris from the area, , 1195929];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[5]=[074,03/11/2022 06:09 PM, 03/11/2022 06:09 PM, Customer Svc is working this single customer outage, , 1195997];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[6]=[087,03/11/2022 05:53 PM, 03/11/2022 05:53 PM, Trouble Shooter is determining repairs required, , 1195992];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[7]=[088,03/11/2022 06:06 PM, 03/11/2022 06:06 PM, Trouble Shooter is determining repairs required, , 1195995];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[8]=[097,03/11/2022 05:11 PM, 03/11/2022 05:11 PM, Trouble Shooter is working on the problem, 03/11/2022 08:00 PM, 1195945];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[9]=[098,03/11/2022 04:47 PM, 03/11/2022 04:47 PM, Customer Svc is working this single customer outage, , 1195934];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[10]=[098,03/11/2022 05:11 PM, 03/11/2022 05:11 PM, Trouble Shooter is working on the problem, 03/11/2022 08:00 PM, 1195945];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[11]=[114,03/11/2022 04:09 PM, 03/11/2022 04:09 PM, Waiting for an available crew to perform repairs, , 1195928];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[12]=[119,03/11/2022 05:20 PM, 03/11/2022 05:20 PM, Waiting for an available crew to perform repairs, 03/11/2022 08:00 PM, 1195965];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[13]=[119,03/11/2022 06:45 PM, 03/11/2022 06:45 PM, The extent of the outage has been determined, , 1196001];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
+events[14]=[120,03/11/2022 05:20 PM, 03/11/2022 05:20 PM, Waiting for an available crew to perform repairs, 03/11/2022 08:00 PM, 1195965];,# of Outages: 13,Customers Affected: 4364,2022-03-12T01:12:45Z
