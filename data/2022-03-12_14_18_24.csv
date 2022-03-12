@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[063,03/12/2022 04:47 AM, 03/12/2022 04:47 AM, Trouble Shooter is determining repairs required, , 1196096];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[1]=[066,03/11/2022 06:15 PM, 03/11/2022 06:15 PM, A crew is currently working on the problem, 03/12/2022 12:00 PM, 1195998];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[2]=[071,03/12/2022 07:17 AM, 03/12/2022 07:17 AM, Trouble Shooter is determining repairs required, , 1196150];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[3]=[084,03/11/2022 08:19 PM, 03/11/2022 08:19 PM, A crew is currently working on the problem, , 1196047];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[4]=[085,03/11/2022 08:15 PM, 03/11/2022 08:15 PM, Waiting for an available crew to perform repairs, , 1196046];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[5]=[088,03/12/2022 07:54 AM, 03/12/2022 07:54 AM, Customer Svc is working this single customer outage, , 1196152];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[6]=[088,03/12/2022 08:02 AM, 03/12/2022 08:02 AM, The extent of the outage has been determined, , 1196153];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[7]=[097,03/12/2022 05:48 AM, 03/12/2022 05:48 AM, A crew is currently working on the problem, 03/12/2022 09:30 AM, 1196143];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[8]=[097,03/12/2022 06:15 AM, 03/12/2022 06:15 AM, A crew is currently working on the problem, 03/12/2022 09:30 AM, 1196144];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[9]=[097,03/12/2022 06:22 AM, 03/12/2022 06:22 AM, A crew is currently working on the problem, 03/12/2022 09:30 AM, 1196145];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[10]=[097,03/12/2022 06:39 AM, 03/12/2022 06:39 AM, A crew is currently working on the problem, 03/12/2022 09:30 AM, 1196148];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[11]=[097,03/12/2022 06:50 AM, 03/12/2022 06:50 AM, A crew is currently working on the problem, 03/12/2022 09:30 AM, 1196149];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
+events[12]=[114,03/11/2022 04:09 PM, 03/11/2022 04:09 PM, A crew is currently working on the problem, 03/12/2022 07:00 AM, 1195928];,# of Outages: 13,Customers Affected: 458,2022-03-12T14:18:24Z
