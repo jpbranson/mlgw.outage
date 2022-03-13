@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[027,03/13/2022 11:14 AM, 03/13/2022 11:14 AM, Waiting for an available crew to perform repairs, , 1196236];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[1]=[041,03/13/2022 01:30 PM, 03/13/2022 01:30 PM, Trouble Shooter is determining repairs required, , 1196268];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[2]=[083,03/13/2022 01:49 PM, 03/13/2022 01:49 PM, Trouble Shooter is determining repairs required, , 1196272];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[3]=[083,03/13/2022 02:02 PM, 03/13/2022 02:02 PM, Trouble Shooter is determining repairs required, , 1196276];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[4]=[084,03/13/2022 01:49 PM, 03/13/2022 01:49 PM, Trouble Shooter is determining repairs required, , 1196272];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[5]=[084,03/13/2022 02:02 PM, 03/13/2022 02:02 PM, Trouble Shooter is determining repairs required, , 1196276];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[6]=[085,03/13/2022 02:12 PM, 03/13/2022 02:12 PM, A crew is currently working on the problem, 03/13/2022 05:30 PM, 1196281];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[7]=[086,03/13/2022 02:12 PM, 03/13/2022 02:12 PM, A crew is currently working on the problem, 03/13/2022 05:30 PM, 1196281];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[8]=[086,03/13/2022 08:36 AM, 03/13/2022 08:36 AM, A crew is currently working on the problem, 03/13/2022 05:30 PM, 1196224];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[9]=[112,03/13/2022 02:41 PM, 03/13/2022 02:41 PM, The extent of the outage has been determined, , 1196289];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
+events[10]=[113,03/13/2022 02:45 PM, 03/13/2022 02:45 PM, Waiting to be analyzed, , 1196291];,# of Outages: 8,Customers Affected: 641,2022-03-13T19:53:39Z
