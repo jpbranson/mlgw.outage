@@ -1,0 +1,52 @@
+---
+title: "outage_viz"
+output: html_document
+date: '2022-03-14'
+---
+
+
+```{r}
+library(tidyverse)
+library(lubridate)
+
+knitr::opts_knit$set(root.dir = here::here())
+```
+
+```{r}
+
+load(here::here("cron_outage.rda"))
+
+tictoc::tic()
+outages <- list.files(here::here("data"), pattern = ".csv", full.names = T) %>%
+  map_dfr(read_csv, col_types = "ccccccccc") %>%
+  bind_rows(cron_outage)
+tictoc::toc()
+```
+
+```{r}
+outages
+
+
+outages %>%
+  mutate(outage_num_calc = as.numeric(str_replace(outage_num, "# of Outages: ", "")),
+         cust_aff_calc = as.numeric(str_replace(cust_affected, "Customers Affected: ", "")),
+         timestamp = lubridate::ymd_hms(time) %>% with_tz(tzone = "US/Central"))  %>%
+  distinct(outage_num_calc, cust_aff_calc, timestamp) %>%
+  pivot_longer(cols = c("outage_num_calc", "cust_aff_calc")) %>%
+  ggplot(aes(x = timestamp)) +
+  geom_line(aes(y = value)) +
+  facet_wrap(~name, scales = "free_y")
+
+
+outages %>%
+  mutate(outage_num_calc = as.numeric(str_replace(outage_num, "# of Outages: ", "")),
+         cust_aff_calc = as.numeric(str_replace(cust_affected, "Customers Affected: ", "")),
+         timestamp = lubridate::ymd_hms(time) %>% with_tz(tzone = "US/Central")) %>%
+  distinct(outage_num_calc, cust_aff_calc, timestamp) %>%
+  filter(timestamp > (Sys.time() - days(10))) %>%
+  pivot_longer(cols = c("outage_num_calc", "cust_aff_calc")) %>%
+  ggplot(aes(x = timestamp)) +
+  geom_line(aes(y = value)) +
+  # scale_x_datetime(limits = c(Sys.time() - days(2), Sys.time())) +
+  facet_grid(rows = vars(name), scales = "free_y")
+```
