@@ -1,0 +1,6 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[086,03/14/2022 08:45 AM, 03/14/2022 08:45 AM, The extent of the outage has been determined, , 1196317];,# of Outages: 5,Customers Affected: 16,2022-03-14T13:58:01Z
+events[1]=[098,03/14/2022 08:23 AM, 03/14/2022 08:23 AM, Trouble Shooter is determining repairs required, , 1196314];,# of Outages: 5,Customers Affected: 16,2022-03-14T13:58:01Z
+events[2]=[099,03/14/2022 08:49 AM, 03/14/2022 08:49 AM, Waiting to be analyzed, , 1196318];,# of Outages: 5,Customers Affected: 16,2022-03-14T13:58:01Z
+events[3]=[118,03/14/2022 08:19 AM, 03/14/2022 08:19 AM, Trouble Shooter is determining repairs required, , 1196313];,# of Outages: 5,Customers Affected: 16,2022-03-14T13:58:01Z
+events[4]=[118,03/14/2022 08:34 AM, 03/14/2022 08:34 AM, Waiting to be analyzed, , 1196315];,# of Outages: 5,Customers Affected: 16,2022-03-14T13:58:01Z
