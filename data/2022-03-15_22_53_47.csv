@@ -1,0 +1,17 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[028,03/15/2022 04:20 PM, 03/15/2022 04:20 PM, Trouble Shooter is determining repairs required, , 1196458];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[1]=[028,03/15/2022 04:21 PM, 03/15/2022 04:21 PM, Trouble Shooter is determining repairs required, , 1196459];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[2]=[029,03/15/2022 04:20 PM, 03/15/2022 04:20 PM, Trouble Shooter is determining repairs required, , 1196458];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[3]=[040,03/15/2022 04:20 PM, 03/15/2022 04:20 PM, Trouble Shooter is determining repairs required, , 1196458];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[4]=[040,03/15/2022 04:21 PM, 03/15/2022 04:21 PM, Trouble Shooter is determining repairs required, , 1196459];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[5]=[051,03/15/2022 05:13 PM, 03/15/2022 05:13 PM, Trouble Shooter is determining repairs required, , 1196465];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[6]=[053,03/15/2022 05:41 PM, 03/15/2022 05:41 PM, Trouble Shooter is working on the problem, 03/15/2022 09:30 PM, 1196501];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[7]=[054,03/15/2022 05:41 PM, 03/15/2022 05:41 PM, Trouble Shooter is working on the problem, 03/15/2022 09:30 PM, 1196501];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[8]=[064,03/15/2022 05:41 PM, 03/15/2022 05:41 PM, Trouble Shooter is working on the problem, 03/15/2022 09:30 PM, 1196501];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[9]=[064,03/15/2022 05:47 PM, 03/15/2022 05:47 PM, Waiting to be analyzed, , 1196523];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[10]=[065,03/15/2022 05:41 PM, 03/15/2022 05:41 PM, Trouble Shooter is working on the problem, 03/15/2022 09:30 PM, 1196501];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[11]=[077,03/15/2022 03:21 PM, 03/15/2022 03:21 PM, A crew is currently working on the problem, 03/15/2022 07:30 PM, 1196445];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[12]=[087,03/15/2022 05:46 PM, 03/15/2022 05:46 PM, Waiting to be analyzed, , 1196522];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[13]=[088,03/15/2022 05:43 PM, 03/15/2022 05:43 PM, Waiting to be analyzed, , 1196521];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[14]=[101,03/15/2022 05:37 PM, 03/15/2022 05:37 PM, The extent of the outage has been determined, , 1196466];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
+events[15]=[137,03/15/2022 04:31 PM, 03/15/2022 04:31 PM, Trouble Shooter is determining repairs required, , 1196463];,# of Outages: 10,Customers Affected: 2434,2022-03-15T22:53:47Z
