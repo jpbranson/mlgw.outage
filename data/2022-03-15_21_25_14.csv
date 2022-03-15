@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[028,03/15/2022 03:51 PM, 03/15/2022 03:51 PM, Trouble Shooter is determining repairs required, , 1196449];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[1]=[028,03/15/2022 03:51 PM, 03/15/2022 03:51 PM, Trouble Shooter is determining repairs required, , 1196452];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[2]=[028,03/15/2022 04:20 PM, 03/15/2022 04:20 PM, Waiting to be analyzed, , 1196458];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[3]=[029,03/15/2022 04:20 PM, 03/15/2022 04:20 PM, Waiting to be analyzed, , 1196458];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[4]=[040,03/15/2022 04:20 PM, 03/15/2022 04:20 PM, Waiting to be analyzed, , 1196458];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[5]=[063,03/15/2022 02:59 PM, 03/15/2022 02:59 PM, Trouble Shooter is determining repairs required, , 1196444];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[6]=[072,03/15/2022 08:11 AM, 03/15/2022 08:11 AM, A crew is currently working on the problem, 03/15/2022 05:30 PM, 1196404];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[7]=[074,03/15/2022 11:24 AM, 03/15/2022 11:24 AM, A crew is currently working on the problem, 03/15/2022 05:00 PM, 1196422];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[8]=[074,03/15/2022 11:53 AM, 03/15/2022 11:53 AM, A crew is currently working on the problem, 03/15/2022 05:00 PM, 1196426];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[9]=[077,03/15/2022 03:21 PM, 03/15/2022 03:21 PM, A crew is currently working on the problem, 03/15/2022 07:30 PM, 1196445];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[10]=[101,03/15/2022 03:54 PM, 03/15/2022 03:54 PM, A crew is currently working on the problem, 03/15/2022 06:30 PM, 1196453];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
+events[11]=[103,03/15/2022 02:44 PM, 03/15/2022 02:44 PM, A crew is currently working on the problem, 03/15/2022 04:30 PM, 1196442];,# of Outages: 10,Customers Affected: 173,2022-03-15T21:25:14Z
