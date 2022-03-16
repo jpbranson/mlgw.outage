@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[028,03/15/2022 11:57 PM, 03/15/2022 11:57 PM, Trouble Shooter is determining repairs required, , 1196579];,# of Outages: 5,Customers Affected: 2217,2022-03-16T06:56:43Z
+events[1]=[051,03/16/2022 01:29 AM, 03/16/2022 01:29 AM, Customer Svc is working this single customer outage, , 1196619];,# of Outages: 5,Customers Affected: 2217,2022-03-16T06:56:43Z
+events[2]=[066,03/16/2022 01:33 AM, 03/16/2022 01:33 AM, Customer Svc is working this single customer outage, , 1196620];,# of Outages: 5,Customers Affected: 2217,2022-03-16T06:56:43Z
+events[3]=[076,03/16/2022 01:05 AM, 03/16/2022 01:05 AM, Trouble Shooter is working on the problem, 03/16/2022 04:30 AM, 1196608];,# of Outages: 5,Customers Affected: 2217,2022-03-16T06:56:43Z
+events[4]=[076,03/16/2022 01:23 AM, 03/16/2022 01:23 AM, Trouble Shooter is working on the problem, 03/16/2022 04:30 AM, 1196618];,# of Outages: 5,Customers Affected: 2217,2022-03-16T06:56:43Z
+events[5]=[077,03/16/2022 01:05 AM, 03/16/2022 01:05 AM, Trouble Shooter is working on the problem, 03/16/2022 04:30 AM, 1196608];,# of Outages: 5,Customers Affected: 2217,2022-03-16T06:56:43Z
+events[6]=[077,03/16/2022 01:23 AM, 03/16/2022 01:23 AM, Trouble Shooter is working on the problem, 03/16/2022 04:30 AM, 1196618];,# of Outages: 5,Customers Affected: 2217,2022-03-16T06:56:43Z
