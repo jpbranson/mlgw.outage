@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[019,03/17/2022 07:05 AM, 03/17/2022 07:05 AM, A crew is currently working on the problem, 03/17/2022 02:00 PM, 1196746];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[1]=[050,03/17/2022 10:35 AM, 03/17/2022 10:35 AM, Customer Svc is working this single customer outage, , 1196778];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[2]=[053,03/17/2022 09:53 AM, 03/17/2022 09:53 AM, Customer Svc is working this single customer outage, , 1196772];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[3]=[063,03/17/2022 10:35 AM, 03/17/2022 10:35 AM, Customer Svc is working this single customer outage, , 1196779];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[4]=[073,03/17/2022 09:57 AM, 03/17/2022 09:57 AM, A crew is currently working on the problem, 03/17/2022 12:30 PM, 1196773];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[5]=[074,03/17/2022 10:45 AM, 03/17/2022 10:45 AM, A crew is currently working on the problem, 03/17/2022 01:30 PM, 1196781];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[6]=[083,03/17/2022 09:18 AM, 03/17/2022 09:18 AM, A crew is currently working on the problem, 03/17/2022 02:30 PM, 1196764];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[7]=[083,03/17/2022 09:18 AM, 03/17/2022 09:18 AM, A crew is currently working on the problem, 03/17/2022 02:30 PM, 1196765];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[8]=[113,03/17/2022 02:36 AM, 03/17/2022 02:36 AM, A crew is currently working on the problem, 03/17/2022 12:30 PM, 1196740];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[9]=[113,03/17/2022 10:00 AM, 03/17/2022 10:00 AM, A crew is currently working on the problem, 03/17/2022 12:30 PM, 1196774];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
+events[10]=[134,03/17/2022 10:40 AM, 03/17/2022 10:40 AM, Trouble Shooter is working on the problem, 03/17/2022 01:00 PM, 1196780];,# of Outages: 11,Customers Affected: 59,2022-03-17T16:03:04Z
