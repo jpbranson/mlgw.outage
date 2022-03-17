@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[019,03/17/2022 07:05 AM, 03/17/2022 07:05 AM, A crew is currently working on the problem, 03/17/2022 02:00 PM, 1196746];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[1]=[053,03/17/2022 09:27 AM, 03/17/2022 09:27 AM, Trouble Shooter is determining repairs required, , 1196769];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[2]=[053,03/17/2022 09:53 AM, 03/17/2022 09:53 AM, Customer Svc is working this single customer outage, , 1196772];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[3]=[060,03/17/2022 10:16 AM, 03/17/2022 10:16 AM, A crew is currently working on the problem, 03/17/2022 01:00 PM, 1196776];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[4]=[063,03/17/2022 08:21 AM, 03/17/2022 08:21 AM, A crew is currently working on the problem, 03/17/2022 11:00 AM, 1196757];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[5]=[063,03/17/2022 09:10 AM, 03/17/2022 09:10 AM, A crew is currently working on the problem, 03/17/2022 11:00 AM, 1196761];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[6]=[064,03/17/2022 09:27 AM, 03/17/2022 09:27 AM, Trouble Shooter is determining repairs required, , 1196769];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[7]=[064,03/17/2022 09:34 AM, 03/17/2022 09:34 AM, Trouble Shooter is determining repairs required, , 1196770];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[8]=[073,03/17/2022 09:57 AM, 03/17/2022 09:57 AM, A crew is currently working on the problem, 03/17/2022 12:30 PM, 1196773];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[9]=[083,03/17/2022 09:18 AM, 03/17/2022 09:18 AM, A crew is currently working on the problem, 03/17/2022 02:30 PM, 1196764];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[10]=[083,03/17/2022 09:18 AM, 03/17/2022 09:18 AM, A crew is currently working on the problem, 03/17/2022 02:30 PM, 1196765];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[11]=[085,03/17/2022 10:14 AM, 03/17/2022 10:14 AM, The extent of the outage has been determined, , 1196775];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[12]=[085,03/17/2022 10:17 AM, 03/17/2022 10:17 AM, A crew is currently working on the problem, 03/17/2022 01:00 PM, 1196777];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[13]=[113,03/17/2022 02:36 AM, 03/17/2022 02:36 AM, A crew is currently working on the problem, 03/17/2022 12:30 PM, 1196740];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
+events[14]=[113,03/17/2022 10:00 AM, 03/17/2022 10:00 AM, A crew is currently working on the problem, 03/17/2022 12:30 PM, 1196774];,# of Outages: 14,Customers Affected: 101,2022-03-17T15:29:03Z
