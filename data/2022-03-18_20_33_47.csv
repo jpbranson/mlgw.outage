@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,03/18/2022 03:15 PM, 03/18/2022 03:15 PM, The extent of the outage has been determined, , 1196945];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[1]=[040,03/18/2022 03:16 PM, 03/18/2022 03:16 PM, The extent of the outage has been determined, , 1196946];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[2]=[055,03/18/2022 02:39 PM, 03/18/2022 02:39 PM, Trouble Shooter is determining repairs required, , 1196941];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[3]=[060,03/18/2022 03:18 PM, 03/18/2022 03:18 PM, Trouble Shooter is working on the problem, 03/18/2022 07:00 PM, 1196950];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[4]=[061,03/18/2022 03:18 PM, 03/18/2022 03:18 PM, Trouble Shooter is working on the problem, 03/18/2022 07:00 PM, 1196950];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[5]=[063,03/18/2022 03:23 PM, 03/18/2022 03:23 PM, Waiting to be analyzed, , 1196952];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[6]=[071,03/18/2022 03:19 PM, 03/18/2022 03:19 PM, The extent of the outage has been determined, , 1196951];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[7]=[072,03/18/2022 02:19 PM, 03/18/2022 02:19 PM, Trouble Shooter is determining repairs required, , 1196939];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[8]=[073,03/18/2022 03:05 PM, 03/18/2022 03:05 PM, Customer Svc is working this single customer outage, , 1196944];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[9]=[084,03/18/2022 03:17 PM, 03/18/2022 03:17 PM, The extent of the outage has been determined, , 1196947];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[10]=[085,03/18/2022 03:17 PM, 03/18/2022 03:17 PM, The extent of the outage has been determined, , 1196948];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[11]=[086,03/18/2022 02:55 PM, 03/18/2022 02:55 PM, Customer Svc is working this single customer outage, , 1196943];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[12]=[098,03/18/2022 01:32 PM, 03/18/2022 01:32 PM, Trouble Shooter is determining repairs required, , 1196934];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[13]=[100,03/18/2022 01:59 PM, 03/18/2022 01:59 PM, Trouble Shooter is determining repairs required, , 1196938];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
+events[14]=[114,03/18/2022 02:44 PM, 03/18/2022 02:44 PM, Customer Svc is working this single customer outage, , 1196942];,# of Outages: 14,Customers Affected: 401,2022-03-18T20:33:47Z
