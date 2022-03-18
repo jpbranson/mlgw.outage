@@ -1,0 +1,4 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[028,03/18/2022 02:33 AM, 03/18/2022 02:33 AM, Waiting to be analyzed, , 1196841];,# of Outages: 3,Customers Affected: 11,2022-03-18T07:38:50Z
+events[1]=[028,03/18/2022 02:34 AM, 03/18/2022 02:34 AM, Waiting to be analyzed, , 1196842];,# of Outages: 3,Customers Affected: 11,2022-03-18T07:38:50Z
+events[2]=[050,03/18/2022 02:34 AM, 03/18/2022 02:34 AM, The extent of the outage has been determined, , 1196843];,# of Outages: 3,Customers Affected: 11,2022-03-18T07:38:50Z
