@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[018,03/18/2022 03:26 PM, 03/18/2022 03:26 PM, Waiting for an available crew to perform repairs, , 1196954];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[1]=[019,03/18/2022 03:26 PM, 03/18/2022 03:26 PM, Waiting for an available crew to perform repairs, , 1196954];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[2]=[040,03/18/2022 09:00 PM, 03/18/2022 09:00 PM, Waiting for an available crew to perform repairs, , 1197061];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[3]=[060,03/18/2022 11:57 PM, 03/18/2022 11:57 PM, A crew is currently working on the problem, 03/19/2022 03:30 AM, 1197081];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[4]=[060,03/18/2022 11:58 PM, 03/18/2022 11:58 PM, A crew is currently working on the problem, 03/19/2022 03:30 AM, 1197080];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[5]=[070,03/18/2022 10:20 PM, 03/18/2022 10:20 PM, Trouble Shooter is determining repairs required, , 1197072];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[6]=[071,03/18/2022 11:57 PM, 03/18/2022 11:57 PM, A crew is currently working on the problem, 03/19/2022 03:30 AM, 1197081];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[7]=[074,03/18/2022 04:31 PM, 03/18/2022 04:31 PM, Waiting for an available crew to perform repairs, , 1197014];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[8]=[084,03/18/2022 03:17 PM, 03/18/2022 03:17 PM, Waiting for an available crew to perform repairs, , 1196947];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[9]=[085,03/18/2022 05:06 PM, 03/18/2022 05:06 PM, Waiting for an available crew to perform repairs, , 1197016];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[10]=[086,03/18/2022 02:55 PM, 03/18/2022 02:55 PM, Waiting for an available crew to perform repairs, , 1196943];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[11]=[087,03/18/2022 11:23 PM, 03/18/2022 11:23 PM, Trouble Shooter is determining repairs required, , 1197078];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
+events[12]=[115,03/18/2022 08:57 PM, 03/18/2022 08:57 PM, Tree Trimming is clearing debris from the area, , 1197060];,# of Outages: 11,Customers Affected: 910,2022-03-19T05:53:57Z
