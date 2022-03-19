@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[019,03/19/2022 06:51 AM, 03/19/2022 06:51 AM, Trouble Shooter is determining repairs required, , 1197093];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[1]=[054,03/19/2022 08:13 AM, 03/19/2022 08:13 AM, The extent of the outage has been determined, , 1197097];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[2]=[070,03/19/2022 06:51 AM, 03/19/2022 06:51 AM, Customer Svc is working this single customer outage, , 1197094];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[3]=[071,03/19/2022 08:06 AM, 03/19/2022 08:06 AM, Trouble Shooter is determining repairs required, , 1197096];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[4]=[074,03/18/2022 04:30 PM, 03/18/2022 04:30 PM, Waiting for an available crew to perform repairs, , 1197014];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[5]=[076,03/19/2022 07:23 AM, 03/19/2022 07:23 AM, Customer Svc is working this single customer outage, , 1197095];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[6]=[084,03/18/2022 03:15 PM, 03/18/2022 03:15 PM, Waiting for an available crew to perform repairs, , 1196947];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[7]=[085,03/18/2022 05:05 PM, 03/18/2022 05:05 PM, A crew is currently working on the problem, 03/19/2022 09:30 AM, 1197016];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[8]=[086,03/18/2022 02:54 PM, 03/18/2022 02:54 PM, Waiting for an available crew to perform repairs, , 1196943];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[9]=[098,03/19/2022 06:51 AM, 03/19/2022 06:51 AM, Customer Svc is working this single customer outage, , 1197092];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
+events[10]=[115,03/19/2022 06:40 AM, 03/19/2022 06:40 AM, Customer Svc is working this single customer outage, , 1197091];,# of Outages: 11,Customers Affected: 32,2022-03-19T13:23:39Z
