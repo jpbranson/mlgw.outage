@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[033,03/22/2022 12:11 PM, 03/22/2022 12:11 PM, Trouble Shooter is determining repairs required, , 1197370];,# of Outages: 7,Customers Affected: 95,2022-03-22T18:31:02Z
+events[1]=[066,03/22/2022 01:20 PM, 03/22/2022 01:20 PM, The extent of the outage has been determined, , 1197379];,# of Outages: 7,Customers Affected: 95,2022-03-22T18:31:02Z
+events[2]=[070,03/22/2022 12:55 PM, 03/22/2022 12:55 PM, Customer Svc is working this single customer outage, , 1197372];,# of Outages: 7,Customers Affected: 95,2022-03-22T18:31:02Z
+events[3]=[073,03/22/2022 01:10 PM, 03/22/2022 01:10 PM, A crew is currently working on the problem, 03/22/2022 03:00 PM, 1197374];,# of Outages: 7,Customers Affected: 95,2022-03-22T18:31:02Z
+events[4]=[097,03/22/2022 01:14 PM, 03/22/2022 01:14 PM, Trouble Shooter is determining repairs required, , 1197378];,# of Outages: 7,Customers Affected: 95,2022-03-22T18:31:02Z
+events[5]=[101,03/22/2022 11:31 AM, 03/22/2022 11:31 AM, Trouble Shooter is determining repairs required, , 1197368];,# of Outages: 7,Customers Affected: 95,2022-03-22T18:31:02Z
+events[6]=[106,03/22/2022 01:06 PM, 03/22/2022 01:06 PM, Trouble Shooter is determining repairs required, , 1197373];,# of Outages: 7,Customers Affected: 95,2022-03-22T18:31:02Z
