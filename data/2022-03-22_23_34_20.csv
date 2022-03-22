@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[060,03/22/2022 02:40 PM, 03/22/2022 02:40 PM, A crew is currently working on the problem, 03/22/2022 09:00 PM, 1197405];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[1]=[061,03/22/2022 03:56 PM, 03/22/2022 03:56 PM, Waiting for an available crew to perform repairs, , 1197456];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[2]=[063,03/22/2022 05:02 PM, 03/22/2022 05:02 PM, Customer Svc is working this single customer outage, , 1197468];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[3]=[073,03/22/2022 01:30 PM, 03/22/2022 01:30 PM, Waiting for an available crew to perform repairs, , 1197386];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[4]=[073,03/22/2022 03:51 PM, 03/22/2022 03:51 PM, Waiting for an available crew to perform repairs, , 1197452];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[5]=[074,03/22/2022 03:51 PM, 03/22/2022 03:51 PM, Waiting for an available crew to perform repairs, , 1197452];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[6]=[090,03/22/2022 06:02 PM, 03/22/2022 06:02 PM, Customer Svc is working this single customer outage, , 1197476];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[7]=[097,03/22/2022 01:14 PM, 03/22/2022 01:14 PM, Trouble Shooter is determining repairs required, , 1197378];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[8]=[098,03/22/2022 05:04 PM, 03/22/2022 05:04 PM, Trouble Shooter is determining repairs required, , 1197469];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[9]=[101,03/22/2022 11:31 AM, 03/22/2022 11:31 AM, Tree Trimming is clearing debris from the area, , 1197368];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[10]=[102,03/22/2022 06:04 PM, 03/22/2022 06:04 PM, Customer Svc is working this single customer outage, , 1197477];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[11]=[106,03/22/2022 03:13 PM, 03/22/2022 03:13 PM, A crew is currently working on the problem, 03/22/2022 08:30 PM, 1197421];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[12]=[114,03/22/2022 03:26 PM, 03/22/2022 03:26 PM, Waiting for an available crew to perform repairs, 03/22/2022 07:00 PM, 1197442];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[13]=[115,03/22/2022 03:26 PM, 03/22/2022 03:26 PM, Waiting for an available crew to perform repairs, 03/22/2022 07:00 PM, 1197442];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
+events[14]=[130,03/22/2022 03:26 PM, 03/22/2022 03:26 PM, Waiting for an available crew to perform repairs, 03/22/2022 07:00 PM, 1197442];,# of Outages: 12,Customers Affected: 587,2022-03-22T23:34:20Z
