@@ -1,0 +1,24 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,03/22/2022 04:24 PM, 03/22/2022 04:24 PM, Waiting to be analyzed, , 1197460];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[1]=[060,03/22/2022 02:40 PM, 03/22/2022 02:40 PM, Waiting for an available crew to perform repairs, 03/22/2022 06:00 PM, 1197405];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[2]=[061,03/22/2022 03:56 PM, 03/22/2022 03:56 PM, Trouble Shooter is determining repairs required, , 1197456];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[3]=[070,03/22/2022 02:40 PM, 03/22/2022 02:40 PM, Waiting for an available crew to perform repairs, 03/22/2022 06:00 PM, 1197405];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[4]=[071,03/22/2022 02:40 PM, 03/22/2022 02:40 PM, Waiting for an available crew to perform repairs, 03/22/2022 06:00 PM, 1197405];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[5]=[071,03/22/2022 03:38 PM, 03/22/2022 03:38 PM, Customer Svc is working this single customer outage, , 1197448];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[6]=[071,03/22/2022 03:42 PM, 03/22/2022 03:42 PM, Customer Svc is working this single customer outage, , 1197449];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[7]=[073,03/22/2022 01:30 PM, 03/22/2022 01:30 PM, Waiting for an available crew to perform repairs, , 1197386];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[8]=[073,03/22/2022 03:51 PM, 03/22/2022 03:51 PM, Trouble Shooter is determining repairs required, , 1197452];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[9]=[074,03/22/2022 03:51 PM, 03/22/2022 03:51 PM, Trouble Shooter is determining repairs required, , 1197452];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[10]=[086,03/22/2022 04:23 PM, 03/22/2022 04:23 PM, Waiting to be analyzed, , 1197459];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[11]=[089,03/22/2022 04:20 PM, 03/22/2022 04:20 PM, A crew is currently working on the problem, 03/22/2022 07:30 PM, 1197458];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[12]=[097,03/22/2022 01:14 PM, 03/22/2022 01:14 PM, Trouble Shooter is determining repairs required, , 1197378];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[13]=[101,03/22/2022 11:31 AM, 03/22/2022 11:31 AM, Tree Trimming is clearing debris from the area, , 1197368];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[14]=[104,03/22/2022 03:59 PM, 03/22/2022 03:59 PM, Customer Svc is working this single customer outage, , 1197457];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[15]=[106,03/22/2022 03:13 PM, 03/22/2022 03:13 PM, A crew is currently working on the problem, 03/22/2022 08:30 PM, 1197421];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[16]=[114,03/22/2022 03:26 PM, 03/22/2022 03:26 PM, Trouble Shooter is working on the problem, 03/22/2022 07:00 PM, 1197442];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[17]=[114,03/22/2022 03:28 PM, 03/22/2022 03:28 PM, Waiting for an available crew to perform repairs, , 1197446];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[18]=[114,03/22/2022 03:45 PM, 03/22/2022 03:45 PM, Waiting for an available crew to perform repairs, , 1197450];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[19]=[115,03/22/2022 03:26 PM, 03/22/2022 03:26 PM, Trouble Shooter is working on the problem, 03/22/2022 07:00 PM, 1197442];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[20]=[119,03/22/2022 03:01 PM, 03/22/2022 03:01 PM, Customer Svc is working this single customer outage, , 1197419];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[21]=[119,03/22/2022 03:04 PM, 03/22/2022 03:04 PM, Customer Svc is working this single customer outage, , 1197420];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
+events[22]=[130,03/22/2022 03:26 PM, 03/22/2022 03:26 PM, Trouble Shooter is working on the problem, 03/22/2022 07:00 PM, 1197442];,# of Outages: 18,Customers Affected: 4223,2022-03-22T21:32:26Z
