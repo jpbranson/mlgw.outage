@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,03/23/2022 12:50 PM, 03/23/2022 12:50 PM, A crew is currently working on the problem, 03/23/2022 02:30 PM, 1197551];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[1]=[052,03/23/2022 01:23 PM, 03/23/2022 01:23 PM, Trouble Shooter is determining repairs required, , 1197553];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[2]=[063,03/23/2022 01:23 PM, 03/23/2022 01:23 PM, Trouble Shooter is determining repairs required, , 1197553];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[3]=[066,03/23/2022 02:03 PM, 03/23/2022 02:03 PM, The extent of the outage has been determined, , 1197556];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[4]=[072,03/23/2022 10:48 AM, 03/23/2022 10:48 AM, A crew is currently working on the problem, 03/23/2022 03:30 PM, 1197543];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[5]=[077,03/23/2022 01:49 PM, 03/23/2022 01:49 PM, Customer Svc is working this single customer outage, , 1197555];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[6]=[083,03/23/2022 10:55 AM, 03/23/2022 10:55 AM, A crew is currently working on the problem, 03/23/2022 03:30 PM, 1197545];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[7]=[086,03/23/2022 01:22 PM, 03/23/2022 01:22 PM, Customer Svc is working this single customer outage, , 1197552];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[8]=[086,03/23/2022 02:13 PM, 03/23/2022 02:13 PM, Waiting to be analyzed, , 1197557];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[9]=[097,03/23/2022 01:37 PM, 03/23/2022 01:37 PM, A crew is currently working on the problem, 03/23/2022 08:30 PM, 1197554];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
+events[10]=[114,03/23/2022 10:50 AM, 03/23/2022 10:50 AM, Tree Trimming is clearing debris from the area, 03/23/2022 05:00 PM, 1197544];,# of Outages: 10,Customers Affected: 94,2022-03-23T19:26:49Z
