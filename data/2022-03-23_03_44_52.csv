@@ -1,0 +1,11 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[060,03/22/2022 10:35 PM, 03/22/2022 10:35 PM, Waiting to be analyzed, , 1197486];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
+events[1]=[061,03/22/2022 03:56 PM, 03/22/2022 03:56 PM, Waiting for an available crew to perform repairs, , 1197456];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
+events[2]=[073,03/22/2022 01:30 PM, 03/22/2022 01:30 PM, Waiting for an available crew to perform repairs, , 1197386];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
+events[3]=[073,03/22/2022 03:51 PM, 03/22/2022 03:51 PM, Waiting for an available crew to perform repairs, , 1197452];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
+events[4]=[074,03/22/2022 03:51 PM, 03/22/2022 03:51 PM, Waiting for an available crew to perform repairs, , 1197452];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
+events[5]=[098,03/22/2022 05:04 PM, 03/22/2022 05:04 PM, Tree Trimming is clearing debris from the area, , 1197469];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
+events[6]=[104,03/22/2022 10:20 PM, 03/22/2022 10:20 PM, Waiting to be analyzed, , 1197485];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
+events[7]=[114,03/22/2022 03:26 PM, 03/22/2022 03:26 PM, A crew is currently working on the problem, 03/22/2022 11:50 PM, 1197442];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
+events[8]=[115,03/22/2022 03:26 PM, 03/22/2022 03:26 PM, A crew is currently working on the problem, 03/22/2022 11:50 PM, 1197442];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
+events[9]=[130,03/22/2022 03:26 PM, 03/22/2022 03:26 PM, A crew is currently working on the problem, 03/22/2022 11:50 PM, 1197442];,# of Outages: 7,Customers Affected: 454,2022-03-23T03:44:52Z
