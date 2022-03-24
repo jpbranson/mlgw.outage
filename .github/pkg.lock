@@ -340,7 +340,7 @@
     {
       "ref": "fansi",
       "package": "fansi",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "type": "standard",
       "direct": false,
       "binary": false,
@@ -353,15 +353,14 @@
         "RemoteRef": "fansi",
         "RemoteRepos": "https://cloud.r-project.org",
         "RemotePkgPlatform": "source",
-        "RemoteSha": "1.0.2"
+        "RemoteSha": "1.0.3"
       },
-      "sources": ["https://cloud.r-project.org/src/contrib/fansi_1.0.2.tar.gz", "https://cloud.r-project.org/src/contrib/Archive/fansi_1.0.2.tar.gz"],
-      "target": "src/contrib/fansi_1.0.2.tar.gz",
+      "sources": ["https://cloud.r-project.org/src/contrib/fansi_1.0.3.tar.gz", "https://cloud.r-project.org/src/contrib/Archive/fansi_1.0.3.tar.gz"],
+      "target": "src/contrib/fansi_1.0.3.tar.gz",
       "platform": "source",
       "rversion": "*",
       "directpkg": false,
       "license": "GPL-2 | GPL-3",
-      "sha256": "d1e2cf2e10613abe19071e3dab7c564ebcf85ad13cbee25fa1999267af01b557",
       "filesize": 480902,
       "dep_types": ["Depends", "Imports", "LinkingTo"],
       "params": [],
