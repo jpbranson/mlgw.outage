@@ -1,0 +1,9 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,03/25/2022 02:24 PM, 03/25/2022 02:24 PM, The extent of the outage has been determined, , 1197717];,# of Outages: 8,Customers Affected: 21,2022-03-25T19:39:09Z
+events[1]=[060,03/25/2022 01:56 PM, 03/25/2022 01:56 PM, Customer Svc is working this single customer outage, , 1197714];,# of Outages: 8,Customers Affected: 21,2022-03-25T19:39:09Z
+events[2]=[062,03/25/2022 11:22 AM, 03/25/2022 11:22 AM, A crew is currently working on the problem, 03/25/2022 03:00 PM, 1197702];,# of Outages: 8,Customers Affected: 21,2022-03-25T19:39:09Z
+events[3]=[064,03/25/2022 01:14 PM, 03/25/2022 01:14 PM, Customer Svc is working this single customer outage, , 1197711];,# of Outages: 8,Customers Affected: 21,2022-03-25T19:39:09Z
+events[4]=[073,03/25/2022 01:59 PM, 03/25/2022 01:59 PM, A crew is currently working on the problem, , 1197715];,# of Outages: 8,Customers Affected: 21,2022-03-25T19:39:09Z
+events[5]=[074,03/25/2022 12:58 PM, 03/25/2022 12:58 PM, A crew is currently working on the problem, 03/25/2022 02:30 PM, 1197710];,# of Outages: 8,Customers Affected: 21,2022-03-25T19:39:09Z
+events[6]=[086,03/25/2022 01:56 PM, 03/25/2022 01:56 PM, Customer Svc is working this single customer outage, , 1197713];,# of Outages: 8,Customers Affected: 21,2022-03-25T19:39:09Z
+events[7]=[106,03/25/2022 02:23 PM, 03/25/2022 02:23 PM, A crew is currently working on the problem, 03/25/2022 05:00 PM, 1197716];,# of Outages: 8,Customers Affected: 21,2022-03-25T19:39:09Z
