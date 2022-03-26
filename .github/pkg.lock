@@ -216,7 +216,7 @@
     {
       "ref": "crayon",
       "package": "crayon",
-      "version": "1.5.0",
+      "version": "1.5.1",
       "type": "standard",
       "direct": false,
       "binary": false,
@@ -229,15 +229,14 @@
         "RemoteRef": "crayon",
         "RemoteRepos": "https://cloud.r-project.org",
         "RemotePkgPlatform": "source",
-        "RemoteSha": "1.5.0"
+        "RemoteSha": "1.5.1"
       },
-      "sources": ["https://cloud.r-project.org/src/contrib/crayon_1.5.0.tar.gz", "https://cloud.r-project.org/src/contrib/Archive/crayon_1.5.0.tar.gz"],
-      "target": "src/contrib/crayon_1.5.0.tar.gz",
+      "sources": ["https://cloud.r-project.org/src/contrib/crayon_1.5.1.tar.gz", "https://cloud.r-project.org/src/contrib/Archive/crayon_1.5.1.tar.gz"],
+      "target": "src/contrib/crayon_1.5.1.tar.gz",
       "platform": "source",
       "rversion": "*",
       "directpkg": false,
       "license": "MIT + file LICENSE",
-      "sha256": "44122cafddcd8a35176b2a6bcab10c5f81cd5440d9e29d20091b31a0ef647954",
       "filesize": 40099,
       "dep_types": ["Depends", "Imports", "LinkingTo"],
       "params": [],
