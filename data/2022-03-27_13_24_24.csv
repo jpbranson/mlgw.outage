@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,03/27/2022 08:17 AM, 03/27/2022 08:17 AM, Waiting to be analyzed, , 1197923];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[1]=[049,03/27/2022 06:13 AM, 03/27/2022 06:13 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197900];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[2]=[049,03/27/2022 06:14 AM, 03/27/2022 06:14 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197904];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[3]=[049,03/27/2022 06:20 AM, 03/27/2022 06:20 AM, A crew is currently working on the problem, 03/27/2022 11:00 AM, 1197914];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[4]=[049,03/27/2022 06:26 AM, 03/27/2022 06:26 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197917];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[5]=[049,03/27/2022 06:35 AM, 03/27/2022 06:35 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197918];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[6]=[049,03/27/2022 06:42 AM, 03/27/2022 06:42 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197919];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[7]=[049,03/27/2022 07:17 AM, 03/27/2022 07:17 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197920];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[8]=[050,03/27/2022 06:15 AM, 03/27/2022 06:15 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197908];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[9]=[073,03/27/2022 07:31 AM, 03/27/2022 07:31 AM, Customer Svc is working this single customer outage, , 1197921];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[10]=[084,03/27/2022 07:45 AM, 03/27/2022 07:45 AM, Customer Svc is working this single customer outage, , 1197922];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
+events[11]=[101,03/26/2022 02:42 AM, 03/26/2022 02:42 AM, Customer Svc is working this single customer outage, , 1197747];,# of Outages: 12,Customers Affected: 1242,2022-03-27T13:24:24Z
