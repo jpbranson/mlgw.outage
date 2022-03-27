@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,03/27/2022 08:17 AM, 03/27/2022 08:17 AM, Trouble Shooter is determining repairs required, , 1197923];,# of Outages: 7,Customers Affected: 93,2022-03-27T14:19:01Z
+events[1]=[049,03/27/2022 06:13 AM, 03/27/2022 06:13 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197900];,# of Outages: 7,Customers Affected: 93,2022-03-27T14:19:01Z
+events[2]=[049,03/27/2022 06:14 AM, 03/27/2022 06:14 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197904];,# of Outages: 7,Customers Affected: 93,2022-03-27T14:19:01Z
+events[3]=[049,03/27/2022 06:42 AM, 03/27/2022 06:42 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197919];,# of Outages: 7,Customers Affected: 93,2022-03-27T14:19:01Z
+events[4]=[049,03/27/2022 07:17 AM, 03/27/2022 07:17 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197920];,# of Outages: 7,Customers Affected: 93,2022-03-27T14:19:01Z
+events[5]=[050,03/27/2022 06:15 AM, 03/27/2022 06:15 AM, Trouble Shooter is working on the problem, 03/27/2022 11:00 AM, 1197908];,# of Outages: 7,Customers Affected: 93,2022-03-27T14:19:01Z
+events[6]=[084,03/27/2022 09:03 AM, 03/27/2022 09:03 AM, The extent of the outage has been determined, , 1197924];,# of Outages: 7,Customers Affected: 93,2022-03-27T14:19:01Z
