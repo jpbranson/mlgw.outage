@@ -1115,7 +1115,7 @@
     {
       "ref": "tzdb",
       "package": "tzdb",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "type": "standard",
       "direct": false,
       "binary": false,
@@ -1128,15 +1128,14 @@
         "RemoteRef": "tzdb",
         "RemoteRepos": "https://cloud.r-project.org",
         "RemotePkgPlatform": "source",
-        "RemoteSha": "0.2.0"
+        "RemoteSha": "0.3.0"
       },
-      "sources": ["https://cloud.r-project.org/src/contrib/tzdb_0.2.0.tar.gz", "https://cloud.r-project.org/src/contrib/Archive/tzdb_0.2.0.tar.gz"],
-      "target": "src/contrib/tzdb_0.2.0.tar.gz",
+      "sources": ["https://cloud.r-project.org/src/contrib/tzdb_0.3.0.tar.gz", "https://cloud.r-project.org/src/contrib/Archive/tzdb_0.3.0.tar.gz"],
+      "target": "src/contrib/tzdb_0.3.0.tar.gz",
       "platform": "source",
       "rversion": "*",
       "directpkg": false,
       "license": "MIT + file LICENSE",
-      "sha256": "c335905d452b400af7ed54b916b5246cb3f47ede0602911a2bcb25a1cf56d5a9",
       "filesize": 563492,
       "dep_types": ["Depends", "Imports", "LinkingTo"],
       "params": [],
