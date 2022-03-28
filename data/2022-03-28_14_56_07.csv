@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[042,03/28/2022 09:20 AM, 03/28/2022 09:20 AM, Trouble Shooter is determining repairs required, , 1197959];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[1]=[064,03/28/2022 09:23 AM, 03/28/2022 09:23 AM, Customer Svc is working this single customer outage, , 1197960];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[2]=[073,03/28/2022 09:49 AM, 03/28/2022 09:49 AM, A crew is currently working on the problem, 03/28/2022 12:30 PM, 1197963];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[3]=[074,03/28/2022 08:43 AM, 03/28/2022 08:43 AM, A crew is currently working on the problem, 03/28/2022 12:00 PM, 1197952];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[4]=[074,03/28/2022 08:43 AM, 03/28/2022 08:43 AM, A crew is currently working on the problem, 03/28/2022 12:00 PM, 1197953];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[5]=[074,03/28/2022 09:00 AM, 03/28/2022 09:00 AM, A crew is currently working on the problem, 03/28/2022 12:00 PM, 1197957];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[6]=[083,03/28/2022 08:20 AM, 03/28/2022 08:20 AM, A crew is currently working on the problem, 03/28/2022 01:00 PM, 1197949];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[7]=[083,03/28/2022 09:45 AM, 03/28/2022 09:45 AM, A crew is currently working on the problem, 03/28/2022 12:30 PM, 1197962];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[8]=[084,03/28/2022 09:43 AM, 03/28/2022 09:43 AM, A crew is currently working on the problem, 03/28/2022 11:00 AM, 1197961];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[9]=[086,03/28/2022 08:57 AM, 03/28/2022 08:57 AM, A crew is currently working on the problem, 03/28/2022 11:30 AM, 1197956];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
+events[10]=[112,03/28/2022 09:19 AM, 03/28/2022 09:19 AM, Trouble Shooter is determining repairs required, , 1197958];,# of Outages: 11,Customers Affected: 70,2022-03-28T14:56:07Z
