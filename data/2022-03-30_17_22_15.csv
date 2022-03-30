@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,03/30/2022 11:13 AM, 03/30/2022 11:13 AM, A crew is currently working on the problem, 03/30/2022 01:00 PM, 1198205];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[1]=[054,03/30/2022 09:30 AM, 03/30/2022 09:30 AM, A crew is currently working on the problem, 03/30/2022 12:30 PM, 1198195];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[2]=[061,03/30/2022 11:56 AM, 03/30/2022 11:56 AM, Customer Svc is working this single customer outage, , 1198214];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[3]=[073,03/30/2022 11:00 AM, 03/30/2022 11:00 AM, Waiting to be analyzed, , 1198202];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[4]=[073,03/30/2022 12:12 PM, 03/30/2022 12:12 PM, The extent of the outage has been determined, , 1198217];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[5]=[085,03/30/2022 11:16 AM, 03/30/2022 11:16 AM, Trouble Shooter is determining repairs required, , 1198207];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[6]=[086,03/30/2022 10:46 AM, 03/30/2022 10:46 AM, Trouble Shooter is determining repairs required, , 1198201];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[7]=[086,03/30/2022 11:31 AM, 03/30/2022 11:31 AM, A crew is currently working on the problem, 03/30/2022 02:00 PM, 1198208];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[8]=[087,03/30/2022 11:14 AM, 03/30/2022 11:14 AM, Customer Svc is working this single customer outage, , 1198206];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[9]=[087,03/30/2022 11:55 AM, 03/30/2022 11:55 AM, Trouble Shooter is determining repairs required, , 1198212];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[10]=[090,03/30/2022 11:57 AM, 03/30/2022 11:57 AM, Trouble Shooter is determining repairs required, , 1198215];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[11]=[101,03/30/2022 12:13 PM, 03/30/2022 12:13 PM, Waiting to be analyzed, , 1198218];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
+events[12]=[114,03/30/2022 11:36 AM, 03/30/2022 11:36 AM, Customer Svc is working this single customer outage, , 1198209];,# of Outages: 13,Customers Affected: 69,2022-03-30T17:22:15Z
