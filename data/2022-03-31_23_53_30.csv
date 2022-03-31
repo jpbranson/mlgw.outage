@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,03/31/2022 06:02 PM, 03/31/2022 06:02 PM, Trouble Shooter is working on the problem, 03/31/2022 08:30 PM, 1199188];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[1]=[052,03/31/2022 06:14 PM, 03/31/2022 06:14 PM, Trouble Shooter is determining repairs required, , 1199198];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[2]=[062,03/31/2022 06:27 PM, 03/31/2022 06:27 PM, Customer Svc is working this single customer outage, , 1199201];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[3]=[065,03/31/2022 11:38 AM, 03/31/2022 11:38 AM, A crew is currently working on the problem, 03/31/2022 09:30 PM, 1199096];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[4]=[082,03/30/2022 04:43 PM, 03/30/2022 04:43 PM, A crew is currently working on the problem, 03/31/2022 09:30 PM, 1198591];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[5]=[082,03/30/2022 04:44 PM, 03/30/2022 04:44 PM, A crew is currently working on the problem, 03/31/2022 09:30 PM, 1198589];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[6]=[087,03/31/2022 06:14 PM, 03/31/2022 06:14 PM, A crew is currently working on the problem, 03/31/2022 07:30 PM, 1199199];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[7]=[096,03/31/2022 03:24 PM, 03/31/2022 03:24 PM, Trouble Shooter is determining repairs required, , 1199156];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[8]=[099,03/31/2022 06:19 PM, 03/31/2022 06:19 PM, Customer Svc is working this single customer outage, , 1199200];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[9]=[100,03/31/2022 11:42 AM, 03/31/2022 11:42 AM, A crew is currently working on the problem, 03/31/2022 08:00 PM, 1199097];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[10]=[113,03/31/2022 04:34 PM, 03/31/2022 04:34 PM, A crew is currently working on the problem, 03/31/2022 09:30 PM, 1199169];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
+events[11]=[119,03/31/2022 06:06 PM, 03/31/2022 06:06 PM, Customer Svc is working this single customer outage, , 1199195];,# of Outages: 12,Customers Affected: 1543,2022-03-31T23:53:30Z
