@@ -1,0 +1,6 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,04/03/2022 03:47 AM, 04/03/2022 03:47 AM, Waiting to be analyzed, , 1199461];,# of Outages: 5,Customers Affected: 5,2022-04-03T08:53:40Z
+events[1]=[050,04/03/2022 03:47 AM, 04/03/2022 03:47 AM, Waiting to be analyzed, , 1199463];,# of Outages: 5,Customers Affected: 5,2022-04-03T08:53:40Z
+events[2]=[050,04/03/2022 03:49 AM, 04/03/2022 03:49 AM, Waiting to be analyzed, , 1199465];,# of Outages: 5,Customers Affected: 5,2022-04-03T08:53:40Z
+events[3]=[061,04/03/2022 03:47 AM, 04/03/2022 03:47 AM, Waiting to be analyzed, , 1199462];,# of Outages: 5,Customers Affected: 5,2022-04-03T08:53:40Z
+events[4]=[061,04/03/2022 03:48 AM, 04/03/2022 03:48 AM, Waiting to be analyzed, , 1199464];,# of Outages: 5,Customers Affected: 5,2022-04-03T08:53:40Z
