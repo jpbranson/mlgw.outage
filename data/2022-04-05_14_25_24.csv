@@ -1,0 +1,6 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,04/05/2022 09:10 AM, 04/05/2022 09:10 AM, A crew is currently working on the problem, , 1199582];,# of Outages: 4,Customers Affected: 1006,2022-04-05T14:25:24Z
+events[1]=[073,04/05/2022 07:00 AM, 04/05/2022 07:00 AM, Trouble Shooter is determining repairs required, , 1199576];,# of Outages: 4,Customers Affected: 1006,2022-04-05T14:25:24Z
+events[2]=[085,04/05/2022 08:24 AM, 04/05/2022 08:24 AM, Trouble Shooter is determining repairs required, , 1199581];,# of Outages: 4,Customers Affected: 1006,2022-04-05T14:25:24Z
+events[3]=[087,04/05/2022 09:22 AM, 04/05/2022 09:22 AM, Trouble Shooter is working on the problem, 04/05/2022 12:00 PM, 1199595];,# of Outages: 4,Customers Affected: 1006,2022-04-05T14:25:24Z
+events[4]=[088,04/05/2022 09:22 AM, 04/05/2022 09:22 AM, Trouble Shooter is working on the problem, 04/05/2022 12:00 PM, 1199595];,# of Outages: 4,Customers Affected: 1006,2022-04-05T14:25:24Z
