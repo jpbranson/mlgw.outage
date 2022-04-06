@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[054,04/06/2022 02:54 PM, 04/06/2022 02:54 PM, Customer Svc is working this single customer outage, , 1199760];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[1]=[066,04/06/2022 02:51 PM, 04/06/2022 02:51 PM, Customer Svc is working this single customer outage, , 1199758];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[2]=[073,04/06/2022 01:21 PM, 04/06/2022 01:21 PM, Waiting for an available crew to perform repairs, , 1199738];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[3]=[073,04/06/2022 02:53 PM, 04/06/2022 02:53 PM, A crew is currently working on the problem, 04/06/2022 05:30 PM, 1199759];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[4]=[073,04/06/2022 11:22 AM, 04/06/2022 11:22 AM, Waiting for an available crew to perform repairs, , 1199717];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[5]=[083,04/06/2022 02:57 PM, 04/06/2022 02:57 PM, A crew is currently working on the problem, 04/06/2022 07:30 PM, 1199761];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[6]=[084,04/06/2022 03:13 PM, 04/06/2022 03:13 PM, Customer Svc is working this single customer outage, , 1199763];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[7]=[086,04/06/2022 01:13 PM, 04/06/2022 01:13 PM, Trouble Shooter is determining repairs required, , 1199737];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[8]=[090,04/06/2022 09:53 AM, 04/06/2022 09:53 AM, A crew is currently working on the problem, 04/06/2022 06:30 PM, 1199704];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[9]=[096,04/06/2022 02:46 PM, 04/06/2022 02:46 PM, Tree Trimming is clearing debris from the area, , 1199757];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[10]=[101,04/06/2022 03:04 PM, 04/06/2022 03:04 PM, Trouble Shooter is determining repairs required, , 1199762];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[11]=[101,04/06/2022 09:39 AM, 04/06/2022 09:39 AM, A crew is currently working on the problem, 04/06/2022 08:00 PM, 1199702];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
+events[12]=[113,04/06/2022 02:10 PM, 04/06/2022 02:10 PM, Customer Svc is working this single customer outage, , 1199752];,# of Outages: 13,Customers Affected: 57,2022-04-06T20:39:58Z
