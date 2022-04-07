@@ -1,0 +1,9 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[021,04/07/2022 10:53 AM, 04/07/2022 10:53 AM, A crew is currently working on the problem, 04/07/2022 01:30 PM, 1199873];,# of Outages: 8,Customers Affected: 78,2022-04-07T16:30:11Z
+events[1]=[072,04/07/2022 09:02 AM, 04/07/2022 09:02 AM, A crew is currently working on the problem, 04/07/2022 01:30 PM, 1199836];,# of Outages: 8,Customers Affected: 78,2022-04-07T16:30:11Z
+events[2]=[083,04/07/2022 08:04 AM, 04/07/2022 08:04 AM, Tree Trimming is clearing debris from the area, 04/07/2022 01:30 PM, 1199828];,# of Outages: 8,Customers Affected: 78,2022-04-07T16:30:11Z
+events[3]=[083,04/07/2022 11:05 AM, 04/07/2022 11:05 AM, A crew is currently working on the problem, 04/07/2022 02:30 PM, 1199877];,# of Outages: 8,Customers Affected: 78,2022-04-07T16:30:11Z
+events[4]=[084,04/07/2022 10:25 AM, 04/07/2022 10:25 AM, Customer Svc is working this single customer outage, , 1199850];,# of Outages: 8,Customers Affected: 78,2022-04-07T16:30:11Z
+events[5]=[085,04/07/2022 11:22 AM, 04/07/2022 11:22 AM, The extent of the outage has been determined, , 1199878];,# of Outages: 8,Customers Affected: 78,2022-04-07T16:30:11Z
+events[6]=[101,04/07/2022 10:11 AM, 04/07/2022 10:11 AM, Customer Svc is working this single customer outage, , 1199845];,# of Outages: 8,Customers Affected: 78,2022-04-07T16:30:11Z
+events[7]=[118,04/07/2022 11:01 AM, 04/07/2022 11:01 AM, Customer Svc is working this single customer outage, , 1199876];,# of Outages: 8,Customers Affected: 78,2022-04-07T16:30:11Z
