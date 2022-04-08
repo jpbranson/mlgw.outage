@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[027,04/08/2022 08:21 AM, 04/08/2022 08:21 AM, A crew is currently working on the problem, 04/08/2022 12:00 PM, 1200021];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[1]=[054,04/08/2022 10:39 AM, 04/08/2022 10:39 AM, Trouble Shooter is determining repairs required, , 1200054];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[2]=[072,04/08/2022 08:52 AM, 04/08/2022 08:52 AM, A crew is currently working on the problem, 04/08/2022 12:30 PM, 1200032];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[3]=[073,04/08/2022 10:19 AM, 04/08/2022 10:19 AM, Customer Svc is working this single customer outage, , 1200050];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[4]=[077,04/08/2022 10:42 AM, 04/08/2022 10:42 AM, Customer Svc is working this single customer outage, , 1200055];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[5]=[083,04/08/2022 09:49 AM, 04/08/2022 09:49 AM, A crew is currently working on the problem, 04/08/2022 03:30 PM, 1200045];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[6]=[086,04/08/2022 10:37 AM, 04/08/2022 10:37 AM, Customer Svc is working this single customer outage, , 1200053];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[7]=[089,04/08/2022 10:30 AM, 04/08/2022 10:30 AM, A crew is currently working on the problem, 04/08/2022 01:00 PM, 1200051];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[8]=[099,04/08/2022 09:51 AM, 04/08/2022 09:51 AM, Customer Svc is working this single customer outage, , 1200046];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[9]=[101,04/08/2022 08:59 AM, 04/08/2022 08:59 AM, A crew is currently working on the problem, 04/08/2022 01:00 PM, 1200034];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[10]=[112,04/08/2022 09:02 AM, 04/08/2022 09:02 AM, Trouble Shooter is determining repairs required, , 1200036];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
+events[11]=[112,04/08/2022 10:00 AM, 04/08/2022 10:00 AM, Customer Svc is working this single customer outage, , 1200047];,# of Outages: 12,Customers Affected: 192,2022-04-08T15:58:48Z
