@@ -1,0 +1,4 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[039,04/07/2022 11:42 PM, 04/07/2022 11:42 PM, Waiting for an available crew to perform repairs, , 1200005];,# of Outages: 3,Customers Affected: 7,2022-04-08T07:41:56Z
+events[1]=[086,04/07/2022 11:09 PM, 04/07/2022 11:09 PM, Tree Trimming is clearing debris from the area, , 1200004];,# of Outages: 3,Customers Affected: 7,2022-04-08T07:41:56Z
+events[2]=[112,04/07/2022 10:11 PM, 04/07/2022 10:11 PM, A crew is currently working on the problem, 04/08/2022 04:30 AM, 1200001];,# of Outages: 3,Customers Affected: 7,2022-04-08T07:41:56Z
