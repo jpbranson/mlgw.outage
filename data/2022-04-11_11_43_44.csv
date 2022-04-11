@@ -1,0 +1,24 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[042,04/11/2022 06:05 AM, 04/11/2022 06:05 AM, Customer Svc is working this single customer outage, , 1200645];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[1]=[064,04/10/2022 04:53 PM, 04/10/2022 04:53 PM, A crew is currently working on the problem, 04/11/2022 07:00 AM, 1200280];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[2]=[064,04/11/2022 06:11 AM, 04/11/2022 06:11 AM, A crew is currently working on the problem, 04/11/2022 07:00 AM, 1200646];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[3]=[074,04/11/2022 06:21 AM, 04/11/2022 06:21 AM, Waiting for an available crew to perform repairs, , 1200649];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[4]=[089,04/10/2022 02:19 PM, 04/10/2022 02:19 PM, Waiting for an available crew to perform repairs, , 1200261];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[5]=[090,04/10/2022 02:19 PM, 04/10/2022 02:19 PM, Waiting for an available crew to perform repairs, , 1200261];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[6]=[098,04/11/2022 06:35 AM, 04/11/2022 06:35 AM, Waiting to be analyzed, , 1200651];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[7]=[111,04/11/2022 06:40 AM, 04/11/2022 06:40 AM, Waiting to be analyzed, , 1200659];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[8]=[112,04/11/2022 06:38 AM, 04/11/2022 06:38 AM, Waiting to be analyzed, , 1200652];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[9]=[112,04/11/2022 06:39 AM, 04/11/2022 06:39 AM, Waiting to be analyzed, , 1200653];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[10]=[112,04/11/2022 06:39 AM, 04/11/2022 06:39 AM, Waiting to be analyzed, , 1200654];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[11]=[112,04/11/2022 06:39 AM, 04/11/2022 06:39 AM, Waiting to be analyzed, , 1200655];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[12]=[112,04/11/2022 06:39 AM, 04/11/2022 06:39 AM, Waiting to be analyzed, , 1200656];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[13]=[112,04/11/2022 06:39 AM, 04/11/2022 06:39 AM, Waiting to be analyzed, , 1200657];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[14]=[112,04/11/2022 06:40 AM, 04/11/2022 06:40 AM, Waiting to be analyzed, , 1200658];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[15]=[112,04/11/2022 06:40 AM, 04/11/2022 06:40 AM, Waiting to be analyzed, , 1200660];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[16]=[112,04/11/2022 06:40 AM, 04/11/2022 06:40 AM, Waiting to be analyzed, , 1200661];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[17]=[112,04/11/2022 06:40 AM, 04/11/2022 06:40 AM, Waiting to be analyzed, , 1200662];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[18]=[112,04/11/2022 06:40 AM, 04/11/2022 06:40 AM, Waiting to be analyzed, , 1200663];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[19]=[112,04/11/2022 06:40 AM, 04/11/2022 06:40 AM, Waiting to be analyzed, , 1200664];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[20]=[112,04/11/2022 06:41 AM, 04/11/2022 06:41 AM, Waiting to be analyzed, , 1200665];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[21]=[112,04/11/2022 06:41 AM, 04/11/2022 06:41 AM, Waiting to be analyzed, , 1200666];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
+events[22]=[114,04/11/2022 06:35 AM, 04/11/2022 06:35 AM, Waiting to be analyzed, , 1200651];,# of Outages: 21,Customers Affected: 245,2022-04-11T11:43:44Z
