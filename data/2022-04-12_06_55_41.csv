@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,04/11/2022 11:55 PM, 04/11/2022 11:55 PM, Trouble Shooter is determining repairs required, , 1200804];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[1]=[061,04/12/2022 01:23 AM, 04/12/2022 01:23 AM, Waiting for an available crew to perform repairs, , 1200830];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[2]=[088,04/12/2022 12:05 AM, 04/12/2022 12:05 AM, Customer Svc is working this single customer outage, , 1200817];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[3]=[096,04/11/2022 10:44 PM, 04/11/2022 10:44 PM, A crew is currently working on the problem, 04/12/2022 05:00 AM, 1200792];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[4]=[097,04/11/2022 11:50 PM, 04/11/2022 11:50 PM, Trouble Shooter is determining repairs required, , 1200800];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[5]=[098,04/12/2022 01:17 AM, 04/12/2022 01:17 AM, Trouble Shooter is determining repairs required, , 1200829];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[6]=[101,04/12/2022 12:03 AM, 04/12/2022 12:03 AM, Trouble Shooter is determining repairs required, , 1200807];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[7]=[102,04/12/2022 01:37 AM, 04/12/2022 01:37 AM, Customer Svc is working this single customer outage, , 1200831];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[8]=[102,04/12/2022 12:03 AM, 04/12/2022 12:03 AM, Trouble Shooter is determining repairs required, , 1200810];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[9]=[102,04/12/2022 12:14 AM, 04/12/2022 12:14 AM, Trouble Shooter is determining repairs required, , 1200823];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[10]=[102,04/12/2022 12:19 AM, 04/12/2022 12:19 AM, Waiting for an available crew to perform repairs, , 1200824];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[11]=[116,04/11/2022 11:57 PM, 04/11/2022 11:57 PM, Trouble Shooter is determining repairs required, , 1200805];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
+events[12]=[117,04/12/2022 12:03 AM, 04/12/2022 12:03 AM, Trouble Shooter is determining repairs required, , 1200807];,# of Outages: 12,Customers Affected: 490,2022-04-12T06:55:41Z
