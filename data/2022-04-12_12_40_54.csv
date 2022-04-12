@@ -1,0 +1,23 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,04/11/2022 11:46 PM, 04/11/2022 11:46 PM, A crew is currently working on the problem, 04/12/2022 09:30 AM, 1200804];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[1]=[061,04/12/2022 01:21 AM, 04/12/2022 01:21 AM, Trouble Shooter is determining repairs required, , 1200830];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[2]=[071,04/12/2022 02:35 AM, 04/12/2022 02:35 AM, Trouble Shooter is determining repairs required, , 1200838];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[3]=[073,04/12/2022 06:51 AM, 04/12/2022 06:51 AM, Trouble Shooter is determining repairs required, , 1200973];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[4]=[073,04/12/2022 07:00 AM, 04/12/2022 07:00 AM, A crew is currently working on the problem, 04/12/2022 01:30 PM, 1200976];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[5]=[077,04/12/2022 07:10 AM, 04/12/2022 07:10 AM, Customer Svc is working this single customer outage, , 1200978];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[6]=[098,04/12/2022 05:13 AM, 04/12/2022 05:13 AM, Trouble Shooter is determining repairs required, , 1200858];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[7]=[099,04/12/2022 02:58 AM, 04/12/2022 02:58 AM, Tree Trimming is clearing debris from the area, , 1200839];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[8]=[099,04/12/2022 02:59 AM, 04/12/2022 02:59 AM, Tree Trimming is clearing debris from the area, , 1200840];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[9]=[099,04/12/2022 05:13 AM, 04/12/2022 05:13 AM, Trouble Shooter is determining repairs required, , 1200858];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[10]=[101,04/12/2022 04:07 AM, 04/12/2022 04:07 AM, A crew is currently working on the problem, , 1200841];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[11]=[101,04/12/2022 06:05 AM, 04/12/2022 06:05 AM, Trouble Shooter is determining repairs required, , 1200970];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[12]=[102,04/12/2022 01:37 AM, 04/12/2022 01:37 AM, A crew is currently working on the problem, 04/12/2022 10:30 AM, 1200831];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[13]=[102,04/12/2022 12:01 AM, 04/12/2022 12:01 AM, A crew is currently working on the problem, , 1200810];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[14]=[102,04/12/2022 12:03 AM, 04/12/2022 12:03 AM, A crew is currently working on the problem, 04/12/2022 08:00 AM, 1200823];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[15]=[102,04/12/2022 12:19 AM, 04/12/2022 12:19 AM, Waiting for an available crew to perform repairs, , 1200824];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[16]=[113,04/12/2022 07:25 AM, 04/12/2022 07:25 AM, The extent of the outage has been determined, , 1200981];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[17]=[114,04/12/2022 05:15 AM, 04/12/2022 05:15 AM, Trouble Shooter is determining repairs required, , 1200916];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[18]=[114,04/12/2022 07:27 AM, 04/12/2022 07:27 AM, Customer Svc is working this single customer outage, , 1200982];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[19]=[116,04/11/2022 11:55 PM, 04/11/2022 11:55 PM, A crew is currently working on the problem, , 1200805];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[20]=[133,04/12/2022 07:19 AM, 04/12/2022 07:19 AM, Trouble Shooter is determining repairs required, , 1200980];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
+events[21]=[134,04/12/2022 07:05 AM, 04/12/2022 07:05 AM, Trouble Shooter is determining repairs required, , 1200977];,# of Outages: 21,Customers Affected: 465,2022-04-12T12:40:54Z
