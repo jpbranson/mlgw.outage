@@ -1,0 +1,17 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[071,04/12/2022 02:35 AM, 04/12/2022 02:35 AM, Trouble Shooter is determining repairs required, , 1200838];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[1]=[072,04/12/2022 01:11 PM, 04/12/2022 01:11 PM, Customer Svc is working this single customer outage, , 1201055];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[2]=[072,04/12/2022 01:56 PM, 04/12/2022 01:56 PM, Trouble Shooter is determining repairs required, , 1201063];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[3]=[086,04/12/2022 01:56 PM, 04/12/2022 01:56 PM, Waiting for an available crew to perform repairs, , 1201064];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[4]=[086,04/12/2022 02:03 PM, 04/12/2022 02:03 PM, Customer Svc is working this single customer outage, , 1201065];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[5]=[086,04/12/2022 02:18 PM, 04/12/2022 02:18 PM, Customer Svc is working this single customer outage, , 1201066];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[6]=[088,04/12/2022 10:14 AM, 04/12/2022 10:14 AM, A crew is currently working on the problem, 04/12/2022 03:30 PM, 1201024];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[7]=[089,04/12/2022 02:42 PM, 04/12/2022 02:42 PM, Waiting to be analyzed, , 1201067];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[8]=[089,04/12/2022 10:14 AM, 04/12/2022 10:14 AM, A crew is currently working on the problem, 04/12/2022 03:30 PM, 1201024];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[9]=[101,04/12/2022 06:05 AM, 04/12/2022 06:05 AM, A crew is currently working on the problem, 04/12/2022 03:30 PM, 1200970];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[10]=[102,04/12/2022 01:37 AM, 04/12/2022 01:37 AM, A crew is currently working on the problem, 04/12/2022 05:30 PM, 1200831];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[11]=[102,04/12/2022 12:33 PM, 04/12/2022 12:33 PM, A crew is currently working on the problem, 04/12/2022 04:30 PM, 1201043];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[12]=[104,04/12/2022 01:18 PM, 04/12/2022 01:18 PM, Trouble Shooter is determining repairs required, , 1201056];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[13]=[104,04/12/2022 02:43 PM, 04/12/2022 02:43 PM, The extent of the outage has been determined, , 1201068];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[14]=[114,04/12/2022 10:16 AM, 04/12/2022 10:16 AM, A crew is currently working on the problem, 04/12/2022 03:00 PM, 1201027];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
+events[15]=[114,04/12/2022 10:16 AM, 04/12/2022 10:16 AM, A crew is currently working on the problem, 04/12/2022 03:00 PM, 1201028];,# of Outages: 15,Customers Affected: 411,2022-04-12T19:53:51Z
