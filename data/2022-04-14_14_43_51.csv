@@ -1,0 +1,24 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,04/14/2022 08:10 AM, 04/14/2022 08:10 AM, A crew is currently working on the problem, 04/14/2022 12:30 PM, 1201996];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[1]=[049,04/14/2022 08:11 AM, 04/14/2022 08:11 AM, A crew is currently working on the problem, 04/14/2022 12:30 PM, 1201997];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[2]=[049,04/14/2022 08:11 AM, 04/14/2022 08:11 AM, A crew is currently working on the problem, 04/14/2022 12:30 PM, 1201998];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[3]=[049,04/14/2022 09:06 AM, 04/14/2022 09:06 AM, Customer Svc is working this single customer outage, , 1202006];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[4]=[052,04/14/2022 09:17 AM, 04/14/2022 09:17 AM, Customer Svc is working this single customer outage, , 1202009];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[5]=[060,04/14/2022 08:52 AM, 04/14/2022 08:52 AM, Tree Trimming is clearing debris from the area, 04/14/2022 05:00 PM, 1202005];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[6]=[062,04/13/2022 04:33 PM, 04/13/2022 04:33 PM, Trouble Shooter is determining repairs required, , 1201531];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[7]=[062,04/14/2022 12:28 AM, 04/14/2022 12:28 AM, A crew is currently working on the problem, , 1201973];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[8]=[071,04/14/2022 09:29 AM, 04/14/2022 09:29 AM, Customer Svc is working this single customer outage, , 1202010];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[9]=[072,04/14/2022 09:10 AM, 04/14/2022 09:10 AM, Waiting for an available crew to perform repairs, , 1202008];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[10]=[073,04/14/2022 08:06 AM, 04/14/2022 08:06 AM, A crew is currently working on the problem, , 1201995];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[11]=[075,04/13/2022 05:45 PM, 04/13/2022 05:45 PM, Tree Trimming is clearing debris from the area, 04/14/2022 12:30 PM, 1201766];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[12]=[075,04/13/2022 05:52 PM, 04/13/2022 05:52 PM, Tree Trimming is clearing debris from the area, 04/14/2022 12:30 PM, 1201790];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[13]=[076,04/14/2022 07:53 AM, 04/14/2022 07:53 AM, Customer Svc is working this single customer outage, , 1201993];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[14]=[077,04/13/2022 10:09 PM, 04/13/2022 10:09 PM, A crew is currently working on the problem, 04/14/2022 12:00 PM, 1201960];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[15]=[085,04/14/2022 08:19 AM, 04/14/2022 08:19 AM, Customer Svc is working this single customer outage, , 1202001];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[16]=[087,04/14/2022 07:42 AM, 04/14/2022 07:42 AM, Trouble Shooter is determining repairs required, , 1201992];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[17]=[088,04/13/2022 07:36 PM, 04/13/2022 07:36 PM, Tree Trimming is clearing debris from the area, 04/14/2022 02:00 PM, 1201853];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[18]=[088,04/14/2022 07:27 AM, 04/14/2022 07:27 AM, Customer Svc is working this single customer outage, , 1201991];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[19]=[098,04/13/2022 07:31 PM, 04/13/2022 07:31 PM, A crew is currently working on the problem, , 1201851];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[20]=[098,04/14/2022 08:16 AM, 04/14/2022 08:16 AM, Customer Svc is working this single customer outage, , 1202000];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[21]=[115,04/14/2022 08:33 AM, 04/14/2022 08:33 AM, Trouble Shooter is determining repairs required, , 1202003];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
+events[22]=[116,04/14/2022 08:37 AM, 04/14/2022 08:37 AM, Trouble Shooter is determining repairs required, , 1202004];,# of Outages: 23,Customers Affected: 207,2022-04-14T14:43:51Z
