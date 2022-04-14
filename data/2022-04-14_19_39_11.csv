@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[041,04/14/2022 02:23 PM, 04/14/2022 02:23 PM, Customer Svc is working this single customer outage, , 1202055];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[1]=[060,04/14/2022 02:03 PM, 04/14/2022 02:03 PM, A crew is currently working on the problem, 04/14/2022 03:30 PM, 1202054];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[2]=[061,04/14/2022 01:43 PM, 04/14/2022 01:43 PM, Customer Svc is working this single customer outage, , 1202052];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[3]=[062,04/14/2022 12:28 AM, 04/14/2022 12:28 AM, A crew is currently working on the problem, 04/14/2022 03:30 PM, 1201973];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[4]=[073,04/14/2022 02:26 PM, 04/14/2022 02:26 PM, Waiting to be analyzed, , 1202056];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[5]=[074,04/14/2022 01:25 PM, 04/14/2022 01:25 PM, Customer Svc is working this single customer outage, , 1202050];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[6]=[075,04/13/2022 05:45 PM, 04/13/2022 05:45 PM, A crew is currently working on the problem, 04/14/2022 03:30 PM, 1201766];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[7]=[075,04/13/2022 05:52 PM, 04/13/2022 05:52 PM, A crew is currently working on the problem, 04/14/2022 03:30 PM, 1201790];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[8]=[090,04/14/2022 02:32 PM, 04/14/2022 02:32 PM, The extent of the outage has been determined, , 1202057];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[9]=[112,04/14/2022 09:58 AM, 04/14/2022 09:58 AM, A crew is currently working on the problem, 04/14/2022 03:30 PM, 1202013];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[10]=[112,04/14/2022 10:48 AM, 04/14/2022 10:48 AM, A crew is currently working on the problem, 04/14/2022 03:30 PM, 1202031];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
+events[11]=[115,04/14/2022 01:51 PM, 04/14/2022 01:51 PM, Waiting for an available crew to perform repairs, , 1202053];,# of Outages: 12,Customers Affected: 146,2022-04-14T19:39:11Z
