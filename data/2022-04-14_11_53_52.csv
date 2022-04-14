@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[062,04/13/2022 04:33 PM, 04/13/2022 04:33 PM, Waiting for an available crew to perform repairs, , 1201531];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[1]=[062,04/14/2022 12:28 AM, 04/14/2022 12:28 AM, A crew is currently working on the problem, , 1201973];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[2]=[071,04/14/2022 06:46 AM, 04/14/2022 06:46 AM, The extent of the outage has been determined, , 1201984];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[3]=[075,04/13/2022 05:45 PM, 04/13/2022 05:45 PM, A crew is currently working on the problem, , 1201766];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[4]=[075,04/13/2022 05:52 PM, 04/13/2022 05:52 PM, A crew is currently working on the problem, , 1201790];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[5]=[077,04/13/2022 10:09 PM, 04/13/2022 10:09 PM, Waiting for an available crew to perform repairs, , 1201960];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[6]=[083,04/13/2022 05:35 PM, 04/13/2022 05:35 PM, Trouble Shooter is determining repairs required, , 1201737];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[7]=[088,04/13/2022 07:36 PM, 04/13/2022 07:36 PM, Waiting for an available crew to perform repairs, , 1201853];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[8]=[098,04/13/2022 07:31 PM, 04/13/2022 07:31 PM, Waiting for an available crew to perform repairs, , 1201851];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[9]=[113,04/13/2022 08:36 PM, 04/13/2022 08:36 PM, A crew is currently working on the problem, 04/14/2022 08:00 AM, 1201907];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[10]=[114,04/14/2022 05:35 AM, 04/14/2022 05:35 AM, Customer Svc is working this single customer outage, , 1201981];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[11]=[118,04/14/2022 06:36 AM, 04/14/2022 06:36 AM, Customer Svc is working this single customer outage, , 1201982];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
+events[12]=[118,04/14/2022 06:45 AM, 04/14/2022 06:45 AM, The extent of the outage has been determined, , 1201983];,# of Outages: 13,Customers Affected: 225,2022-04-14T11:53:52Z
