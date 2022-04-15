@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[061,04/15/2022 10:51 AM, 04/15/2022 10:51 AM, Waiting to be analyzed, , 1202257];,# of Outages: 9,Customers Affected: 16,2022-04-15T15:54:00Z
+events[1]=[072,04/15/2022 10:51 AM, 04/15/2022 10:51 AM, Waiting to be analyzed, , 1202256];,# of Outages: 9,Customers Affected: 16,2022-04-15T15:54:00Z
+events[2]=[074,04/15/2022 07:54 AM, 04/15/2022 07:54 AM, Waiting for an available crew to perform repairs, , 1202243];,# of Outages: 9,Customers Affected: 16,2022-04-15T15:54:00Z
+events[3]=[085,04/15/2022 09:55 AM, 04/15/2022 09:55 AM, Trouble Shooter is determining repairs required, , 1202250];,# of Outages: 9,Customers Affected: 16,2022-04-15T15:54:00Z
+events[4]=[115,04/15/2022 10:14 AM, 04/15/2022 10:14 AM, Trouble Shooter is determining repairs required, , 1202251];,# of Outages: 9,Customers Affected: 16,2022-04-15T15:54:00Z
+events[5]=[119,04/15/2022 10:44 AM, 04/15/2022 10:44 AM, Waiting to be analyzed, , 1202252];,# of Outages: 9,Customers Affected: 16,2022-04-15T15:54:00Z
+events[6]=[119,04/15/2022 10:44 AM, 04/15/2022 10:44 AM, Waiting to be analyzed, , 1202253];,# of Outages: 9,Customers Affected: 16,2022-04-15T15:54:00Z
+events[7]=[119,04/15/2022 10:48 AM, 04/15/2022 10:48 AM, Waiting to be analyzed, , 1202254];,# of Outages: 9,Customers Affected: 16,2022-04-15T15:54:00Z
+events[8]=[119,04/15/2022 10:49 AM, 04/15/2022 10:49 AM, Waiting to be analyzed, , 1202255];,# of Outages: 9,Customers Affected: 16,2022-04-15T15:54:00Z
