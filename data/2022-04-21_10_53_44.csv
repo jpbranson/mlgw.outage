@@ -1,0 +1,27 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[002,04/21/2022 03:57 AM, 04/21/2022 03:57 AM, Trouble Shooter is determining repairs required, , 1202795];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[1]=[063,04/21/2022 05:29 AM, 04/21/2022 05:29 AM, Customer Svc is working this single customer outage, , 1202858];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[2]=[064,04/21/2022 05:20 AM, 04/21/2022 05:20 AM, Trouble Shooter is determining repairs required, , 1202854];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[3]=[064,04/21/2022 05:27 AM, 04/21/2022 05:27 AM, Waiting for an available crew to perform repairs, , 1202856];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[4]=[072,04/21/2022 05:14 AM, 04/21/2022 05:14 AM, Trouble Shooter is determining repairs required, , 1202830];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[5]=[072,04/21/2022 05:17 AM, 04/21/2022 05:17 AM, Trouble Shooter is determining repairs required, , 1202850];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[6]=[072,04/21/2022 05:22 AM, 04/21/2022 05:22 AM, Waiting for an available crew to perform repairs, , 1202855];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[7]=[073,04/21/2022 05:14 AM, 04/21/2022 05:14 AM, Trouble Shooter is determining repairs required, , 1202830];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[8]=[073,04/21/2022 05:17 AM, 04/21/2022 05:17 AM, Trouble Shooter is determining repairs required, , 1202850];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[9]=[074,04/21/2022 05:28 AM, 04/21/2022 05:28 AM, Waiting to be analyzed, , 1202857];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[10]=[074,04/21/2022 05:29 AM, 04/21/2022 05:29 AM, Waiting to be analyzed, , 1202859];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[11]=[074,04/21/2022 05:31 AM, 04/21/2022 05:31 AM, Waiting to be analyzed, , 1202860];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[12]=[074,04/21/2022 05:33 AM, 04/21/2022 05:33 AM, Waiting to be analyzed, , 1202862];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[13]=[085,04/21/2022 05:01 AM, 04/21/2022 05:01 AM, Waiting for an available crew to perform repairs, , 1202797];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[14]=[097,04/21/2022 03:38 AM, 04/21/2022 03:38 AM, Trouble Shooter is determining repairs required, , 1202791];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[15]=[097,04/21/2022 03:41 AM, 04/21/2022 03:41 AM, Trouble Shooter is determining repairs required, , 1202794];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[16]=[100,04/21/2022 02:43 AM, 04/21/2022 02:43 AM, A crew is currently working on the problem, 04/21/2022 07:00 AM, 1202790];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[17]=[102,04/21/2022 05:42 AM, 04/21/2022 05:42 AM, Waiting to be analyzed, , 1202866];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[18]=[103,04/21/2022 05:42 AM, 04/21/2022 05:42 AM, Waiting to be analyzed, , 1202866];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[19]=[104,04/21/2022 05:40 AM, 04/21/2022 05:40 AM, Waiting to be analyzed, , 1202864];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[20]=[104,04/21/2022 05:41 AM, 04/21/2022 05:41 AM, Waiting to be analyzed, , 1202865];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[21]=[104,04/21/2022 05:43 AM, 04/21/2022 05:43 AM, Waiting to be analyzed, , 1202867];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[22]=[104,04/21/2022 05:48 AM, 04/21/2022 05:48 AM, Waiting to be analyzed, , 1202869];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[23]=[105,04/21/2022 05:38 AM, 04/21/2022 05:38 AM, Waiting to be analyzed, , 1202863];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[24]=[112,04/21/2022 05:45 AM, 04/21/2022 05:45 AM, Waiting to be analyzed, , 1202868];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
+events[25]=[115,04/20/2022 09:05 PM, 04/20/2022 09:05 PM, Waiting for an available crew to perform repairs, , 1202785];,# of Outages: 23,Customers Affected: 2763,2022-04-21T10:53:44Z
