@@ -1,0 +1,4 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[054,04/24/2022 04:09 PM, 04/24/2022 04:09 PM, Customer Svc is working this single customer outage, , 1203673];,# of Outages: 3,Customers Affected: 35,2022-04-24T23:53:32Z
+events[1]=[073,04/24/2022 01:56 PM, 04/24/2022 01:56 PM, Tree Trimming is clearing debris from the area, , 1203667];,# of Outages: 3,Customers Affected: 35,2022-04-24T23:53:32Z
+events[2]=[083,04/24/2022 05:45 PM, 04/24/2022 05:45 PM, Trouble Shooter is determining repairs required, , 1203676];,# of Outages: 3,Customers Affected: 35,2022-04-24T23:53:32Z
