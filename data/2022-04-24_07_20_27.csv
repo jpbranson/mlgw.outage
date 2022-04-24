@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,04/24/2022 01:27 AM, 04/24/2022 01:27 AM, Waiting for an available crew to perform repairs, , 1203624];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[1]=[054,04/23/2022 11:55 PM, 04/23/2022 11:55 PM, Trouble Shooter is working on the problem, 04/24/2022 05:30 AM, 1203620];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[2]=[063,04/23/2022 10:49 PM, 04/23/2022 10:49 PM, Trouble Shooter is determining repairs required, , 1203616];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[3]=[063,04/24/2022 01:39 AM, 04/24/2022 01:39 AM, Trouble Shooter is working on the problem, 04/24/2022 03:00 AM, 1203630];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[4]=[064,04/23/2022 10:01 PM, 04/23/2022 10:01 PM, Waiting for an available crew to perform repairs, 04/24/2022 03:00 AM, 1203588];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[5]=[064,04/24/2022 01:35 AM, 04/24/2022 01:35 AM, Trouble Shooter is working on the problem, 04/24/2022 05:30 AM, 1203627];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[6]=[064,04/24/2022 01:36 AM, 04/24/2022 01:36 AM, Trouble Shooter is working on the problem, 04/24/2022 05:30 AM, 1203628];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[7]=[064,04/24/2022 01:36 AM, 04/24/2022 01:36 AM, Trouble Shooter is working on the problem, 04/24/2022 05:30 AM, 1203629];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[8]=[064,04/24/2022 01:39 AM, 04/24/2022 01:39 AM, Trouble Shooter is working on the problem, 04/24/2022 03:00 AM, 1203630];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[9]=[064,04/24/2022 01:42 AM, 04/24/2022 01:42 AM, Trouble Shooter is working on the problem, 04/24/2022 05:30 AM, 1203631];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[10]=[064,04/24/2022 01:57 AM, 04/24/2022 01:57 AM, Trouble Shooter is working on the problem, 04/24/2022 05:30 AM, 1203638];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[11]=[064,04/24/2022 02:04 AM, 04/24/2022 02:04 AM, Trouble Shooter is working on the problem, 04/24/2022 05:30 AM, 1203639];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[12]=[102,04/24/2022 12:22 AM, 04/24/2022 12:22 AM, Trouble Shooter is determining repairs required, , 1203622];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[13]=[103,04/24/2022 12:03 AM, 04/24/2022 12:03 AM, Waiting for an available crew to perform repairs, , 1203621];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
+events[14]=[104,04/24/2022 12:03 AM, 04/24/2022 12:03 AM, Waiting for an available crew to perform repairs, , 1203621];,# of Outages: 13,Customers Affected: 3750,2022-04-24T07:20:27Z
