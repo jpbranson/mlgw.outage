@@ -1,0 +1,5 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[071,04/24/2022 09:21 AM, 04/24/2022 09:21 AM, Customer Svc is working this single customer outage, , 1203656];,# of Outages: 4,Customers Affected: 4,2022-04-24T18:25:23Z
+events[1]=[074,04/24/2022 01:09 PM, 04/24/2022 01:09 PM, Customer Svc is working this single customer outage, , 1203664];,# of Outages: 4,Customers Affected: 4,2022-04-24T18:25:23Z
+events[2]=[084,04/24/2022 12:49 PM, 04/24/2022 12:49 PM, Customer Svc is working this single customer outage, , 1203663];,# of Outages: 4,Customers Affected: 4,2022-04-24T18:25:23Z
+events[3]=[103,04/24/2022 01:18 PM, 04/24/2022 01:18 PM, The extent of the outage has been determined, , 1203666];,# of Outages: 4,Customers Affected: 4,2022-04-24T18:25:23Z
