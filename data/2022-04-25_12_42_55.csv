@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[029,04/25/2022 07:37 AM, 04/25/2022 07:37 AM, Waiting to be analyzed, , 1203721];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[1]=[071,04/25/2022 06:46 AM, 04/25/2022 06:46 AM, Trouble Shooter is determining repairs required, , 1203715];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[2]=[083,04/25/2022 06:57 AM, 04/25/2022 06:57 AM, Trouble Shooter is determining repairs required, , 1203717];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[3]=[084,04/25/2022 04:02 AM, 04/25/2022 04:02 AM, Trouble Shooter is determining repairs required, , 1203695];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[4]=[086,04/25/2022 04:05 AM, 04/25/2022 04:05 AM, Tree Trimming is clearing debris from the area, , 1203696];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[5]=[087,04/25/2022 07:33 AM, 04/25/2022 07:33 AM, Waiting for an available crew to perform repairs, , 1203718];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[6]=[101,04/25/2022 06:31 AM, 04/25/2022 06:31 AM, Trouble Shooter is determining repairs required, , 1203714];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[7]=[102,04/25/2022 06:04 AM, 04/25/2022 06:04 AM, A crew is currently working on the problem, 04/25/2022 11:00 AM, 1203712];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[8]=[119,04/25/2022 04:24 AM, 04/25/2022 04:24 AM, Trouble Shooter is determining repairs required, , 1203698];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[9]=[119,04/25/2022 04:37 AM, 04/25/2022 04:37 AM, Trouble Shooter is determining repairs required, , 1203703];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[10]=[120,04/25/2022 04:42 AM, 04/25/2022 04:42 AM, Trouble Shooter is determining repairs required, , 1203704];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
+events[11]=[120,04/25/2022 04:46 AM, 04/25/2022 04:46 AM, Trouble Shooter is determining repairs required, , 1203705];,# of Outages: 12,Customers Affected: 264,2022-04-25T12:42:55Z
