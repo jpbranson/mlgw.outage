@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[042,04/26/2022 10:15 AM, 04/26/2022 10:15 AM, Customer Svc is working this single customer outage, , 1203960];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[1]=[052,04/26/2022 07:00 AM, 04/26/2022 07:00 AM, A crew is currently working on the problem, 04/26/2022 03:00 PM, 1203934];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[2]=[052,04/26/2022 09:48 AM, 04/26/2022 09:48 AM, A crew is currently working on the problem, 04/26/2022 12:30 PM, 1203955];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[3]=[053,04/26/2022 07:00 AM, 04/26/2022 07:00 AM, A crew is currently working on the problem, 04/26/2022 03:00 PM, 1203934];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[4]=[059,04/26/2022 10:32 AM, 04/26/2022 10:32 AM, The extent of the outage has been determined, , 1203962];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[5]=[062,04/26/2022 10:25 AM, 04/26/2022 10:25 AM, A crew is currently working on the problem, 04/26/2022 12:00 PM, 1203961];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[6]=[072,04/26/2022 09:19 AM, 04/26/2022 09:19 AM, Trouble Shooter is determining repairs required, , 1203945];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[7]=[073,04/26/2022 07:51 AM, 04/26/2022 07:51 AM, A crew is currently working on the problem, 04/26/2022 12:30 PM, 1203939];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[8]=[083,04/26/2022 08:47 AM, 04/26/2022 08:47 AM, Waiting for an available crew to perform repairs, , 1203943];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[9]=[084,04/26/2022 10:08 AM, 04/26/2022 10:08 AM, Customer Svc is working this single customer outage, , 1203958];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[10]=[085,04/26/2022 10:02 AM, 04/26/2022 10:02 AM, Customer Svc is working this single customer outage, , 1203957];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[11]=[086,04/26/2022 10:34 AM, 04/26/2022 10:34 AM, The extent of the outage has been determined, , 1203963];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[12]=[102,04/26/2022 10:43 AM, 04/26/2022 10:43 AM, Waiting to be analyzed, , 1203964];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
+events[13]=[114,04/26/2022 09:48 AM, 04/26/2022 09:48 AM, Waiting for an available crew to perform repairs, , 1203954];,# of Outages: 13,Customers Affected: 159,2022-04-26T15:46:47Z
