@@ -1,0 +1,5 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,04/26/2022 05:16 AM, 04/26/2022 05:16 AM, Trouble Shooter is working on the problem, 04/26/2022 09:00 AM, 1203925];,# of Outages: 2,Customers Affected: 776,2022-04-26T10:48:25Z
+events[1]=[062,04/26/2022 05:16 AM, 04/26/2022 05:16 AM, Trouble Shooter is working on the problem, 04/26/2022 09:00 AM, 1203925];,# of Outages: 2,Customers Affected: 776,2022-04-26T10:48:25Z
+events[2]=[063,04/26/2022 05:16 AM, 04/26/2022 05:16 AM, Trouble Shooter is working on the problem, 04/26/2022 09:00 AM, 1203925];,# of Outages: 2,Customers Affected: 776,2022-04-26T10:48:25Z
+events[3]=[072,04/26/2022 04:44 AM, 04/26/2022 04:44 AM, Trouble Shooter is determining repairs required, , 1203895];,# of Outages: 2,Customers Affected: 776,2022-04-26T10:48:25Z
