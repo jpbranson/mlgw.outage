@@ -1,0 +1,9 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[071,04/27/2022 08:06 AM, 04/27/2022 08:06 AM, A crew is currently working on the problem, 04/27/2022 12:30 PM, 1204032];,# of Outages: 8,Customers Affected: 73,2022-04-27T15:56:38Z
+events[1]=[073,04/27/2022 10:40 AM, 04/27/2022 10:40 AM, Trouble Shooter is determining repairs required, , 1204048];,# of Outages: 8,Customers Affected: 73,2022-04-27T15:56:38Z
+events[2]=[076,04/27/2022 09:31 AM, 04/27/2022 09:31 AM, Trouble Shooter is determining repairs required, , 1204046];,# of Outages: 8,Customers Affected: 73,2022-04-27T15:56:38Z
+events[3]=[085,04/27/2022 09:28 AM, 04/27/2022 09:28 AM, Trouble Shooter is determining repairs required, , 1204045];,# of Outages: 8,Customers Affected: 73,2022-04-27T15:56:38Z
+events[4]=[085,04/27/2022 10:50 AM, 04/27/2022 10:50 AM, Waiting to be analyzed, , 1204049];,# of Outages: 8,Customers Affected: 73,2022-04-27T15:56:38Z
+events[5]=[086,04/27/2022 03:33 AM, 04/27/2022 03:33 AM, A crew is currently working on the problem, 04/27/2022 05:30 PM, 1204027];,# of Outages: 8,Customers Affected: 73,2022-04-27T15:56:38Z
+events[6]=[098,04/26/2022 12:04 PM, 04/26/2022 12:04 PM, A crew is currently working on the problem, 04/27/2022 11:30 AM, 1203976];,# of Outages: 8,Customers Affected: 73,2022-04-27T15:56:38Z
+events[7]=[100,04/27/2022 09:48 AM, 04/27/2022 09:48 AM, Trouble Shooter is determining repairs required, , 1204047];,# of Outages: 8,Customers Affected: 73,2022-04-27T15:56:38Z
