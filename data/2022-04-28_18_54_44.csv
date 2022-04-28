@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[015,04/28/2022 01:13 PM, 04/28/2022 01:13 PM, A crew is currently working on the problem, 04/28/2022 03:00 PM, 1204364];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[1]=[015,04/28/2022 11:37 AM, 04/28/2022 11:37 AM, A crew is currently working on the problem, 04/28/2022 03:00 PM, 1204356];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[2]=[052,04/28/2022 01:43 PM, 04/28/2022 01:43 PM, Waiting to be analyzed, , 1204365];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[3]=[073,04/28/2022 09:00 AM, 04/28/2022 09:00 AM, A crew is currently working on the problem, 04/28/2022 02:30 PM, 1204334];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[4]=[073,04/28/2022 09:38 AM, 04/28/2022 09:38 AM, Waiting to be analyzed, , 1204343];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[5]=[073,04/28/2022 10:22 AM, 04/28/2022 10:22 AM, A crew is currently working on the problem, 04/28/2022 02:30 PM, 1204344];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[6]=[073,04/28/2022 10:28 AM, 04/28/2022 10:28 AM, A crew is currently working on the problem, 04/28/2022 02:30 PM, 1204345];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[7]=[074,04/28/2022 10:28 AM, 04/28/2022 10:28 AM, A crew is currently working on the problem, 04/28/2022 02:30 PM, 1204345];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[8]=[085,04/28/2022 11:06 AM, 04/28/2022 11:06 AM, Trouble Shooter is determining repairs required, , 1204355];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[9]=[086,04/28/2022 11:06 AM, 04/28/2022 11:06 AM, Trouble Shooter is determining repairs required, , 1204355];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[10]=[114,04/28/2022 08:51 AM, 04/28/2022 08:51 AM, Trouble Shooter is working on the problem, 04/28/2022 01:30 PM, 1204331];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[11]=[114,04/28/2022 10:36 AM, 04/28/2022 10:36 AM, A crew is currently working on the problem, 04/28/2022 02:30 PM, 1204349];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
+events[12]=[118,04/28/2022 01:09 PM, 04/28/2022 01:09 PM, Customer Svc is working this single customer outage, , 1204362];,# of Outages: 11,Customers Affected: 317,2022-04-28T18:54:44Z
