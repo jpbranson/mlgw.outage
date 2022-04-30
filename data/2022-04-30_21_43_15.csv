@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,04/30/2022 02:10 PM, 04/30/2022 02:10 PM, Waiting for an available crew to perform repairs, , 1204523];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[1]=[017,04/30/2022 02:26 PM, 04/30/2022 02:26 PM, Waiting for an available crew to perform repairs, , 1204527];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[2]=[017,04/30/2022 03:06 PM, 04/30/2022 03:06 PM, Waiting for an available crew to perform repairs, , 1204532];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[3]=[050,04/30/2022 03:01 PM, 04/30/2022 03:01 PM, Trouble Shooter is determining repairs required, , 1204531];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[4]=[071,04/30/2022 04:18 PM, 04/30/2022 04:18 PM, Customer Svc is working this single customer outage, , 1204582];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[5]=[086,04/30/2022 04:02 PM, 04/30/2022 04:02 PM, Trouble Shooter is determining repairs required, , 1204581];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[6]=[101,04/30/2022 05:57 AM, 04/30/2022 05:57 AM, A crew is currently working on the problem, 04/30/2022 07:30 PM, 1204500];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[7]=[103,04/30/2022 03:36 PM, 04/30/2022 03:36 PM, Trouble Shooter is determining repairs required, , 1204575];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[8]=[103,04/30/2022 03:38 PM, 04/30/2022 03:38 PM, Trouble Shooter is determining repairs required, , 1204545];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[9]=[118,04/30/2022 03:38 PM, 04/30/2022 03:38 PM, Trouble Shooter is determining repairs required, , 1204545];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[10]=[119,04/30/2022 03:36 PM, 04/30/2022 03:36 PM, Trouble Shooter is determining repairs required, , 1204575];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[11]=[119,04/30/2022 03:38 PM, 04/30/2022 03:38 PM, Trouble Shooter is determining repairs required, , 1204545];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[12]=[119,04/30/2022 03:43 PM, 04/30/2022 03:43 PM, Trouble Shooter is determining repairs required, , 1204576];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
+events[13]=[119,04/30/2022 03:56 PM, 04/30/2022 03:56 PM, Trouble Shooter is determining repairs required, , 1204579];,# of Outages: 11,Customers Affected: 3162,2022-04-30T21:43:15Z
