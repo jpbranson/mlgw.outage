@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,04/30/2022 02:10 PM, 04/30/2022 02:10 PM, Waiting for an available crew to perform repairs, , 1204523];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[1]=[017,04/30/2022 02:26 PM, 04/30/2022 02:26 PM, Waiting for an available crew to perform repairs, , 1204527];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[2]=[017,04/30/2022 03:06 PM, 04/30/2022 03:06 PM, Waiting for an available crew to perform repairs, , 1204532];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[3]=[050,04/30/2022 03:01 PM, 04/30/2022 03:01 PM, Waiting to be analyzed, , 1204531];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[4]=[065,04/30/2022 05:24 PM, 04/30/2022 05:24 PM, Waiting for an available crew to perform repairs, , 1204590];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[5]=[071,04/30/2022 05:13 PM, 04/30/2022 05:13 PM, A crew is currently working on the problem, 04/30/2022 07:00 PM, 1204585];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[6]=[071,04/30/2022 05:13 PM, 04/30/2022 05:13 PM, A crew is currently working on the problem, 04/30/2022 07:00 PM, 1204586];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[7]=[071,04/30/2022 05:13 PM, 04/30/2022 05:13 PM, A crew is currently working on the problem, 04/30/2022 07:00 PM, 1204587];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[8]=[072,04/30/2022 05:13 PM, 04/30/2022 05:13 PM, Trouble Shooter is determining repairs required, , 1204584];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[9]=[073,04/30/2022 05:19 PM, 04/30/2022 05:19 PM, Trouble Shooter is determining repairs required, , 1204588];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[10]=[086,04/30/2022 04:02 PM, 04/30/2022 04:02 PM, Trouble Shooter is determining repairs required, , 1204581];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[11]=[101,04/30/2022 05:57 AM, 04/30/2022 05:57 AM, A crew is currently working on the problem, 04/30/2022 07:30 PM, 1204500];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
+events[12]=[103,04/30/2022 05:35 PM, 04/30/2022 05:35 PM, The extent of the outage has been determined, , 1204591];,# of Outages: 13,Customers Affected: 230,2022-04-30T22:53:51Z
