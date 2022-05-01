@@ -1,0 +1,17 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[016,05/01/2022 02:25 PM, 05/01/2022 02:25 PM, Trouble Shooter is determining repairs required, , 1204726];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[1]=[016,05/01/2022 02:29 PM, 05/01/2022 02:29 PM, Trouble Shooter is determining repairs required, , 1204727];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[2]=[053,05/01/2022 03:42 PM, 05/01/2022 03:42 PM, The extent of the outage has been determined, , 1204732];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[3]=[055,05/01/2022 03:50 PM, 05/01/2022 03:50 PM, Waiting to be analyzed, , 1204771];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[4]=[056,05/01/2022 03:50 PM, 05/01/2022 03:50 PM, Waiting to be analyzed, , 1204771];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[5]=[065,05/01/2022 03:50 PM, 05/01/2022 03:50 PM, Waiting to be analyzed, , 1204771];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[6]=[066,05/01/2022 03:24 PM, 05/01/2022 03:24 PM, A crew is currently working on the problem, , 1204729];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[7]=[066,05/01/2022 03:50 PM, 05/01/2022 03:50 PM, Waiting to be analyzed, , 1204771];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[8]=[066,05/01/2022 03:50 PM, 05/01/2022 03:50 PM, Waiting to be analyzed, , 1204783];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[9]=[067,05/01/2022 03:50 PM, 05/01/2022 03:50 PM, Waiting to be analyzed, , 1204771];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[10]=[073,05/01/2022 03:09 PM, 05/01/2022 03:09 PM, Customer Svc is working this single customer outage, , 1204728];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[11]=[073,05/01/2022 12:17 PM, 05/01/2022 12:17 PM, Waiting for an available crew to perform repairs, , 1204717];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[12]=[074,05/01/2022 03:50 PM, 05/01/2022 03:50 PM, Waiting to be analyzed, , 1204782];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[13]=[089,05/01/2022 02:22 PM, 05/01/2022 02:22 PM, Trouble Shooter is determining repairs required, , 1204725];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[14]=[112,05/01/2022 01:38 PM, 05/01/2022 01:38 PM, Trouble Shooter is determining repairs required, , 1204723];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
+events[15]=[118,05/01/2022 03:40 PM, 05/01/2022 03:40 PM, The extent of the outage has been determined, , 1204731];,# of Outages: 12,Customers Affected: 3189,2022-05-01T20:53:27Z
