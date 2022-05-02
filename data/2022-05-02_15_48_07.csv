@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[054,05/02/2022 08:11 AM, 05/02/2022 08:11 AM, A crew is currently working on the problem, 05/02/2022 02:30 PM, 1204900];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[1]=[062,05/02/2022 10:18 AM, 05/02/2022 10:18 AM, Customer Svc is working this single customer outage, , 1204918];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[2]=[063,05/02/2022 09:49 AM, 05/02/2022 09:49 AM, Trouble Shooter is determining repairs required, , 1204915];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[3]=[072,05/02/2022 08:28 AM, 05/02/2022 08:28 AM, A crew is currently working on the problem, 05/02/2022 12:30 PM, 1204903];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[4]=[074,05/02/2022 07:46 AM, 05/02/2022 07:46 AM, Waiting for an available crew to perform repairs, 05/02/2022 12:00 PM, 1204898];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[5]=[077,05/02/2022 09:22 AM, 05/02/2022 09:22 AM, A crew is currently working on the problem, 05/02/2022 12:00 PM, 1204911];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[6]=[083,05/02/2022 09:21 AM, 05/02/2022 09:21 AM, Customer Svc is working this single customer outage, , 1204910];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[7]=[084,05/02/2022 08:55 AM, 05/02/2022 08:55 AM, A crew is currently working on the problem, 05/02/2022 01:30 PM, 1204908];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[8]=[100,05/02/2022 09:13 AM, 05/02/2022 09:13 AM, Customer Svc is working this single customer outage, , 1204909];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[9]=[101,05/02/2022 09:25 AM, 05/02/2022 09:25 AM, Customer Svc is working this single customer outage, , 1204912];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[10]=[118,05/02/2022 10:03 AM, 05/02/2022 10:03 AM, Customer Svc is working this single customer outage, , 1204917];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
+events[11]=[119,05/02/2022 10:34 AM, 05/02/2022 10:34 AM, Waiting to be analyzed, , 1204919];,# of Outages: 12,Customers Affected: 38,2022-05-02T15:48:07Z
