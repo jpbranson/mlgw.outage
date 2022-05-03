@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,05/03/2022 04:07 AM, 05/03/2022 04:07 AM, Waiting to be analyzed, , 1204980];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[1]=[062,05/03/2022 11:41 AM, 05/03/2022 11:41 AM, Customer Svc is working this single customer outage, , 1205035];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[2]=[071,05/03/2022 10:34 AM, 05/03/2022 10:34 AM, A crew is currently working on the problem, 05/03/2022 01:30 PM, 1205031];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[3]=[071,05/03/2022 12:09 PM, 05/03/2022 12:09 PM, A crew is currently working on the problem, 05/03/2022 04:30 PM, 1205040];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[4]=[074,05/03/2022 04:14 AM, 05/03/2022 04:14 AM, A crew is currently working on the problem, 05/03/2022 02:30 PM, 1204984];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[5]=[074,05/03/2022 12:06 PM, 05/03/2022 12:06 PM, Trouble Shooter is determining repairs required, , 1205038];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[6]=[087,05/03/2022 10:46 AM, 05/03/2022 10:46 AM, A crew is currently working on the problem, 05/03/2022 01:30 PM, 1205033];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[7]=[089,05/03/2022 10:06 AM, 05/03/2022 10:06 AM, A crew is currently working on the problem, 05/03/2022 01:30 PM, 1205023];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[8]=[102,05/03/2022 11:54 AM, 05/03/2022 11:54 AM, Trouble Shooter is determining repairs required, , 1205037];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[9]=[117,05/03/2022 11:52 AM, 05/03/2022 11:52 AM, Trouble Shooter is determining repairs required, , 1205036];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[10]=[118,05/03/2022 09:18 AM, 05/03/2022 09:18 AM, Tree Trimming is clearing debris from the area, , 1205014];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
+events[11]=[118,05/03/2022 12:07 PM, 05/03/2022 12:07 PM, The extent of the outage has been determined, , 1205039];,# of Outages: 12,Customers Affected: 111,2022-05-03T17:12:11Z
