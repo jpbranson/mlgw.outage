@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[031,05/03/2022 04:18 AM, 05/03/2022 04:18 AM, Waiting to be analyzed, , 1204987];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[1]=[031,05/03/2022 04:18 AM, 05/03/2022 04:18 AM, Waiting to be analyzed, , 1204988];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[2]=[050,05/03/2022 04:07 AM, 05/03/2022 04:07 AM, Waiting for an available crew to perform repairs, , 1204980];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[3]=[050,05/03/2022 04:09 AM, 05/03/2022 04:09 AM, Waiting to be analyzed, , 1204981];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[4]=[050,05/03/2022 04:12 AM, 05/03/2022 04:12 AM, Waiting to be analyzed, , 1204983];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[5]=[050,05/03/2022 04:17 AM, 05/03/2022 04:17 AM, Waiting to be analyzed, , 1204986];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[6]=[062,05/03/2022 04:01 AM, 05/03/2022 04:01 AM, The extent of the outage has been determined, , 1204977];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[7]=[073,05/03/2022 03:57 AM, 05/03/2022 03:57 AM, Trouble Shooter is determining repairs required, , 1204976];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[8]=[074,05/03/2022 04:14 AM, 05/03/2022 04:14 AM, The extent of the outage has been determined, , 1204984];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[9]=[083,05/03/2022 12:43 AM, 05/03/2022 12:43 AM, Waiting for an available crew to perform repairs, , 1204975];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[10]=[085,05/03/2022 04:10 AM, 05/03/2022 04:10 AM, Trouble Shooter is determining repairs required, , 1204982];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
+events[11]=[085,05/03/2022 04:15 AM, 05/03/2022 04:15 AM, Waiting to be analyzed, , 1204985];,# of Outages: 12,Customers Affected: 52,2022-05-03T09:22:09Z
