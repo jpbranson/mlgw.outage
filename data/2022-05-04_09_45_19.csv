@@ -1,0 +1,4 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[072,05/04/2022 03:15 AM, 05/04/2022 03:15 AM, A crew is currently working on the problem, 05/04/2022 06:30 AM, 1205093];,# of Outages: 3,Customers Affected: 101,2022-05-04T09:45:19Z
+events[1]=[097,05/03/2022 09:19 PM, 05/03/2022 09:19 PM, A crew is currently working on the problem, 05/04/2022 06:30 AM, 1205084];,# of Outages: 3,Customers Affected: 101,2022-05-04T09:45:19Z
+events[2]=[102,05/04/2022 04:35 AM, 05/04/2022 04:35 AM, The extent of the outage has been determined, , 1205097];,# of Outages: 3,Customers Affected: 101,2022-05-04T09:45:19Z
