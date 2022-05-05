@@ -1,0 +1,3 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,05/04/2022 10:01 PM, 05/04/2022 10:01 PM, Customer Svc is working this single customer outage, , 1205286];,# of Outages: 2,Customers Affected: 2,2022-05-05T03:15:13Z
+events[1]=[116,05/04/2022 09:02 AM, 05/04/2022 09:02 AM, A crew is currently working on the problem, 05/05/2022 01:30 AM, 1205119];,# of Outages: 2,Customers Affected: 2,2022-05-05T03:15:13Z
