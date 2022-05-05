@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,05/05/2022 10:50 AM, 05/05/2022 10:50 AM, Trouble Shooter is determining repairs required, , 1205307];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[1]=[043,05/05/2022 08:42 AM, 05/05/2022 08:42 AM, A crew is currently working on the problem, 05/05/2022 01:00 PM, 1205296];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[2]=[055,05/05/2022 08:36 AM, 05/05/2022 08:36 AM, A crew is currently working on the problem, 05/05/2022 01:00 PM, 1205292];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[3]=[062,05/05/2022 10:17 AM, 05/05/2022 10:17 AM, Trouble Shooter is determining repairs required, , 1205305];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[4]=[074,05/05/2022 07:56 AM, 05/05/2022 07:56 AM, A crew is currently working on the problem, 05/05/2022 02:30 PM, 1205288];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[5]=[088,05/05/2022 10:58 AM, 05/05/2022 10:58 AM, Tree Trimming is clearing debris from the area, 05/05/2022 01:30 PM, 1205310];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[6]=[090,05/05/2022 10:56 AM, 05/05/2022 10:56 AM, A crew is currently working on the problem, 05/05/2022 01:30 PM, 1205309];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[7]=[097,05/05/2022 11:48 AM, 05/05/2022 11:48 AM, Trouble Shooter is determining repairs required, , 1205311];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[8]=[097,05/05/2022 11:59 AM, 05/05/2022 11:59 AM, Waiting to be analyzed, , 1205312];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[9]=[098,05/05/2022 12:00 PM, 05/05/2022 12:00 PM, Waiting to be analyzed, , 1205313];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
+events[10]=[113,05/05/2022 09:52 AM, 05/05/2022 09:52 AM, Trouble Shooter is determining repairs required, , 1205302];,# of Outages: 11,Customers Affected: 85,2022-05-05T17:03:10Z
