@@ -1,0 +1,23 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[016,05/06/2022 09:41 AM, 05/06/2022 09:41 AM, Trouble Shooter is determining repairs required, , 1205621];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[1]=[049,05/06/2022 09:38 AM, 05/06/2022 09:38 AM, Trouble Shooter is determining repairs required, , 1205620];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[2]=[059,05/06/2022 09:26 AM, 05/06/2022 09:26 AM, Trouble Shooter is determining repairs required, , 1205616];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[3]=[060,05/06/2022 12:18 PM, 05/06/2022 12:18 PM, Waiting to be analyzed, , 1205659];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[4]=[072,05/06/2022 10:57 AM, 05/06/2022 10:57 AM, Trouble Shooter is determining repairs required, , 1205641];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[5]=[073,05/05/2022 09:38 PM, 05/05/2022 09:38 PM, Trouble Shooter is determining repairs required, , 1205483];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[6]=[073,05/06/2022 12:38 PM, 05/06/2022 12:38 PM, The extent of the outage has been determined, , 1205664];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[7]=[083,05/05/2022 09:43 PM, 05/05/2022 09:43 PM, A crew is currently working on the problem, , 1205488];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[8]=[085,05/06/2022 12:28 PM, 05/06/2022 12:28 PM, Waiting for an available crew to perform repairs, , 1205662];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[9]=[085,05/06/2022 12:39 PM, 05/06/2022 12:39 PM, Waiting for an available crew to perform repairs, , 1205665];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[10]=[086,05/06/2022 01:19 AM, 05/06/2022 01:19 AM, A crew is currently working on the problem, 05/06/2022 04:00 PM, 1205529];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[11]=[086,05/06/2022 11:25 AM, 05/06/2022 11:25 AM, Waiting for an available crew to perform repairs, 05/06/2022 02:30 PM, 1205644];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[12]=[086,05/06/2022 11:42 AM, 05/06/2022 11:42 AM, Waiting to be analyzed, , 1205649];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[13]=[087,05/06/2022 08:07 AM, 05/06/2022 08:07 AM, A crew is currently working on the problem, 05/06/2022 02:30 PM, 1205564];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[14]=[088,05/06/2022 10:30 AM, 05/06/2022 10:30 AM, Trouble Shooter is determining repairs required, , 1205637];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[15]=[089,05/06/2022 08:33 AM, 05/06/2022 08:33 AM, A crew is currently working on the problem, 05/06/2022 01:00 PM, 1205587];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[16]=[096,05/05/2022 09:33 PM, 05/05/2022 09:33 PM, A crew is currently working on the problem, 05/06/2022 02:30 PM, 1205479];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[17]=[097,05/05/2022 09:33 PM, 05/05/2022 09:33 PM, A crew is currently working on the problem, 05/06/2022 02:30 PM, 1205479];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[18]=[101,05/06/2022 11:52 AM, 05/06/2022 11:52 AM, Customer Svc is working this single customer outage, , 1205655];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[19]=[102,05/06/2022 07:10 AM, 05/06/2022 07:10 AM, Trouble Shooter is determining repairs required, , 1205558];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[20]=[113,05/06/2022 06:45 AM, 05/06/2022 06:45 AM, A crew is currently working on the problem, 05/06/2022 01:00 PM, 1205555];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
+events[21]=[115,05/06/2022 08:55 AM, 05/06/2022 08:55 AM, Trouble Shooter is determining repairs required, , 1205591];,# of Outages: 21,Customers Affected: 554,2022-05-06T17:47:03Z
