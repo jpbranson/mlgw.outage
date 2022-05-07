@@ -1,0 +1,5 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[073,05/07/2022 07:01 AM, 05/07/2022 07:01 AM, Tree Trimming is clearing debris from the area, , 1205780];,# of Outages: 4,Customers Affected: 96,2022-05-07T19:53:54Z
+events[1]=[101,05/07/2022 02:49 PM, 05/07/2022 02:49 PM, Waiting to be analyzed, , 1205801];,# of Outages: 4,Customers Affected: 96,2022-05-07T19:53:54Z
+events[2]=[113,05/07/2022 02:23 PM, 05/07/2022 02:23 PM, Waiting for an available crew to perform repairs, , 1205799];,# of Outages: 4,Customers Affected: 96,2022-05-07T19:53:54Z
+events[3]=[116,05/07/2022 02:36 PM, 05/07/2022 02:36 PM, A crew is currently working on the problem, 05/07/2022 04:00 PM, 1205800];,# of Outages: 4,Customers Affected: 96,2022-05-07T19:53:54Z
