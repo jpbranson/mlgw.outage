@@ -1,0 +1,5 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[032,05/08/2022 06:00 PM, 05/08/2022 06:00 PM, Waiting for an available crew to perform repairs, , 1205855];,# of Outages: 4,Customers Affected: 52,2022-05-09T01:55:48Z
+events[1]=[060,05/08/2022 06:23 PM, 05/08/2022 06:23 PM, Trouble Shooter is determining repairs required, , 1205858];,# of Outages: 4,Customers Affected: 52,2022-05-09T01:55:48Z
+events[2]=[087,05/08/2022 05:43 PM, 05/08/2022 05:43 PM, Tree Trimming is clearing debris from the area, , 1205854];,# of Outages: 4,Customers Affected: 52,2022-05-09T01:55:48Z
+events[3]=[100,05/08/2022 08:22 PM, 05/08/2022 08:22 PM, Customer Svc is working this single customer outage, , 1205863];,# of Outages: 4,Customers Affected: 52,2022-05-09T01:55:48Z
