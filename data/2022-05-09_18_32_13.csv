@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,05/09/2022 10:47 AM, 05/09/2022 10:47 AM, A crew is currently working on the problem, 05/09/2022 02:30 PM, 1205902];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[1]=[051,05/09/2022 11:12 AM, 05/09/2022 11:12 AM, A crew is currently working on the problem, 05/09/2022 01:30 PM, 1205904];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[2]=[053,05/09/2022 12:02 PM, 05/09/2022 12:02 PM, Waiting for an available crew to perform repairs, , 1205909];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[3]=[062,05/09/2022 11:28 AM, 05/09/2022 11:28 AM, Tree Trimming is clearing debris from the area, , 1205908];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[4]=[065,05/09/2022 12:45 PM, 05/09/2022 12:45 PM, A crew is currently working on the problem, 05/09/2022 02:00 PM, 1205912];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[5]=[082,05/09/2022 12:11 PM, 05/09/2022 12:11 PM, Customer Svc is working this single customer outage, , 1205911];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[6]=[083,05/09/2022 01:11 PM, 05/09/2022 01:11 PM, The extent of the outage has been determined, , 1205913];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[7]=[086,05/09/2022 10:08 AM, 05/09/2022 10:08 AM, A crew is currently working on the problem, 05/09/2022 03:30 PM, 1205894];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[8]=[098,05/09/2022 09:15 AM, 05/09/2022 09:15 AM, A crew is currently working on the problem, 05/09/2022 06:30 PM, 1205886];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[9]=[100,05/09/2022 10:31 AM, 05/09/2022 10:31 AM, Waiting to be analyzed, , 1205899];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
+events[10]=[101,05/09/2022 11:26 AM, 05/09/2022 11:26 AM, Tree Trimming is clearing debris from the area, , 1205907];,# of Outages: 11,Customers Affected: 45,2022-05-09T18:32:13Z
