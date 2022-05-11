@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[063,05/10/2022 04:02 PM, 05/10/2022 04:02 PM, A crew is currently working on the problem, 05/11/2022 02:00 AM, 1206070];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[1]=[084,05/10/2022 10:50 PM, 05/10/2022 10:50 PM, Customer Svc is working this single customer outage, , 1206104];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[2]=[086,05/10/2022 11:34 PM, 05/10/2022 11:34 PM, Trouble Shooter is determining repairs required, , 1206106];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[3]=[087,05/10/2022 08:25 PM, 05/10/2022 08:25 PM, A crew is currently working on the problem, 05/11/2022 02:00 AM, 1206090];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[4]=[087,05/10/2022 10:12 PM, 05/10/2022 10:12 PM, Waiting for an available crew to perform repairs, , 1206101];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[5]=[097,05/10/2022 04:26 PM, 05/10/2022 04:26 PM, A crew is currently working on the problem, 05/11/2022 12:30 AM, 1206074];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[6]=[100,05/10/2022 11:34 PM, 05/10/2022 11:34 PM, Trouble Shooter is determining repairs required, , 1206106];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[7]=[100,05/10/2022 11:52 PM, 05/10/2022 11:52 PM, Waiting to be analyzed, , 1206108];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[8]=[102,05/10/2022 09:34 PM, 05/10/2022 09:34 PM, A crew is currently working on the problem, 05/11/2022 01:00 AM, 1206097];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[9]=[102,05/10/2022 10:05 PM, 05/10/2022 10:05 PM, A crew is currently working on the problem, 05/11/2022 01:00 AM, 1206100];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[10]=[118,05/10/2022 09:24 PM, 05/10/2022 09:24 PM, Waiting for an available crew to perform repairs, , 1206095];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
+events[11]=[119,05/10/2022 08:13 PM, 05/10/2022 08:13 PM, Tree Trimming is clearing debris from the area, , 1206089];,# of Outages: 11,Customers Affected: 300,2022-05-11T04:57:55Z
