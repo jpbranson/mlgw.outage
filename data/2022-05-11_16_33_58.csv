@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,05/11/2022 09:55 AM, 05/11/2022 09:55 AM, Trouble Shooter is determining repairs required, , 1206145];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[1]=[027,05/11/2022 09:37 AM, 05/11/2022 09:37 AM, A crew is currently working on the problem, 05/11/2022 02:30 PM, 1206142];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[2]=[049,05/11/2022 10:49 AM, 05/11/2022 10:49 AM, Trouble Shooter is determining repairs required, , 1206151];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[3]=[051,05/11/2022 11:25 AM, 05/11/2022 11:25 AM, Waiting to be analyzed, , 1206160];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[4]=[071,05/11/2022 11:13 AM, 05/11/2022 11:13 AM, Customer Svc is working this single customer outage, , 1206157];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[5]=[073,05/11/2022 08:29 AM, 05/11/2022 08:29 AM, A crew is currently working on the problem, 05/11/2022 12:00 PM, 1206134];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[6]=[073,05/11/2022 10:56 AM, 05/11/2022 10:56 AM, Trouble Shooter is determining repairs required, , 1206153];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[7]=[073,05/11/2022 10:57 AM, 05/11/2022 10:57 AM, Customer Svc is working this single customer outage, , 1206154];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[8]=[073,05/11/2022 10:58 AM, 05/11/2022 10:58 AM, A crew is currently working on the problem, 05/11/2022 02:30 PM, 1206155];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[9]=[084,05/11/2022 11:20 AM, 05/11/2022 11:20 AM, The extent of the outage has been determined, , 1206158];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[10]=[098,05/11/2022 08:57 AM, 05/11/2022 08:57 AM, A crew is currently working on the problem, 05/11/2022 11:30 AM, 1206135];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[11]=[098,05/11/2022 08:57 AM, 05/11/2022 08:57 AM, A crew is currently working on the problem, 05/11/2022 11:30 AM, 1206136];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[12]=[098,05/11/2022 08:58 AM, 05/11/2022 08:58 AM, A crew is currently working on the problem, 05/11/2022 11:30 AM, 1206137];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
+events[13]=[101,05/11/2022 11:24 AM, 05/11/2022 11:24 AM, The extent of the outage has been determined, , 1206159];,# of Outages: 14,Customers Affected: 107,2022-05-11T16:33:58Z
