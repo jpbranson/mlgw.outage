@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,05/12/2022 11:47 AM, 05/12/2022 11:47 AM, A crew is currently working on the problem, , 1206539];,# of Outages: 8,Customers Affected: 102,2022-05-12T20:53:32Z
+events[1]=[060,05/12/2022 11:47 AM, 05/12/2022 11:47 AM, A crew is currently working on the problem, , 1206539];,# of Outages: 8,Customers Affected: 102,2022-05-12T20:53:32Z
+events[2]=[074,05/12/2022 02:19 PM, 05/12/2022 02:19 PM, A crew is currently working on the problem, 05/12/2022 05:00 PM, 1206552];,# of Outages: 8,Customers Affected: 102,2022-05-12T20:53:32Z
+events[3]=[083,05/12/2022 11:55 AM, 05/12/2022 11:55 AM, A crew is currently working on the problem, 05/12/2022 04:00 PM, 1206540];,# of Outages: 8,Customers Affected: 102,2022-05-12T20:53:32Z
+events[4]=[087,05/12/2022 02:34 PM, 05/12/2022 02:34 PM, A crew is currently working on the problem, 05/12/2022 04:30 PM, 1206553];,# of Outages: 8,Customers Affected: 102,2022-05-12T20:53:32Z
+events[5]=[100,05/12/2022 03:40 PM, 05/12/2022 03:40 PM, Waiting to be analyzed, , 1206557];,# of Outages: 8,Customers Affected: 102,2022-05-12T20:53:32Z
+events[6]=[101,05/12/2022 03:39 PM, 05/12/2022 03:39 PM, Trouble Shooter is determining repairs required, , 1206556];,# of Outages: 8,Customers Affected: 102,2022-05-12T20:53:32Z
+events[7]=[101,05/12/2022 03:41 PM, 05/12/2022 03:41 PM, Waiting to be analyzed, , 1206558];,# of Outages: 8,Customers Affected: 102,2022-05-12T20:53:32Z
+events[8]=[101,05/12/2022 03:45 PM, 05/12/2022 03:45 PM, Waiting to be analyzed, , 1206559];,# of Outages: 8,Customers Affected: 102,2022-05-12T20:53:32Z
