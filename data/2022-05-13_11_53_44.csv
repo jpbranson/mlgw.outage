@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,05/13/2022 06:38 AM, 05/13/2022 06:38 AM, Waiting for an available crew to perform repairs, , 1206643];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[1]=[052,05/13/2022 03:56 AM, 05/13/2022 03:56 AM, A crew is currently working on the problem, , 1206630];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[2]=[052,05/13/2022 06:23 AM, 05/13/2022 06:23 AM, A crew is currently working on the problem, 05/13/2022 10:00 AM, 1206641];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[3]=[072,05/13/2022 06:41 AM, 05/13/2022 06:41 AM, The extent of the outage has been determined, , 1206646];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[4]=[100,05/13/2022 01:17 AM, 05/13/2022 01:17 AM, A crew is currently working on the problem, , 1206626];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[5]=[117,05/13/2022 06:44 AM, 05/13/2022 06:44 AM, Waiting for an available crew to perform repairs, 05/13/2022 08:45 AM, 1206648];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[6]=[118,05/13/2022 06:44 AM, 05/13/2022 06:44 AM, Waiting for an available crew to perform repairs, 05/13/2022 08:45 AM, 1206648];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[7]=[119,05/13/2022 06:05 AM, 05/13/2022 06:05 AM, Waiting for an available crew to perform repairs, , 1206640];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[8]=[119,05/13/2022 06:44 AM, 05/13/2022 06:44 AM, Waiting for an available crew to perform repairs, 05/13/2022 08:45 AM, 1206648];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[9]=[134,05/13/2022 06:44 AM, 05/13/2022 06:44 AM, Waiting for an available crew to perform repairs, 05/13/2022 08:45 AM, 1206648];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
+events[10]=[135,05/13/2022 06:44 AM, 05/13/2022 06:44 AM, Waiting for an available crew to perform repairs, 05/13/2022 08:45 AM, 1206648];,# of Outages: 7,Customers Affected: 2877,2022-05-13T11:53:44Z
