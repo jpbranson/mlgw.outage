@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[053,05/13/2022 10:11 AM, 05/13/2022 10:11 AM, A crew is currently working on the problem, 05/13/2022 04:30 PM, 1206719];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[1]=[064,05/13/2022 10:11 AM, 05/13/2022 10:11 AM, A crew is currently working on the problem, 05/13/2022 04:30 PM, 1206719];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[2]=[066,05/13/2022 01:13 PM, 05/13/2022 01:13 PM, Customer Svc is working this single customer outage, , 1206734];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[3]=[071,05/13/2022 12:20 PM, 05/13/2022 12:20 PM, Waiting for an available crew to perform repairs, , 1206733];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[4]=[073,05/13/2022 11:55 AM, 05/13/2022 11:55 AM, Trouble Shooter is determining repairs required, , 1206729];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[5]=[073,05/13/2022 11:57 AM, 05/13/2022 11:57 AM, Trouble Shooter is determining repairs required, , 1206730];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[6]=[107,05/13/2022 12:16 PM, 05/13/2022 12:16 PM, A crew is currently working on the problem, 05/13/2022 03:30 PM, 1206732];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[7]=[118,05/13/2022 01:36 PM, 05/13/2022 01:36 PM, Waiting to be analyzed, , 1206736];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[8]=[119,05/13/2022 01:22 PM, 05/13/2022 01:22 PM, Customer Svc is working this single customer outage, , 1206735];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[9]=[120,05/13/2022 06:55 AM, 05/13/2022 06:55 AM, A crew is currently working on the problem, 05/13/2022 04:00 PM, 1206682];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[10]=[121,05/13/2022 06:55 AM, 05/13/2022 06:55 AM, A crew is currently working on the problem, 05/13/2022 04:00 PM, 1206682];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
+events[11]=[137,05/13/2022 06:55 AM, 05/13/2022 06:55 AM, A crew is currently working on the problem, 05/13/2022 04:00 PM, 1206682];,# of Outages: 9,Customers Affected: 73,2022-05-13T18:50:23Z
