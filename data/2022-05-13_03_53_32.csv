@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[071,05/12/2022 06:58 PM, 05/12/2022 06:58 PM, Waiting for an available crew to perform repairs, , 1206597];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[1]=[074,05/12/2022 05:34 PM, 05/12/2022 05:34 PM, A crew is currently working on the problem, 05/13/2022 01:30 AM, 1206575];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[2]=[074,05/12/2022 10:43 PM, 05/12/2022 10:43 PM, The extent of the outage has been determined, , 1206619];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[3]=[098,05/12/2022 07:11 PM, 05/12/2022 07:11 PM, A crew is currently working on the problem, 05/13/2022 01:00 AM, 1206602];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[4]=[100,05/12/2022 03:40 PM, 05/12/2022 03:40 PM, Waiting for an available crew to perform repairs, , 1206557];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[5]=[100,05/12/2022 04:02 PM, 05/12/2022 04:02 PM, Waiting for an available crew to perform repairs, , 1206562];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[6]=[100,05/12/2022 09:25 PM, 05/12/2022 09:25 PM, Waiting for an available crew to perform repairs, , 1206612];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[7]=[100,05/12/2022 09:31 PM, 05/12/2022 09:31 PM, Waiting for an available crew to perform repairs, , 1206613];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[8]=[101,05/12/2022 06:33 PM, 05/12/2022 06:33 PM, A crew is currently working on the problem, 05/13/2022 02:00 AM, 1206586];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[9]=[102,05/12/2022 10:11 PM, 05/12/2022 10:11 PM, Customer Svc is working this single customer outage, , 1206617];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[10]=[102,05/12/2022 10:23 PM, 05/12/2022 10:23 PM, Customer Svc is working this single customer outage, , 1206618];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[11]=[119,05/12/2022 05:10 PM, 05/12/2022 05:10 PM, A crew is currently working on the problem, 05/12/2022 11:50 PM, 1206573];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
+events[12]=[119,05/12/2022 05:37 PM, 05/12/2022 05:37 PM, A crew is currently working on the problem, 05/13/2022 01:30 AM, 1206576];,# of Outages: 13,Customers Affected: 208,2022-05-13T03:53:32Z
