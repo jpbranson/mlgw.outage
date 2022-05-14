@@ -1,0 +1,23 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[060,05/14/2022 12:56 AM, 05/14/2022 12:56 AM, Waiting for an available crew to perform repairs, , 1206895];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[1]=[060,05/14/2022 12:59 AM, 05/14/2022 12:59 AM, Waiting for an available crew to perform repairs, , 1206896];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[2]=[065,05/14/2022 02:18 AM, 05/14/2022 02:18 AM, Waiting for an available crew to perform repairs, , 1206926];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[3]=[066,05/14/2022 06:06 AM, 05/14/2022 06:06 AM, Customer Svc is working this single customer outage, , 1206950];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[4]=[072,05/13/2022 08:43 PM, 05/13/2022 08:43 PM, Waiting for an available crew to perform repairs, , 1206882];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[5]=[072,05/13/2022 09:05 PM, 05/13/2022 09:05 PM, Waiting for an available crew to perform repairs, , 1206884];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[6]=[073,05/14/2022 01:19 AM, 05/14/2022 01:19 AM, Waiting for an available crew to perform repairs, , 1206900];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[7]=[073,05/14/2022 05:29 AM, 05/14/2022 05:29 AM, Waiting for an available crew to perform repairs, , 1206948];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[8]=[076,05/14/2022 03:28 AM, 05/14/2022 03:28 AM, Waiting for an available crew to perform repairs, , 1206932];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[9]=[083,05/14/2022 12:49 AM, 05/14/2022 12:49 AM, Waiting for an available crew to perform repairs, , 1206894];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[10]=[084,05/13/2022 02:13 PM, 05/13/2022 02:13 PM, A crew is currently working on the problem, 05/14/2022 08:00 AM, 1206741];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[11]=[084,05/14/2022 01:56 AM, 05/14/2022 01:56 AM, Waiting for an available crew to perform repairs, 05/14/2022 06:30 AM, 1206916];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[12]=[085,05/13/2022 08:46 PM, 05/13/2022 08:46 PM, Waiting for an available crew to perform repairs, , 1206883];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[13]=[085,05/14/2022 01:56 AM, 05/14/2022 01:56 AM, Waiting for an available crew to perform repairs, 05/14/2022 06:30 AM, 1206916];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[14]=[085,05/14/2022 04:25 AM, 05/14/2022 04:25 AM, Waiting for an available crew to perform repairs, 05/14/2022 06:30 AM, 1206944];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[15]=[088,05/13/2022 04:45 PM, 05/13/2022 04:45 PM, Waiting for an available crew to perform repairs, , 1206831];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[16]=[088,05/14/2022 01:26 AM, 05/14/2022 01:26 AM, Waiting for an available crew to perform repairs, , 1206901];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[17]=[089,05/13/2022 09:42 PM, 05/13/2022 09:42 PM, Tree Trimming is clearing debris from the area, , 1206885];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[18]=[099,05/13/2022 11:09 PM, 05/13/2022 11:09 PM, Waiting for an available crew to perform repairs, , 1206888];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[19]=[099,05/14/2022 01:56 AM, 05/14/2022 01:56 AM, Waiting for an available crew to perform repairs, 05/14/2022 06:30 AM, 1206916];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[20]=[099,05/14/2022 04:25 AM, 05/14/2022 04:25 AM, Waiting for an available crew to perform repairs, 05/14/2022 06:30 AM, 1206944];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
+events[21]=[118,05/13/2022 07:56 PM, 05/13/2022 07:56 PM, Tree Trimming is clearing debris from the area, , 1206867];,# of Outages: 19,Customers Affected: 1029,2022-05-14T11:30:43Z
