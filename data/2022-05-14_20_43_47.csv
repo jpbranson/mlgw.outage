@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[084,05/14/2022 01:56 AM, 05/14/2022 01:56 AM, A crew is currently working on the problem, 05/14/2022 05:30 PM, 1206916];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[1]=[085,05/14/2022 01:56 AM, 05/14/2022 01:56 AM, A crew is currently working on the problem, 05/14/2022 05:30 PM, 1206916];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[2]=[085,05/14/2022 04:25 AM, 05/14/2022 04:25 AM, A crew is currently working on the problem, 05/14/2022 05:30 PM, 1206944];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[3]=[085,05/14/2022 07:10 AM, 05/14/2022 07:10 AM, A crew is currently working on the problem, 05/14/2022 05:30 PM, 1206956];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[4]=[087,05/14/2022 03:08 PM, 05/14/2022 03:08 PM, Customer Svc is working this single customer outage, , 1206978];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[5]=[088,05/14/2022 01:26 AM, 05/14/2022 01:26 AM, A crew is currently working on the problem, 05/14/2022 07:00 PM, 1206901];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[6]=[099,05/14/2022 01:56 AM, 05/14/2022 01:56 AM, A crew is currently working on the problem, 05/14/2022 05:30 PM, 1206916];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[7]=[099,05/14/2022 04:25 AM, 05/14/2022 04:25 AM, A crew is currently working on the problem, 05/14/2022 05:30 PM, 1206944];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[8]=[100,05/14/2022 03:31 PM, 05/14/2022 03:31 PM, Customer Svc is working this single customer outage, , 1206979];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[9]=[114,05/14/2022 07:09 AM, 05/14/2022 07:09 AM, Waiting for an available crew to perform repairs, , 1206955];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[10]=[114,05/14/2022 07:15 AM, 05/14/2022 07:15 AM, Waiting for an available crew to perform repairs, , 1206957];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
+events[11]=[118,05/14/2022 06:31 AM, 05/14/2022 06:31 AM, Trouble Shooter is determining repairs required, , 1206951];,# of Outages: 9,Customers Affected: 588,2022-05-14T20:43:47Z
