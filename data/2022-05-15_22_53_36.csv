@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,05/15/2022 12:44 PM, 05/15/2022 12:44 PM, Waiting for an available crew to perform repairs, , 1207069];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[1]=[049,05/15/2022 04:57 PM, 05/15/2022 04:57 PM, Customer Svc is working this single customer outage, , 1207093];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[2]=[052,05/14/2022 10:44 PM, 05/14/2022 10:44 PM, A crew is currently working on the problem, 05/15/2022 06:30 PM, 1207006];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[3]=[052,05/15/2022 04:57 PM, 05/15/2022 04:57 PM, Trouble Shooter is determining repairs required, , 1207092];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[4]=[063,05/15/2022 04:57 PM, 05/15/2022 04:57 PM, Trouble Shooter is determining repairs required, , 1207092];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[5]=[085,05/15/2022 04:52 PM, 05/15/2022 04:52 PM, Customer Svc is working this single customer outage, , 1207091];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[6]=[085,05/15/2022 09:05 AM, 05/15/2022 09:05 AM, A crew is currently working on the problem, 05/15/2022 07:30 PM, 1207040];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[7]=[088,05/15/2022 03:10 PM, 05/15/2022 03:10 PM, Tree Trimming is clearing debris from the area, , 1207084];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[8]=[099,05/15/2022 05:47 PM, 05/15/2022 05:47 PM, The extent of the outage has been determined, , 1207098];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[9]=[114,05/15/2022 05:40 PM, 05/15/2022 05:40 PM, Trouble Shooter is determining repairs required, , 1207096];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[10]=[119,05/15/2022 05:46 PM, 05/15/2022 05:46 PM, The extent of the outage has been determined, , 1207097];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
+events[11]=[135,05/15/2022 05:51 PM, 05/15/2022 05:51 PM, Waiting to be analyzed, , 1207099];,# of Outages: 11,Customers Affected: 167,2022-05-15T22:53:36Z
