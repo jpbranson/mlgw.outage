@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[020,05/17/2022 04:54 PM, 05/17/2022 04:54 PM, A crew is currently working on the problem, 05/17/2022 06:30 PM, 1207374];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[1]=[072,05/17/2022 02:16 PM, 05/17/2022 02:16 PM, Trouble Shooter is determining repairs required, , 1207365];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[2]=[073,05/17/2022 06:13 PM, 05/17/2022 06:13 PM, Trouble Shooter is determining repairs required, , 1207381];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[3]=[074,05/17/2022 04:00 PM, 05/17/2022 04:00 PM, Trouble Shooter is determining repairs required, , 1207371];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[4]=[075,05/17/2022 06:44 PM, 05/17/2022 06:44 PM, Waiting to be analyzed, , 1207384];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[5]=[083,05/17/2022 05:51 PM, 05/17/2022 05:51 PM, Trouble Shooter is determining repairs required, , 1207378];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[6]=[085,05/17/2022 06:34 PM, 05/17/2022 06:34 PM, A crew is currently working on the problem, 05/17/2022 09:30 PM, 1207383];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[7]=[100,05/17/2022 06:15 PM, 05/17/2022 06:15 PM, Customer Svc is working this single customer outage, , 1207382];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[8]=[101,05/17/2022 05:51 PM, 05/17/2022 05:51 PM, A crew is currently working on the problem, 05/17/2022 09:30 PM, 1207379];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[9]=[113,05/17/2022 06:02 PM, 05/17/2022 06:02 PM, Trouble Shooter is determining repairs required, , 1207380];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
+events[10]=[115,05/17/2022 03:36 PM, 05/17/2022 03:36 PM, Customer Svc is working this single customer outage, , 1207370];,# of Outages: 11,Customers Affected: 29,2022-05-17T23:53:54Z
