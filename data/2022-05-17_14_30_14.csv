@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,05/17/2022 09:05 AM, 05/17/2022 09:05 AM, Waiting to be analyzed, , 1207331];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[1]=[065,05/17/2022 09:10 AM, 05/17/2022 09:10 AM, Customer Svc is working this single customer outage, , 1207333];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[2]=[072,05/17/2022 08:20 AM, 05/17/2022 08:20 AM, A crew is currently working on the problem, 05/17/2022 12:00 PM, 1207324];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[3]=[074,05/17/2022 08:29 AM, 05/17/2022 08:29 AM, Customer Svc is working this single customer outage, , 1207326];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[4]=[084,05/17/2022 08:08 AM, 05/17/2022 08:08 AM, A crew is currently working on the problem, 05/17/2022 01:30 PM, 1207323];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[5]=[084,05/17/2022 09:09 AM, 05/17/2022 09:09 AM, Waiting for an available crew to perform repairs, , 1207332];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[6]=[085,05/17/2022 08:53 AM, 05/17/2022 08:53 AM, Customer Svc is working this single customer outage, , 1207329];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[7]=[085,05/17/2022 09:09 AM, 05/17/2022 09:09 AM, Waiting for an available crew to perform repairs, , 1207332];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[8]=[099,05/17/2022 09:09 AM, 05/17/2022 09:09 AM, Waiting for an available crew to perform repairs, , 1207332];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[9]=[113,05/17/2022 07:20 AM, 05/17/2022 07:20 AM, Tree Trimming is clearing debris from the area, , 1207321];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
+events[10]=[117,05/16/2022 08:59 AM, 05/16/2022 08:59 AM, Tree Trimming is clearing debris from the area, , 1207168];,# of Outages: 9,Customers Affected: 168,2022-05-17T14:30:14Z
