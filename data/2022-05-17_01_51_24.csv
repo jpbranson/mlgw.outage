@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[073,05/16/2022 05:21 PM, 05/16/2022 05:21 PM, A crew is currently working on the problem, 05/16/2022 09:30 PM, 1207279];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[1]=[076,05/16/2022 10:13 AM, 05/16/2022 10:13 AM, A crew is currently working on the problem, 05/16/2022 11:00 PM, 1207176];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[2]=[076,05/16/2022 10:17 AM, 05/16/2022 10:17 AM, A crew is currently working on the problem, 05/16/2022 11:00 PM, 1207177];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[3]=[076,05/16/2022 10:25 AM, 05/16/2022 10:25 AM, A crew is currently working on the problem, 05/16/2022 11:00 PM, 1207181];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[4]=[076,05/16/2022 10:44 AM, 05/16/2022 10:44 AM, A crew is currently working on the problem, 05/16/2022 11:00 PM, 1207185];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[5]=[076,05/16/2022 10:47 AM, 05/16/2022 10:47 AM, A crew is currently working on the problem, 05/16/2022 11:00 PM, 1207186];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[6]=[084,05/16/2022 02:23 PM, 05/16/2022 02:23 PM, A crew is currently working on the problem, 05/16/2022 10:30 PM, 1207258];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[7]=[085,05/16/2022 02:23 PM, 05/16/2022 02:23 PM, A crew is currently working on the problem, 05/16/2022 10:30 PM, 1207258];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[8]=[085,05/16/2022 08:35 PM, 05/16/2022 08:35 PM, Trouble Shooter is working on the problem, 05/16/2022 10:30 PM, 1207289];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[9]=[099,05/16/2022 02:23 PM, 05/16/2022 02:23 PM, A crew is currently working on the problem, 05/16/2022 10:30 PM, 1207258];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[10]=[100,05/16/2022 08:45 PM, 05/16/2022 08:45 PM, The extent of the outage has been determined, , 1207290];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
+events[11]=[117,05/16/2022 09:00 AM, 05/16/2022 09:00 AM, Waiting for an available crew to perform repairs, , 1207168];,# of Outages: 10,Customers Affected: 374,2022-05-17T01:51:24Z
