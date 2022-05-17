@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[061,05/17/2022 10:01 AM, 05/17/2022 10:01 AM, A crew is currently working on the problem, 05/17/2022 03:00 PM, 1207340];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[1]=[063,05/17/2022 09:34 AM, 05/17/2022 09:34 AM, A crew is currently working on the problem, 05/17/2022 02:00 PM, 1207337];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[2]=[071,05/17/2022 12:09 PM, 05/17/2022 12:09 PM, Customer Svc is working this single customer outage, , 1207353];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[3]=[072,05/17/2022 08:20 AM, 05/17/2022 08:20 AM, A crew is currently working on the problem, 05/17/2022 02:00 PM, 1207324];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[4]=[072,05/17/2022 12:41 PM, 05/17/2022 12:41 PM, Customer Svc is working this single customer outage, , 1207356];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[5]=[073,05/17/2022 10:11 AM, 05/17/2022 10:11 AM, Tree Trimming is clearing debris from the area, 05/17/2022 01:30 PM, 1207343];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[6]=[073,05/17/2022 10:11 AM, 05/17/2022 10:11 AM, Tree Trimming is clearing debris from the area, 05/17/2022 01:30 PM, 1207344];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[7]=[084,05/17/2022 08:08 AM, 05/17/2022 08:08 AM, A crew is currently working on the problem, 05/17/2022 01:30 PM, 1207323];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[8]=[100,05/17/2022 12:49 PM, 05/17/2022 12:49 PM, Customer Svc is working this single customer outage, , 1207357];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[9]=[115,05/17/2022 12:54 PM, 05/17/2022 12:54 PM, A crew is currently working on the problem, 05/17/2022 04:30 PM, 1207358];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
+events[10]=[117,05/16/2022 08:59 AM, 05/16/2022 08:59 AM, Tree Trimming is clearing debris from the area, , 1207168];,# of Outages: 11,Customers Affected: 111,2022-05-17T18:28:40Z
