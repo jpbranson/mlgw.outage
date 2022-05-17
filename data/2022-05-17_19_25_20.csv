@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[033,05/17/2022 01:49 PM, 05/17/2022 01:49 PM, Customer Svc is working this single customer outage, , 1207362];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[1]=[062,05/17/2022 01:46 PM, 05/17/2022 01:46 PM, Trouble Shooter is determining repairs required, , 1207360];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[2]=[071,05/17/2022 12:09 PM, 05/17/2022 12:09 PM, Trouble Shooter is determining repairs required, , 1207353];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[3]=[072,05/17/2022 02:16 PM, 05/17/2022 02:16 PM, Waiting to be analyzed, , 1207365];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[4]=[072,05/17/2022 02:21 PM, 05/17/2022 02:21 PM, The extent of the outage has been determined, , 1207366];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[5]=[072,05/17/2022 08:20 AM, 05/17/2022 08:20 AM, A crew is currently working on the problem, 05/17/2022 03:00 PM, 1207324];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[6]=[073,05/17/2022 10:11 AM, 05/17/2022 10:11 AM, A crew is currently working on the problem, 05/17/2022 02:30 PM, 1207343];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[7]=[073,05/17/2022 10:11 AM, 05/17/2022 10:11 AM, A crew is currently working on the problem, 05/17/2022 02:30 PM, 1207344];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[8]=[084,05/17/2022 08:08 AM, 05/17/2022 08:08 AM, A crew is currently working on the problem, 05/17/2022 02:30 PM, 1207323];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[9]=[086,05/17/2022 02:07 PM, 05/17/2022 02:07 PM, The extent of the outage has been determined, , 1207363];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[10]=[115,05/17/2022 12:54 PM, 05/17/2022 12:54 PM, A crew is currently working on the problem, 05/17/2022 04:30 PM, 1207358];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
+events[11]=[118,05/17/2022 02:14 PM, 05/17/2022 02:14 PM, The extent of the outage has been determined, , 1207364];,# of Outages: 12,Customers Affected: 179,2022-05-17T19:25:20Z
