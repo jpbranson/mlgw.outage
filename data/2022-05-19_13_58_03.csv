@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[035,05/19/2022 08:46 AM, 05/19/2022 08:46 AM, The extent of the outage has been determined, , 1207634];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[1]=[063,05/19/2022 08:51 AM, 05/19/2022 08:51 AM, Waiting to be analyzed, , 1207637];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[2]=[064,05/18/2022 10:07 PM, 05/18/2022 10:07 PM, A crew is currently working on the problem, 05/19/2022 11:00 AM, 1207555];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[3]=[064,05/19/2022 08:48 AM, 05/19/2022 08:48 AM, Trouble Shooter is determining repairs required, , 1207635];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[4]=[064,05/19/2022 08:51 AM, 05/19/2022 08:51 AM, Waiting to be analyzed, , 1207637];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[5]=[065,05/18/2022 06:52 PM, 05/18/2022 06:52 PM, Trouble Shooter is determining repairs required, , 1207546];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[6]=[071,05/19/2022 08:37 AM, 05/19/2022 08:37 AM, Customer Svc is working this single customer outage, , 1207633];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[7]=[073,05/18/2022 02:07 PM, 05/18/2022 02:07 PM, Trouble Shooter is determining repairs required, , 1207500];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[8]=[073,05/19/2022 07:49 AM, 05/19/2022 07:49 AM, A crew is currently working on the problem, 05/19/2022 11:30 AM, 1207630];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[9]=[073,05/19/2022 08:51 AM, 05/19/2022 08:51 AM, Waiting to be analyzed, , 1207636];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[10]=[114,05/19/2022 08:19 AM, 05/19/2022 08:19 AM, Trouble Shooter is determining repairs required, , 1207632];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
+events[11]=[119,05/19/2022 06:28 AM, 05/19/2022 06:28 AM, Trouble Shooter is determining repairs required, , 1207627];,# of Outages: 11,Customers Affected: 3345,2022-05-19T13:58:03Z
