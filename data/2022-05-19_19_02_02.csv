@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[015,05/19/2022 01:25 PM, 05/19/2022 01:25 PM, A crew is currently working on the problem, 05/19/2022 03:30 PM, 1207665];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[1]=[015,05/19/2022 11:35 AM, 05/19/2022 11:35 AM, A crew is currently working on the problem, 05/19/2022 03:30 PM, 1207651];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[2]=[054,05/19/2022 01:29 PM, 05/19/2022 01:29 PM, Trouble Shooter is determining repairs required, , 1207666];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[3]=[054,05/19/2022 12:56 PM, 05/19/2022 12:56 PM, Trouble Shooter is determining repairs required, , 1207663];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[4]=[065,05/19/2022 01:51 PM, 05/19/2022 01:51 PM, Waiting to be analyzed, , 1207670];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[5]=[066,05/19/2022 01:39 PM, 05/19/2022 01:39 PM, Customer Svc is working this single customer outage, , 1207669];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[6]=[073,05/19/2022 09:15 AM, 05/19/2022 09:15 AM, A crew is currently working on the problem, 05/19/2022 02:30 PM, 1207639];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[7]=[083,05/19/2022 12:17 PM, 05/19/2022 12:17 PM, A crew is currently working on the problem, 05/19/2022 03:00 PM, 1207659];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[8]=[088,05/19/2022 01:34 PM, 05/19/2022 01:34 PM, Trouble Shooter is determining repairs required, , 1207667];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[9]=[113,05/19/2022 11:32 AM, 05/19/2022 11:32 AM, Tree Trimming is clearing debris from the area, , 1207649];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
+events[10]=[119,05/19/2022 01:36 PM, 05/19/2022 01:36 PM, Customer Svc is working this single customer outage, , 1207668];,# of Outages: 11,Customers Affected: 67,2022-05-19T19:02:02Z
