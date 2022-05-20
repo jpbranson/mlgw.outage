@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[015,05/19/2022 04:24 PM, 05/19/2022 04:24 PM, A crew is currently working on the problem, 05/20/2022 06:30 AM, 1207691];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[1]=[015,05/19/2022 08:15 PM, 05/19/2022 08:15 PM, A crew is currently working on the problem, 05/20/2022 06:30 AM, 1207717];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[2]=[050,05/20/2022 04:21 AM, 05/20/2022 04:21 AM, Waiting for an available crew to perform repairs, , 1207730];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[3]=[052,05/20/2022 05:35 AM, 05/20/2022 05:35 AM, Trouble Shooter is determining repairs required, , 1207731];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[4]=[064,05/20/2022 07:38 AM, 05/20/2022 07:38 AM, Trouble Shooter is determining repairs required, , 1207737];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[5]=[073,05/20/2022 02:51 AM, 05/20/2022 02:51 AM, Tree Trimming is clearing debris from the area, , 1207728];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[6]=[073,05/20/2022 03:01 AM, 05/20/2022 03:01 AM, Tree Trimming is clearing debris from the area, , 1207729];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[7]=[075,05/20/2022 05:45 AM, 05/20/2022 05:45 AM, Trouble Shooter is determining repairs required, , 1207732];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[8]=[085,05/20/2022 06:51 AM, 05/20/2022 06:51 AM, Trouble Shooter is determining repairs required, , 1207734];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[9]=[085,05/20/2022 07:34 AM, 05/20/2022 07:34 AM, Trouble Shooter is determining repairs required, , 1207736];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
+events[10]=[086,05/20/2022 05:54 AM, 05/20/2022 05:54 AM, Trouble Shooter is determining repairs required, , 1207733];,# of Outages: 11,Customers Affected: 72,2022-05-20T12:43:43Z
