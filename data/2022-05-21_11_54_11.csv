@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,05/20/2022 06:01 PM, 05/20/2022 06:01 PM, A crew is currently working on the problem, , 1207922];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[1]=[062,05/21/2022 04:24 AM, 05/21/2022 04:24 AM, Customer Svc is working this single customer outage, , 1207947];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[2]=[073,05/20/2022 01:39 PM, 05/20/2022 01:39 PM, Waiting for an available crew to perform repairs, , 1207863];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[3]=[074,05/20/2022 08:40 AM, 05/20/2022 08:40 AM, Waiting for an available crew to perform repairs, , 1207747];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[4]=[084,05/21/2022 02:59 AM, 05/21/2022 02:59 AM, Trouble Shooter is determining repairs required, , 1207946];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[5]=[084,05/21/2022 06:31 AM, 05/21/2022 06:31 AM, Customer Svc is working this single customer outage, , 1207949];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[6]=[100,05/20/2022 10:22 PM, 05/20/2022 10:22 PM, Waiting for an available crew to perform repairs, , 1207940];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[7]=[103,05/20/2022 11:40 PM, 05/20/2022 11:40 PM, A crew is currently working on the problem, 05/21/2022 07:30 AM, 1207942];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[8]=[104,05/20/2022 11:40 PM, 05/20/2022 11:40 PM, A crew is currently working on the problem, 05/21/2022 07:30 AM, 1207942];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[9]=[104,05/21/2022 01:43 AM, 05/21/2022 01:43 AM, Waiting for an available crew to perform repairs, , 1207945];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
+events[10]=[114,05/21/2022 06:49 AM, 05/21/2022 06:49 AM, The extent of the outage has been determined, , 1207950];,# of Outages: 10,Customers Affected: 85,2022-05-21T11:54:11Z
