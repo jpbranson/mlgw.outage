@@ -1,0 +1,27 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[073,05/21/2022 10:34 AM, 05/21/2022 10:34 AM, Waiting for an available crew to perform repairs, , 1207971];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[1]=[074,05/20/2022 08:40 AM, 05/20/2022 08:40 AM, Waiting for an available crew to perform repairs, , 1207747];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[2]=[074,05/21/2022 07:35 AM, 05/21/2022 07:35 AM, Tree Trimming is clearing debris from the area, , 1207956];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[3]=[074,05/21/2022 11:18 AM, 05/21/2022 11:18 AM, Customer Svc is working this single customer outage, , 1207973];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[4]=[083,05/21/2022 07:14 AM, 05/21/2022 07:14 AM, Trouble Shooter is determining repairs required, , 1207953];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[5]=[084,05/21/2022 02:59 AM, 05/21/2022 02:59 AM, Waiting for an available crew to perform repairs, , 1207946];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[6]=[098,05/21/2022 11:45 AM, 05/21/2022 11:45 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208022];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[7]=[098,05/21/2022 11:48 AM, 05/21/2022 11:48 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208106];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[8]=[098,05/21/2022 11:49 AM, 05/21/2022 11:49 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208122];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[9]=[098,05/21/2022 12:07 PM, 05/21/2022 12:07 PM, Waiting to be analyzed, , 1208171];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[10]=[099,05/21/2022 11:45 AM, 05/21/2022 11:45 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208022];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[11]=[100,05/21/2022 12:12 PM, 05/21/2022 12:12 PM, The extent of the outage has been determined, , 1208172];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[12]=[103,05/20/2022 11:40 PM, 05/20/2022 11:40 PM, A crew is currently working on the problem, 05/21/2022 02:30 PM, 1207942];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[13]=[104,05/20/2022 11:40 PM, 05/20/2022 11:40 PM, A crew is currently working on the problem, 05/21/2022 02:30 PM, 1207942];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[14]=[112,05/21/2022 08:44 AM, 05/21/2022 08:44 AM, A crew is currently working on the problem, 05/21/2022 02:00 PM, 1207968];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[15]=[114,05/21/2022 11:45 AM, 05/21/2022 11:45 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208014];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[16]=[114,05/21/2022 11:46 AM, 05/21/2022 11:46 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208053];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[17]=[114,05/21/2022 11:48 AM, 05/21/2022 11:48 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208105];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[18]=[114,05/21/2022 11:48 AM, 05/21/2022 11:48 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208106];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[19]=[114,05/21/2022 11:49 AM, 05/21/2022 11:49 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208122];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[20]=[114,05/21/2022 11:49 AM, 05/21/2022 11:49 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208132];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[21]=[114,05/21/2022 12:00 PM, 05/21/2022 12:00 PM, The extent of the outage has been determined, , 1208169];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[22]=[114,05/21/2022 12:15 PM, 05/21/2022 12:15 PM, The extent of the outage has been determined, , 1208173];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[23]=[114,05/21/2022 12:18 PM, 05/21/2022 12:18 PM, Waiting to be analyzed, , 1208174];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[24]=[115,05/21/2022 11:45 AM, 05/21/2022 11:45 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208014];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
+events[25]=[130,05/21/2022 11:45 AM, 05/21/2022 11:45 AM, Trouble Shooter is working on the problem, 05/21/2022 03:30 PM, 1208014];,# of Outages: 20,Customers Affected: 5395,2022-05-21T17:23:09Z
