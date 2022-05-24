@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[060,05/24/2022 03:46 PM, 05/24/2022 03:46 PM, Customer Svc is working this single customer outage, , 1209146];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[1]=[064,05/24/2022 02:47 PM, 05/24/2022 02:47 PM, Waiting for an available crew to perform repairs, , 1209141];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[2]=[072,05/24/2022 01:57 PM, 05/24/2022 01:57 PM, Trouble Shooter is determining repairs required, , 1209137];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[3]=[073,05/24/2022 02:31 PM, 05/24/2022 02:31 PM, Trouble Shooter is determining repairs required, , 1209140];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[4]=[073,05/24/2022 12:35 PM, 05/24/2022 12:35 PM, Tree Trimming is clearing debris from the area, , 1209131];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[5]=[085,05/24/2022 05:10 PM, 05/24/2022 05:10 PM, A crew is currently working on the problem, 05/24/2022 10:30 PM, 1209155];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[6]=[086,05/24/2022 02:59 PM, 05/24/2022 02:59 PM, Customer Svc is working this single customer outage, , 1209142];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[7]=[086,05/24/2022 04:44 PM, 05/24/2022 04:44 PM, Trouble Shooter is determining repairs required, , 1209150];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[8]=[086,05/24/2022 04:45 PM, 05/24/2022 04:45 PM, Trouble Shooter is determining repairs required, , 1209152];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[9]=[087,05/24/2022 10:39 AM, 05/24/2022 10:39 AM, Trouble Shooter is determining repairs required, , 1209118];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[10]=[100,05/24/2022 05:16 PM, 05/24/2022 05:16 PM, Waiting to be analyzed, , 1209159];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[11]=[101,05/24/2022 05:11 PM, 05/24/2022 05:11 PM, The extent of the outage has been determined, , 1209156];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[12]=[114,05/24/2022 05:15 PM, 05/24/2022 05:15 PM, The extent of the outage has been determined, , 1209157];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[13]=[114,05/24/2022 05:15 PM, 05/24/2022 05:15 PM, The extent of the outage has been determined, , 1209158];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
+events[14]=[115,05/24/2022 03:58 PM, 05/24/2022 03:58 PM, Customer Svc is working this single customer outage, , 1209147];,# of Outages: 15,Customers Affected: 237,2022-05-24T22:23:12Z
