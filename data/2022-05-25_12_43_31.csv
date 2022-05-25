@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[064,05/25/2022 06:42 AM, 05/25/2022 06:42 AM, Customer Svc is working this single customer outage, , 1209311];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[1]=[073,05/24/2022 10:17 PM, 05/24/2022 10:17 PM, Waiting for an available crew to perform repairs, , 1209289];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[2]=[083,05/25/2022 05:22 AM, 05/25/2022 05:22 AM, Trouble Shooter is determining repairs required, , 1209301];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[3]=[083,05/25/2022 05:43 AM, 05/25/2022 05:43 AM, Trouble Shooter is determining repairs required, , 1209304];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[4]=[085,05/24/2022 10:05 PM, 05/24/2022 10:05 PM, Tree Trimming is clearing debris from the area, , 1209287];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[5]=[085,05/25/2022 06:17 AM, 05/25/2022 06:17 AM, Trouble Shooter is determining repairs required, , 1209306];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[6]=[085,05/25/2022 06:30 AM, 05/25/2022 06:30 AM, Trouble Shooter is determining repairs required, , 1209308];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[7]=[087,05/24/2022 10:39 AM, 05/24/2022 10:39 AM, Tree Trimming is clearing debris from the area, , 1209118];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[8]=[087,05/25/2022 12:39 AM, 05/25/2022 12:39 AM, Tree Trimming is clearing debris from the area, 05/25/2022 11:00 AM, 1209291];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[9]=[089,05/25/2022 05:27 AM, 05/25/2022 05:27 AM, Trouble Shooter is determining repairs required, , 1209302];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[10]=[099,05/25/2022 06:30 AM, 05/25/2022 06:30 AM, Trouble Shooter is determining repairs required, , 1209308];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[11]=[100,05/25/2022 07:25 AM, 05/25/2022 07:25 AM, Customer Svc is working this single customer outage, , 1209312];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
+events[12]=[113,05/25/2022 05:14 AM, 05/25/2022 05:14 AM, Trouble Shooter is determining repairs required, , 1209300];,# of Outages: 12,Customers Affected: 263,2022-05-25T12:43:31Z
