@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,05/25/2022 05:25 PM, 05/25/2022 05:25 PM, Trouble Shooter is determining repairs required, , 1209471];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[1]=[049,05/25/2022 04:12 PM, 05/25/2022 04:12 PM, Waiting to be analyzed, , 1209435];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[2]=[049,05/25/2022 05:50 PM, 05/25/2022 05:50 PM, Customer Svc is working this single customer outage, , 1209476];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[3]=[051,05/25/2022 02:01 PM, 05/25/2022 02:01 PM, A crew is currently working on the problem, 05/25/2022 04:30 PM, 1209413];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[4]=[062,05/25/2022 05:25 PM, 05/25/2022 05:25 PM, Trouble Shooter is determining repairs required, , 1209473];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[5]=[073,05/25/2022 06:11 PM, 05/25/2022 06:11 PM, A crew is currently working on the problem, 05/25/2022 07:00 PM, 1209481];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[6]=[083,05/25/2022 06:15 PM, 05/25/2022 06:15 PM, Waiting to be analyzed, , 1209482];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[7]=[085,05/25/2022 01:00 PM, 05/25/2022 01:00 PM, A crew is currently working on the problem, 05/25/2022 08:30 PM, 1209407];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[8]=[086,05/25/2022 06:06 PM, 05/25/2022 06:06 PM, Trouble Shooter is determining repairs required, , 1209480];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[9]=[101,05/25/2022 04:59 PM, 05/25/2022 04:59 PM, A crew is currently working on the problem, , 1209467];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[10]=[101,05/25/2022 05:16 PM, 05/25/2022 05:16 PM, Trouble Shooter is determining repairs required, , 1209470];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
+events[11]=[112,05/25/2022 05:51 PM, 05/25/2022 05:51 PM, Customer Svc is working this single customer outage, , 1209477];,# of Outages: 12,Customers Affected: 226,2022-05-25T23:22:54Z
