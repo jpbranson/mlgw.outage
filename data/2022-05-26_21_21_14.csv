@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[064,05/26/2022 03:32 PM, 05/26/2022 03:32 PM, Customer Svc is working this single customer outage, , 1209639];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[1]=[066,05/26/2022 03:42 PM, 05/26/2022 03:42 PM, A crew is currently working on the problem, 05/26/2022 06:30 PM, 1209641];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[2]=[073,05/26/2022 01:27 PM, 05/26/2022 01:27 PM, Trouble Shooter is determining repairs required, , 1209620];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[3]=[073,05/26/2022 02:27 PM, 05/26/2022 02:27 PM, Waiting for an available crew to perform repairs, , 1209628];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[4]=[084,05/26/2022 03:12 PM, 05/26/2022 03:12 PM, Waiting for an available crew to perform repairs, , 1209632];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[5]=[085,05/26/2022 03:31 PM, 05/26/2022 03:31 PM, Trouble Shooter is determining repairs required, , 1209638];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[6]=[086,05/26/2022 02:39 PM, 05/26/2022 02:39 PM, Trouble Shooter is determining repairs required, , 1209630];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[7]=[088,05/26/2022 10:23 AM, 05/26/2022 10:23 AM, Trouble Shooter is determining repairs required, , 1209600];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[8]=[089,05/26/2022 03:27 PM, 05/26/2022 03:27 PM, A crew is currently working on the problem, 05/26/2022 05:30 PM, 1209635];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[9]=[101,05/26/2022 03:38 PM, 05/26/2022 03:38 PM, Waiting for an available crew to perform repairs, , 1209640];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
+events[10]=[113,05/26/2022 11:54 AM, 05/26/2022 11:54 AM, Waiting for an available crew to perform repairs, , 1209608];,# of Outages: 11,Customers Affected: 57,2022-05-26T21:21:14Z
