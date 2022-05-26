@@ -1,0 +1,17 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[066,05/26/2022 02:14 PM, 05/26/2022 02:14 PM, Waiting for an available crew to perform repairs, , 1209626];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[1]=[072,05/26/2022 02:05 PM, 05/26/2022 02:05 PM, A crew is currently working on the problem, 05/26/2022 03:30 PM, 1209624];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[2]=[072,05/26/2022 11:54 AM, 05/26/2022 11:54 AM, A crew is currently working on the problem, 05/26/2022 03:30 PM, 1209606];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[3]=[072,05/26/2022 12:12 PM, 05/26/2022 12:12 PM, A crew is currently working on the problem, 05/26/2022 03:30 PM, 1209610];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[4]=[073,05/26/2022 01:07 PM, 05/26/2022 01:07 PM, A crew is currently working on the problem, 05/26/2022 04:30 PM, 1209617];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[5]=[073,05/26/2022 01:27 PM, 05/26/2022 01:27 PM, Tree Trimming is clearing debris from the area, , 1209620];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[6]=[073,05/26/2022 09:23 AM, 05/26/2022 09:23 AM, A crew is currently working on the problem, 05/26/2022 02:30 PM, 1209588];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[7]=[073,05/26/2022 10:41 AM, 05/26/2022 10:41 AM, A crew is currently working on the problem, 05/26/2022 04:30 PM, 1209602];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[8]=[083,05/26/2022 02:13 PM, 05/26/2022 02:13 PM, A crew is currently working on the problem, 05/26/2022 05:30 PM, 1209625];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[9]=[084,05/26/2022 01:13 PM, 05/26/2022 01:13 PM, Customer Svc is working this single customer outage, , 1209619];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[10]=[084,05/26/2022 02:02 PM, 05/26/2022 02:02 PM, A crew is currently working on the problem, 05/26/2022 05:30 PM, 1209623];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[11]=[086,05/26/2022 08:55 AM, 05/26/2022 08:55 AM, A crew is currently working on the problem, 05/26/2022 03:30 PM, 1209581];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[12]=[088,05/26/2022 10:23 AM, 05/26/2022 10:23 AM, Tree Trimming is clearing debris from the area, , 1209600];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[13]=[098,05/26/2022 01:47 PM, 05/26/2022 01:47 PM, Customer Svc is working this single customer outage, , 1209622];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[14]=[113,05/26/2022 11:54 AM, 05/26/2022 11:54 AM, Tree Trimming is clearing debris from the area, , 1209608];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
+events[15]=[119,05/26/2022 09:19 AM, 05/26/2022 09:19 AM, A crew is currently working on the problem, 05/26/2022 03:30 PM, 1209586];,# of Outages: 16,Customers Affected: 166,2022-05-26T19:18:38Z
