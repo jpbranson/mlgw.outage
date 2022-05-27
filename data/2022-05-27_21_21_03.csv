@@ -1,0 +1,11 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[042,05/27/2022 02:42 PM, 05/27/2022 02:42 PM, Customer Svc is working this single customer outage, , 1209718];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
+events[1]=[072,05/27/2022 02:18 PM, 05/27/2022 02:18 PM, Trouble Shooter is determining repairs required, , 1209716];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
+events[2]=[083,05/27/2022 03:17 PM, 05/27/2022 03:17 PM, Trouble Shooter is determining repairs required, , 1209720];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
+events[3]=[085,05/27/2022 02:42 PM, 05/27/2022 02:42 PM, Waiting for an available crew to perform repairs, , 1209717];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
+events[4]=[085,05/27/2022 12:55 PM, 05/27/2022 12:55 PM, Waiting for an available crew to perform repairs, , 1209706];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
+events[5]=[086,05/27/2022 01:16 PM, 05/27/2022 01:16 PM, Trouble Shooter is determining repairs required, , 1209708];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
+events[6]=[086,05/27/2022 12:18 PM, 05/27/2022 12:18 PM, Waiting for an available crew to perform repairs, , 1209702];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
+events[7]=[100,05/27/2022 12:16 PM, 05/27/2022 12:16 PM, Tree Trimming is clearing debris from the area, , 1209701];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
+events[8]=[107,05/27/2022 04:14 PM, 05/27/2022 04:14 PM, A crew is currently working on the problem, 05/27/2022 05:30 PM, 1209721];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
+events[9]=[119,05/27/2022 03:16 PM, 05/27/2022 03:16 PM, Customer Svc is working this single customer outage, , 1209719];,# of Outages: 10,Customers Affected: 42,2022-05-27T21:21:03Z
