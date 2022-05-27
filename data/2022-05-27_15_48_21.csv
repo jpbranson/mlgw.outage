@@ -1,0 +1,9 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,05/27/2022 09:17 AM, 05/27/2022 09:17 AM, Trouble Shooter is determining repairs required, , 1209680];,# of Outages: 8,Customers Affected: 280,2022-05-27T15:48:21Z
+events[1]=[073,05/27/2022 10:12 AM, 05/27/2022 10:12 AM, Trouble Shooter is determining repairs required, , 1209684];,# of Outages: 8,Customers Affected: 280,2022-05-27T15:48:21Z
+events[2]=[073,05/27/2022 10:13 AM, 05/27/2022 10:13 AM, Trouble Shooter is determining repairs required, , 1209686];,# of Outages: 8,Customers Affected: 280,2022-05-27T15:48:21Z
+events[3]=[073,05/27/2022 10:32 AM, 05/27/2022 10:32 AM, Waiting for an available crew to perform repairs, , 1209693];,# of Outages: 8,Customers Affected: 280,2022-05-27T15:48:21Z
+events[4]=[085,05/27/2022 10:43 AM, 05/27/2022 10:43 AM, A crew is currently working on the problem, 05/27/2022 12:30 PM, 1209696];,# of Outages: 8,Customers Affected: 280,2022-05-27T15:48:21Z
+events[5]=[101,05/27/2022 09:51 AM, 05/27/2022 09:51 AM, A crew is currently working on the problem, 05/27/2022 12:30 PM, 1209682];,# of Outages: 8,Customers Affected: 280,2022-05-27T15:48:21Z
+events[6]=[106,05/27/2022 10:36 AM, 05/27/2022 10:36 AM, Customer Svc is working this single customer outage, , 1209695];,# of Outages: 8,Customers Affected: 280,2022-05-27T15:48:21Z
+events[7]=[113,05/27/2022 09:20 AM, 05/27/2022 09:20 AM, A crew is currently working on the problem, 05/27/2022 12:00 PM, 1209681];,# of Outages: 8,Customers Affected: 280,2022-05-27T15:48:21Z
