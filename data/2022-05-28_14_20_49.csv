@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[030,05/28/2022 08:33 AM, 05/28/2022 08:33 AM, Waiting for an available crew to perform repairs, , 1209751];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[1]=[042,05/28/2022 08:58 AM, 05/28/2022 08:58 AM, Trouble Shooter is determining repairs required, , 1209753];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[2]=[049,05/28/2022 07:29 AM, 05/28/2022 07:29 AM, Trouble Shooter is determining repairs required, , 1209746];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[3]=[064,05/28/2022 08:54 AM, 05/28/2022 08:54 AM, Trouble Shooter is determining repairs required, , 1209752];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[4]=[071,05/28/2022 06:08 AM, 05/28/2022 06:08 AM, Waiting for an available crew to perform repairs, , 1209738];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[5]=[072,05/28/2022 07:13 AM, 05/28/2022 07:13 AM, Trouble Shooter is determining repairs required, , 1209744];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[6]=[072,05/28/2022 08:59 AM, 05/28/2022 08:59 AM, Trouble Shooter is determining repairs required, , 1209755];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[7]=[073,05/28/2022 03:22 AM, 05/28/2022 03:22 AM, Tree Trimming is clearing debris from the area, , 1209734];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[8]=[073,05/28/2022 08:17 AM, 05/28/2022 08:17 AM, Trouble Shooter is determining repairs required, , 1209748];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[9]=[083,05/28/2022 07:52 AM, 05/28/2022 07:52 AM, Trouble Shooter is determining repairs required, , 1209747];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[10]=[084,05/28/2022 06:40 AM, 05/28/2022 06:40 AM, Trouble Shooter is determining repairs required, , 1209741];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
+events[11]=[099,05/27/2022 04:22 PM, 05/27/2022 04:22 PM, A crew is currently working on the problem, 05/28/2022 09:00 AM, 1209723];,# of Outages: 12,Customers Affected: 195,2022-05-28T14:20:49Z
