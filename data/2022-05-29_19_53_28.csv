@@ -1,0 +1,4 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[073,05/29/2022 11:04 AM, 05/29/2022 11:04 AM, Tree Trimming is clearing debris from the area, , 1209927];,# of Outages: 3,Customers Affected: 10,2022-05-29T19:53:28Z
+events[1]=[086,05/29/2022 02:46 PM, 05/29/2022 02:46 PM, Trouble Shooter is working on the problem, 05/29/2022 03:30 PM, 1209931];,# of Outages: 3,Customers Affected: 10,2022-05-29T19:53:28Z
+events[2]=[103,05/29/2022 02:50 PM, 05/29/2022 02:50 PM, Waiting to be analyzed, , 1209932];,# of Outages: 3,Customers Affected: 10,2022-05-29T19:53:28Z
