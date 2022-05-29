@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[030,05/28/2022 08:32 AM, 05/28/2022 08:32 AM, A crew is currently working on the problem, 05/29/2022 09:00 AM, 1209751];,# of Outages: 5,Customers Affected: 74,2022-05-29T11:53:23Z
+events[1]=[086,05/29/2022 03:34 AM, 05/29/2022 03:34 AM, Tree Trimming is clearing debris from the area, , 1209897];,# of Outages: 5,Customers Affected: 74,2022-05-29T11:53:23Z
+events[2]=[087,05/29/2022 06:42 AM, 05/29/2022 06:42 AM, Waiting for an available crew to perform repairs, , 1209902];,# of Outages: 5,Customers Affected: 74,2022-05-29T11:53:23Z
+events[3]=[087,05/29/2022 06:45 AM, 05/29/2022 06:45 AM, Waiting for an available crew to perform repairs, , 1209904];,# of Outages: 5,Customers Affected: 74,2022-05-29T11:53:23Z
+events[4]=[100,05/28/2022 05:05 PM, 05/28/2022 05:05 PM, A crew is currently working on the problem, 05/29/2022 10:00 AM, 1209793];,# of Outages: 5,Customers Affected: 74,2022-05-29T11:53:23Z
+events[5]=[101,05/29/2022 06:42 AM, 05/29/2022 06:42 AM, Waiting for an available crew to perform repairs, , 1209902];,# of Outages: 5,Customers Affected: 74,2022-05-29T11:53:23Z
+events[6]=[101,05/29/2022 06:45 AM, 05/29/2022 06:45 AM, Waiting for an available crew to perform repairs, , 1209904];,# of Outages: 5,Customers Affected: 74,2022-05-29T11:53:23Z
