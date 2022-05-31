@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[054,05/31/2022 06:52 AM, 05/31/2022 06:52 AM, Trouble Shooter is determining repairs required, , 1210089];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[1]=[064,05/31/2022 09:25 AM, 05/31/2022 09:25 AM, Waiting to be analyzed, , 1210103];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[2]=[073,05/31/2022 08:34 AM, 05/31/2022 08:34 AM, A crew is currently working on the problem, 05/31/2022 01:00 PM, 1210097];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[3]=[075,05/31/2022 09:38 AM, 05/31/2022 09:38 AM, Waiting to be analyzed, , 1210104];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[4]=[076,05/31/2022 06:10 AM, 05/31/2022 06:10 AM, Trouble Shooter is determining repairs required, , 1210087];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[5]=[083,05/31/2022 09:04 AM, 05/31/2022 09:04 AM, A crew is currently working on the problem, 05/31/2022 01:30 PM, 1210100];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[6]=[083,05/31/2022 09:24 AM, 05/31/2022 09:24 AM, Waiting for an available crew to perform repairs, , 1210102];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[7]=[084,05/31/2022 07:44 AM, 05/31/2022 07:44 AM, A crew is currently working on the problem, 05/31/2022 12:30 PM, 1210094];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[8]=[084,05/31/2022 09:06 AM, 05/31/2022 09:06 AM, A crew is currently working on the problem, 05/31/2022 12:30 PM, 1210101];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[9]=[086,05/31/2022 09:44 AM, 05/31/2022 09:44 AM, Waiting to be analyzed, , 1210105];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[10]=[090,05/31/2022 07:33 AM, 05/31/2022 07:33 AM, Waiting for an available crew to perform repairs, , 1210093];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
+events[11]=[101,05/31/2022 01:42 AM, 05/31/2022 01:42 AM, A crew is currently working on the problem, 05/31/2022 01:00 PM, 1210082];,# of Outages: 12,Customers Affected: 243,2022-05-31T14:48:32Z
