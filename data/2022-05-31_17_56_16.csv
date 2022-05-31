@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[062,05/31/2022 12:20 PM, 05/31/2022 12:20 PM, Trouble Shooter is determining repairs required, , 1210132];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[1]=[064,05/31/2022 12:04 PM, 05/31/2022 12:04 PM, Customer Svc is working this single customer outage, , 1210130];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[2]=[072,05/31/2022 12:21 PM, 05/31/2022 12:21 PM, Trouble Shooter is determining repairs required, , 1210133];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[3]=[073,05/31/2022 12:17 PM, 05/31/2022 12:17 PM, A crew is currently working on the problem, 05/31/2022 01:00 PM, 1210131];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[4]=[075,05/31/2022 09:38 AM, 05/31/2022 09:38 AM, Trouble Shooter is determining repairs required, , 1210104];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[5]=[075,05/31/2022 09:52 AM, 05/31/2022 09:52 AM, Trouble Shooter is determining repairs required, , 1210108];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[6]=[076,05/31/2022 06:10 AM, 05/31/2022 06:10 AM, Tree Trimming is clearing debris from the area, , 1210087];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[7]=[083,05/31/2022 09:04 AM, 05/31/2022 09:04 AM, A crew is currently working on the problem, 05/31/2022 01:30 PM, 1210100];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[8]=[090,05/31/2022 07:33 AM, 05/31/2022 07:33 AM, A crew is currently working on the problem, 05/31/2022 04:30 PM, 1210093];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[9]=[098,05/31/2022 10:08 AM, 05/31/2022 10:08 AM, A crew is currently working on the problem, 05/31/2022 01:30 PM, 1210112];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[10]=[102,05/31/2022 09:54 AM, 05/31/2022 09:54 AM, A crew is currently working on the problem, 05/31/2022 03:00 PM, 1210109];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[11]=[102,05/31/2022 09:55 AM, 05/31/2022 09:55 AM, A crew is currently working on the problem, 05/31/2022 03:00 PM, 1210110];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
+events[12]=[113,05/31/2022 12:52 PM, 05/31/2022 12:52 PM, The extent of the outage has been determined, , 1210135];,# of Outages: 13,Customers Affected: 73,2022-05-31T17:56:16Z
