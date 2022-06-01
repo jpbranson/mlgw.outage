@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,06/01/2022 06:33 AM, 06/01/2022 06:33 AM, A crew is currently working on the problem, 06/01/2022 03:00 PM, 1210306];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[1]=[052,06/01/2022 09:32 AM, 06/01/2022 09:32 AM, A crew is currently working on the problem, 06/01/2022 03:00 PM, 1210718];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[2]=[053,06/01/2022 12:22 PM, 06/01/2022 12:22 PM, Customer Svc is working this single customer outage, , 1210744];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[3]=[058,06/01/2022 12:26 PM, 06/01/2022 12:26 PM, Trouble Shooter is determining repairs required, , 1210745];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[4]=[072,06/01/2022 12:55 PM, 06/01/2022 12:55 PM, Customer Svc is working this single customer outage, , 1210748];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[5]=[077,06/01/2022 12:02 PM, 06/01/2022 12:02 PM, Customer Svc is working this single customer outage, , 1210740];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[6]=[083,06/01/2022 09:24 AM, 06/01/2022 09:24 AM, A crew is currently working on the problem, 06/01/2022 03:00 PM, 1210711];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[7]=[086,06/01/2022 01:24 PM, 06/01/2022 01:24 PM, A crew is currently working on the problem, 06/01/2022 05:00 PM, 1210751];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[8]=[086,06/01/2022 12:34 PM, 06/01/2022 12:34 PM, Tree Trimming is clearing debris from the area, 06/01/2022 04:00 PM, 1210747];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[9]=[098,06/01/2022 01:18 PM, 06/01/2022 01:18 PM, A crew is currently working on the problem, 06/01/2022 04:00 PM, 1210750];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
+events[10]=[112,06/01/2022 11:51 AM, 06/01/2022 11:51 AM, Trouble Shooter is determining repairs required, , 1210739];,# of Outages: 11,Customers Affected: 97,2022-06-01T18:30:11Z
