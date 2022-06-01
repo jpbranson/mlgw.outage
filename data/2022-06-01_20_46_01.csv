@@ -1,0 +1,17 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,06/01/2022 06:33 AM, 06/01/2022 06:33 AM, A crew is currently working on the problem, 06/01/2022 08:00 PM, 1210306];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[1]=[041,06/01/2022 01:30 PM, 06/01/2022 01:30 PM, Trouble Shooter is working on the problem, 06/01/2022 04:30 PM, 1210805];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[2]=[041,06/01/2022 02:21 PM, 06/01/2022 02:21 PM, Trouble Shooter is working on the problem, 06/01/2022 04:30 PM, 1210884];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[3]=[041,06/01/2022 03:37 PM, 06/01/2022 03:37 PM, Trouble Shooter is determining repairs required, , 1210942];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[4]=[042,06/01/2022 02:21 PM, 06/01/2022 02:21 PM, Trouble Shooter is working on the problem, 06/01/2022 04:30 PM, 1210884];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[5]=[051,06/01/2022 03:37 PM, 06/01/2022 03:37 PM, Trouble Shooter is determining repairs required, , 1210942];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[6]=[052,06/01/2022 01:30 PM, 06/01/2022 01:30 PM, Trouble Shooter is working on the problem, 06/01/2022 04:30 PM, 1210805];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[7]=[052,06/01/2022 02:21 PM, 06/01/2022 02:21 PM, Trouble Shooter is working on the problem, 06/01/2022 04:30 PM, 1210884];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[8]=[052,06/01/2022 03:37 PM, 06/01/2022 03:37 PM, Trouble Shooter is determining repairs required, , 1210942];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[9]=[053,06/01/2022 02:21 PM, 06/01/2022 02:21 PM, Trouble Shooter is working on the problem, 06/01/2022 04:30 PM, 1210884];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[10]=[064,06/01/2022 03:02 PM, 06/01/2022 03:02 PM, Trouble Shooter is determining repairs required, , 1210899];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[11]=[083,06/01/2022 09:24 AM, 06/01/2022 09:24 AM, A crew is currently working on the problem, 06/01/2022 04:00 PM, 1210711];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[12]=[086,06/01/2022 03:37 PM, 06/01/2022 03:37 PM, Trouble Shooter is determining repairs required, , 1210953];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[13]=[101,06/01/2022 02:52 PM, 06/01/2022 02:52 PM, Customer Svc is working this single customer outage, , 1210897];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[14]=[104,06/01/2022 03:32 PM, 06/01/2022 03:32 PM, Trouble Shooter is determining repairs required, , 1210904];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
+events[15]=[112,06/01/2022 11:51 AM, 06/01/2022 11:51 AM, A crew is currently working on the problem, 06/01/2022 05:30 PM, 1210739];,# of Outages: 10,Customers Affected: 3381,2022-06-01T20:46:01Z
