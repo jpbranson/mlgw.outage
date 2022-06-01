@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,06/01/2022 06:33 AM, 06/01/2022 06:33 AM, A crew is currently working on the problem, 06/01/2022 01:00 PM, 1210306];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[1]=[030,06/01/2022 09:30 AM, 06/01/2022 09:30 AM, A crew is currently working on the problem, 06/01/2022 01:00 PM, 1210716];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[2]=[042,06/01/2022 10:48 AM, 06/01/2022 10:48 AM, Trouble Shooter is determining repairs required, , 1210733];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[3]=[052,06/01/2022 09:32 AM, 06/01/2022 09:32 AM, A crew is currently working on the problem, 06/01/2022 12:00 PM, 1210718];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[4]=[083,06/01/2022 09:18 AM, 06/01/2022 09:18 AM, A crew is currently working on the problem, 06/01/2022 12:00 PM, 1210703];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[5]=[083,06/01/2022 09:24 AM, 06/01/2022 09:24 AM, A crew is currently working on the problem, 06/01/2022 12:00 PM, 1210711];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[6]=[085,06/01/2022 10:30 AM, 06/01/2022 10:30 AM, A crew is currently working on the problem, 06/01/2022 02:00 PM, 1210728];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[7]=[086,06/01/2022 07:42 AM, 06/01/2022 07:42 AM, A crew is currently working on the problem, 06/01/2022 01:30 PM, 1210319];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[8]=[097,06/01/2022 11:16 AM, 06/01/2022 11:16 AM, Customer Svc is working this single customer outage, , 1210737];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[9]=[098,06/01/2022 09:18 AM, 06/01/2022 09:18 AM, Customer Svc is working this single customer outage, , 1210702];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[10]=[114,06/01/2022 10:32 AM, 06/01/2022 10:32 AM, A crew is currently working on the problem, 06/01/2022 03:00 PM, 1210729];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
+events[11]=[114,06/01/2022 10:32 AM, 06/01/2022 10:32 AM, A crew is currently working on the problem, 06/01/2022 03:00 PM, 1210731];,# of Outages: 12,Customers Affected: 120,2022-06-01T16:34:26Z
