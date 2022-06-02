@@ -1,0 +1,17 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[039,06/01/2022 07:19 PM, 06/01/2022 07:19 PM, Waiting for an available crew to perform repairs, , 1211061];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[1]=[049,06/01/2022 07:18 PM, 06/01/2022 07:18 PM, Trouble Shooter is determining repairs required, , 1211060];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[2]=[060,06/01/2022 06:55 PM, 06/01/2022 06:55 PM, Waiting for an available crew to perform repairs, , 1211051];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[3]=[071,06/01/2022 07:04 PM, 06/01/2022 07:04 PM, Trouble Shooter is determining repairs required, , 1211058];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[4]=[072,06/01/2022 07:38 PM, 06/01/2022 07:38 PM, Trouble Shooter is determining repairs required, , 1211064];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[5]=[073,06/01/2022 07:38 PM, 06/01/2022 07:38 PM, Trouble Shooter is determining repairs required, , 1211064];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[6]=[074,06/01/2022 08:24 PM, 06/01/2022 08:24 PM, A crew is currently working on the problem, 06/01/2022 10:00 PM, 1211088];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[7]=[074,06/01/2022 08:41 PM, 06/01/2022 08:41 PM, A crew is currently working on the problem, 06/01/2022 10:00 PM, 1211089];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[8]=[084,06/01/2022 08:09 PM, 06/01/2022 08:09 PM, Customer Svc is working this single customer outage, , 1211087];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[9]=[085,06/01/2022 07:49 PM, 06/01/2022 07:49 PM, Trouble Shooter is determining repairs required, , 1211070];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[10]=[085,06/01/2022 07:55 PM, 06/01/2022 07:55 PM, Waiting for an available crew to perform repairs, , 1211076];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[11]=[086,06/01/2022 07:48 PM, 06/01/2022 07:48 PM, Customer Svc is working this single customer outage, 06/01/2022 10:00 PM, 1211069];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[12]=[086,06/01/2022 07:57 PM, 06/01/2022 07:57 PM, Trouble Shooter is determining repairs required, , 1211083];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[13]=[096,06/01/2022 08:43 PM, 06/01/2022 08:43 PM, Customer Svc is working this single customer outage, , 1211090];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[14]=[100,06/01/2022 06:22 PM, 06/01/2022 06:22 PM, Trouble Shooter is determining repairs required, , 1210984];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
+events[15]=[112,06/01/2022 11:51 AM, 06/01/2022 11:51 AM, A crew is currently working on the problem, 06/01/2022 10:30 PM, 1210739];,# of Outages: 15,Customers Affected: 480,2022-06-02T02:00:05Z
