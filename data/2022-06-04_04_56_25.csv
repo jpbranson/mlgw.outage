@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[007,06/03/2022 07:55 PM, 06/03/2022 07:55 PM, A crew is currently working on the problem, 06/04/2022 03:00 AM, 1211464];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[1]=[018,06/03/2022 07:55 PM, 06/03/2022 07:55 PM, A crew is currently working on the problem, 06/04/2022 03:00 AM, 1211464];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[2]=[018,06/03/2022 08:47 PM, 06/03/2022 08:47 PM, A crew is currently working on the problem, 06/04/2022 03:00 AM, 1211481];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[3]=[019,06/03/2022 07:55 PM, 06/03/2022 07:55 PM, A crew is currently working on the problem, 06/04/2022 03:00 AM, 1211464];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[4]=[030,06/03/2022 07:55 PM, 06/03/2022 07:55 PM, A crew is currently working on the problem, 06/04/2022 03:00 AM, 1211464];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[5]=[031,06/03/2022 07:55 PM, 06/03/2022 07:55 PM, A crew is currently working on the problem, 06/04/2022 03:00 AM, 1211464];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[6]=[049,06/03/2022 11:31 PM, 06/03/2022 11:31 PM, Customer Svc is working this single customer outage, , 1211488];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[7]=[084,06/03/2022 01:25 PM, 06/03/2022 01:25 PM, Waiting for an available crew to perform repairs, , 1211409];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[8]=[087,06/03/2022 03:30 PM, 06/03/2022 03:30 PM, Tree Trimming is clearing debris from the area, , 1211420];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[9]=[087,06/03/2022 11:23 PM, 06/03/2022 11:23 PM, Trouble Shooter is determining repairs required, , 1211487];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
+events[10]=[118,06/03/2022 07:20 PM, 06/03/2022 07:20 PM, Tree Trimming is clearing debris from the area, , 1211453];,# of Outages: 7,Customers Affected: 351,2022-06-04T04:56:25Z
