@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[063,06/04/2022 09:30 AM, 06/04/2022 09:30 AM, Waiting for an available crew to perform repairs, , 1211530];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[1]=[066,06/04/2022 01:07 PM, 06/04/2022 01:07 PM, Trouble Shooter is working on the problem, 06/04/2022 04:30 PM, 1211543];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[2]=[067,06/04/2022 01:07 PM, 06/04/2022 01:07 PM, Trouble Shooter is working on the problem, 06/04/2022 04:30 PM, 1211543];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[3]=[067,06/04/2022 02:13 PM, 06/04/2022 02:13 PM, Customer Svc is working this single customer outage, , 1211580];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[4]=[076,06/04/2022 02:17 PM, 06/04/2022 02:17 PM, The extent of the outage has been determined, , 1211581];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[5]=[077,06/04/2022 01:07 PM, 06/04/2022 01:07 PM, Trouble Shooter is working on the problem, 06/04/2022 04:30 PM, 1211543];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[6]=[084,06/04/2022 01:11 PM, 06/04/2022 01:11 PM, Waiting for an available crew to perform repairs, 06/04/2022 05:00 PM, 1211569];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[7]=[084,06/04/2022 02:25 PM, 06/04/2022 02:25 PM, Waiting to be analyzed, , 1211583];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[8]=[085,06/04/2022 01:11 PM, 06/04/2022 01:11 PM, Waiting for an available crew to perform repairs, 06/04/2022 05:00 PM, 1211569];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[9]=[087,06/04/2022 12:21 PM, 06/04/2022 12:21 PM, Waiting for an available crew to perform repairs, , 1211536];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[10]=[089,06/04/2022 08:55 AM, 06/04/2022 08:55 AM, Waiting for an available crew to perform repairs, , 1211527];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
+events[11]=[102,06/04/2022 02:18 PM, 06/04/2022 02:18 PM, Waiting for an available crew to perform repairs, , 1211582];,# of Outages: 9,Customers Affected: 3323,2022-06-04T19:39:20Z
