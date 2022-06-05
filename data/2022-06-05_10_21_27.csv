@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[086,06/04/2022 11:36 PM, 06/04/2022 11:36 PM, A crew is currently working on the problem, 06/05/2022 06:30 AM, 1211639];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[1]=[087,06/05/2022 03:58 AM, 06/05/2022 03:58 AM, Trouble Shooter is determining repairs required, , 1211696];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[2]=[101,06/05/2022 05:05 AM, 06/05/2022 05:05 AM, Waiting to be analyzed, , 1211706];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[3]=[101,06/05/2022 05:05 AM, 06/05/2022 05:05 AM, Waiting to be analyzed, , 1211707];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[4]=[102,06/05/2022 03:39 AM, 06/05/2022 03:39 AM, Trouble Shooter is determining repairs required, , 1211691];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[5]=[102,06/05/2022 04:24 AM, 06/05/2022 04:24 AM, Trouble Shooter is determining repairs required, , 1211701];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[6]=[102,06/05/2022 04:55 AM, 06/05/2022 04:55 AM, The extent of the outage has been determined, , 1211705];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[7]=[102,06/05/2022 05:08 AM, 06/05/2022 05:08 AM, Waiting to be analyzed, , 1211708];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[8]=[102,06/05/2022 05:12 AM, 06/05/2022 05:12 AM, Waiting to be analyzed, , 1211709];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[9]=[102,06/05/2022 05:15 AM, 06/05/2022 05:15 AM, Waiting to be analyzed, , 1211710];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[10]=[116,06/05/2022 04:05 AM, 06/05/2022 04:05 AM, Trouble Shooter is determining repairs required, , 1211698];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
+events[11]=[118,06/05/2022 04:39 AM, 06/05/2022 04:39 AM, A crew is currently working on the problem, 06/05/2022 06:00 AM, 1211702];,# of Outages: 12,Customers Affected: 855,2022-06-05T10:21:27Z
