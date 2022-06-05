@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[073,06/05/2022 09:06 AM, 06/05/2022 09:06 AM, Waiting for an available crew to perform repairs, , 1211834];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[1]=[073,06/05/2022 12:12 PM, 06/05/2022 12:12 PM, Trouble Shooter is determining repairs required, , 1211859];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[2]=[073,06/05/2022 12:19 PM, 06/05/2022 12:19 PM, Waiting to be analyzed, , 1211860];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[3]=[074,06/05/2022 07:34 AM, 06/05/2022 07:34 AM, Trouble Shooter is determining repairs required, , 1211750];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[4]=[083,06/05/2022 10:51 AM, 06/05/2022 10:51 AM, Trouble Shooter is determining repairs required, , 1211843];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[5]=[085,06/05/2022 07:19 AM, 06/05/2022 07:19 AM, Waiting for an available crew to perform repairs, , 1211741];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[6]=[085,06/05/2022 12:04 PM, 06/05/2022 12:04 PM, Trouble Shooter is determining repairs required, , 1211857];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[7]=[087,06/05/2022 03:58 AM, 06/05/2022 03:58 AM, A crew is currently working on the problem, 06/05/2022 01:30 PM, 1211696];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[8]=[087,06/05/2022 11:05 AM, 06/05/2022 11:05 AM, Trouble Shooter is determining repairs required, , 1211852];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[9]=[102,06/05/2022 12:11 PM, 06/05/2022 12:11 PM, Customer Svc is working this single customer outage, , 1211858];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[10]=[102,06/05/2022 12:20 PM, 06/05/2022 12:20 PM, Waiting to be analyzed, , 1211861];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
+events[11]=[113,06/05/2022 09:15 AM, 06/05/2022 09:15 AM, Waiting for an available crew to perform repairs, , 1211835];,# of Outages: 12,Customers Affected: 175,2022-06-05T17:31:10Z
