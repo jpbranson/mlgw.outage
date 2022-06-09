@@ -1,0 +1,11 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,06/09/2022 04:00 PM, 06/09/2022 04:00 PM, The extent of the outage has been determined, , 1213341];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
+events[1]=[049,06/09/2022 04:11 PM, 06/09/2022 04:11 PM, Waiting to be analyzed, , 1213344];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
+events[2]=[060,06/09/2022 04:05 PM, 06/09/2022 04:05 PM, Waiting to be analyzed, , 1213342];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
+events[3]=[072,06/09/2022 02:29 PM, 06/09/2022 02:29 PM, Trouble Shooter is determining repairs required, , 1213333];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
+events[4]=[073,06/09/2022 11:19 AM, 06/09/2022 11:19 AM, Trouble Shooter is determining repairs required, , 1213309];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
+events[5]=[075,06/09/2022 03:47 PM, 06/09/2022 03:47 PM, Waiting to be analyzed, , 1213339];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
+events[6]=[084,06/09/2022 12:02 PM, 06/09/2022 12:02 PM, Trouble Shooter is determining repairs required, , 1213322];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
+events[7]=[086,06/09/2022 02:32 AM, 06/09/2022 02:32 AM, Trouble Shooter is determining repairs required, , 1213268];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
+events[8]=[101,06/09/2022 03:49 PM, 06/09/2022 03:49 PM, Trouble Shooter is determining repairs required, , 1213340];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
+events[9]=[114,06/09/2022 11:32 AM, 06/09/2022 11:32 AM, A crew is currently working on the problem, 06/09/2022 07:30 PM, 1213312];,# of Outages: 10,Customers Affected: 182,2022-06-09T21:18:02Z
