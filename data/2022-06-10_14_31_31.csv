@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[071,06/10/2022 09:11 AM, 06/10/2022 09:11 AM, Waiting for an available crew to perform repairs, , 1213454];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[1]=[073,06/10/2022 08:31 AM, 06/10/2022 08:31 AM, Trouble Shooter is determining repairs required, , 1213449];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[2]=[073,06/10/2022 08:33 AM, 06/10/2022 08:33 AM, Trouble Shooter is determining repairs required, , 1213452];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[3]=[074,06/10/2022 08:13 AM, 06/10/2022 08:13 AM, A crew is currently working on the problem, 06/10/2022 12:00 PM, 1213445];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[4]=[084,06/10/2022 07:16 AM, 06/10/2022 07:16 AM, Trouble Shooter is determining repairs required, , 1213444];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[5]=[086,06/10/2022 08:33 AM, 06/10/2022 08:33 AM, Trouble Shooter is determining repairs required, , 1213452];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[6]=[101,06/09/2022 10:31 PM, 06/09/2022 10:31 PM, Customer Svc is working this single customer outage, , 1213409];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[7]=[106,06/10/2022 08:22 AM, 06/10/2022 08:22 AM, A crew is currently working on the problem, 06/10/2022 12:00 PM, 1213447];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[8]=[106,06/10/2022 08:32 AM, 06/10/2022 08:32 AM, A crew is currently working on the problem, 06/10/2022 12:00 PM, 1213450];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[9]=[114,06/10/2022 08:38 AM, 06/10/2022 08:38 AM, Trouble Shooter is determining repairs required, , 1213453];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[10]=[123,06/10/2022 01:50 AM, 06/10/2022 01:50 AM, Tree Trimming is clearing debris from the area, , 1213435];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
+events[11]=[123,06/10/2022 03:01 AM, 06/10/2022 03:01 AM, Tree Trimming is clearing debris from the area, , 1213438];,# of Outages: 11,Customers Affected: 71,2022-06-10T14:31:31Z
