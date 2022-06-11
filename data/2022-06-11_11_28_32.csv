@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,06/11/2022 03:12 AM, 06/11/2022 03:12 AM, Waiting for an available crew to perform repairs, , 1213515];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[1]=[052,06/11/2022 06:08 AM, 06/11/2022 06:08 AM, Trouble Shooter is determining repairs required, , 1213568];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[2]=[052,06/11/2022 06:18 AM, 06/11/2022 06:18 AM, Waiting to be analyzed, , 1213570];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[3]=[072,06/11/2022 05:47 AM, 06/11/2022 05:47 AM, Trouble Shooter is working on the problem, 06/11/2022 09:30 AM, 1213544];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[4]=[073,06/10/2022 08:05 PM, 06/10/2022 08:05 PM, Tree Trimming is clearing debris from the area, , 1213506];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[5]=[073,06/11/2022 05:46 AM, 06/11/2022 05:46 AM, Trouble Shooter is determining repairs required, , 1213528];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[6]=[073,06/11/2022 05:47 AM, 06/11/2022 05:47 AM, Trouble Shooter is working on the problem, 06/11/2022 09:30 AM, 1213544];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[7]=[073,06/11/2022 05:48 AM, 06/11/2022 05:48 AM, Trouble Shooter is determining repairs required, , 1213559];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[8]=[073,06/11/2022 06:02 AM, 06/11/2022 06:02 AM, Trouble Shooter is determining repairs required, , 1213566];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[9]=[073,06/11/2022 06:07 AM, 06/11/2022 06:07 AM, Trouble Shooter is determining repairs required, , 1213567];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[10]=[073,06/11/2022 06:12 AM, 06/11/2022 06:12 AM, Waiting to be analyzed, , 1213569];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
+events[11]=[073,06/11/2022 06:24 AM, 06/11/2022 06:24 AM, Waiting to be analyzed, , 1213571];,# of Outages: 11,Customers Affected: 438,2022-06-11T11:28:32Z
