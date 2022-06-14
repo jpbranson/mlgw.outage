@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,06/14/2022 03:54 PM, 06/14/2022 03:54 PM, Customer Svc is working this single customer outage, , 1214325];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[1]=[060,06/14/2022 12:55 PM, 06/14/2022 12:55 PM, Trouble Shooter is determining repairs required, , 1214282];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[2]=[061,06/14/2022 12:29 PM, 06/14/2022 12:29 PM, A crew is currently working on the problem, 06/14/2022 06:00 PM, 1214273];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[3]=[062,06/14/2022 04:24 PM, 06/14/2022 04:24 PM, Waiting for an available crew to perform repairs, , 1214333];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[4]=[063,06/14/2022 04:24 PM, 06/14/2022 04:24 PM, Waiting for an available crew to perform repairs, , 1214333];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[5]=[073,06/14/2022 04:09 PM, 06/14/2022 04:09 PM, Trouble Shooter is determining repairs required, , 1214328];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[6]=[073,06/14/2022 04:46 PM, 06/14/2022 04:46 PM, The extent of the outage has been determined, , 1214334];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[7]=[083,06/14/2022 03:51 PM, 06/14/2022 03:51 PM, Customer Svc is working this single customer outage, , 1214324];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[8]=[088,06/14/2022 01:57 PM, 06/14/2022 01:57 PM, Customer Svc is working this single customer outage, , 1214301];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[9]=[101,06/14/2022 04:13 PM, 06/14/2022 04:13 PM, Customer Svc is working this single customer outage, , 1214329];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[10]=[119,06/14/2022 09:58 AM, 06/14/2022 09:58 AM, A crew is currently working on the problem, 06/14/2022 08:30 PM, 1214131];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
+events[11]=[119,06/14/2022 10:00 AM, 06/14/2022 10:00 AM, A crew is currently working on the problem, 06/14/2022 08:30 PM, 1214152];,# of Outages: 11,Customers Affected: 201,2022-06-14T21:53:42Z
