@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,06/14/2022 03:54 PM, 06/14/2022 03:54 PM, Customer Svc is working this single customer outage, , 1214325];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[1]=[062,06/14/2022 04:24 PM, 06/14/2022 04:24 PM, Waiting for an available crew to perform repairs, , 1214333];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[2]=[063,06/14/2022 04:24 PM, 06/14/2022 04:24 PM, Waiting for an available crew to perform repairs, , 1214333];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[3]=[069,06/14/2022 05:13 PM, 06/14/2022 05:13 PM, Waiting to be analyzed, , 1214337];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[4]=[073,06/14/2022 04:09 PM, 06/14/2022 04:09 PM, Tree Trimming is clearing debris from the area, , 1214328];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[5]=[073,06/14/2022 04:46 PM, 06/14/2022 04:46 PM, Customer Svc is working this single customer outage, , 1214334];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[6]=[083,06/14/2022 03:51 PM, 06/14/2022 03:51 PM, Customer Svc is working this single customer outage, , 1214324];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[7]=[085,06/14/2022 04:58 PM, 06/14/2022 04:58 PM, Trouble Shooter is determining repairs required, , 1214335];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[8]=[101,06/14/2022 04:13 PM, 06/14/2022 04:13 PM, Customer Svc is working this single customer outage, , 1214329];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[9]=[119,06/14/2022 09:58 AM, 06/14/2022 09:58 AM, A crew is currently working on the problem, 06/14/2022 08:30 PM, 1214131];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
+events[10]=[119,06/14/2022 10:00 AM, 06/14/2022 10:00 AM, A crew is currently working on the problem, 06/14/2022 08:30 PM, 1214152];,# of Outages: 10,Customers Affected: 202,2022-06-14T22:19:30Z
