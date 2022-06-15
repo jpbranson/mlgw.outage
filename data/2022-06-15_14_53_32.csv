@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[053,06/15/2022 09:39 AM, 06/15/2022 09:39 AM, A crew is currently working on the problem, 06/15/2022 12:00 PM, 1214438];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[1]=[054,06/15/2022 09:39 AM, 06/15/2022 09:39 AM, A crew is currently working on the problem, 06/15/2022 12:00 PM, 1214438];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[2]=[071,06/15/2022 09:21 AM, 06/15/2022 09:21 AM, Customer Svc is working this single customer outage, , 1214435];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[3]=[083,06/15/2022 09:45 AM, 06/15/2022 09:45 AM, The extent of the outage has been determined, , 1214439];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[4]=[084,06/15/2022 09:05 AM, 06/15/2022 09:05 AM, A crew is currently working on the problem, 06/15/2022 11:30 AM, 1214432];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[5]=[086,06/15/2022 07:01 AM, 06/15/2022 07:01 AM, A crew is currently working on the problem, 06/15/2022 11:00 AM, 1214418];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[6]=[086,06/15/2022 09:39 AM, 06/15/2022 09:39 AM, Trouble Shooter is working on the problem, 06/15/2022 10:00 AM, 1214437];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[7]=[101,06/15/2022 07:46 AM, 06/15/2022 07:46 AM, A crew is currently working on the problem, 06/15/2022 12:00 PM, 1214423];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[8]=[102,06/15/2022 09:19 AM, 06/15/2022 09:19 AM, Customer Svc is working this single customer outage, , 1214434];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[9]=[113,06/15/2022 08:49 AM, 06/15/2022 08:49 AM, A crew is currently working on the problem, 06/15/2022 12:30 PM, 1214431];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
+events[10]=[129,06/15/2022 09:32 AM, 06/15/2022 09:32 AM, A crew is currently working on the problem, 06/15/2022 11:00 AM, 1214436];,# of Outages: 10,Customers Affected: 196,2022-06-15T14:53:32Z
