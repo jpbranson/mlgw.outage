@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[064,06/20/2022 04:11 PM, 06/20/2022 04:11 PM, Waiting for an available crew to perform repairs, , 1215043];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[1]=[070,06/20/2022 04:07 PM, 06/20/2022 04:07 PM, Customer Svc is working this single customer outage, , 1215042];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[2]=[071,06/20/2022 01:13 PM, 06/20/2022 01:13 PM, Customer Svc is working this single customer outage, , 1215022];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[3]=[072,06/20/2022 02:47 PM, 06/20/2022 02:47 PM, Waiting for an available crew to perform repairs, , 1215031];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[4]=[072,06/20/2022 02:48 PM, 06/20/2022 02:48 PM, Trouble Shooter is determining repairs required, , 1215032];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[5]=[077,06/20/2022 03:51 PM, 06/20/2022 03:51 PM, Customer Svc is working this single customer outage, , 1215038];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[6]=[083,06/20/2022 03:02 PM, 06/20/2022 03:02 PM, Customer Svc is working this single customer outage, , 1215034];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[7]=[083,06/20/2022 04:02 PM, 06/20/2022 04:02 PM, Customer Svc is working this single customer outage, , 1215040];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[8]=[085,06/20/2022 03:09 PM, 06/20/2022 03:09 PM, Customer Svc is working this single customer outage, , 1215035];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[9]=[087,06/20/2022 04:02 PM, 06/20/2022 04:02 PM, Customer Svc is working this single customer outage, , 1215039];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[10]=[098,06/20/2022 03:47 PM, 06/20/2022 03:47 PM, Trouble Shooter is determining repairs required, , 1215037];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
+events[11]=[101,06/20/2022 04:04 PM, 06/20/2022 04:04 PM, Waiting to be analyzed, , 1215041];,# of Outages: 12,Customers Affected: 43,2022-06-20T21:32:24Z
