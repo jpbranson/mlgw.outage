@@ -1,0 +1,9 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,06/20/2022 01:46 PM, 06/20/2022 01:46 PM, Customer Svc is working this single customer outage, , 1215025];,# of Outages: 8,Customers Affected: 8,2022-06-20T19:27:38Z
+events[1]=[051,06/20/2022 02:19 PM, 06/20/2022 02:19 PM, The extent of the outage has been determined, , 1215029];,# of Outages: 8,Customers Affected: 8,2022-06-20T19:27:38Z
+events[2]=[056,06/20/2022 01:15 PM, 06/20/2022 01:15 PM, Customer Svc is working this single customer outage, , 1215023];,# of Outages: 8,Customers Affected: 8,2022-06-20T19:27:38Z
+events[3]=[064,06/20/2022 02:16 PM, 06/20/2022 02:16 PM, Waiting to be analyzed, , 1215028];,# of Outages: 8,Customers Affected: 8,2022-06-20T19:27:38Z
+events[4]=[065,06/20/2022 01:40 PM, 06/20/2022 01:40 PM, Customer Svc is working this single customer outage, , 1215024];,# of Outages: 8,Customers Affected: 8,2022-06-20T19:27:38Z
+events[5]=[071,06/20/2022 01:13 PM, 06/20/2022 01:13 PM, Customer Svc is working this single customer outage, , 1215022];,# of Outages: 8,Customers Affected: 8,2022-06-20T19:27:38Z
+events[6]=[072,06/20/2022 01:13 PM, 06/20/2022 01:13 PM, Customer Svc is working this single customer outage, , 1215021];,# of Outages: 8,Customers Affected: 8,2022-06-20T19:27:38Z
+events[7]=[100,06/20/2022 01:50 PM, 06/20/2022 01:50 PM, Customer Svc is working this single customer outage, , 1215026];,# of Outages: 8,Customers Affected: 8,2022-06-20T19:27:38Z
