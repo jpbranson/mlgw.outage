@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[053,06/21/2022 06:12 PM, 06/21/2022 06:12 PM, Trouble Shooter is determining repairs required, , 1215228];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[1]=[053,06/21/2022 06:13 PM, 06/21/2022 06:13 PM, Trouble Shooter is determining repairs required, , 1215229];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[2]=[071,06/21/2022 01:32 PM, 06/21/2022 01:32 PM, Customer Svc is working this single customer outage, , 1215193];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[3]=[072,06/21/2022 02:40 PM, 06/21/2022 02:40 PM, Customer Svc is working this single customer outage, , 1215203];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[4]=[072,06/21/2022 05:48 PM, 06/21/2022 05:48 PM, Customer Svc is working this single customer outage, , 1215222];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[5]=[084,06/21/2022 05:32 PM, 06/21/2022 05:32 PM, Customer Svc is working this single customer outage, , 1215220];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[6]=[102,06/21/2022 07:04 AM, 06/21/2022 07:04 AM, A crew is currently working on the problem, 06/21/2022 07:30 PM, 1215144];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[7]=[113,06/21/2022 12:03 PM, 06/21/2022 12:03 PM, Customer Svc is working this single customer outage, , 1215181];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[8]=[114,06/21/2022 06:54 AM, 06/21/2022 06:54 AM, A crew is currently working on the problem, 06/21/2022 10:30 PM, 1215143];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[9]=[114,06/21/2022 08:49 AM, 06/21/2022 08:49 AM, A crew is currently working on the problem, 06/21/2022 10:30 PM, 1215159];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[10]=[115,06/21/2022 06:34 PM, 06/21/2022 06:34 PM, Trouble Shooter is determining repairs required, , 1215230];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[11]=[118,06/21/2022 06:02 PM, 06/21/2022 06:02 PM, Trouble Shooter is determining repairs required, , 1215224];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[12]=[119,06/21/2022 03:28 PM, 06/21/2022 03:28 PM, A crew is currently working on the problem, 06/21/2022 09:00 PM, 1215210];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[13]=[119,06/21/2022 03:33 PM, 06/21/2022 03:33 PM, A crew is currently working on the problem, 06/21/2022 09:00 PM, 1215211];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
+events[14]=[119,06/21/2022 04:06 PM, 06/21/2022 04:06 PM, A crew is currently working on the problem, 06/21/2022 09:00 PM, 1215213];,# of Outages: 15,Customers Affected: 271,2022-06-21T23:53:15Z
