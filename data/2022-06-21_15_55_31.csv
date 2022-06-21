@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,06/21/2022 08:56 AM, 06/21/2022 08:56 AM, A crew is currently working on the problem, 06/21/2022 01:30 PM, 1215164];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[1]=[083,06/21/2022 10:22 AM, 06/21/2022 10:22 AM, Trouble Shooter is determining repairs required, , 1215177];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[2]=[084,06/21/2022 08:16 AM, 06/21/2022 08:16 AM, Trouble Shooter is determining repairs required, , 1215151];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[3]=[087,06/21/2022 09:53 AM, 06/21/2022 09:53 AM, A crew is currently working on the problem, 06/21/2022 02:30 PM, 1215173];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[4]=[089,06/21/2022 06:38 AM, 06/21/2022 06:38 AM, A crew is currently working on the problem, 06/21/2022 12:00 PM, 1215139];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[5]=[090,06/21/2022 06:33 AM, 06/21/2022 06:33 AM, A crew is currently working on the problem, 06/21/2022 12:00 PM, 1215137];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[6]=[090,06/21/2022 06:38 AM, 06/21/2022 06:38 AM, A crew is currently working on the problem, 06/21/2022 12:00 PM, 1215139];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[7]=[098,06/21/2022 09:09 AM, 06/21/2022 09:09 AM, A crew is currently working on the problem, 06/21/2022 01:30 PM, 1215168];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[8]=[098,06/21/2022 09:09 AM, 06/21/2022 09:09 AM, A crew is currently working on the problem, 06/21/2022 01:30 PM, 1215169];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[9]=[098,06/21/2022 10:36 AM, 06/21/2022 10:36 AM, Customer Svc is working this single customer outage, , 1215178];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[10]=[099,06/21/2022 10:16 AM, 06/21/2022 10:16 AM, Customer Svc is working this single customer outage, , 1215176];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[11]=[102,06/21/2022 07:04 AM, 06/21/2022 07:04 AM, Waiting for an available crew to perform repairs, , 1215144];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[12]=[114,06/21/2022 06:54 AM, 06/21/2022 06:54 AM, A crew is currently working on the problem, 06/21/2022 02:30 PM, 1215143];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[13]=[114,06/21/2022 08:49 AM, 06/21/2022 08:49 AM, A crew is currently working on the problem, 06/21/2022 02:30 PM, 1215159];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
+events[14]=[114,06/21/2022 09:59 AM, 06/21/2022 09:59 AM, Trouble Shooter is determining repairs required, , 1215174];,# of Outages: 14,Customers Affected: 714,2022-06-21T15:55:31Z
