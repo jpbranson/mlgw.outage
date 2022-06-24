@@ -1,0 +1,5 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,06/24/2022 04:36 PM, 06/24/2022 04:36 PM, Customer Svc is working this single customer outage, , 1215581];,# of Outages: 4,Customers Affected: 28,2022-06-24T22:20:28Z
+events[1]=[058,06/24/2022 04:24 PM, 06/24/2022 04:24 PM, Waiting for an available crew to perform repairs, , 1215579];,# of Outages: 4,Customers Affected: 28,2022-06-24T22:20:28Z
+events[2]=[086,06/24/2022 09:38 AM, 06/24/2022 09:38 AM, Tree Trimming is clearing debris from the area, 06/24/2022 07:00 PM, 1215540];,# of Outages: 4,Customers Affected: 28,2022-06-24T22:20:28Z
+events[3]=[089,06/24/2022 01:52 PM, 06/24/2022 01:52 PM, Waiting for an available crew to perform repairs, , 1215570];,# of Outages: 4,Customers Affected: 28,2022-06-24T22:20:28Z
