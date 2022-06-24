@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[071,06/24/2022 01:12 PM, 06/24/2022 01:12 PM, The extent of the outage has been determined, , 1215564];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[1]=[072,06/24/2022 12:56 PM, 06/24/2022 12:56 PM, Trouble Shooter is determining repairs required, , 1215561];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[2]=[083,06/24/2022 01:16 PM, 06/24/2022 01:16 PM, Waiting for an available crew to perform repairs, , 1215565];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[3]=[084,06/24/2022 01:08 PM, 06/24/2022 01:08 PM, Trouble Shooter is determining repairs required, , 1215562];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[4]=[084,06/24/2022 11:13 AM, 06/24/2022 11:13 AM, A crew is currently working on the problem, , 1215551];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[5]=[084,06/24/2022 12:44 PM, 06/24/2022 12:44 PM, Trouble Shooter is determining repairs required, , 1215560];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[6]=[086,06/24/2022 09:38 AM, 06/24/2022 09:38 AM, Tree Trimming is clearing debris from the area, , 1215540];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[7]=[086,06/24/2022 09:48 AM, 06/24/2022 09:48 AM, Tree Trimming is clearing debris from the area, , 1215544];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[8]=[087,06/24/2022 07:12 AM, 06/24/2022 07:12 AM, A crew is currently working on the problem, 06/24/2022 01:30 PM, 1215526];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[9]=[087,06/24/2022 09:24 AM, 06/24/2022 09:24 AM, A crew is currently working on the problem, 06/24/2022 01:30 PM, 1215537];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[10]=[087,06/24/2022 09:37 AM, 06/24/2022 09:37 AM, A crew is currently working on the problem, 06/24/2022 02:30 PM, 1215539];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[11]=[097,06/24/2022 09:45 AM, 06/24/2022 09:45 AM, A crew is currently working on the problem, 06/24/2022 01:30 PM, 1215542];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[12]=[114,06/24/2022 10:59 AM, 06/24/2022 10:59 AM, A crew is currently working on the problem, 06/24/2022 03:30 PM, 1215550];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
+events[13]=[132,06/24/2022 01:16 PM, 06/24/2022 01:16 PM, Trouble Shooter is determining repairs required, , 1215566];,# of Outages: 14,Customers Affected: 267,2022-06-24T18:28:24Z
