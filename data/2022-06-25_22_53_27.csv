@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,06/25/2022 05:07 PM, 06/25/2022 05:07 PM, Waiting for an available crew to perform repairs, , 1215688];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[1]=[051,06/25/2022 05:19 PM, 06/25/2022 05:19 PM, Waiting for an available crew to perform repairs, , 1215690];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[2]=[059,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is working on the problem, 06/25/2022 07:00 PM, 1215665];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[3]=[060,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is working on the problem, 06/25/2022 07:00 PM, 1215665];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[4]=[061,06/25/2022 04:51 PM, 06/25/2022 04:51 PM, A crew is currently working on the problem, 06/25/2022 08:00 PM, 1215687];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[5]=[062,06/25/2022 03:31 PM, 06/25/2022 03:31 PM, Waiting for an available crew to perform repairs, , 1215680];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[6]=[062,06/25/2022 04:51 PM, 06/25/2022 04:51 PM, A crew is currently working on the problem, 06/25/2022 08:00 PM, 1215687];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[7]=[062,06/25/2022 12:33 PM, 06/25/2022 12:33 PM, A crew is currently working on the problem, 06/25/2022 08:00 PM, 1215655];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[8]=[070,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is working on the problem, 06/25/2022 07:00 PM, 1215665];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[9]=[090,06/25/2022 05:42 PM, 06/25/2022 05:42 PM, Waiting to be analyzed, , 1215692];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
+events[10]=[106,06/25/2022 11:22 AM, 06/25/2022 11:22 AM, Trouble Shooter is determining repairs required, , 1215634];,# of Outages: 8,Customers Affected: 817,2022-06-25T22:53:27Z
