@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[059,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is determining repairs required, , 1215665];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[1]=[060,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is determining repairs required, , 1215665];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[2]=[061,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is determining repairs required, , 1215665];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[3]=[062,06/25/2022 03:31 PM, 06/25/2022 03:31 PM, Waiting for an available crew to perform repairs, , 1215680];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[4]=[062,06/25/2022 12:33 PM, 06/25/2022 12:33 PM, A crew is currently working on the problem, 06/25/2022 08:00 PM, 1215655];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[5]=[064,06/25/2022 11:31 AM, 06/25/2022 11:31 AM, A crew is currently working on the problem, 06/25/2022 05:30 PM, 1215636];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[6]=[070,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is determining repairs required, , 1215665];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[7]=[083,06/25/2022 02:53 PM, 06/25/2022 02:53 PM, Customer Svc is working this single customer outage, , 1215676];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[8]=[085,06/25/2022 02:30 PM, 06/25/2022 02:30 PM, Customer Svc is working this single customer outage, , 1215662];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[9]=[090,06/25/2022 03:33 PM, 06/25/2022 03:33 PM, Waiting to be analyzed, , 1215681];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[10]=[106,06/25/2022 11:22 AM, 06/25/2022 11:22 AM, A crew is currently working on the problem, 06/25/2022 05:30 PM, 1215634];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[11]=[116,06/25/2022 03:18 PM, 06/25/2022 03:18 PM, Waiting to be analyzed, , 1215678];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[12]=[130,06/25/2022 03:28 PM, 06/25/2022 03:28 PM, The extent of the outage has been determined, , 1215679];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
+events[13]=[130,06/25/2022 03:34 PM, 06/25/2022 03:34 PM, Waiting to be analyzed, , 1215682];,# of Outages: 11,Customers Affected: 824,2022-06-25T20:43:04Z
