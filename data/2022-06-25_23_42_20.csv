@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,06/25/2022 05:07 PM, 06/25/2022 05:07 PM, Trouble Shooter is determining repairs required, , 1215688];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[1]=[051,06/25/2022 05:19 PM, 06/25/2022 05:19 PM, Trouble Shooter is determining repairs required, , 1215690];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[2]=[059,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is working on the problem, 06/25/2022 07:00 PM, 1215665];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[3]=[060,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is working on the problem, 06/25/2022 07:00 PM, 1215665];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[4]=[061,06/25/2022 04:51 PM, 06/25/2022 04:51 PM, A crew is currently working on the problem, 06/25/2022 08:00 PM, 1215687];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[5]=[062,06/25/2022 03:31 PM, 06/25/2022 03:31 PM, Trouble Shooter is determining repairs required, , 1215680];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[6]=[062,06/25/2022 04:51 PM, 06/25/2022 04:51 PM, A crew is currently working on the problem, 06/25/2022 08:00 PM, 1215687];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[7]=[062,06/25/2022 12:33 PM, 06/25/2022 12:33 PM, A crew is currently working on the problem, 06/25/2022 08:00 PM, 1215655];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[8]=[070,06/25/2022 02:44 PM, 06/25/2022 02:44 PM, Trouble Shooter is working on the problem, 06/25/2022 07:00 PM, 1215665];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[9]=[090,06/25/2022 06:37 PM, 06/25/2022 06:37 PM, Trouble Shooter is determining repairs required, , 1215697];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[10]=[098,06/25/2022 06:31 PM, 06/25/2022 06:31 PM, Trouble Shooter is determining repairs required, , 1215695];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[11]=[099,06/25/2022 06:31 PM, 06/25/2022 06:31 PM, Trouble Shooter is determining repairs required, , 1215695];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[12]=[117,06/25/2022 06:10 PM, 06/25/2022 06:10 PM, Trouble Shooter is determining repairs required, , 1215693];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
+events[13]=[120,06/25/2022 06:19 PM, 06/25/2022 06:19 PM, Trouble Shooter is determining repairs required, , 1215694];,# of Outages: 10,Customers Affected: 950,2022-06-25T23:42:20Z
