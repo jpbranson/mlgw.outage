@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,06/26/2022 08:16 AM, 06/26/2022 08:16 AM, Waiting to be analyzed, , 1215780];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[1]=[029,06/26/2022 07:37 AM, 06/26/2022 07:37 AM, A crew is currently working on the problem, 06/26/2022 12:00 PM, 1215776];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[2]=[029,06/26/2022 07:44 AM, 06/26/2022 07:44 AM, A crew is currently working on the problem, , 1215777];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[3]=[050,06/26/2022 08:06 AM, 06/26/2022 08:06 AM, Waiting to be analyzed, , 1215779];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[4]=[073,06/26/2022 07:46 AM, 06/26/2022 07:46 AM, Trouble Shooter is determining repairs required, , 1215778];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[5]=[086,06/25/2022 11:43 PM, 06/25/2022 11:43 PM, Waiting for an available crew to perform repairs, , 1215759];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[6]=[087,06/25/2022 08:07 PM, 06/25/2022 08:07 PM, A crew is currently working on the problem, 06/26/2022 09:30 AM, 1215729];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[7]=[097,06/25/2022 11:19 PM, 06/25/2022 11:19 PM, A crew is currently working on the problem, 06/26/2022 03:30 PM, 1215758];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[8]=[101,06/26/2022 03:53 AM, 06/26/2022 03:53 AM, A crew is currently working on the problem, 06/26/2022 01:30 PM, 1215764];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[9]=[103,06/26/2022 06:20 AM, 06/26/2022 06:20 AM, Trouble Shooter is determining repairs required, , 1215770];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
+events[10]=[103,06/26/2022 06:35 AM, 06/26/2022 06:35 AM, Trouble Shooter is determining repairs required, , 1215773];,# of Outages: 11,Customers Affected: 386,2022-06-26T13:31:12Z
