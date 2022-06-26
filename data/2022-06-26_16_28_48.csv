@@ -1,0 +1,9 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[029,06/26/2022 07:37 AM, 06/26/2022 07:37 AM, A crew is currently working on the problem, 06/26/2022 12:00 PM, 1215776];,# of Outages: 8,Customers Affected: 77,2022-06-26T16:28:48Z
+events[1]=[029,06/26/2022 07:44 AM, 06/26/2022 07:44 AM, A crew is currently working on the problem, 06/26/2022 12:00 PM, 1215777];,# of Outages: 8,Customers Affected: 77,2022-06-26T16:28:48Z
+events[2]=[063,06/26/2022 09:07 AM, 06/26/2022 09:07 AM, A crew is currently working on the problem, 06/26/2022 03:30 PM, 1215781];,# of Outages: 8,Customers Affected: 77,2022-06-26T16:28:48Z
+events[3]=[083,06/26/2022 09:30 AM, 06/26/2022 09:30 AM, Customer Svc is working this single customer outage, , 1215784];,# of Outages: 8,Customers Affected: 77,2022-06-26T16:28:48Z
+events[4]=[097,06/25/2022 11:19 PM, 06/25/2022 11:19 PM, A crew is currently working on the problem, 06/26/2022 03:30 PM, 1215758];,# of Outages: 8,Customers Affected: 77,2022-06-26T16:28:48Z
+events[5]=[101,06/26/2022 10:43 AM, 06/26/2022 10:43 AM, Customer Svc is working this single customer outage, , 1215788];,# of Outages: 8,Customers Affected: 77,2022-06-26T16:28:48Z
+events[6]=[103,06/26/2022 06:20 AM, 06/26/2022 06:20 AM, Waiting for an available crew to perform repairs, , 1215770];,# of Outages: 8,Customers Affected: 77,2022-06-26T16:28:48Z
+events[7]=[103,06/26/2022 06:35 AM, 06/26/2022 06:35 AM, Waiting for an available crew to perform repairs, , 1215773];,# of Outages: 8,Customers Affected: 77,2022-06-26T16:28:48Z
