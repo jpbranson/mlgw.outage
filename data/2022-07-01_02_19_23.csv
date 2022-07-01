@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[054,06/30/2022 07:51 PM, 06/30/2022 07:51 PM, Waiting for an available crew to perform repairs, , 1216289];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[1]=[060,06/30/2022 09:02 PM, 06/30/2022 09:02 PM, Customer Svc is working this single customer outage, , 1216302];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[2]=[065,06/30/2022 08:07 PM, 06/30/2022 08:07 PM, Trouble Shooter is determining repairs required, , 1216298];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[3]=[071,06/30/2022 07:50 PM, 06/30/2022 07:50 PM, Waiting for an available crew to perform repairs, , 1216288];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[4]=[083,06/30/2022 08:44 PM, 06/30/2022 08:44 PM, Customer Svc is working this single customer outage, , 1216301];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[5]=[085,06/30/2022 06:30 PM, 06/30/2022 06:30 PM, A crew is currently working on the problem, 06/30/2022 11:00 PM, 1216274];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[6]=[085,06/30/2022 07:03 PM, 06/30/2022 07:03 PM, Trouble Shooter is determining repairs required, , 1216275];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[7]=[085,06/30/2022 07:32 PM, 06/30/2022 07:32 PM, Waiting for an available crew to perform repairs, , 1216286];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[8]=[085,06/30/2022 07:58 PM, 06/30/2022 07:58 PM, Waiting for an available crew to perform repairs, , 1216292];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[9]=[090,06/30/2022 09:00 AM, 06/30/2022 09:00 AM, Waiting for an available crew to perform repairs, , 1216224];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[10]=[101,06/30/2022 07:22 PM, 06/30/2022 07:22 PM, Trouble Shooter is determining repairs required, , 1216282];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[11]=[101,06/30/2022 07:36 PM, 06/30/2022 07:36 PM, Trouble Shooter is determining repairs required, , 1216287];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
+events[12]=[102,06/30/2022 07:24 PM, 06/30/2022 07:24 PM, Trouble Shooter is determining repairs required, , 1216284];,# of Outages: 13,Customers Affected: 93,2022-07-01T02:19:23Z
