@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,07/02/2022 01:38 AM, 07/02/2022 01:38 AM, A crew is currently working on the problem, 07/02/2022 01:00 PM, 1216418];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[1]=[073,07/02/2022 09:48 AM, 07/02/2022 09:48 AM, Waiting to be analyzed, , 1216445];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[2]=[073,07/02/2022 09:49 AM, 07/02/2022 09:49 AM, Waiting to be analyzed, , 1216446];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[3]=[073,07/02/2022 09:49 AM, 07/02/2022 09:49 AM, Waiting to be analyzed, , 1216447];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[4]=[073,07/02/2022 09:49 AM, 07/02/2022 09:49 AM, Waiting to be analyzed, , 1216448];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[5]=[074,07/02/2022 09:33 AM, 07/02/2022 09:33 AM, Customer Svc is working this single customer outage, , 1216444];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[6]=[075,07/02/2022 07:03 AM, 07/02/2022 07:03 AM, Waiting to be analyzed, , 1216421];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[7]=[084,07/02/2022 08:46 AM, 07/02/2022 08:46 AM, Customer Svc is working this single customer outage, , 1216427];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[8]=[085,07/02/2022 07:58 AM, 07/02/2022 07:58 AM, Trouble Shooter is determining repairs required, , 1216424];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[9]=[085,07/02/2022 08:52 AM, 07/02/2022 08:52 AM, Trouble Shooter is determining repairs required, , 1216431];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[10]=[085,07/02/2022 08:54 AM, 07/02/2022 08:54 AM, Waiting to be analyzed, , 1216432];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[11]=[086,07/02/2022 09:22 AM, 07/02/2022 09:22 AM, Waiting to be analyzed, , 1216442];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
+events[12]=[087,07/01/2022 11:18 PM, 07/01/2022 11:18 PM, Waiting for an available crew to perform repairs, , 1216405];,# of Outages: 13,Customers Affected: 134,2022-07-02T14:53:34Z
