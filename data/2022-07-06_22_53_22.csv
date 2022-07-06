@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[059,07/06/2022 05:03 PM, 07/06/2022 05:03 PM, Waiting for an available crew to perform repairs, 07/06/2022 04:30 PM, 1217314];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[1]=[060,07/06/2022 05:03 PM, 07/06/2022 05:03 PM, Waiting for an available crew to perform repairs, 07/06/2022 04:30 PM, 1217314];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[2]=[061,07/06/2022 05:03 PM, 07/06/2022 05:03 PM, Waiting for an available crew to perform repairs, 07/06/2022 04:30 PM, 1217314];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[3]=[061,07/06/2022 05:44 PM, 07/06/2022 05:44 PM, The extent of the outage has been determined, , 1217327];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[4]=[066,07/06/2022 05:23 PM, 07/06/2022 05:23 PM, Customer Svc is working this single customer outage, , 1217318];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[5]=[070,07/06/2022 05:03 PM, 07/06/2022 05:03 PM, Waiting for an available crew to perform repairs, 07/06/2022 04:30 PM, 1217314];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[6]=[077,07/06/2022 05:35 PM, 07/06/2022 05:35 PM, Trouble Shooter is determining repairs required, , 1217321];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[7]=[083,07/06/2022 05:07 PM, 07/06/2022 05:07 PM, Customer Svc is working this single customer outage, , 1217316];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[8]=[085,07/06/2022 04:54 PM, 07/06/2022 04:54 PM, Waiting for an available crew to perform repairs, , 1217305];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[9]=[085,07/06/2022 04:54 PM, 07/06/2022 04:54 PM, Customer Svc is working this single customer outage, , 1217306];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
+events[10]=[113,07/06/2022 02:46 PM, 07/06/2022 02:46 PM, Trouble Shooter is determining repairs required, , 1217285];,# of Outages: 8,Customers Affected: 1074,2022-07-06T22:53:22Z
