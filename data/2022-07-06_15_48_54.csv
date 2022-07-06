@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[016,07/06/2022 10:20 AM, 07/06/2022 10:20 AM, Trouble Shooter is determining repairs required, , 1217264];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[1]=[050,07/06/2022 10:03 AM, 07/06/2022 10:03 AM, Waiting for an available crew to perform repairs, , 1217261];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[2]=[051,07/06/2022 08:54 AM, 07/06/2022 08:54 AM, Trouble Shooter is determining repairs required, , 1217251];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[3]=[066,07/06/2022 10:43 AM, 07/06/2022 10:43 AM, The extent of the outage has been determined, , 1217265];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[4]=[073,07/06/2022 09:58 AM, 07/06/2022 09:58 AM, A crew is currently working on the problem, 07/06/2022 12:30 PM, 1217260];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[5]=[074,07/06/2022 09:45 AM, 07/06/2022 09:45 AM, A crew is currently working on the problem, 07/06/2022 01:00 PM, 1217257];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[6]=[083,07/06/2022 08:18 AM, 07/06/2022 08:18 AM, A crew is currently working on the problem, 07/06/2022 11:00 AM, 1217248];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[7]=[083,07/06/2022 08:18 AM, 07/06/2022 08:18 AM, A crew is currently working on the problem, 07/06/2022 11:00 AM, 1217249];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[8]=[084,07/06/2022 08:52 AM, 07/06/2022 08:52 AM, Tree Trimming is clearing debris from the area, , 1217250];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[9]=[096,07/06/2022 09:17 AM, 07/06/2022 09:17 AM, A crew is currently working on the problem, 07/06/2022 01:00 PM, 1217254];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[10]=[099,07/06/2022 09:47 AM, 07/06/2022 09:47 AM, Customer Svc is working this single customer outage, , 1217258];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[11]=[100,07/06/2022 06:50 AM, 07/06/2022 06:50 AM, Tree Trimming is clearing debris from the area, 07/06/2022 01:30 PM, 1217239];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[12]=[113,07/06/2022 10:10 AM, 07/06/2022 10:10 AM, Trouble Shooter is determining repairs required, , 1217262];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[13]=[118,07/05/2022 08:31 PM, 07/05/2022 08:31 PM, A crew is currently working on the problem, 07/06/2022 01:00 PM, 1217220];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
+events[14]=[119,07/06/2022 08:08 AM, 07/06/2022 08:08 AM, Trouble Shooter is determining repairs required, , 1217243];,# of Outages: 15,Customers Affected: 185,2022-07-06T15:48:54Z
