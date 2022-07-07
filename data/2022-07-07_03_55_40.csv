@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[061,07/06/2022 09:12 PM, 07/06/2022 09:12 PM, Customer Svc is working this single customer outage, , 1217347];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[1]=[073,07/06/2022 10:46 PM, 07/06/2022 10:46 PM, Waiting to be analyzed, , 1217359];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[2]=[073,07/06/2022 10:46 PM, 07/06/2022 10:46 PM, Waiting to be analyzed, , 1217360];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[3]=[073,07/06/2022 10:47 PM, 07/06/2022 10:47 PM, Waiting to be analyzed, , 1217361];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[4]=[073,07/06/2022 10:47 PM, 07/06/2022 10:47 PM, Waiting to be analyzed, , 1217362];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[5]=[073,07/06/2022 10:48 PM, 07/06/2022 10:48 PM, Waiting to be analyzed, , 1217363];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[6]=[073,07/06/2022 10:49 PM, 07/06/2022 10:49 PM, Waiting to be analyzed, , 1217364];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[7]=[079,07/06/2022 08:13 PM, 07/06/2022 08:13 PM, A crew is currently working on the problem, 07/06/2022 11:00 PM, 1217343];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[8]=[084,07/06/2022 08:47 PM, 07/06/2022 08:47 PM, Waiting for an available crew to perform repairs, , 1217344];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[9]=[087,07/06/2022 07:42 PM, 07/06/2022 07:42 PM, Waiting for an available crew to perform repairs, , 1217338];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[10]=[087,07/06/2022 09:36 PM, 07/06/2022 09:36 PM, Waiting for an available crew to perform repairs, , 1217351];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[11]=[088,07/06/2022 09:36 PM, 07/06/2022 09:36 PM, Waiting for an available crew to perform repairs, , 1217351];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[12]=[088,07/06/2022 09:39 PM, 07/06/2022 09:39 PM, Waiting for an available crew to perform repairs, , 1217355];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[13]=[100,07/06/2022 10:37 PM, 07/06/2022 10:37 PM, The extent of the outage has been determined, , 1217358];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
+events[14]=[101,07/06/2022 09:36 PM, 07/06/2022 09:36 PM, Waiting for an available crew to perform repairs, , 1217351];,# of Outages: 13,Customers Affected: 67,2022-07-07T03:55:40Z
