@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,07/10/2022 03:10 AM, 07/10/2022 03:10 AM, A crew is currently working on the problem, , 1217853];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[1]=[030,07/09/2022 10:02 PM, 07/09/2022 10:02 PM, A crew is currently working on the problem, 07/10/2022 09:30 PM, 1217842];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[2]=[037,07/10/2022 06:16 PM, 07/10/2022 06:16 PM, A crew is currently working on the problem, 07/10/2022 11:30 PM, 1217902];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[3]=[038,07/10/2022 06:16 PM, 07/10/2022 06:16 PM, A crew is currently working on the problem, 07/10/2022 11:30 PM, 1217902];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[4]=[040,07/10/2022 09:09 AM, 07/10/2022 09:09 AM, Waiting for an available crew to perform repairs, , 1217862];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[5]=[049,07/10/2022 06:51 PM, 07/10/2022 06:51 PM, Trouble Shooter is determining repairs required, , 1217904];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[6]=[073,07/09/2022 08:08 PM, 07/09/2022 08:08 PM, Trouble Shooter is determining repairs required, , 1217835];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[7]=[089,07/10/2022 01:03 PM, 07/10/2022 01:03 PM, A crew is currently working on the problem, 07/10/2022 10:30 PM, 1217879];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[8]=[089,07/10/2022 06:13 PM, 07/10/2022 06:13 PM, A crew is currently working on the problem, 07/10/2022 10:30 PM, 1217901];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[9]=[098,07/10/2022 10:00 AM, 07/10/2022 10:00 AM, A crew is currently working on the problem, 07/10/2022 11:30 PM, 1217867];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[10]=[115,07/10/2022 08:47 PM, 07/10/2022 08:47 PM, Customer Svc is working this single customer outage, , 1217913];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
+events[11]=[118,07/10/2022 07:53 PM, 07/10/2022 07:53 PM, Trouble Shooter is determining repairs required, , 1217910];,# of Outages: 11,Customers Affected: 275,2022-07-11T02:04:13Z
