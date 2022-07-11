@@ -1,0 +1,19 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[046,07/11/2022 08:58 AM, 07/11/2022 08:58 AM, Waiting for an available crew to perform repairs, , 1217940];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[1]=[049,07/11/2022 08:31 AM, 07/11/2022 08:31 AM, A crew is currently working on the problem, 07/11/2022 11:00 AM, 1217937];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[2]=[049,07/11/2022 08:34 AM, 07/11/2022 08:34 AM, Customer Svc is working this single customer outage, , 1217938];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[3]=[062,07/11/2022 08:47 AM, 07/11/2022 08:47 AM, Trouble Shooter is determining repairs required, , 1217939];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[4]=[072,07/11/2022 08:56 AM, 07/11/2022 08:56 AM, Waiting to be analyzed, , 1217941];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[5]=[072,07/11/2022 08:56 AM, 07/11/2022 08:56 AM, Waiting to be analyzed, , 1217942];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[6]=[072,07/11/2022 08:56 AM, 07/11/2022 08:56 AM, Waiting to be analyzed, , 1217943];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[7]=[072,07/11/2022 08:56 AM, 07/11/2022 08:56 AM, Waiting to be analyzed, , 1217944];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[8]=[072,07/11/2022 08:56 AM, 07/11/2022 08:56 AM, Waiting to be analyzed, , 1217945];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[9]=[073,07/11/2022 08:25 AM, 07/11/2022 08:25 AM, Trouble Shooter is determining repairs required, , 1217935];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[10]=[073,07/11/2022 08:31 AM, 07/11/2022 08:31 AM, A crew is currently working on the problem, 07/11/2022 11:00 AM, 1217936];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[11]=[073,07/11/2022 08:56 AM, 07/11/2022 08:56 AM, Waiting to be analyzed, , 1217944];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[12]=[077,07/11/2022 09:03 AM, 07/11/2022 09:03 AM, Waiting to be analyzed, , 1217947];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[13]=[085,07/11/2022 08:56 AM, 07/11/2022 08:56 AM, Waiting to be analyzed, , 1217945];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[14]=[099,07/11/2022 08:01 AM, 07/11/2022 08:01 AM, Trouble Shooter is determining repairs required, , 1217932];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[15]=[103,07/11/2022 08:15 AM, 07/11/2022 08:15 AM, Waiting to be analyzed, , 1217934];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[16]=[104,07/11/2022 08:15 AM, 07/11/2022 08:15 AM, Waiting to be analyzed, , 1217934];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
+events[17]=[115,07/11/2022 09:03 AM, 07/11/2022 09:03 AM, The extent of the outage has been determined, , 1217948];,# of Outages: 15,Customers Affected: 3714,2022-07-11T14:10:50Z
