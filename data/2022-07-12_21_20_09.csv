@@ -1,0 +1,17 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,07/12/2022 04:16 PM, 07/12/2022 04:16 PM, Waiting to be analyzed, , 1218364];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[1]=[049,07/12/2022 10:06 AM, 07/12/2022 10:06 AM, Trouble Shooter is working on the problem, 07/12/2022 06:30 PM, 1218216];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[2]=[060,07/12/2022 10:06 AM, 07/12/2022 10:06 AM, Trouble Shooter is working on the problem, 07/12/2022 06:30 PM, 1218216];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[3]=[063,07/12/2022 04:06 PM, 07/12/2022 04:06 PM, Customer Svc is working this single customer outage, , 1218361];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[4]=[066,07/12/2022 04:12 PM, 07/12/2022 04:12 PM, Waiting to be analyzed, , 1218363];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[5]=[073,07/12/2022 08:31 AM, 07/12/2022 08:31 AM, Trouble Shooter is determining repairs required, , 1218184];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[6]=[076,07/12/2022 04:06 PM, 07/12/2022 04:06 PM, Trouble Shooter is working on the problem, 07/12/2022 06:30 PM, 1218362];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[7]=[077,07/12/2022 03:53 PM, 07/12/2022 03:53 PM, Customer Svc is working this single customer outage, , 1218347];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[8]=[077,07/12/2022 04:06 PM, 07/12/2022 04:06 PM, Trouble Shooter is working on the problem, 07/12/2022 06:30 PM, 1218362];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[9]=[085,07/12/2022 02:07 PM, 07/12/2022 02:07 PM, Customer Svc is working this single customer outage, , 1218312];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[10]=[089,07/12/2022 03:57 PM, 07/12/2022 03:57 PM, Trouble Shooter is working on the problem, 07/12/2022 06:30 PM, 1218353];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[11]=[089,07/12/2022 03:57 PM, 07/12/2022 03:57 PM, Trouble Shooter is working on the problem, 07/12/2022 06:30 PM, 1218354];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[12]=[090,07/12/2022 03:50 PM, 07/12/2022 03:50 PM, Trouble Shooter is working on the problem, 07/12/2022 06:30 PM, 1218346];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[13]=[099,07/12/2022 02:19 PM, 07/12/2022 02:19 PM, Trouble Shooter is determining repairs required, , 1218315];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[14]=[101,07/12/2022 03:46 PM, 07/12/2022 03:46 PM, Customer Svc is working this single customer outage, , 1218323];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
+events[15]=[119,07/12/2022 03:57 PM, 07/12/2022 03:57 PM, Customer Svc is working this single customer outage, , 1218352];,# of Outages: 14,Customers Affected: 2310,2022-07-12T21:20:09Z
