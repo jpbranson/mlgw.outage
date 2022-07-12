@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,07/12/2022 10:06 AM, 07/12/2022 10:06 AM, Trouble Shooter is working on the problem, 07/12/2022 06:30 PM, 1218216];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[1]=[060,07/12/2022 10:06 AM, 07/12/2022 10:06 AM, Trouble Shooter is working on the problem, 07/12/2022 06:30 PM, 1218216];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[2]=[073,07/12/2022 08:31 AM, 07/12/2022 08:31 AM, Trouble Shooter is determining repairs required, , 1218184];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[3]=[076,07/12/2022 03:48 PM, 07/12/2022 03:48 PM, Waiting to be analyzed, , 1218329];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[4]=[077,07/12/2022 03:48 PM, 07/12/2022 03:48 PM, Waiting to be analyzed, , 1218329];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[5]=[085,07/12/2022 02:07 PM, 07/12/2022 02:07 PM, Customer Svc is working this single customer outage, , 1218312];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[6]=[089,07/12/2022 03:48 PM, 07/12/2022 03:48 PM, Waiting to be analyzed, , 1218329];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[7]=[090,07/12/2022 03:48 PM, 07/12/2022 03:48 PM, Waiting to be analyzed, , 1218329];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[8]=[090,07/12/2022 03:50 PM, 07/12/2022 03:50 PM, Waiting to be analyzed, , 1218346];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[9]=[099,07/12/2022 02:19 PM, 07/12/2022 02:19 PM, Trouble Shooter is determining repairs required, , 1218315];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[10]=[101,07/12/2022 03:46 PM, 07/12/2022 03:46 PM, The extent of the outage has been determined, , 1218323];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[11]=[118,07/12/2022 03:32 PM, 07/12/2022 03:32 PM, Trouble Shooter is determining repairs required, , 1218321];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
+events[12]=[118,07/12/2022 12:22 PM, 07/12/2022 12:22 PM, Customer Svc is working this single customer outage, , 1218277];,# of Outages: 9,Customers Affected: 2873,2022-07-12T20:54:13Z
