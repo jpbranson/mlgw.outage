@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,07/12/2022 09:05 AM, 07/12/2022 09:05 AM, Trouble Shooter is determining repairs required, , 1218194];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[1]=[062,07/12/2022 08:33 AM, 07/12/2022 08:33 AM, Trouble Shooter is determining repairs required, , 1218185];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[2]=[071,07/12/2022 09:21 AM, 07/12/2022 09:21 AM, Trouble Shooter is determining repairs required, , 1218200];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[3]=[073,07/12/2022 08:31 AM, 07/12/2022 08:31 AM, Waiting for an available crew to perform repairs, , 1218184];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[4]=[073,07/12/2022 09:20 AM, 07/12/2022 09:20 AM, Waiting for an available crew to perform repairs, , 1218197];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[5]=[074,07/12/2022 08:05 AM, 07/12/2022 08:05 AM, Trouble Shooter is determining repairs required, , 1218180];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[6]=[085,07/12/2022 09:19 AM, 07/12/2022 09:19 AM, A crew is currently working on the problem, 07/12/2022 01:30 PM, 1218196];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[7]=[087,07/12/2022 08:39 AM, 07/12/2022 08:39 AM, A crew is currently working on the problem, 07/12/2022 11:00 AM, 1218189];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[8]=[096,07/12/2022 08:36 AM, 07/12/2022 08:36 AM, Trouble Shooter is determining repairs required, , 1218187];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[9]=[114,07/12/2022 09:21 AM, 07/12/2022 09:21 AM, Customer Svc is working this single customer outage, , 1218198];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
+events[10]=[116,07/12/2022 08:51 AM, 07/12/2022 08:51 AM, Customer Svc is working this single customer outage, , 1218191];,# of Outages: 11,Customers Affected: 118,2022-07-12T14:54:16Z
