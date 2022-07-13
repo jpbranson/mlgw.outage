@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,07/13/2022 03:32 PM, 07/13/2022 03:32 PM, Trouble Shooter is determining repairs required, , 1218693];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[1]=[064,07/13/2022 06:10 PM, 07/13/2022 06:10 PM, Trouble Shooter is determining repairs required, , 1218786];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[2]=[065,07/13/2022 02:09 PM, 07/13/2022 02:09 PM, Tree Trimming is clearing debris from the area, 07/13/2022 08:00 PM, 1218618];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[3]=[073,07/13/2022 04:37 PM, 07/13/2022 04:37 PM, Waiting for an available crew to perform repairs, , 1218724];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[4]=[073,07/13/2022 10:44 AM, 07/13/2022 10:44 AM, A crew is currently working on the problem, 07/13/2022 09:00 PM, 1218487];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[5]=[076,07/13/2022 02:09 PM, 07/13/2022 02:09 PM, Tree Trimming is clearing debris from the area, 07/13/2022 08:00 PM, 1218618];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[6]=[076,07/13/2022 06:15 PM, 07/13/2022 06:15 PM, Waiting to be analyzed, , 1218787];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[7]=[086,07/13/2022 04:37 PM, 07/13/2022 04:37 PM, Waiting for an available crew to perform repairs, , 1218724];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[8]=[087,07/13/2022 06:09 PM, 07/13/2022 06:09 PM, The extent of the outage has been determined, , 1218785];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[9]=[103,07/13/2022 04:43 PM, 07/13/2022 04:43 PM, A crew is currently working on the problem, 07/13/2022 11:30 PM, 1218727];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
+events[10]=[103,07/13/2022 04:45 PM, 07/13/2022 04:45 PM, A crew is currently working on the problem, 07/13/2022 11:30 PM, 1218729];,# of Outages: 9,Customers Affected: 355,2022-07-13T23:21:58Z
