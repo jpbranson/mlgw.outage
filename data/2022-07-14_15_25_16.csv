@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,07/14/2022 10:09 AM, 07/14/2022 10:09 AM, Trouble Shooter is determining repairs required, , 1218848];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[1]=[050,07/14/2022 09:10 AM, 07/14/2022 09:10 AM, A crew is currently working on the problem, 07/14/2022 12:30 PM, 1218836];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[2]=[088,07/14/2022 10:01 AM, 07/14/2022 10:01 AM, Waiting to be analyzed, , 1218841];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[3]=[088,07/14/2022 10:02 AM, 07/14/2022 10:02 AM, Waiting to be analyzed, , 1218842];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[4]=[088,07/14/2022 10:02 AM, 07/14/2022 10:02 AM, Waiting to be analyzed, , 1218844];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[5]=[088,07/14/2022 10:05 AM, 07/14/2022 10:05 AM, Waiting to be analyzed, , 1218845];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[6]=[088,07/14/2022 10:06 AM, 07/14/2022 10:06 AM, Waiting to be analyzed, , 1218846];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[7]=[088,07/14/2022 10:07 AM, 07/14/2022 10:07 AM, Waiting to be analyzed, , 1218847];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[8]=[088,07/14/2022 10:12 AM, 07/14/2022 10:12 AM, Waiting to be analyzed, , 1218849];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[9]=[089,07/14/2022 10:02 AM, 07/14/2022 10:02 AM, Waiting to be analyzed, , 1218843];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[10]=[089,07/14/2022 10:12 AM, 07/14/2022 10:12 AM, Waiting to be analyzed, , 1218850];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[11]=[101,07/14/2022 03:57 AM, 07/14/2022 03:57 AM, A crew is currently working on the problem, 07/14/2022 04:30 PM, 1218805];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[12]=[102,07/14/2022 03:57 AM, 07/14/2022 03:57 AM, A crew is currently working on the problem, 07/14/2022 04:30 PM, 1218805];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
+events[13]=[115,07/14/2022 09:28 AM, 07/14/2022 09:28 AM, A crew is currently working on the problem, 07/14/2022 11:30 AM, 1218838];,# of Outages: 13,Customers Affected: 81,2022-07-14T15:25:16Z
