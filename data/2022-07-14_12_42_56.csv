@@ -1,0 +1,6 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[060,07/13/2022 10:03 PM, 07/13/2022 10:03 PM, Tree Trimming is clearing debris from the area, 07/14/2022 10:30 AM, 1218799];,# of Outages: 3,Customers Affected: 1896,2022-07-14T12:42:56Z
+events[1]=[088,07/14/2022 04:42 AM, 07/14/2022 04:42 AM, Trouble Shooter is working on the problem, 07/14/2022 09:00 AM, 1218807];,# of Outages: 3,Customers Affected: 1896,2022-07-14T12:42:56Z
+events[2]=[089,07/14/2022 04:42 AM, 07/14/2022 04:42 AM, Trouble Shooter is working on the problem, 07/14/2022 09:00 AM, 1218807];,# of Outages: 3,Customers Affected: 1896,2022-07-14T12:42:56Z
+events[3]=[101,07/14/2022 03:57 AM, 07/14/2022 03:57 AM, A crew is currently working on the problem, 07/14/2022 10:30 AM, 1218805];,# of Outages: 3,Customers Affected: 1896,2022-07-14T12:42:56Z
+events[4]=[102,07/14/2022 03:57 AM, 07/14/2022 03:57 AM, A crew is currently working on the problem, 07/14/2022 10:30 AM, 1218805];,# of Outages: 3,Customers Affected: 1896,2022-07-14T12:42:56Z
