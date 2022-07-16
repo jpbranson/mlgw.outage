@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,07/16/2022 03:03 PM, 07/16/2022 03:03 PM, A crew is currently working on the problem, , 1219238];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[1]=[043,07/16/2022 04:48 PM, 07/16/2022 04:48 PM, Trouble Shooter is working on the problem, 07/16/2022 07:30 PM, 1219269];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[2]=[043,07/16/2022 05:10 PM, 07/16/2022 05:10 PM, Trouble Shooter is working on the problem, 07/16/2022 07:30 PM, 1219279];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[3]=[051,07/16/2022 03:03 PM, 07/16/2022 03:03 PM, A crew is currently working on the problem, , 1219238];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[4]=[054,07/16/2022 04:48 PM, 07/16/2022 04:48 PM, Trouble Shooter is working on the problem, 07/16/2022 07:30 PM, 1219269];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[5]=[054,07/16/2022 05:10 PM, 07/16/2022 05:10 PM, Trouble Shooter is working on the problem, 07/16/2022 07:30 PM, 1219279];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[6]=[054,07/16/2022 05:59 PM, 07/16/2022 05:59 PM, Trouble Shooter is working on the problem, 07/16/2022 07:30 PM, 1219315];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[7]=[063,07/16/2022 05:56 PM, 07/16/2022 05:56 PM, Customer Svc is working this single customer outage, , 1219310];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[8]=[063,07/16/2022 05:58 PM, 07/16/2022 05:58 PM, Customer Svc is working this single customer outage, , 1219313];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[9]=[074,07/16/2022 05:33 PM, 07/16/2022 05:33 PM, Customer Svc is working this single customer outage, , 1219291];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[10]=[085,07/16/2022 10:22 AM, 07/16/2022 10:22 AM, A crew is currently working on the problem, 07/16/2022 08:00 PM, 1219199];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
+events[11]=[105,07/16/2022 04:39 PM, 07/16/2022 04:39 PM, Customer Svc is working this single customer outage, , 1219266];,# of Outages: 9,Customers Affected: 791,2022-07-16T23:20:21Z
