@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,07/16/2022 03:03 PM, 07/16/2022 03:03 PM, Waiting for an available crew to perform repairs, , 1219238];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[1]=[043,07/16/2022 04:48 PM, 07/16/2022 04:48 PM, Trouble Shooter is determining repairs required, , 1219269];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[2]=[050,07/16/2022 04:29 PM, 07/16/2022 04:29 PM, Trouble Shooter is determining repairs required, , 1219244];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[3]=[051,07/16/2022 03:03 PM, 07/16/2022 03:03 PM, Waiting for an available crew to perform repairs, , 1219238];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[4]=[054,07/16/2022 04:48 PM, 07/16/2022 04:48 PM, Trouble Shooter is determining repairs required, , 1219269];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[5]=[063,07/16/2022 03:29 PM, 07/16/2022 03:29 PM, Customer Svc is working this single customer outage, , 1219239];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[6]=[071,07/16/2022 04:51 PM, 07/16/2022 04:51 PM, Waiting to be analyzed, , 1219270];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[7]=[074,07/16/2022 04:38 PM, 07/16/2022 04:38 PM, Customer Svc is working this single customer outage, , 1219259];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[8]=[084,07/16/2022 04:28 PM, 07/16/2022 04:28 PM, Customer Svc is working this single customer outage, , 1219243];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[9]=[085,07/16/2022 10:22 AM, 07/16/2022 10:22 AM, A crew is currently working on the problem, 07/16/2022 08:00 PM, 1219199];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[10]=[088,07/16/2022 04:24 PM, 07/16/2022 04:24 PM, Customer Svc is working this single customer outage, , 1219242];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
+events[11]=[105,07/16/2022 04:39 PM, 07/16/2022 04:39 PM, The extent of the outage has been determined, , 1219266];,# of Outages: 10,Customers Affected: 75,2022-07-16T21:53:38Z
