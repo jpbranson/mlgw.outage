@@ -1,0 +1,11 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,07/16/2022 03:03 PM, 07/16/2022 03:03 PM, A crew is currently working on the problem, , 1219238];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
+events[1]=[043,07/16/2022 04:48 PM, 07/16/2022 04:48 PM, A crew is currently working on the problem, 07/17/2022 02:30 AM, 1219269];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
+events[2]=[043,07/16/2022 05:10 PM, 07/16/2022 05:10 PM, A crew is currently working on the problem, 07/17/2022 02:30 AM, 1219279];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
+events[3]=[050,07/16/2022 09:01 PM, 07/16/2022 09:01 PM, Waiting for an available crew to perform repairs, , 1219329];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
+events[4]=[051,07/16/2022 03:03 PM, 07/16/2022 03:03 PM, A crew is currently working on the problem, , 1219238];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
+events[5]=[054,07/16/2022 04:48 PM, 07/16/2022 04:48 PM, A crew is currently working on the problem, 07/17/2022 02:30 AM, 1219269];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
+events[6]=[054,07/16/2022 05:10 PM, 07/16/2022 05:10 PM, A crew is currently working on the problem, 07/17/2022 02:30 AM, 1219279];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
+events[7]=[073,07/16/2022 11:12 PM, 07/16/2022 11:12 PM, Customer Svc is working this single customer outage, , 1219336];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
+events[8]=[105,07/16/2022 04:39 PM, 07/16/2022 04:39 PM, A crew is currently working on the problem, 07/17/2022 02:30 AM, 1219266];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
+events[9]=[105,07/16/2022 11:08 PM, 07/16/2022 11:08 PM, A crew is currently working on the problem, 07/17/2022 02:30 AM, 1219335];,# of Outages: 7,Customers Affected: 206,2022-07-17T04:59:20Z
