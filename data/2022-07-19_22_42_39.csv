@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,07/19/2022 04:19 PM, 07/19/2022 04:19 PM, Customer Svc is working this single customer outage, , 1220362];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[1]=[064,07/19/2022 04:42 PM, 07/19/2022 04:42 PM, Trouble Shooter is working on the problem, 07/19/2022 07:30 PM, 1220373];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[2]=[065,07/19/2022 04:42 PM, 07/19/2022 04:42 PM, Trouble Shooter is working on the problem, 07/19/2022 07:30 PM, 1220373];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[3]=[073,07/19/2022 05:34 PM, 07/19/2022 05:34 PM, The extent of the outage has been determined, , 1220462];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[4]=[075,07/19/2022 04:42 PM, 07/19/2022 04:42 PM, Trouble Shooter is working on the problem, 07/19/2022 07:30 PM, 1220373];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[5]=[076,07/19/2022 04:42 PM, 07/19/2022 04:42 PM, Trouble Shooter is working on the problem, 07/19/2022 07:30 PM, 1220373];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[6]=[085,07/19/2022 05:26 PM, 07/19/2022 05:26 PM, Customer Svc is working this single customer outage, , 1220461];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[7]=[099,07/19/2022 04:16 PM, 07/19/2022 04:16 PM, A crew is currently working on the problem, 07/19/2022 09:00 PM, 1220360];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[8]=[101,07/19/2022 03:30 PM, 07/19/2022 03:30 PM, Customer Svc is working this single customer outage, , 1220358];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[9]=[114,07/19/2022 03:25 AM, 07/19/2022 03:25 AM, A crew is currently working on the problem, 07/19/2022 08:30 PM, 1220295];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[10]=[114,07/19/2022 04:22 PM, 07/19/2022 04:22 PM, Trouble Shooter is determining repairs required, , 1220364];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
+events[11]=[115,07/19/2022 05:13 PM, 07/19/2022 05:13 PM, Customer Svc is working this single customer outage, , 1220460];,# of Outages: 9,Customers Affected: 2730,2022-07-19T22:42:39Z
