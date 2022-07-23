@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,07/23/2022 03:35 PM, 07/23/2022 03:35 PM, A crew is currently working on the problem, 07/23/2022 09:00 PM, 1221034];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[1]=[051,07/23/2022 03:35 PM, 07/23/2022 03:35 PM, A crew is currently working on the problem, 07/23/2022 09:00 PM, 1221035];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[2]=[059,07/23/2022 04:53 PM, 07/23/2022 04:53 PM, Trouble Shooter is determining repairs required, , 1221038];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[3]=[067,07/23/2022 10:11 AM, 07/23/2022 10:11 AM, Waiting for an available crew to perform repairs, , 1221016];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[4]=[085,07/23/2022 01:53 PM, 07/23/2022 01:53 PM, Trouble Shooter is working on the problem, 07/23/2022 07:00 PM, 1221024];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[5]=[086,07/23/2022 02:52 PM, 07/23/2022 02:52 PM, Trouble Shooter is determining repairs required, , 1221032];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[6]=[099,07/23/2022 01:53 PM, 07/23/2022 01:53 PM, Trouble Shooter is working on the problem, 07/23/2022 07:00 PM, 1221024];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[7]=[100,07/23/2022 01:53 PM, 07/23/2022 01:53 PM, Trouble Shooter is working on the problem, 07/23/2022 07:00 PM, 1221024];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[8]=[101,07/23/2022 05:04 PM, 07/23/2022 05:04 PM, A crew is currently working on the problem, 07/23/2022 07:30 PM, 1221039];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[9]=[101,07/23/2022 05:08 PM, 07/23/2022 05:08 PM, A crew is currently working on the problem, 07/23/2022 09:00 PM, 1221040];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
+events[10]=[101,07/23/2022 05:11 AM, 07/23/2022 05:11 AM, A crew is currently working on the problem, 07/23/2022 07:30 PM, 1221008];,# of Outages: 9,Customers Affected: 1165,2022-07-23T22:21:16Z
