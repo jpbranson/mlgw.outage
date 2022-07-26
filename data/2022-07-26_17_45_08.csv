@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[038,07/26/2022 10:31 AM, 07/26/2022 10:31 AM, A crew is currently working on the problem, 07/26/2022 01:00 PM, 1221254];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[1]=[040,07/26/2022 10:46 AM, 07/26/2022 10:46 AM, A crew is currently working on the problem, 07/26/2022 01:30 PM, 1221256];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[2]=[040,07/26/2022 10:46 AM, 07/26/2022 10:46 AM, A crew is currently working on the problem, 07/26/2022 01:30 PM, 1221257];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[3]=[053,07/26/2022 11:32 AM, 07/26/2022 11:32 AM, A crew is currently working on the problem, 07/26/2022 01:30 PM, 1221262];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[4]=[060,07/26/2022 12:37 PM, 07/26/2022 12:37 PM, Waiting to be analyzed, , 1221266];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[5]=[073,07/26/2022 12:23 PM, 07/26/2022 12:23 PM, Tree Trimming is clearing debris from the area, , 1221265];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[6]=[084,07/26/2022 08:41 AM, 07/26/2022 08:41 AM, A crew is currently working on the problem, 07/26/2022 02:00 PM, 1221241];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[7]=[084,07/26/2022 08:42 AM, 07/26/2022 08:42 AM, A crew is currently working on the problem, 07/26/2022 02:00 PM, 1221242];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[8]=[085,07/26/2022 10:31 AM, 07/26/2022 10:31 AM, A crew is currently working on the problem, 07/26/2022 02:00 PM, 1221252];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[9]=[089,07/26/2022 08:35 AM, 07/26/2022 08:35 AM, A crew is currently working on the problem, 07/26/2022 03:30 PM, 1221239];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
+events[10]=[096,07/26/2022 11:04 AM, 07/26/2022 11:04 AM, Customer Svc is working this single customer outage, , 1221260];,# of Outages: 11,Customers Affected: 112,2022-07-26T17:45:08Z
