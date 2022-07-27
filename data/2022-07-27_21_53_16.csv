@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[042,07/27/2022 04:45 PM, 07/27/2022 04:45 PM, Waiting to be analyzed, , 1221416];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[1]=[043,07/27/2022 04:45 PM, 07/27/2022 04:45 PM, Waiting to be analyzed, , 1221416];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[2]=[043,07/27/2022 04:46 PM, 07/27/2022 04:46 PM, Waiting to be analyzed, , 1221468];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[3]=[051,07/27/2022 08:34 AM, 07/27/2022 08:34 AM, A crew is currently working on the problem, 07/27/2022 05:00 PM, 1221347];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[4]=[051,07/27/2022 08:38 AM, 07/27/2022 08:38 AM, A crew is currently working on the problem, 07/27/2022 05:00 PM, 1221348];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[5]=[053,07/27/2022 04:45 PM, 07/27/2022 04:45 PM, Waiting to be analyzed, , 1221416];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[6]=[054,07/27/2022 04:45 PM, 07/27/2022 04:45 PM, Waiting to be analyzed, , 1221416];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[7]=[054,07/27/2022 04:46 PM, 07/27/2022 04:46 PM, Waiting to be analyzed, , 1221468];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[8]=[074,07/27/2022 02:16 PM, 07/27/2022 02:16 PM, A crew is currently working on the problem, 07/27/2022 07:30 PM, 1221393];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[9]=[084,07/27/2022 01:17 PM, 07/27/2022 01:17 PM, Trouble Shooter is determining repairs required, , 1221385];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[10]=[107,07/27/2022 02:45 PM, 07/27/2022 02:45 PM, Waiting for an available crew to perform repairs, , 1221396];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[11]=[112,07/27/2022 02:28 PM, 07/27/2022 02:28 PM, Customer Svc is working this single customer outage, , 1221394];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
+events[12]=[118,07/27/2022 03:23 PM, 07/27/2022 03:23 PM, Customer Svc is working this single customer outage, , 1221398];,# of Outages: 9,Customers Affected: 3482,2022-07-27T21:53:16Z
