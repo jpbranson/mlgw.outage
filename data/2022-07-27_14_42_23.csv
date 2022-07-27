@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[034,07/27/2022 09:03 AM, 07/27/2022 09:03 AM, Trouble Shooter is determining repairs required, , 1221352];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[1]=[046,07/27/2022 09:38 AM, 07/27/2022 09:38 AM, Trouble Shooter is determining repairs required, , 1221357];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[2]=[051,07/27/2022 08:34 AM, 07/27/2022 08:34 AM, A crew is currently working on the problem, 07/27/2022 03:00 PM, 1221347];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[3]=[051,07/27/2022 08:38 AM, 07/27/2022 08:38 AM, A crew is currently working on the problem, 07/27/2022 03:00 PM, 1221348];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[4]=[070,07/27/2022 08:23 AM, 07/27/2022 08:23 AM, A crew is currently working on the problem, 07/27/2022 01:00 PM, 1221344];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[5]=[071,07/27/2022 09:36 AM, 07/27/2022 09:36 AM, Waiting to be analyzed, , 1221358];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[6]=[072,07/27/2022 09:36 AM, 07/27/2022 09:36 AM, Waiting to be analyzed, , 1221358];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[7]=[083,07/27/2022 09:26 AM, 07/27/2022 09:26 AM, A crew is currently working on the problem, 07/27/2022 02:00 PM, 1221355];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[8]=[085,07/27/2022 08:34 AM, 07/27/2022 08:34 AM, A crew is currently working on the problem, 07/27/2022 01:00 PM, 1221346];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[9]=[085,07/27/2022 08:53 AM, 07/27/2022 08:53 AM, A crew is currently working on the problem, 07/27/2022 12:30 PM, 1221351];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[10]=[085,07/27/2022 09:04 AM, 07/27/2022 09:04 AM, Trouble Shooter is determining repairs required, , 1221354];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[11]=[102,07/27/2022 09:26 AM, 07/27/2022 09:26 AM, Customer Svc is working this single customer outage, , 1221356];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
+events[12]=[114,07/27/2022 08:47 AM, 07/27/2022 08:47 AM, Customer Svc is working this single customer outage, , 1221349];,# of Outages: 12,Customers Affected: 2370,2022-07-27T14:42:23Z
