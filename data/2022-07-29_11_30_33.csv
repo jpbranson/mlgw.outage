@@ -1,0 +1,19 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[018,07/29/2022 06:00 AM, 07/29/2022 06:00 AM, Waiting for an available crew to perform repairs, , 1221738];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[1]=[019,07/29/2022 06:00 AM, 07/29/2022 06:00 AM, Waiting for an available crew to perform repairs, , 1221738];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[2]=[054,07/29/2022 06:20 AM, 07/29/2022 06:20 AM, Waiting for an available crew to perform repairs, , 1221756];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[3]=[071,07/29/2022 06:08 AM, 07/29/2022 06:08 AM, Customer Svc is working this single customer outage, , 1221744];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[4]=[072,07/29/2022 05:59 AM, 07/29/2022 05:59 AM, Waiting for an available crew to perform repairs, , 1221734];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[5]=[072,07/29/2022 06:18 AM, 07/29/2022 06:18 AM, Waiting for an available crew to perform repairs, , 1221751];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[6]=[073,07/28/2022 06:45 PM, 07/28/2022 06:45 PM, Customer Svc is working this single customer outage, , 1221667];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[7]=[074,07/29/2022 05:40 AM, 07/29/2022 05:40 AM, Waiting for an available crew to perform repairs, , 1221727];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[8]=[075,07/29/2022 06:23 AM, 07/29/2022 06:23 AM, The extent of the outage has been determined, , 1221758];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[9]=[083,07/29/2022 05:48 AM, 07/29/2022 05:48 AM, Waiting for an available crew to perform repairs, , 1221729];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[10]=[083,07/29/2022 06:03 AM, 07/29/2022 06:03 AM, Customer Svc is working this single customer outage, , 1221740];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[11]=[084,07/29/2022 05:47 AM, 07/29/2022 05:47 AM, Waiting for an available crew to perform repairs, , 1221728];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[12]=[085,07/29/2022 06:20 AM, 07/29/2022 06:20 AM, Waiting for an available crew to perform repairs, , 1221757];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[13]=[086,07/29/2022 06:08 AM, 07/29/2022 06:08 AM, Waiting for an available crew to perform repairs, , 1221745];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[14]=[097,07/29/2022 06:18 AM, 07/29/2022 06:18 AM, The extent of the outage has been determined, , 1221748];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[15]=[098,07/29/2022 05:58 AM, 07/29/2022 05:58 AM, Waiting for an available crew to perform repairs, , 1221733];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[16]=[113,07/29/2022 06:27 AM, 07/29/2022 06:27 AM, Waiting to be analyzed, , 1221759];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
+events[17]=[114,07/29/2022 05:12 AM, 07/29/2022 05:12 AM, Trouble Shooter is working on the problem, 07/29/2022 08:30 AM, 1221723];,# of Outages: 17,Customers Affected: 548,2022-07-29T11:30:33Z
