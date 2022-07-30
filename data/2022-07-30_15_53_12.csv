@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,07/29/2022 09:38 PM, 07/29/2022 09:38 PM, Waiting for an available crew to perform repairs, , 1222118];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[1]=[040,07/30/2022 04:37 AM, 07/30/2022 04:37 AM, Waiting for an available crew to perform repairs, , 1222128];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[2]=[051,07/29/2022 09:38 PM, 07/29/2022 09:38 PM, Waiting for an available crew to perform repairs, , 1222118];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[3]=[061,07/29/2022 03:59 PM, 07/29/2022 03:59 PM, A crew is currently working on the problem, 07/30/2022 11:30 AM, 1222075];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[4]=[061,07/30/2022 07:26 AM, 07/30/2022 07:26 AM, Waiting for an available crew to perform repairs, , 1222145];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[5]=[063,07/30/2022 03:10 AM, 07/30/2022 03:10 AM, A crew is currently working on the problem, 07/30/2022 12:00 PM, 1222124];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[6]=[063,07/30/2022 03:18 AM, 07/30/2022 03:18 AM, A crew is currently working on the problem, 07/30/2022 12:00 PM, 1222125];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[7]=[071,07/30/2022 06:44 AM, 07/30/2022 06:44 AM, Tree Trimming is clearing debris from the area, , 1222141];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[8]=[086,07/30/2022 06:23 AM, 07/30/2022 06:23 AM, Waiting for an available crew to perform repairs, , 1222132];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[9]=[087,07/30/2022 06:23 AM, 07/30/2022 06:23 AM, Waiting for an available crew to perform repairs, , 1222132];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[10]=[102,07/29/2022 08:19 PM, 07/29/2022 08:19 PM, Waiting for an available crew to perform repairs, , 1222105];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[11]=[102,07/29/2022 08:33 PM, 07/29/2022 08:33 PM, Waiting for an available crew to perform repairs, , 1222107];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[12]=[112,07/30/2022 04:13 AM, 07/30/2022 04:13 AM, Waiting for an available crew to perform repairs, , 1222126];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
+events[13]=[135,07/30/2022 10:46 AM, 07/30/2022 10:46 AM, Waiting to be analyzed, , 1222210];,# of Outages: 12,Customers Affected: 775,2022-07-30T15:53:12Z
