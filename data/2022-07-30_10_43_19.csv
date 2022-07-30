@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,07/29/2022 09:38 PM, 07/29/2022 09:38 PM, Waiting for an available crew to perform repairs, , 1222118];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[1]=[040,07/30/2022 04:37 AM, 07/30/2022 04:37 AM, Waiting for an available crew to perform repairs, , 1222128];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[2]=[051,07/29/2022 09:38 PM, 07/29/2022 09:38 PM, Waiting for an available crew to perform repairs, , 1222118];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[3]=[061,07/29/2022 03:59 PM, 07/29/2022 03:59 PM, A crew is currently working on the problem, 07/30/2022 07:30 AM, 1222075];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[4]=[063,07/30/2022 03:10 AM, 07/30/2022 03:10 AM, Trouble Shooter is determining repairs required, , 1222124];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[5]=[063,07/30/2022 03:18 AM, 07/30/2022 03:18 AM, Trouble Shooter is determining repairs required, , 1222125];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[6]=[083,07/30/2022 12:57 AM, 07/30/2022 12:57 AM, Trouble Shooter is determining repairs required, , 1222123];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[7]=[085,07/29/2022 10:43 PM, 07/29/2022 10:43 PM, Waiting for an available crew to perform repairs, , 1222121];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[8]=[087,07/30/2022 04:19 AM, 07/30/2022 04:19 AM, Waiting for an available crew to perform repairs, , 1222127];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[9]=[102,07/29/2022 08:19 PM, 07/29/2022 08:19 PM, Waiting for an available crew to perform repairs, , 1222105];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[10]=[102,07/29/2022 08:33 PM, 07/29/2022 08:33 PM, Waiting for an available crew to perform repairs, , 1222107];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
+events[11]=[112,07/30/2022 04:13 AM, 07/30/2022 04:13 AM, Trouble Shooter is determining repairs required, , 1222126];,# of Outages: 11,Customers Affected: 166,2022-07-30T10:43:19Z
