@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,07/30/2022 08:25 PM, 07/30/2022 08:25 PM, A crew is currently working on the problem, 07/31/2022 01:30 PM, 1222264];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[1]=[051,07/30/2022 08:29 PM, 07/30/2022 08:29 PM, A crew is currently working on the problem, 07/31/2022 01:30 PM, 1222268];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[2]=[054,07/31/2022 12:18 PM, 07/31/2022 12:18 PM, Trouble Shooter is determining repairs required, , 1222363];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[3]=[054,07/31/2022 12:19 PM, 07/31/2022 12:19 PM, Waiting to be analyzed, , 1222367];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[4]=[060,07/31/2022 09:11 AM, 07/31/2022 09:11 AM, Tree Trimming is clearing debris from the area, , 1222340];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[5]=[060,07/31/2022 12:19 PM, 07/31/2022 12:19 PM, The extent of the outage has been determined, , 1222368];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[6]=[064,07/31/2022 12:16 PM, 07/31/2022 12:16 PM, Waiting to be analyzed, , 1222350];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[7]=[064,07/31/2022 12:18 PM, 07/31/2022 12:18 PM, Trouble Shooter is determining repairs required, , 1222363];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[8]=[065,07/31/2022 12:18 PM, 07/31/2022 12:18 PM, Trouble Shooter is determining repairs required, , 1222363];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[9]=[074,07/31/2022 11:22 AM, 07/31/2022 11:22 AM, Customer Svc is working this single customer outage, , 1222344];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[10]=[074,07/31/2022 12:04 PM, 07/31/2022 12:04 PM, Trouble Shooter is determining repairs required, , 1222349];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[11]=[112,07/31/2022 11:43 AM, 07/31/2022 11:43 AM, Trouble Shooter is determining repairs required, , 1222346];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
+events[12]=[112,07/31/2022 11:44 AM, 07/31/2022 11:44 AM, Trouble Shooter is determining repairs required, , 1222347];,# of Outages: 11,Customers Affected: 1270,2022-07-31T17:21:19Z
