@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[041,07/30/2022 10:16 PM, 07/30/2022 10:16 PM, Waiting for an available crew to perform repairs, , 1222271];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[1]=[050,07/30/2022 08:26 PM, 07/30/2022 08:26 PM, Waiting for an available crew to perform repairs, , 1222264];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[2]=[051,07/30/2022 08:29 PM, 07/30/2022 08:29 PM, Waiting for an available crew to perform repairs, , 1222268];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[3]=[061,07/30/2022 07:26 AM, 07/30/2022 07:26 AM, A crew is currently working on the problem, 07/30/2022 11:30 PM, 1222145];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[4]=[074,07/30/2022 04:22 PM, 07/30/2022 04:22 PM, Waiting for an available crew to perform repairs, , 1222250];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[5]=[074,07/30/2022 06:16 PM, 07/30/2022 06:16 PM, Waiting for an available crew to perform repairs, , 1222255];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[6]=[074,07/30/2022 12:35 PM, 07/30/2022 12:35 PM, Waiting for an available crew to perform repairs, , 1222230];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[7]=[083,07/30/2022 11:45 AM, 07/30/2022 11:45 AM, Waiting for an available crew to perform repairs, , 1222225];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[8]=[084,07/30/2022 08:06 PM, 07/30/2022 08:06 PM, Waiting for an available crew to perform repairs, , 1222262];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[9]=[098,07/30/2022 11:01 AM, 07/30/2022 11:01 AM, Waiting for an available crew to perform repairs, , 1222212];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[10]=[100,07/30/2022 08:34 PM, 07/30/2022 08:34 PM, A crew is currently working on the problem, 07/31/2022 01:30 AM, 1222269];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[11]=[100,07/30/2022 10:43 PM, 07/30/2022 10:43 PM, Waiting for an available crew to perform repairs, , 1222272];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[12]=[113,07/30/2022 07:36 PM, 07/30/2022 07:36 PM, Waiting to be analyzed, , 1222259];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
+events[13]=[114,07/30/2022 01:02 PM, 07/30/2022 01:02 PM, A crew is currently working on the problem, 07/30/2022 11:30 PM, 1222232];,# of Outages: 14,Customers Affected: 120,2022-07-31T03:51:28Z
