@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[059,08/02/2022 08:15 AM, 08/02/2022 08:15 AM, Customer Svc is working this single customer outage, , 1223179];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[1]=[061,08/01/2022 09:45 PM, 08/01/2022 09:45 PM, A crew is currently working on the problem, 08/02/2022 12:30 PM, 1223164];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[2]=[061,08/02/2022 08:12 AM, 08/02/2022 08:12 AM, Customer Svc is working this single customer outage, , 1223178];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[3]=[072,08/02/2022 08:01 AM, 08/02/2022 08:01 AM, A crew is currently working on the problem, 08/02/2022 12:30 PM, 1223176];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[4]=[073,08/02/2022 06:55 AM, 08/02/2022 06:55 AM, Waiting for an available crew to perform repairs, , 1223175];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[5]=[074,08/02/2022 08:08 AM, 08/02/2022 08:08 AM, Customer Svc is working this single customer outage, , 1223177];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[6]=[085,08/02/2022 08:18 AM, 08/02/2022 08:18 AM, A crew is currently working on the problem, 08/02/2022 11:30 AM, 1223181];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[7]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[8]=[113,08/02/2022 12:58 AM, 08/02/2022 12:58 AM, A crew is currently working on the problem, 08/02/2022 01:30 PM, 1223170];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[9]=[118,08/02/2022 02:26 AM, 08/02/2022 02:26 AM, A crew is currently working on the problem, 08/02/2022 12:00 PM, 1223173];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
+events[10]=[119,08/02/2022 08:15 AM, 08/02/2022 08:15 AM, A crew is currently working on the problem, , 1223180];,# of Outages: 11,Customers Affected: 72,2022-08-02T13:29:47Z
