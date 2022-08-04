@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,08/04/2022 12:00 PM, 08/04/2022 12:00 PM, Customer Svc is working this single customer outage, , 1223453];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[1]=[050,08/04/2022 05:43 AM, 08/04/2022 05:43 AM, A crew is currently working on the problem, 08/04/2022 03:30 PM, 1223431];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[2]=[073,08/04/2022 09:15 AM, 08/04/2022 09:15 AM, A crew is currently working on the problem, , 1223444];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[3]=[073,08/04/2022 12:15 PM, 08/04/2022 12:15 PM, Customer Svc is working this single customer outage, , 1223455];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[4]=[074,08/04/2022 07:10 AM, 08/04/2022 07:10 AM, A crew is currently working on the problem, 08/04/2022 02:30 PM, 1223435];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[5]=[076,08/04/2022 09:53 AM, 08/04/2022 09:53 AM, Trouble Shooter is determining repairs required, , 1223446];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[6]=[085,08/04/2022 12:31 PM, 08/04/2022 12:31 PM, The extent of the outage has been determined, , 1223456];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[7]=[096,08/04/2022 10:49 AM, 08/04/2022 10:49 AM, A crew is currently working on the problem, 08/04/2022 01:30 PM, 1223448];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[8]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[9]=[103,08/04/2022 08:15 AM, 08/04/2022 08:15 AM, A crew is currently working on the problem, 08/04/2022 01:30 PM, 1223439];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
+events[10]=[118,08/04/2022 12:12 PM, 08/04/2022 12:12 PM, Customer Svc is working this single customer outage, , 1223454];,# of Outages: 11,Customers Affected: 70,2022-08-04T17:47:56Z
