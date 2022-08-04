@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[063,08/04/2022 03:47 PM, 08/04/2022 03:47 PM, A crew is currently working on the problem, 08/04/2022 06:30 PM, 1223484];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[1]=[063,08/04/2022 05:19 PM, 08/04/2022 05:19 PM, A crew is currently working on the problem, 08/04/2022 07:00 PM, 1223495];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[2]=[063,08/04/2022 05:47 PM, 08/04/2022 05:47 PM, A crew is currently working on the problem, 08/04/2022 07:00 PM, 1223499];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[3]=[066,08/04/2022 05:17 PM, 08/04/2022 05:17 PM, Customer Svc is working this single customer outage, , 1223494];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[4]=[071,08/04/2022 04:29 PM, 08/04/2022 04:29 PM, Trouble Shooter is determining repairs required, , 1223489];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[5]=[071,08/04/2022 05:36 PM, 08/04/2022 05:36 PM, Customer Svc is working this single customer outage, , 1223498];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[6]=[083,08/04/2022 05:35 PM, 08/04/2022 05:35 PM, Customer Svc is working this single customer outage, , 1223497];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[7]=[084,08/04/2022 04:30 PM, 08/04/2022 04:30 PM, Customer Svc is working this single customer outage, , 1223490];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[8]=[086,08/04/2022 02:49 PM, 08/04/2022 02:49 PM, A crew is currently working on the problem, 08/04/2022 06:30 PM, 1223474];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[9]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[10]=[105,08/04/2022 03:30 PM, 08/04/2022 03:30 PM, A crew is currently working on the problem, 08/04/2022 09:00 PM, 1223478];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
+events[11]=[105,08/04/2022 03:53 PM, 08/04/2022 03:53 PM, A crew is currently working on the problem, 08/04/2022 09:00 PM, 1223486];,# of Outages: 12,Customers Affected: 242,2022-08-04T22:54:05Z
