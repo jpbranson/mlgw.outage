@@ -1,0 +1,4 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[033,08/05/2022 03:47 AM, 08/05/2022 03:47 AM, Waiting to be analyzed, , 1223514];,# of Outages: 2,Customers Affected: 76,2022-08-05T08:55:56Z
+events[1]=[045,08/05/2022 03:47 AM, 08/05/2022 03:47 AM, Waiting to be analyzed, , 1223514];,# of Outages: 2,Customers Affected: 76,2022-08-05T08:55:56Z
+events[2]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 2,Customers Affected: 76,2022-08-05T08:55:56Z
