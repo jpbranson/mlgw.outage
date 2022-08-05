@@ -1,0 +1,19 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[019,08/05/2022 08:22 AM, 08/05/2022 08:22 AM, Trouble Shooter is determining repairs required, , 1223553];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[1]=[019,08/05/2022 10:41 AM, 08/05/2022 10:41 AM, Waiting to be analyzed, , 1223578];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[2]=[020,08/05/2022 10:41 AM, 08/05/2022 10:41 AM, Waiting to be analyzed, , 1223578];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[3]=[026,08/05/2022 09:16 AM, 08/05/2022 09:16 AM, Trouble Shooter is determining repairs required, , 1223560];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[4]=[032,08/05/2022 06:41 AM, 08/05/2022 06:41 AM, Waiting to be analyzed, , 1223533];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[5]=[033,08/05/2022 06:41 AM, 08/05/2022 06:41 AM, Waiting to be analyzed, , 1223533];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[6]=[041,08/05/2022 09:51 AM, 08/05/2022 09:51 AM, Trouble Shooter is determining repairs required, , 1223567];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[7]=[051,08/05/2022 10:43 AM, 08/05/2022 10:43 AM, Waiting to be analyzed, , 1223579];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[8]=[058,08/05/2022 10:39 AM, 08/05/2022 10:39 AM, The extent of the outage has been determined, , 1223577];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[9]=[060,08/05/2022 09:09 AM, 08/05/2022 09:09 AM, Tree Trimming is clearing debris from the area, , 1223559];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[10]=[062,08/05/2022 09:29 AM, 08/05/2022 09:29 AM, Trouble Shooter is determining repairs required, , 1223563];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[11]=[064,08/05/2022 07:37 AM, 08/05/2022 07:37 AM, Tree Trimming is clearing debris from the area, , 1223548];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[12]=[077,08/05/2022 09:57 AM, 08/05/2022 09:57 AM, Trouble Shooter is determining repairs required, , 1223569];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[13]=[078,08/05/2022 09:57 AM, 08/05/2022 09:57 AM, Trouble Shooter is determining repairs required, , 1223569];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[14]=[084,08/05/2022 10:30 AM, 08/05/2022 10:30 AM, A crew is currently working on the problem, 08/05/2022 03:00 PM, 1223574];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[15]=[087,08/05/2022 09:20 AM, 08/05/2022 09:20 AM, A crew is currently working on the problem, 08/05/2022 11:30 AM, 1223561];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[16]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
+events[17]=[103,08/05/2022 10:43 AM, 08/05/2022 10:43 AM, Waiting to be analyzed, , 1223580];,# of Outages: 15,Customers Affected: 201,2022-08-05T15:46:35Z
