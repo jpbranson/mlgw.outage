@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,08/06/2022 05:20 PM, 08/06/2022 05:20 PM, Waiting for an available crew to perform repairs, , 1223791];,# of Outages: 7,Customers Affected: 60,2022-08-07T04:53:34Z
+events[1]=[072,08/06/2022 03:21 PM, 08/06/2022 03:21 PM, A crew is currently working on the problem, 08/07/2022 03:30 AM, 1223786];,# of Outages: 7,Customers Affected: 60,2022-08-07T04:53:34Z
+events[2]=[084,08/06/2022 07:22 PM, 08/06/2022 07:22 PM, Tree Trimming is clearing debris from the area, , 1223800];,# of Outages: 7,Customers Affected: 60,2022-08-07T04:53:34Z
+events[3]=[085,08/06/2022 09:01 PM, 08/06/2022 09:01 PM, Waiting for an available crew to perform repairs, , 1223804];,# of Outages: 7,Customers Affected: 60,2022-08-07T04:53:34Z
+events[4]=[085,08/06/2022 12:29 PM, 08/06/2022 12:29 PM, A crew is currently working on the problem, 08/07/2022 01:00 AM, 1223777];,# of Outages: 7,Customers Affected: 60,2022-08-07T04:53:34Z
+events[5]=[086,08/06/2022 08:19 PM, 08/06/2022 08:19 PM, A crew is currently working on the problem, , 1223803];,# of Outages: 7,Customers Affected: 60,2022-08-07T04:53:34Z
+events[6]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 7,Customers Affected: 60,2022-08-07T04:53:34Z
