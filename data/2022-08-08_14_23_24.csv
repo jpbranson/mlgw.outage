@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,08/08/2022 09:18 AM, 08/08/2022 09:18 AM, Waiting to be analyzed, , 1223890];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[1]=[074,08/08/2022 09:04 AM, 08/08/2022 09:04 AM, A crew is currently working on the problem, 08/08/2022 12:30 PM, 1223888];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[2]=[075,08/08/2022 08:50 AM, 08/08/2022 08:50 AM, A crew is currently working on the problem, 08/08/2022 03:30 PM, 1223885];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[3]=[083,08/08/2022 08:14 AM, 08/08/2022 08:14 AM, Customer Svc is working this single customer outage, , 1223878];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[4]=[084,08/08/2022 08:19 AM, 08/08/2022 08:19 AM, A crew is currently working on the problem, 08/08/2022 01:00 PM, 1223879];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[5]=[084,08/08/2022 08:57 AM, 08/08/2022 08:57 AM, A crew is currently working on the problem, , 1223886];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[6]=[085,08/08/2022 08:09 AM, 08/08/2022 08:09 AM, Waiting to be analyzed, , 1223876];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[7]=[085,08/08/2022 08:46 AM, 08/08/2022 08:46 AM, A crew is currently working on the problem, 08/08/2022 01:30 PM, 1223884];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[8]=[085,08/08/2022 09:07 AM, 08/08/2022 09:07 AM, A crew is currently working on the problem, , 1223889];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[9]=[088,08/08/2022 09:02 AM, 08/08/2022 09:02 AM, Waiting to be analyzed, , 1223887];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[10]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[11]=[100,08/08/2022 08:24 AM, 08/08/2022 08:24 AM, Customer Svc is working this single customer outage, , 1223881];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
+events[12]=[113,08/08/2022 03:03 AM, 08/08/2022 03:03 AM, A crew is currently working on the problem, 08/08/2022 12:30 PM, 1223872];,# of Outages: 13,Customers Affected: 65,2022-08-08T14:23:24Z
