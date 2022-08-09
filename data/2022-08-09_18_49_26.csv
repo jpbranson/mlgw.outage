@@ -1,0 +1,19 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[048,08/09/2022 01:37 PM, 08/09/2022 01:37 PM, Waiting to be analyzed, , 1224375];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[1]=[048,08/09/2022 01:44 PM, 08/09/2022 01:44 PM, Waiting to be analyzed, , 1224376];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[2]=[054,08/09/2022 01:08 PM, 08/09/2022 01:08 PM, Customer Svc is working this single customer outage, , 1224371];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[3]=[061,08/09/2022 01:18 AM, 08/09/2022 01:18 AM, A crew is currently working on the problem, 08/09/2022 02:00 PM, 1224244];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[4]=[071,08/09/2022 10:06 AM, 08/09/2022 10:06 AM, A crew is currently working on the problem, 08/09/2022 02:30 PM, 1224342];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[5]=[073,08/09/2022 01:19 PM, 08/09/2022 01:19 PM, Waiting for an available crew to perform repairs, , 1224373];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[6]=[073,08/09/2022 03:03 AM, 08/09/2022 03:03 AM, Waiting for an available crew to perform repairs, , 1224253];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[7]=[074,08/09/2022 02:25 AM, 08/09/2022 02:25 AM, Trouble Shooter is determining repairs required, , 1224250];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[8]=[083,08/09/2022 11:22 AM, 08/09/2022 11:22 AM, Customer Svc is working this single customer outage, , 1224355];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[9]=[084,08/09/2022 09:57 AM, 08/09/2022 09:57 AM, A crew is currently working on the problem, 08/09/2022 02:30 PM, 1224339];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[10]=[084,08/09/2022 12:50 PM, 08/09/2022 12:50 PM, A crew is currently working on the problem, 08/09/2022 03:30 PM, 1224366];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[11]=[085,08/08/2022 06:36 PM, 08/08/2022 06:36 PM, A crew is currently working on the problem, 08/09/2022 02:30 PM, 1224079];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[12]=[086,08/08/2022 06:42 PM, 08/08/2022 06:42 PM, Tree Trimming is clearing debris from the area, , 1224112];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[13]=[086,08/08/2022 06:50 PM, 08/08/2022 06:50 PM, A crew is currently working on the problem, 08/09/2022 02:30 PM, 1224153];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[14]=[086,08/09/2022 01:21 PM, 08/09/2022 01:21 PM, Tree Trimming is clearing debris from the area, , 1224374];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[15]=[087,08/08/2022 06:45 PM, 08/08/2022 06:45 PM, A crew is currently working on the problem, 08/09/2022 03:30 PM, 1224124];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[16]=[087,08/09/2022 12:15 PM, 08/09/2022 12:15 PM, Customer Svc is working this single customer outage, , 1224362];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
+events[17]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 18,Customers Affected: 173,2022-08-09T18:49:26Z
