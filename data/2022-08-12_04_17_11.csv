@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,08/11/2022 02:56 PM, 08/11/2022 02:56 PM, A crew is currently working on the problem, 08/12/2022 01:30 AM, 1225131];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[1]=[060,08/11/2022 03:02 PM, 08/11/2022 03:02 PM, Waiting for an available crew to perform repairs, , 1225133];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[2]=[062,08/11/2022 08:48 PM, 08/11/2022 08:48 PM, A crew is currently working on the problem, , 1225171];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[3]=[087,08/11/2022 10:55 PM, 08/11/2022 10:55 PM, Waiting to be analyzed, , 1225229];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[4]=[088,08/11/2022 10:07 PM, 08/11/2022 10:07 PM, Trouble Shooter is working on the problem, 08/12/2022 01:30 AM, 1225213];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[5]=[088,08/11/2022 10:09 PM, 08/11/2022 10:09 PM, Trouble Shooter is working on the problem, 08/12/2022 01:30 AM, 1225226];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[6]=[088,08/11/2022 10:55 PM, 08/11/2022 10:55 PM, Customer Svc is working this single customer outage, , 1225230];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[7]=[089,08/11/2022 10:05 PM, 08/11/2022 10:05 PM, Trouble Shooter is working on the problem, 08/12/2022 01:30 AM, 1225179];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[8]=[089,08/11/2022 10:07 PM, 08/11/2022 10:07 PM, Trouble Shooter is working on the problem, 08/12/2022 01:30 AM, 1225213];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[9]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[10]=[101,08/11/2022 08:56 PM, 08/11/2022 08:56 PM, Waiting for an available crew to perform repairs, , 1225174];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
+events[11]=[101,08/11/2022 11:04 PM, 08/11/2022 11:04 PM, Waiting to be analyzed, , 1225231];,# of Outages: 11,Customers Affected: 1347,2022-08-12T04:17:11Z
