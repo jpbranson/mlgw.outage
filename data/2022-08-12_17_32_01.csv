@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,08/12/2022 12:17 PM, 08/12/2022 12:17 PM, Waiting to be analyzed, , 1225259];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[1]=[042,08/12/2022 12:22 PM, 08/12/2022 12:22 PM, The extent of the outage has been determined, , 1225260];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[2]=[052,08/11/2022 02:56 PM, 08/11/2022 02:56 PM, A crew is currently working on the problem, 08/12/2022 01:00 PM, 1225131];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[3]=[062,08/11/2022 08:46 PM, 08/11/2022 08:46 PM, A crew is currently working on the problem, 08/12/2022 02:30 PM, 1225171];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[4]=[065,08/12/2022 11:52 AM, 08/12/2022 11:52 AM, Trouble Shooter is determining repairs required, , 1225256];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[5]=[074,08/12/2022 11:26 AM, 08/12/2022 11:26 AM, Trouble Shooter is determining repairs required, , 1225255];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[6]=[084,08/12/2022 08:57 AM, 08/12/2022 08:57 AM, A crew is currently working on the problem, 08/12/2022 01:30 PM, 1225246];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[7]=[087,08/12/2022 08:48 AM, 08/12/2022 08:48 AM, A crew is currently working on the problem, 08/12/2022 01:30 PM, 1225244];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[8]=[088,08/12/2022 03:33 AM, 08/12/2022 03:33 AM, A crew is currently working on the problem, 08/12/2022 12:30 PM, 1225235];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[9]=[090,08/12/2022 11:55 AM, 08/12/2022 11:55 AM, Customer Svc is working this single customer outage, , 1225257];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[10]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[11]=[100,08/12/2022 09:43 AM, 08/12/2022 09:43 AM, Waiting for an available crew to perform repairs, , 1225250];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
+events[12]=[116,08/12/2022 12:02 PM, 08/12/2022 12:02 PM, Customer Svc is working this single customer outage, , 1225258];,# of Outages: 13,Customers Affected: 124,2022-08-12T17:32:01Z
