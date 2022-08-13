@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[063,08/13/2022 08:27 AM, 08/13/2022 08:27 AM, Customer Svc is working this single customer outage, , 1225354];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[1]=[065,08/13/2022 08:25 AM, 08/13/2022 08:25 AM, Trouble Shooter is determining repairs required, , 1225352];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[2]=[074,08/13/2022 02:22 AM, 08/13/2022 02:22 AM, Tree Trimming is clearing debris from the area, , 1225329];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[3]=[076,08/13/2022 08:25 AM, 08/13/2022 08:25 AM, Trouble Shooter is determining repairs required, , 1225352];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[4]=[085,08/13/2022 02:52 AM, 08/13/2022 02:52 AM, Waiting for an available crew to perform repairs, , 1225331];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[5]=[085,08/13/2022 04:01 AM, 08/13/2022 04:01 AM, Tree Trimming is clearing debris from the area, , 1225334];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[6]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[7]=[099,08/13/2022 07:22 AM, 08/13/2022 07:22 AM, Trouble Shooter is working on the problem, 08/13/2022 10:30 AM, 1225339];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[8]=[099,08/13/2022 08:22 AM, 08/13/2022 08:22 AM, Trouble Shooter is determining repairs required, , 1225351];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[9]=[100,08/13/2022 07:22 AM, 08/13/2022 07:22 AM, Trouble Shooter is working on the problem, 08/13/2022 10:30 AM, 1225339];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[10]=[114,08/13/2022 08:51 AM, 08/13/2022 08:51 AM, A crew is currently working on the problem, 08/13/2022 10:30 AM, 1225355];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[11]=[115,08/13/2022 07:22 AM, 08/13/2022 07:22 AM, Trouble Shooter is working on the problem, 08/13/2022 10:30 AM, 1225339];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
+events[12]=[116,08/13/2022 07:22 AM, 08/13/2022 07:22 AM, Trouble Shooter is working on the problem, 08/13/2022 10:30 AM, 1225339];,# of Outages: 9,Customers Affected: 921,2022-08-13T13:53:21Z
