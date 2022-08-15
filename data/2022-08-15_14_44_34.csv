@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[062,08/15/2022 07:46 AM, 08/15/2022 07:46 AM, Trouble Shooter is determining repairs required, , 1225460];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[1]=[071,08/15/2022 08:23 AM, 08/15/2022 08:23 AM, A crew is currently working on the problem, 08/15/2022 10:30 AM, 1225464];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[2]=[072,08/15/2022 08:27 AM, 08/15/2022 08:27 AM, A crew is currently working on the problem, 08/15/2022 11:30 AM, 1225465];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[3]=[084,08/15/2022 08:31 AM, 08/15/2022 08:31 AM, A crew is currently working on the problem, 08/15/2022 01:00 PM, 1225467];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[4]=[084,08/15/2022 08:31 AM, 08/15/2022 08:31 AM, A crew is currently working on the problem, 08/15/2022 01:00 PM, 1225468];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[5]=[085,08/15/2022 08:10 AM, 08/15/2022 08:10 AM, Customer Svc is working this single customer outage, , 1225463];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[6]=[085,08/15/2022 08:48 AM, 08/15/2022 08:48 AM, Trouble Shooter is determining repairs required, , 1225490];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[7]=[086,08/15/2022 08:55 AM, 08/15/2022 08:55 AM, Customer Svc is working this single customer outage, , 1225499];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[8]=[089,08/15/2022 08:42 AM, 08/15/2022 08:42 AM, Customer Svc is working this single customer outage, , 1225472];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[9]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[10]=[106,08/15/2022 08:29 AM, 08/15/2022 08:29 AM, Waiting for an available crew to perform repairs, , 1225466];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[11]=[112,08/15/2022 02:34 AM, 08/15/2022 02:34 AM, A crew is currently working on the problem, 08/15/2022 10:30 AM, 1225449];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
+events[12]=[112,08/15/2022 06:45 AM, 08/15/2022 06:45 AM, A crew is currently working on the problem, 08/15/2022 10:30 AM, 1225459];,# of Outages: 13,Customers Affected: 140,2022-08-15T14:44:34Z
