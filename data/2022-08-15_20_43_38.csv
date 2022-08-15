@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[007,08/15/2022 02:33 PM, 08/15/2022 02:33 PM, Waiting for an available crew to perform repairs, , 1225546];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[1]=[049,08/15/2022 02:53 PM, 08/15/2022 02:53 PM, Customer Svc is working this single customer outage, , 1225547];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[2]=[050,08/15/2022 12:04 PM, 08/15/2022 12:04 PM, A crew is currently working on the problem, , 1225520];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[3]=[052,08/15/2022 02:12 PM, 08/15/2022 02:12 PM, Trouble Shooter is determining repairs required, , 1225544];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[4]=[063,08/15/2022 03:08 PM, 08/15/2022 03:08 PM, Customer Svc is working this single customer outage, , 1225548];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[5]=[072,08/15/2022 01:19 PM, 08/15/2022 01:19 PM, Trouble Shooter is determining repairs required, , 1225538];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[6]=[084,08/15/2022 03:32 PM, 08/15/2022 03:32 PM, The extent of the outage has been determined, , 1225552];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[7]=[085,08/15/2022 03:21 PM, 08/15/2022 03:21 PM, Trouble Shooter is determining repairs required, , 1225549];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[8]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[9]=[112,08/15/2022 02:34 AM, 08/15/2022 02:34 AM, A crew is currently working on the problem, 08/15/2022 02:30 PM, 1225449];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
+events[10]=[112,08/15/2022 06:45 AM, 08/15/2022 06:45 AM, A crew is currently working on the problem, 08/15/2022 02:30 PM, 1225459];,# of Outages: 11,Customers Affected: 112,2022-08-15T20:43:38Z
