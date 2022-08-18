@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,08/18/2022 11:35 AM, 08/18/2022 11:35 AM, Waiting to be analyzed, , 1225899];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[1]=[061,08/18/2022 12:04 AM, 08/18/2022 12:04 AM, A crew is currently working on the problem, 08/18/2022 01:30 PM, 1225862];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[2]=[071,08/18/2022 11:26 AM, 08/18/2022 11:26 AM, Waiting to be analyzed, , 1225897];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[3]=[072,08/18/2022 11:26 AM, 08/18/2022 11:26 AM, Waiting to be analyzed, , 1225897];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[4]=[073,08/18/2022 08:03 AM, 08/18/2022 08:03 AM, Trouble Shooter is determining repairs required, , 1225873];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[5]=[073,08/18/2022 08:41 AM, 08/18/2022 08:41 AM, Trouble Shooter is working on the problem, 08/18/2022 12:30 PM, 1225881];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[6]=[073,08/18/2022 09:34 AM, 08/18/2022 09:34 AM, Tree Trimming is clearing debris from the area, , 1225887];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[7]=[084,08/18/2022 11:34 AM, 08/18/2022 11:34 AM, A crew is currently working on the problem, 08/18/2022 02:00 PM, 1225898];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[8]=[085,08/18/2022 08:34 AM, 08/18/2022 08:34 AM, A crew is currently working on the problem, 08/18/2022 12:00 PM, 1225876];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[9]=[085,08/18/2022 08:34 AM, 08/18/2022 08:34 AM, A crew is currently working on the problem, 08/18/2022 12:00 PM, 1225877];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[10]=[098,07/31/2022 04:18 PM, 07/31/2022 04:18 PM, Waiting to be analyzed, , 1223032];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
+events[11]=[099,08/18/2022 06:35 AM, 08/18/2022 06:35 AM, A crew is currently working on the problem, 08/18/2022 01:30 PM, 1225869];,# of Outages: 11,Customers Affected: 2309,2022-08-18T16:37:52Z
