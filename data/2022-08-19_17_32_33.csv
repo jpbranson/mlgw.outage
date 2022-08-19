@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[053,08/19/2022 11:23 AM, 08/19/2022 11:23 AM, Customer Svc is working this single customer outage, , 1226004];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[1]=[062,08/19/2022 10:36 AM, 08/19/2022 10:36 AM, Trouble Shooter is determining repairs required, , 1225998];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[2]=[066,08/19/2022 11:42 AM, 08/19/2022 11:42 AM, Customer Svc is working this single customer outage, , 1226006];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[3]=[072,08/19/2022 09:42 AM, 08/19/2022 09:42 AM, A crew is currently working on the problem, 08/19/2022 01:00 PM, 1225990];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[4]=[074,08/19/2022 05:56 AM, 08/19/2022 05:56 AM, A crew is currently working on the problem, 08/19/2022 12:30 PM, 1225977];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[5]=[086,08/19/2022 09:50 AM, 08/19/2022 09:50 AM, Tree Trimming is clearing debris from the area, 08/19/2022 03:30 PM, 1225993];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[6]=[086,08/19/2022 10:11 AM, 08/19/2022 10:11 AM, Customer Svc is working this single customer outage, , 1225995];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[7]=[098,08/19/2022 11:01 AM, 08/19/2022 11:01 AM, Waiting for an available crew to perform repairs, , 1226001];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[8]=[100,08/19/2022 12:18 PM, 08/19/2022 12:18 PM, The extent of the outage has been determined, , 1226008];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[9]=[101,08/19/2022 11:55 AM, 08/19/2022 11:55 AM, A crew is currently working on the problem, 08/19/2022 02:00 PM, 1226007];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[10]=[114,08/19/2022 11:39 AM, 08/19/2022 11:39 AM, Customer Svc is working this single customer outage, , 1226005];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[11]=[122,08/19/2022 05:47 AM, 08/19/2022 05:47 AM, A crew is currently working on the problem, 08/19/2022 02:00 PM, 1225976];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
+events[12]=[122,08/19/2022 08:00 AM, 08/19/2022 08:00 AM, A crew is currently working on the problem, 08/19/2022 02:00 PM, 1225981];,# of Outages: 13,Customers Affected: 187,2022-08-19T17:32:33Z
