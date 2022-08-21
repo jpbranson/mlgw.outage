@@ -1,0 +1,23 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,08/21/2022 06:46 AM, 08/21/2022 06:46 AM, Waiting for an available crew to perform repairs, , 1226152];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[1]=[021,08/20/2022 08:15 PM, 08/20/2022 08:15 PM, A crew is currently working on the problem, 08/21/2022 08:30 AM, 1226115];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[2]=[026,08/21/2022 05:30 AM, 08/21/2022 05:30 AM, Trouble Shooter is determining repairs required, , 1226131];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[3]=[032,08/21/2022 05:55 AM, 08/21/2022 05:55 AM, Waiting for an available crew to perform repairs, , 1226139];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[4]=[033,08/21/2022 05:55 AM, 08/21/2022 05:55 AM, Waiting for an available crew to perform repairs, , 1226139];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[5]=[038,08/21/2022 05:29 AM, 08/21/2022 05:29 AM, Waiting for an available crew to perform repairs, , 1226130];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[6]=[038,08/21/2022 05:30 AM, 08/21/2022 05:30 AM, Trouble Shooter is determining repairs required, , 1226131];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[7]=[049,08/21/2022 05:38 AM, 08/21/2022 05:38 AM, Trouble Shooter is working on the problem, 08/21/2022 09:00 AM, 1226133];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[8]=[050,08/21/2022 05:38 AM, 08/21/2022 05:38 AM, Trouble Shooter is working on the problem, 08/21/2022 09:00 AM, 1226133];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[9]=[060,08/21/2022 04:44 AM, 08/21/2022 04:44 AM, Tree Trimming is clearing debris from the area, , 1226129];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[10]=[061,08/21/2022 05:56 AM, 08/21/2022 05:56 AM, Trouble Shooter is determining repairs required, , 1226141];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[11]=[061,08/21/2022 06:00 AM, 08/21/2022 06:00 AM, Trouble Shooter is determining repairs required, , 1226146];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[12]=[065,08/21/2022 06:04 AM, 08/21/2022 06:04 AM, Waiting for an available crew to perform repairs, , 1226148];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[13]=[071,08/21/2022 06:30 AM, 08/21/2022 06:30 AM, Waiting for an available crew to perform repairs, , 1226150];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[14]=[073,08/21/2022 05:57 AM, 08/21/2022 05:57 AM, Waiting for an available crew to perform repairs, , 1226144];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[15]=[073,08/21/2022 05:58 AM, 08/21/2022 05:58 AM, Trouble Shooter is determining repairs required, , 1226145];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[16]=[077,08/21/2022 06:39 AM, 08/21/2022 06:39 AM, Waiting for an available crew to perform repairs, , 1226151];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[17]=[083,08/21/2022 06:08 AM, 08/21/2022 06:08 AM, Trouble Shooter is determining repairs required, , 1226149];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[18]=[084,08/21/2022 06:52 AM, 08/21/2022 06:52 AM, Trouble Shooter is determining repairs required, , 1226153];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[19]=[086,08/20/2022 06:30 PM, 08/20/2022 06:30 PM, A crew is currently working on the problem, 08/21/2022 09:00 AM, 1226087];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[20]=[086,08/21/2022 06:00 AM, 08/21/2022 06:00 AM, Trouble Shooter is determining repairs required, , 1226147];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
+events[21]=[105,08/21/2022 06:53 AM, 08/21/2022 06:53 AM, Customer Svc is working this single customer outage, , 1226154];,# of Outages: 19,Customers Affected: 358,2022-08-21T12:37:38Z
