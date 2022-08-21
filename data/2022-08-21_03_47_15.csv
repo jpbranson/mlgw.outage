@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[003,08/20/2022 03:46 PM, 08/20/2022 03:46 PM, A crew is currently working on the problem, 08/20/2022 11:00 PM, 1226078];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[1]=[015,08/20/2022 03:46 PM, 08/20/2022 03:46 PM, A crew is currently working on the problem, 08/20/2022 11:00 PM, 1226078];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[2]=[021,08/20/2022 08:15 PM, 08/20/2022 08:15 PM, Waiting for an available crew to perform repairs, , 1226115];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[3]=[071,08/20/2022 09:36 PM, 08/20/2022 09:36 PM, Tree Trimming is clearing debris from the area, , 1226119];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[4]=[071,08/20/2022 10:14 PM, 08/20/2022 10:14 PM, Waiting for an available crew to perform repairs, , 1226120];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[5]=[073,08/20/2022 05:16 PM, 08/20/2022 05:16 PM, A crew is currently working on the problem, 08/21/2022 03:30 AM, 1226085];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[6]=[073,08/20/2022 08:38 PM, 08/20/2022 08:38 PM, A crew is currently working on the problem, 08/21/2022 03:30 AM, 1226117];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[7]=[086,08/20/2022 05:16 PM, 08/20/2022 05:16 PM, A crew is currently working on the problem, 08/21/2022 03:30 AM, 1226085];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[8]=[086,08/20/2022 06:30 PM, 08/20/2022 06:30 PM, A crew is currently working on the problem, 08/21/2022 02:00 AM, 1226087];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[9]=[086,08/20/2022 08:38 PM, 08/20/2022 08:38 PM, A crew is currently working on the problem, 08/21/2022 03:30 AM, 1226117];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
+events[10]=[100,08/20/2022 08:54 PM, 08/20/2022 08:54 PM, Waiting for an available crew to perform repairs, , 1226118];,# of Outages: 8,Customers Affected: 72,2022-08-21T03:47:15Z
