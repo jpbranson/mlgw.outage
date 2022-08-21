@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[003,08/20/2022 03:46 PM, 08/20/2022 03:46 PM, Tree Trimming is clearing debris from the area, 08/20/2022 09:00 PM, 1226078];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[1]=[015,08/20/2022 03:46 PM, 08/20/2022 03:46 PM, Tree Trimming is clearing debris from the area, 08/20/2022 09:00 PM, 1226078];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[2]=[021,08/20/2022 08:15 PM, 08/20/2022 08:15 PM, Trouble Shooter is determining repairs required, , 1226115];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[3]=[060,08/20/2022 07:45 PM, 08/20/2022 07:45 PM, Trouble Shooter is determining repairs required, , 1226110];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[4]=[073,08/20/2022 05:16 PM, 08/20/2022 05:16 PM, A crew is currently working on the problem, 08/20/2022 10:30 PM, 1226085];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[5]=[073,08/20/2022 08:38 PM, 08/20/2022 08:38 PM, A crew is currently working on the problem, 08/20/2022 10:30 PM, 1226117];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[6]=[086,08/20/2022 05:16 PM, 08/20/2022 05:16 PM, A crew is currently working on the problem, 08/20/2022 10:30 PM, 1226085];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[7]=[086,08/20/2022 06:30 PM, 08/20/2022 06:30 PM, Waiting for an available crew to perform repairs, , 1226087];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[8]=[086,08/20/2022 08:38 PM, 08/20/2022 08:38 PM, A crew is currently working on the problem, 08/20/2022 10:30 PM, 1226117];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[9]=[099,08/20/2022 08:36 PM, 08/20/2022 08:36 PM, Trouble Shooter is determining repairs required, , 1226116];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
+events[10]=[100,08/20/2022 08:54 PM, 08/20/2022 08:54 PM, Trouble Shooter is determining repairs required, , 1226118];,# of Outages: 8,Customers Affected: 78,2022-08-21T02:06:36Z
