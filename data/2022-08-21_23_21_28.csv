@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[032,08/21/2022 05:55 AM, 08/21/2022 05:55 AM, A crew is currently working on the problem, 08/21/2022 07:30 PM, 1226139];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[1]=[033,08/21/2022 05:55 AM, 08/21/2022 05:55 AM, A crew is currently working on the problem, 08/21/2022 07:30 PM, 1226139];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[2]=[034,08/21/2022 09:56 AM, 08/21/2022 09:56 AM, Waiting for an available crew to perform repairs, , 1226169];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[3]=[049,08/21/2022 09:08 AM, 08/21/2022 09:08 AM, A crew is currently working on the problem, 08/21/2022 11:00 PM, 1226166];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[4]=[049,08/21/2022 12:06 PM, 08/21/2022 12:06 PM, A crew is currently working on the problem, 08/21/2022 11:00 PM, 1226227];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[5]=[050,08/21/2022 05:55 PM, 08/21/2022 05:55 PM, Customer Svc is working this single customer outage, , 1226254];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[6]=[060,08/21/2022 04:44 AM, 08/21/2022 04:44 AM, A crew is currently working on the problem, 08/21/2022 07:30 PM, 1226129];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[7]=[097,08/21/2022 06:09 PM, 08/21/2022 06:09 PM, Customer Svc is working this single customer outage, , 1226259];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[8]=[098,08/21/2022 06:07 PM, 08/21/2022 06:07 PM, Trouble Shooter is determining repairs required, , 1226257];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[9]=[113,08/21/2022 01:55 PM, 08/21/2022 01:55 PM, Trouble Shooter is determining repairs required, , 1226235];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[10]=[113,08/21/2022 12:25 PM, 08/21/2022 12:25 PM, Tree Trimming is clearing debris from the area, , 1226228];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[11]=[114,08/21/2022 05:21 PM, 08/21/2022 05:21 PM, Customer Svc is working this single customer outage, , 1226252];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[12]=[114,08/21/2022 11:00 AM, 08/21/2022 11:00 AM, Trouble Shooter is determining repairs required, , 1226213];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[13]=[123,08/21/2022 04:19 PM, 08/21/2022 04:19 PM, A crew is currently working on the problem, , 1226245];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
+events[14]=[123,08/21/2022 05:55 PM, 08/21/2022 05:55 PM, A crew is currently working on the problem, , 1226255];,# of Outages: 14,Customers Affected: 177,2022-08-21T23:21:28Z
