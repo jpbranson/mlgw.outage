@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,08/23/2022 08:24 AM, 08/23/2022 08:24 AM, A crew is currently working on the problem, 08/23/2022 04:30 PM, 1226417];,# of Outages: 9,Customers Affected: 151,2022-08-23T19:40:00Z
+events[1]=[051,08/23/2022 02:30 PM, 08/23/2022 02:30 PM, Customer Svc is working this single customer outage, , 1226458];,# of Outages: 9,Customers Affected: 151,2022-08-23T19:40:00Z
+events[2]=[051,08/23/2022 11:18 AM, 08/23/2022 11:18 AM, Waiting for an available crew to perform repairs, , 1226443];,# of Outages: 9,Customers Affected: 151,2022-08-23T19:40:00Z
+events[3]=[053,08/23/2022 12:22 PM, 08/23/2022 12:22 PM, A crew is currently working on the problem, 08/23/2022 04:30 PM, 1226449];,# of Outages: 9,Customers Affected: 151,2022-08-23T19:40:00Z
+events[4]=[054,08/23/2022 06:52 AM, 08/23/2022 06:52 AM, A crew is currently working on the problem, 08/23/2022 04:00 PM, 1226411];,# of Outages: 9,Customers Affected: 151,2022-08-23T19:40:00Z
+events[5]=[054,08/23/2022 06:54 AM, 08/23/2022 06:54 AM, A crew is currently working on the problem, 08/23/2022 04:00 PM, 1226413];,# of Outages: 9,Customers Affected: 151,2022-08-23T19:40:00Z
+events[6]=[084,08/23/2022 12:33 PM, 08/23/2022 12:33 PM, A crew is currently working on the problem, 08/23/2022 04:00 PM, 1226453];,# of Outages: 9,Customers Affected: 151,2022-08-23T19:40:00Z
+events[7]=[084,08/23/2022 12:59 PM, 08/23/2022 12:59 PM, A crew is currently working on the problem, 08/23/2022 04:00 PM, 1226455];,# of Outages: 9,Customers Affected: 151,2022-08-23T19:40:00Z
+events[8]=[088,08/23/2022 05:03 AM, 08/23/2022 05:03 AM, A crew is currently working on the problem, 08/23/2022 04:30 PM, 1226408];,# of Outages: 9,Customers Affected: 151,2022-08-23T19:40:00Z
