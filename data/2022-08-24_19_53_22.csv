@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[053,08/24/2022 10:30 AM, 08/24/2022 10:30 AM, Tree Trimming is clearing debris from the area, , 1226551];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[1]=[060,08/24/2022 12:56 PM, 08/24/2022 12:56 PM, Tree Trimming is clearing debris from the area, , 1226578];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[2]=[063,08/24/2022 01:19 PM, 08/24/2022 01:19 PM, Customer Svc is working this single customer outage, , 1226579];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[3]=[072,08/24/2022 01:44 PM, 08/24/2022 01:44 PM, A crew is currently working on the problem, 08/24/2022 03:30 PM, 1226581];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[4]=[073,08/24/2022 12:30 PM, 08/24/2022 12:30 PM, A crew is currently working on the problem, 08/24/2022 05:30 PM, 1226574];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[5]=[085,08/24/2022 02:30 PM, 08/24/2022 02:30 PM, Waiting for an available crew to perform repairs, , 1226584];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[6]=[085,08/24/2022 12:36 PM, 08/24/2022 12:36 PM, Waiting for an available crew to perform repairs, , 1226575];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[7]=[087,08/24/2022 12:54 PM, 08/24/2022 12:54 PM, Trouble Shooter is determining repairs required, , 1226577];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[8]=[096,08/24/2022 12:00 PM, 08/24/2022 12:00 PM, Waiting for an available crew to perform repairs, , 1226571];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[9]=[102,08/24/2022 02:06 PM, 08/24/2022 02:06 PM, A crew is currently working on the problem, 08/24/2022 03:30 PM, 1226583];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[10]=[113,08/24/2022 02:47 PM, 08/24/2022 02:47 PM, Waiting to be analyzed, , 1226590];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[11]=[114,08/24/2022 02:01 PM, 08/24/2022 02:01 PM, Customer Svc is working this single customer outage, , 1226582];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
+events[12]=[115,08/24/2022 02:48 PM, 08/24/2022 02:48 PM, Waiting to be analyzed, , 1226591];,# of Outages: 13,Customers Affected: 239,2022-08-24T19:53:22Z
