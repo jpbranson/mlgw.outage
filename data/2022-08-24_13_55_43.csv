@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,08/24/2022 04:42 AM, 08/24/2022 04:42 AM, A crew is currently working on the problem, , 1226515];,# of Outages: 6,Customers Affected: 101,2022-08-24T13:55:43Z
+events[1]=[051,08/24/2022 12:55 AM, 08/24/2022 12:55 AM, A crew is currently working on the problem, 08/24/2022 11:30 AM, 1226511];,# of Outages: 6,Customers Affected: 101,2022-08-24T13:55:43Z
+events[2]=[052,08/24/2022 12:55 AM, 08/24/2022 12:55 AM, A crew is currently working on the problem, 08/24/2022 11:30 AM, 1226511];,# of Outages: 6,Customers Affected: 101,2022-08-24T13:55:43Z
+events[3]=[072,08/24/2022 07:48 AM, 08/24/2022 07:48 AM, A crew is currently working on the problem, 08/24/2022 10:30 AM, 1226518];,# of Outages: 6,Customers Affected: 101,2022-08-24T13:55:43Z
+events[4]=[072,08/24/2022 08:41 AM, 08/24/2022 08:41 AM, Customer Svc is working this single customer outage, , 1226522];,# of Outages: 6,Customers Affected: 101,2022-08-24T13:55:43Z
+events[5]=[085,08/24/2022 08:23 AM, 08/24/2022 08:23 AM, A crew is currently working on the problem, 08/24/2022 12:30 PM, 1226521];,# of Outages: 6,Customers Affected: 101,2022-08-24T13:55:43Z
+events[6]=[115,08/24/2022 07:36 AM, 08/24/2022 07:36 AM, Customer Svc is working this single customer outage, , 1226517];,# of Outages: 6,Customers Affected: 101,2022-08-24T13:55:43Z
