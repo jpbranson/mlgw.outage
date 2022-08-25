@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,08/25/2022 07:09 AM, 08/25/2022 07:09 AM, Trouble Shooter is determining repairs required, , 1226620];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[1]=[049,08/25/2022 08:58 AM, 08/25/2022 08:58 AM, Trouble Shooter is determining repairs required, , 1226630];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[2]=[049,08/25/2022 09:02 AM, 08/25/2022 09:02 AM, Customer Svc is working this single customer outage, , 1226633];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[3]=[051,08/25/2022 09:12 AM, 08/25/2022 09:12 AM, The extent of the outage has been determined, , 1226635];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[4]=[083,08/25/2022 08:05 AM, 08/25/2022 08:05 AM, A crew is currently working on the problem, 08/25/2022 12:30 PM, 1226624];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[5]=[083,08/25/2022 08:05 AM, 08/25/2022 08:05 AM, A crew is currently working on the problem, 08/25/2022 12:30 PM, 1226625];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[6]=[083,08/25/2022 08:44 AM, 08/25/2022 08:44 AM, A crew is currently working on the problem, 08/25/2022 12:30 PM, 1226629];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[7]=[084,08/25/2022 07:46 AM, 08/25/2022 07:46 AM, Customer Svc is working this single customer outage, , 1226622];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[8]=[085,08/25/2022 08:12 AM, 08/25/2022 08:12 AM, A crew is currently working on the problem, 08/25/2022 12:30 PM, 1226626];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[9]=[085,08/25/2022 08:12 AM, 08/25/2022 08:12 AM, A crew is currently working on the problem, 08/25/2022 12:30 PM, 1226627];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[10]=[086,08/25/2022 08:32 AM, 08/25/2022 08:32 AM, A crew is currently working on the problem, 08/25/2022 12:00 PM, 1226628];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[11]=[089,08/25/2022 09:12 AM, 08/25/2022 09:12 AM, A crew is currently working on the problem, 08/25/2022 01:30 PM, 1226634];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
+events[12]=[103,08/25/2022 08:59 AM, 08/25/2022 08:59 AM, Trouble Shooter is determining repairs required, , 1226631];,# of Outages: 13,Customers Affected: 121,2022-08-25T14:20:51Z
