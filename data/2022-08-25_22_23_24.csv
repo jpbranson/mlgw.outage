@@ -1,0 +1,17 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[010,08/25/2022 04:45 PM, 08/25/2022 04:45 PM, A crew is currently working on the problem, 08/25/2022 07:30 PM, 1226673];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[1]=[017,08/25/2022 07:09 AM, 08/25/2022 07:09 AM, A crew is currently working on the problem, 08/25/2022 07:00 PM, 1226620];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[2]=[037,08/25/2022 04:51 PM, 08/25/2022 04:51 PM, Trouble Shooter is determining repairs required, , 1226675];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[3]=[037,08/25/2022 04:53 PM, 08/25/2022 04:53 PM, Trouble Shooter is determining repairs required, , 1226677];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[4]=[063,08/25/2022 04:37 PM, 08/25/2022 04:37 PM, Trouble Shooter is determining repairs required, , 1226670];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[5]=[074,08/25/2022 04:38 PM, 08/25/2022 04:38 PM, A crew is currently working on the problem, 08/25/2022 05:30 PM, 1226671];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[6]=[076,08/25/2022 03:55 PM, 08/25/2022 03:55 PM, A crew is currently working on the problem, 08/25/2022 05:00 PM, 1226665];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[7]=[076,08/25/2022 04:39 PM, 08/25/2022 04:39 PM, A crew is currently working on the problem, 08/25/2022 05:00 PM, 1226672];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[8]=[076,08/25/2022 04:49 PM, 08/25/2022 04:49 PM, A crew is currently working on the problem, 08/25/2022 05:00 PM, 1226674];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[9]=[085,08/25/2022 04:33 PM, 08/25/2022 04:33 PM, A crew is currently working on the problem, 08/25/2022 07:00 PM, 1226668];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[10]=[085,08/25/2022 04:37 PM, 08/25/2022 04:37 PM, A crew is currently working on the problem, 08/25/2022 07:00 PM, 1226669];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[11]=[087,08/25/2022 12:17 PM, 08/25/2022 12:17 PM, A crew is currently working on the problem, 08/25/2022 05:00 PM, 1226643];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[12]=[089,08/25/2022 04:52 PM, 08/25/2022 04:52 PM, Trouble Shooter is determining repairs required, , 1226676];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[13]=[089,08/25/2022 05:18 PM, 08/25/2022 05:18 PM, Waiting to be analyzed, , 1226678];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[14]=[101,08/25/2022 02:07 PM, 08/25/2022 02:07 PM, Trouble Shooter is determining repairs required, , 1226656];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
+events[15]=[116,08/25/2022 03:21 PM, 08/25/2022 03:21 PM, Trouble Shooter is determining repairs required, , 1226664];,# of Outages: 16,Customers Affected: 101,2022-08-25T22:23:24Z
