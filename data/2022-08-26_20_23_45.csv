@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[018,08/26/2022 01:27 PM, 08/26/2022 01:27 PM, A crew is currently working on the problem, 08/26/2022 04:30 PM, 1226732];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[1]=[072,08/26/2022 02:26 PM, 08/26/2022 02:26 PM, Customer Svc is working this single customer outage, , 1226740];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[2]=[085,08/26/2022 01:30 PM, 08/26/2022 01:30 PM, A crew is currently working on the problem, 08/26/2022 04:30 PM, 1226733];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[3]=[085,08/26/2022 12:59 PM, 08/26/2022 12:59 PM, A crew is currently working on the problem, 08/26/2022 04:30 PM, 1226730];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[4]=[086,08/26/2022 02:30 PM, 08/26/2022 02:30 PM, Trouble Shooter is determining repairs required, , 1226742];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[5]=[086,08/26/2022 03:12 PM, 08/26/2022 03:12 PM, Waiting to be analyzed, , 1226745];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[6]=[086,08/26/2022 12:40 PM, 08/26/2022 12:40 PM, A crew is currently working on the problem, 08/26/2022 03:30 PM, 1226729];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[7]=[097,08/26/2022 01:45 PM, 08/26/2022 01:45 PM, Trouble Shooter is determining repairs required, , 1226738];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[8]=[097,08/26/2022 02:13 PM, 08/26/2022 02:13 PM, Customer Svc is working this single customer outage, , 1226739];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[9]=[101,08/26/2022 02:28 PM, 08/26/2022 02:28 PM, Customer Svc is working this single customer outage, , 1226741];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[10]=[118,08/26/2022 02:31 PM, 08/26/2022 02:31 PM, A crew is currently working on the problem, 08/26/2022 05:30 PM, 1226743];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
+events[11]=[132,08/26/2022 08:41 AM, 08/26/2022 08:41 AM, Waiting for an available crew to perform repairs, , 1226710];,# of Outages: 12,Customers Affected: 75,2022-08-26T20:23:45Z
