@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[018,08/27/2022 06:12 AM, 08/27/2022 06:12 AM, Waiting for an available crew to perform repairs, , 1226810];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[1]=[049,08/26/2022 03:51 PM, 08/26/2022 03:51 PM, A crew is currently working on the problem, 08/27/2022 07:00 AM, 1226750];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[2]=[051,08/26/2022 06:55 PM, 08/26/2022 06:55 PM, Waiting for an available crew to perform repairs, , 1226763];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[3]=[051,08/27/2022 02:06 AM, 08/27/2022 02:06 AM, Waiting for an available crew to perform repairs, , 1226799];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[4]=[060,08/27/2022 03:13 AM, 08/27/2022 03:13 AM, Tree Trimming is clearing debris from the area, , 1226800];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[5]=[073,08/27/2022 12:40 AM, 08/27/2022 12:40 AM, Tree Trimming is clearing debris from the area, , 1226791];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[6]=[078,08/27/2022 05:06 AM, 08/27/2022 05:06 AM, Waiting for an available crew to perform repairs, , 1226807];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[7]=[084,08/27/2022 04:58 AM, 08/27/2022 04:58 AM, Trouble Shooter is working on the problem, 08/27/2022 08:30 AM, 1226804];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[8]=[085,08/27/2022 06:51 AM, 08/27/2022 06:51 AM, Waiting to be analyzed, , 1226811];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[9]=[086,08/27/2022 12:40 AM, 08/27/2022 12:40 AM, Tree Trimming is clearing debris from the area, , 1226791];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[10]=[088,08/26/2022 08:50 PM, 08/26/2022 08:50 PM, A crew is currently working on the problem, 08/27/2022 08:30 AM, 1226775];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[11]=[088,08/27/2022 05:49 AM, 08/27/2022 05:49 AM, Waiting for an available crew to perform repairs, , 1226809];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
+events[12]=[115,08/27/2022 04:23 AM, 08/27/2022 04:23 AM, Waiting for an available crew to perform repairs, , 1226801];,# of Outages: 12,Customers Affected: 478,2022-08-27T11:54:06Z
