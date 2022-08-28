@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,08/27/2022 05:36 PM, 08/27/2022 05:36 PM, Waiting for an available crew to perform repairs, , 1226847];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[1]=[051,08/27/2022 04:28 PM, 08/27/2022 04:28 PM, Waiting for an available crew to perform repairs, , 1226844];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[2]=[060,08/28/2022 04:06 AM, 08/28/2022 04:06 AM, Trouble Shooter is determining repairs required, , 1226884];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[3]=[062,08/28/2022 04:46 AM, 08/28/2022 04:46 AM, Waiting to be analyzed, , 1226888];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[4]=[070,08/28/2022 04:06 AM, 08/28/2022 04:06 AM, Trouble Shooter is determining repairs required, , 1226884];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[5]=[071,08/28/2022 04:06 AM, 08/28/2022 04:06 AM, Trouble Shooter is determining repairs required, , 1226884];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[6]=[078,08/27/2022 05:03 AM, 08/27/2022 05:03 AM, Waiting for an available crew to perform repairs, , 1226807];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[7]=[088,08/27/2022 02:48 PM, 08/27/2022 02:48 PM, A crew is currently working on the problem, 08/28/2022 06:30 AM, 1226837];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[8]=[098,08/27/2022 08:21 AM, 08/27/2022 08:21 AM, A crew is currently working on the problem, 08/28/2022 07:30 AM, 1226814];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[9]=[112,08/28/2022 01:34 AM, 08/28/2022 01:34 AM, Waiting for an available crew to perform repairs, , 1226877];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
+events[10]=[113,08/27/2022 07:56 PM, 08/27/2022 07:56 PM, Waiting for an available crew to perform repairs, , 1226856];,# of Outages: 9,Customers Affected: 968,2022-08-28T09:53:33Z
