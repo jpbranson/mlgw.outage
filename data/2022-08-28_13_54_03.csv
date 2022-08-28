@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[018,08/28/2022 07:38 AM, 08/28/2022 07:38 AM, Trouble Shooter is determining repairs required, , 1226927];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[1]=[040,08/28/2022 07:24 AM, 08/28/2022 07:24 AM, Trouble Shooter is working on the problem, 08/28/2022 10:00 AM, 1226904];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[2]=[049,08/28/2022 08:06 AM, 08/28/2022 08:06 AM, Waiting for an available crew to perform repairs, , 1226931];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[3]=[049,08/28/2022 08:07 AM, 08/28/2022 08:07 AM, Waiting for an available crew to perform repairs, , 1226932];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[4]=[050,08/27/2022 05:36 PM, 08/27/2022 05:36 PM, Waiting for an available crew to perform repairs, , 1226847];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[5]=[051,08/27/2022 04:28 PM, 08/27/2022 04:28 PM, Waiting for an available crew to perform repairs, , 1226844];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[6]=[051,08/28/2022 07:24 AM, 08/28/2022 07:24 AM, Trouble Shooter is working on the problem, 08/28/2022 10:00 AM, 1226904];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[7]=[051,08/28/2022 07:48 AM, 08/28/2022 07:48 AM, Customer Svc is working this single customer outage, , 1226928];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[8]=[060,08/28/2022 08:06 AM, 08/28/2022 08:06 AM, Waiting for an available crew to perform repairs, , 1226931];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[9]=[084,08/28/2022 07:02 AM, 08/28/2022 07:02 AM, Trouble Shooter is determining repairs required, , 1226893];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[10]=[084,08/28/2022 07:17 AM, 08/28/2022 07:17 AM, Trouble Shooter is determining repairs required, , 1226896];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[11]=[098,08/27/2022 08:21 AM, 08/27/2022 08:21 AM, Waiting for an available crew to perform repairs, , 1226814];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
+events[12]=[112,08/28/2022 01:34 AM, 08/28/2022 01:34 AM, A crew is currently working on the problem, 08/28/2022 12:30 PM, 1226877];,# of Outages: 11,Customers Affected: 901,2022-08-28T13:54:03Z
