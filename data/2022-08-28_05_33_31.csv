@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,08/27/2022 05:37 PM, 08/27/2022 05:37 PM, Waiting for an available crew to perform repairs, , 1226847];,# of Outages: 9,Customers Affected: 46,2022-08-28T05:33:31Z
+events[1]=[051,08/27/2022 04:31 PM, 08/27/2022 04:31 PM, Waiting for an available crew to perform repairs, , 1226844];,# of Outages: 9,Customers Affected: 46,2022-08-28T05:33:31Z
+events[2]=[078,08/27/2022 05:06 AM, 08/27/2022 05:06 AM, Waiting for an available crew to perform repairs, , 1226807];,# of Outages: 9,Customers Affected: 46,2022-08-28T05:33:31Z
+events[3]=[085,08/27/2022 11:39 PM, 08/27/2022 11:39 PM, Trouble Shooter is determining repairs required, , 1226875];,# of Outages: 9,Customers Affected: 46,2022-08-28T05:33:31Z
+events[4]=[086,08/27/2022 06:41 PM, 08/27/2022 06:41 PM, A crew is currently working on the problem, 08/28/2022 04:00 AM, 1226851];,# of Outages: 9,Customers Affected: 46,2022-08-28T05:33:31Z
+events[5]=[088,08/27/2022 02:49 PM, 08/27/2022 02:49 PM, A crew is currently working on the problem, 08/28/2022 02:00 AM, 1226837];,# of Outages: 9,Customers Affected: 46,2022-08-28T05:33:31Z
+events[6]=[098,08/27/2022 08:23 AM, 08/27/2022 08:23 AM, Waiting for an available crew to perform repairs, , 1226814];,# of Outages: 9,Customers Affected: 46,2022-08-28T05:33:31Z
+events[7]=[113,08/27/2022 07:58 PM, 08/27/2022 07:58 PM, Waiting for an available crew to perform repairs, , 1226856];,# of Outages: 9,Customers Affected: 46,2022-08-28T05:33:31Z
+events[8]=[114,08/27/2022 07:46 PM, 08/27/2022 07:46 PM, Waiting for an available crew to perform repairs, , 1226855];,# of Outages: 9,Customers Affected: 46,2022-08-28T05:33:31Z
