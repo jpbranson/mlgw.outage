@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[003,08/29/2022 12:15 AM, 08/29/2022 12:15 AM, A crew is currently working on the problem, 08/29/2022 10:00 AM, 1227041];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[1]=[017,08/28/2022 02:04 PM, 08/28/2022 02:04 PM, Waiting for an available crew to perform repairs, , 1226974];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[2]=[049,08/29/2022 06:38 AM, 08/29/2022 06:38 AM, Waiting for an available crew to perform repairs, , 1227066];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[3]=[051,08/27/2022 04:28 PM, 08/27/2022 04:28 PM, A crew is currently working on the problem, 08/29/2022 12:30 PM, 1226844];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[4]=[064,08/29/2022 06:04 AM, 08/29/2022 06:04 AM, Trouble Shooter is determining repairs required, , 1227062];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[5]=[070,08/29/2022 07:24 AM, 08/29/2022 07:24 AM, Customer Svc is working this single customer outage, , 1227067];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[6]=[074,08/29/2022 06:24 AM, 08/29/2022 06:24 AM, A crew is currently working on the problem, 08/29/2022 10:30 AM, 1227064];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[7]=[077,08/29/2022 08:12 AM, 08/29/2022 08:12 AM, The extent of the outage has been determined, , 1227069];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[8]=[083,08/29/2022 06:18 AM, 08/29/2022 06:18 AM, Tree Trimming is clearing debris from the area, , 1227063];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[9]=[089,08/28/2022 10:17 PM, 08/28/2022 10:17 PM, A crew is currently working on the problem, 08/29/2022 11:30 AM, 1227036];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
+events[10]=[100,08/29/2022 07:52 AM, 08/29/2022 07:52 AM, A crew is currently working on the problem, 08/29/2022 03:30 PM, 1227068];,# of Outages: 11,Customers Affected: 91,2022-08-29T13:29:39Z
