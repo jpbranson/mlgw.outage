@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,08/28/2022 02:04 PM, 08/28/2022 02:04 PM, A crew is currently working on the problem, 08/29/2022 08:00 PM, 1226974];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[1]=[050,08/29/2022 04:41 PM, 08/29/2022 04:41 PM, Customer Svc is working this single customer outage, , 1227187];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[2]=[054,08/29/2022 09:48 AM, 08/29/2022 09:48 AM, A crew is currently working on the problem, 08/29/2022 06:30 PM, 1227098];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[3]=[055,08/29/2022 09:48 AM, 08/29/2022 09:48 AM, A crew is currently working on the problem, 08/29/2022 06:30 PM, 1227098];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[4]=[061,08/29/2022 02:50 PM, 08/29/2022 02:50 PM, Trouble Shooter is determining repairs required, , 1227160];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[5]=[065,08/29/2022 05:35 PM, 08/29/2022 05:35 PM, The extent of the outage has been determined, , 1227193];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[6]=[070,08/29/2022 05:27 PM, 08/29/2022 05:27 PM, Customer Svc is working this single customer outage, , 1227191];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[7]=[078,08/29/2022 05:29 PM, 08/29/2022 05:29 PM, Waiting to be analyzed, , 1227192];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[8]=[087,08/29/2022 04:30 PM, 08/29/2022 04:30 PM, Waiting to be analyzed, , 1227184];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[9]=[100,08/29/2022 07:52 AM, 08/29/2022 07:52 AM, A crew is currently working on the problem, 08/29/2022 06:30 PM, 1227068];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[10]=[112,08/29/2022 04:32 PM, 08/29/2022 04:32 PM, Customer Svc is working this single customer outage, , 1227185];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
+events[11]=[130,08/29/2022 10:22 AM, 08/29/2022 10:22 AM, Trouble Shooter is determining repairs required, , 1227106];,# of Outages: 11,Customers Affected: 360,2022-08-29T22:44:46Z
