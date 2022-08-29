@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,08/28/2022 02:04 PM, 08/28/2022 02:04 PM, A crew is currently working on the problem, 08/29/2022 04:00 PM, 1226974];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[1]=[054,08/29/2022 09:48 AM, 08/29/2022 09:48 AM, A crew is currently working on the problem, 08/29/2022 06:30 PM, 1227098];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[2]=[055,08/29/2022 09:48 AM, 08/29/2022 09:48 AM, A crew is currently working on the problem, 08/29/2022 06:30 PM, 1227098];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[3]=[061,08/29/2022 02:50 PM, 08/29/2022 02:50 PM, Trouble Shooter is determining repairs required, , 1227160];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[4]=[063,08/29/2022 03:23 PM, 08/29/2022 03:23 PM, Trouble Shooter is determining repairs required, , 1227168];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[5]=[064,08/29/2022 03:23 PM, 08/29/2022 03:23 PM, Trouble Shooter is determining repairs required, , 1227168];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[6]=[078,08/29/2022 04:14 PM, 08/29/2022 04:14 PM, Waiting to be analyzed, , 1227180];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[7]=[084,08/29/2022 04:05 PM, 08/29/2022 04:05 PM, Trouble Shooter is determining repairs required, , 1227176];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[8]=[098,08/29/2022 03:38 PM, 08/29/2022 03:38 PM, Customer Svc is working this single customer outage, , 1227173];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[9]=[100,08/29/2022 07:52 AM, 08/29/2022 07:52 AM, A crew is currently working on the problem, 08/29/2022 03:30 PM, 1227068];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
+events[10]=[130,08/29/2022 10:22 AM, 08/29/2022 10:22 AM, Trouble Shooter is determining repairs required, , 1227106];,# of Outages: 9,Customers Affected: 387,2022-08-29T21:20:27Z
