@@ -1,0 +1,23 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,08/30/2022 12:01 AM, 08/30/2022 12:01 AM, Waiting for an available crew to perform repairs, , 1227253];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[1]=[051,08/29/2022 10:06 PM, 08/29/2022 10:06 PM, A crew is currently working on the problem, , 1227247];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[2]=[051,08/30/2022 02:11 AM, 08/30/2022 02:11 AM, A crew is currently working on the problem, 08/30/2022 05:00 AM, 1227262];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[3]=[065,08/29/2022 10:34 PM, 08/29/2022 10:34 PM, Customer Svc is working this single customer outage, , 1227250];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[4]=[088,08/30/2022 01:37 AM, 08/30/2022 01:37 AM, Waiting for an available crew to perform repairs, , 1227260];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[5]=[101,08/29/2022 10:36 PM, 08/29/2022 10:36 PM, Customer Svc is working this single customer outage, , 1227251];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[6]=[101,08/30/2022 02:44 AM, 08/30/2022 02:44 AM, Waiting for an available crew to perform repairs, , 1227292];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[7]=[101,08/30/2022 02:51 AM, 08/30/2022 02:51 AM, Waiting for an available crew to perform repairs, , 1227299];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[8]=[101,08/30/2022 02:56 AM, 08/30/2022 02:56 AM, Waiting for an available crew to perform repairs, , 1227302];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[9]=[102,08/30/2022 03:17 AM, 08/30/2022 03:17 AM, Waiting for an available crew to perform repairs, , 1227303];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[10]=[106,08/30/2022 03:29 AM, 08/30/2022 03:29 AM, Waiting for an available crew to perform repairs, , 1227307];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[11]=[112,08/30/2022 02:15 AM, 08/30/2022 02:15 AM, Trouble Shooter is determining repairs required, , 1227266];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[12]=[112,08/30/2022 02:33 AM, 08/30/2022 02:33 AM, Waiting for an available crew to perform repairs, , 1227287];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[13]=[112,08/30/2022 02:49 AM, 08/30/2022 02:49 AM, Waiting for an available crew to perform repairs, , 1227298];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[14]=[113,08/30/2022 02:15 AM, 08/30/2022 02:15 AM, Trouble Shooter is determining repairs required, , 1227266];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[15]=[113,08/30/2022 02:23 AM, 08/30/2022 02:23 AM, Tree Trimming is clearing debris from the area, , 1227274];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[16]=[113,08/30/2022 02:30 AM, 08/30/2022 02:30 AM, Trouble Shooter is determining repairs required, , 1227280];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[17]=[114,08/30/2022 02:42 AM, 08/30/2022 02:42 AM, Waiting for an available crew to perform repairs, , 1227291];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[18]=[114,08/30/2022 03:20 AM, 08/30/2022 03:20 AM, Waiting for an available crew to perform repairs, , 1227304];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[19]=[115,08/30/2022 02:30 AM, 08/30/2022 02:30 AM, Trouble Shooter is working on the problem, 08/30/2022 06:00 AM, 1227281];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[20]=[119,08/30/2022 02:47 AM, 08/30/2022 02:47 AM, Trouble Shooter is determining repairs required, , 1227295];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
+events[21]=[122,08/30/2022 03:29 AM, 08/30/2022 03:29 AM, Waiting for an available crew to perform repairs, , 1227307];,# of Outages: 20,Customers Affected: 947,2022-08-30T09:45:30Z
