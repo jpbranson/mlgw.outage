@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,09/01/2022 08:09 AM, 09/01/2022 08:09 AM, A crew is currently working on the problem, 09/01/2022 05:30 PM, 1227610];,# of Outages: 8,Customers Affected: 236,2022-09-01T22:22:22Z
+events[1]=[062,09/01/2022 04:51 PM, 09/01/2022 04:51 PM, Customer Svc is working this single customer outage, , 1227690];,# of Outages: 8,Customers Affected: 236,2022-09-01T22:22:22Z
+events[2]=[085,09/01/2022 04:23 PM, 09/01/2022 04:23 PM, Customer Svc is working this single customer outage, , 1227684];,# of Outages: 8,Customers Affected: 236,2022-09-01T22:22:22Z
+events[3]=[114,09/01/2022 01:07 AM, 09/01/2022 01:07 AM, A crew is currently working on the problem, 09/01/2022 07:30 PM, 1227594];,# of Outages: 8,Customers Affected: 236,2022-09-01T22:22:22Z
+events[4]=[114,09/01/2022 05:05 PM, 09/01/2022 05:05 PM, A crew is currently working on the problem, 09/01/2022 06:50 PM, 1227694];,# of Outages: 8,Customers Affected: 236,2022-09-01T22:22:22Z
+events[5]=[114,09/01/2022 05:06 PM, 09/01/2022 05:06 PM, A crew is currently working on the problem, 09/01/2022 06:50 PM, 1227695];,# of Outages: 8,Customers Affected: 236,2022-09-01T22:22:22Z
+events[6]=[114,09/01/2022 05:16 PM, 09/01/2022 05:16 PM, The extent of the outage has been determined, , 1227698];,# of Outages: 8,Customers Affected: 236,2022-09-01T22:22:22Z
+events[7]=[114,09/01/2022 11:04 AM, 09/01/2022 11:04 AM, A crew is currently working on the problem, 09/01/2022 06:50 PM, 1227632];,# of Outages: 8,Customers Affected: 236,2022-09-01T22:22:22Z
+events[8]=[130,09/01/2022 05:06 PM, 09/01/2022 05:06 PM, A crew is currently working on the problem, 09/01/2022 06:50 PM, 1227695];,# of Outages: 8,Customers Affected: 236,2022-09-01T22:22:22Z
