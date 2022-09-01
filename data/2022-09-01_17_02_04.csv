@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,09/01/2022 08:09 AM, 09/01/2022 08:09 AM, A crew is currently working on the problem, 09/01/2022 02:30 PM, 1227610];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[1]=[083,08/31/2022 11:10 PM, 08/31/2022 11:10 PM, A crew is currently working on the problem, 09/01/2022 05:00 PM, 1227591];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[2]=[084,09/01/2022 08:56 AM, 09/01/2022 08:56 AM, A crew is currently working on the problem, 09/01/2022 01:30 PM, 1227616];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[3]=[084,09/01/2022 10:30 AM, 09/01/2022 10:30 AM, A crew is currently working on the problem, 09/01/2022 02:30 PM, 1227629];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[4]=[089,09/01/2022 11:50 AM, 09/01/2022 11:50 AM, A crew is currently working on the problem, 09/01/2022 04:30 PM, 1227636];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[5]=[101,09/01/2022 11:42 AM, 09/01/2022 11:42 AM, Customer Svc is working this single customer outage, , 1227635];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[6]=[107,09/01/2022 09:36 AM, 09/01/2022 09:36 AM, A crew is currently working on the problem, 09/01/2022 01:00 PM, 1227620];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[7]=[114,09/01/2022 01:07 AM, 09/01/2022 01:07 AM, A crew is currently working on the problem, 09/01/2022 02:00 PM, 1227594];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[8]=[114,09/01/2022 11:04 AM, 09/01/2022 11:04 AM, A crew is currently working on the problem, 09/01/2022 04:30 PM, 1227632];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[9]=[114,09/01/2022 11:06 AM, 09/01/2022 11:06 AM, A crew is currently working on the problem, 09/01/2022 04:30 PM, 1227633];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
+events[10]=[114,09/01/2022 11:16 AM, 09/01/2022 11:16 AM, A crew is currently working on the problem, , 1227634];,# of Outages: 11,Customers Affected: 186,2022-09-01T17:02:04Z
