@@ -1,0 +1,23 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[041,09/03/2022 10:46 PM, 09/03/2022 10:46 PM, Tree Trimming is clearing debris from the area, , 1228035];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[1]=[054,09/04/2022 09:59 AM, 09/04/2022 09:59 AM, Trouble Shooter is determining repairs required, , 1228280];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[2]=[060,09/04/2022 08:46 AM, 09/04/2022 08:46 AM, Trouble Shooter is determining repairs required, , 1228270];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[3]=[062,09/04/2022 10:00 AM, 09/04/2022 10:00 AM, Trouble Shooter is determining repairs required, , 1228281];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[4]=[063,09/03/2022 10:25 PM, 09/03/2022 10:25 PM, Trouble Shooter is determining repairs required, , 1228026];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[5]=[073,09/03/2022 11:04 PM, 09/03/2022 11:04 PM, Tree Trimming is clearing debris from the area, 09/04/2022 12:30 PM, 1228057];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[6]=[074,09/03/2022 10:25 PM, 09/03/2022 10:25 PM, Trouble Shooter is determining repairs required, , 1228026];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[7]=[074,09/04/2022 02:53 AM, 09/04/2022 02:53 AM, Trouble Shooter is determining repairs required, , 1228227];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[8]=[074,09/04/2022 09:45 AM, 09/04/2022 09:45 AM, Customer Svc is working this single customer outage, , 1228278];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[9]=[083,09/04/2022 09:22 AM, 09/04/2022 09:22 AM, Waiting for an available crew to perform repairs, , 1228272];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[10]=[084,09/04/2022 09:31 AM, 09/04/2022 09:31 AM, Trouble Shooter is determining repairs required, , 1228275];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[11]=[086,09/04/2022 06:47 AM, 09/04/2022 06:47 AM, Waiting for an available crew to perform repairs, , 1228240];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[12]=[087,09/04/2022 08:45 AM, 09/04/2022 08:45 AM, Waiting for an available crew to perform repairs, , 1228269];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[13]=[089,09/04/2022 03:36 AM, 09/04/2022 03:36 AM, Tree Trimming is clearing debris from the area, , 1228229];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[14]=[100,09/04/2022 09:29 AM, 09/04/2022 09:29 AM, Waiting for an available crew to perform repairs, , 1228273];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[15]=[101,09/04/2022 10:06 AM, 09/04/2022 10:06 AM, Customer Svc is working this single customer outage, , 1228282];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[16]=[101,09/04/2022 10:30 AM, 09/04/2022 10:30 AM, Trouble Shooter is determining repairs required, , 1228286];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[17]=[102,09/04/2022 06:48 AM, 09/04/2022 06:48 AM, A crew is currently working on the problem, 09/04/2022 04:00 PM, 1228241];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[18]=[104,09/04/2022 12:09 AM, 09/04/2022 12:09 AM, A crew is currently working on the problem, 09/04/2022 03:00 PM, 1228096];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[19]=[114,09/04/2022 08:09 AM, 09/04/2022 08:09 AM, Waiting for an available crew to perform repairs, 09/04/2022 10:30 AM, 1228250];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[20]=[114,09/04/2022 09:32 AM, 09/04/2022 09:32 AM, Waiting to be analyzed, , 1228276];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
+events[21]=[115,09/04/2022 09:56 AM, 09/04/2022 09:56 AM, Trouble Shooter is determining repairs required, , 1228279];,# of Outages: 21,Customers Affected: 232,2022-09-04T15:54:28Z
