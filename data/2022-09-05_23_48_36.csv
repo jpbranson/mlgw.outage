@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,09/05/2022 07:37 AM, 09/05/2022 07:37 AM, A crew is currently working on the problem, 09/05/2022 10:00 PM, 1228362];,# of Outages: 8,Customers Affected: 149,2022-09-05T23:48:36Z
+events[1]=[053,09/05/2022 07:37 AM, 09/05/2022 07:37 AM, A crew is currently working on the problem, 09/05/2022 10:00 PM, 1228362];,# of Outages: 8,Customers Affected: 149,2022-09-05T23:48:36Z
+events[2]=[056,09/05/2022 04:47 PM, 09/05/2022 04:47 PM, A crew is currently working on the problem, , 1228442];,# of Outages: 8,Customers Affected: 149,2022-09-05T23:48:36Z
+events[3]=[071,09/05/2022 03:21 PM, 09/05/2022 03:21 PM, Waiting for an available crew to perform repairs, , 1228434];,# of Outages: 8,Customers Affected: 149,2022-09-05T23:48:36Z
+events[4]=[073,09/05/2022 04:02 PM, 09/05/2022 04:02 PM, Waiting for an available crew to perform repairs, , 1228438];,# of Outages: 8,Customers Affected: 149,2022-09-05T23:48:36Z
+events[5]=[073,09/05/2022 06:16 PM, 09/05/2022 06:16 PM, Waiting to be analyzed, , 1228446];,# of Outages: 8,Customers Affected: 149,2022-09-05T23:48:36Z
+events[6]=[073,09/05/2022 06:18 PM, 09/05/2022 06:18 PM, Waiting to be analyzed, , 1228447];,# of Outages: 8,Customers Affected: 149,2022-09-05T23:48:36Z
+events[7]=[074,09/05/2022 06:40 PM, 09/05/2022 06:40 PM, Waiting to be analyzed, , 1228448];,# of Outages: 8,Customers Affected: 149,2022-09-05T23:48:36Z
+events[8]=[103,09/05/2022 05:28 PM, 09/05/2022 05:28 PM, A crew is currently working on the problem, 09/05/2022 07:30 PM, 1228445];,# of Outages: 8,Customers Affected: 149,2022-09-05T23:48:36Z
