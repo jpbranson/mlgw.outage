@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,09/05/2022 07:37 AM, 09/05/2022 07:37 AM, Waiting for an available crew to perform repairs, , 1228362];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[1]=[053,09/05/2022 07:37 AM, 09/05/2022 07:37 AM, Waiting for an available crew to perform repairs, , 1228362];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[2]=[074,09/05/2022 08:42 AM, 09/05/2022 08:42 AM, Trouble Shooter is determining repairs required, , 1228396];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[3]=[087,09/05/2022 09:35 AM, 09/05/2022 09:35 AM, Waiting to be analyzed, , 1228399];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[4]=[087,09/05/2022 09:35 AM, 09/05/2022 09:35 AM, Waiting to be analyzed, , 1228400];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[5]=[087,09/05/2022 09:35 AM, 09/05/2022 09:35 AM, Waiting to be analyzed, , 1228401];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[6]=[087,09/05/2022 09:35 AM, 09/05/2022 09:35 AM, Waiting to be analyzed, , 1228402];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[7]=[087,09/05/2022 09:36 AM, 09/05/2022 09:36 AM, Waiting to be analyzed, , 1228404];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[8]=[087,09/05/2022 09:36 AM, 09/05/2022 09:36 AM, Waiting to be analyzed, , 1228405];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[9]=[087,09/05/2022 09:37 AM, 09/05/2022 09:37 AM, Waiting to be analyzed, , 1228406];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[10]=[087,09/05/2022 09:40 AM, 09/05/2022 09:40 AM, Waiting to be analyzed, , 1228408];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[11]=[088,09/05/2022 08:34 AM, 09/05/2022 08:34 AM, Trouble Shooter is determining repairs required, , 1228387];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[12]=[098,09/05/2022 08:22 AM, 09/05/2022 08:22 AM, Customer Svc is working this single customer outage, , 1228371];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
+events[13]=[118,09/05/2022 09:37 AM, 09/05/2022 09:37 AM, Waiting to be analyzed, , 1228407];,# of Outages: 13,Customers Affected: 180,2022-09-05T14:44:14Z
