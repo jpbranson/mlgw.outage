@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[062,09/06/2022 02:00 PM, 09/06/2022 02:00 PM, A crew is currently working on the problem, 09/06/2022 05:30 PM, 1228525];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[1]=[062,09/06/2022 03:11 PM, 09/06/2022 03:11 PM, A crew is currently working on the problem, 09/06/2022 05:30 PM, 1228539];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[2]=[064,09/06/2022 03:31 PM, 09/06/2022 03:31 PM, Customer Svc is working this single customer outage, , 1228543];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[3]=[073,09/06/2022 02:37 PM, 09/06/2022 02:37 PM, Trouble Shooter is determining repairs required, , 1228534];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[4]=[073,09/06/2022 08:25 AM, 09/06/2022 08:25 AM, A crew is currently working on the problem, 09/06/2022 04:00 PM, 1228469];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[5]=[074,09/06/2022 01:07 PM, 09/06/2022 01:07 PM, A crew is currently working on the problem, 09/06/2022 06:00 PM, 1228513];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[6]=[076,09/06/2022 12:29 PM, 09/06/2022 12:29 PM, Trouble Shooter is determining repairs required, , 1228508];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[7]=[088,09/06/2022 08:48 AM, 09/06/2022 08:48 AM, A crew is currently working on the problem, 09/06/2022 05:30 PM, 1228474];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[8]=[098,09/06/2022 03:43 PM, 09/06/2022 03:43 PM, The extent of the outage has been determined, , 1228545];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[9]=[098,09/06/2022 08:41 AM, 09/06/2022 08:41 AM, A crew is currently working on the problem, 09/06/2022 05:30 PM, 1228472];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[10]=[099,09/06/2022 11:23 AM, 09/06/2022 11:23 AM, A crew is currently working on the problem, 09/06/2022 05:00 PM, 1228500];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
+events[11]=[112,09/06/2022 03:36 PM, 09/06/2022 03:36 PM, Waiting for an available crew to perform repairs, , 1228544];,# of Outages: 12,Customers Affected: 52,2022-09-06T20:53:51Z
