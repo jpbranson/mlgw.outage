@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,09/08/2022 05:51 AM, 09/08/2022 05:51 AM, Customer Svc is working this single customer outage, , 1228947];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[1]=[072,09/08/2022 04:28 AM, 09/08/2022 04:28 AM, Customer Svc is working this single customer outage, , 1228938];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[2]=[072,09/08/2022 07:12 AM, 09/08/2022 07:12 AM, Trouble Shooter is determining repairs required, , 1228953];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[3]=[072,09/08/2022 07:14 AM, 09/08/2022 07:14 AM, Trouble Shooter is determining repairs required, , 1228954];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[4]=[073,09/08/2022 07:31 AM, 09/08/2022 07:31 AM, Trouble Shooter is determining repairs required, , 1228964];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[5]=[073,09/08/2022 08:00 AM, 09/08/2022 08:00 AM, Customer Svc is working this single customer outage, , 1228966];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[6]=[075,09/08/2022 07:29 AM, 09/08/2022 07:29 AM, Customer Svc is working this single customer outage, , 1228963];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[7]=[086,09/08/2022 06:59 AM, 09/08/2022 06:59 AM, Trouble Shooter is determining repairs required, , 1228951];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[8]=[089,09/08/2022 07:20 AM, 09/08/2022 07:20 AM, Trouble Shooter is determining repairs required, , 1228957];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[9]=[099,09/08/2022 08:14 AM, 09/08/2022 08:14 AM, Trouble Shooter is determining repairs required, , 1228967];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
+events[10]=[101,09/08/2022 07:24 AM, 09/08/2022 07:24 AM, Trouble Shooter is determining repairs required, , 1228961];,# of Outages: 11,Customers Affected: 59,2022-09-08T13:25:31Z
