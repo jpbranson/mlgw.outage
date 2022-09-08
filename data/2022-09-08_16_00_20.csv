@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[042,09/08/2022 10:44 AM, 09/08/2022 10:44 AM, The extent of the outage has been determined, , 1228995];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[1]=[050,09/08/2022 09:07 AM, 09/08/2022 09:07 AM, A crew is currently working on the problem, 09/08/2022 11:30 AM, 1228978];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[2]=[060,09/08/2022 08:44 AM, 09/08/2022 08:44 AM, A crew is currently working on the problem, 09/08/2022 01:30 PM, 1228971];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[3]=[072,09/08/2022 08:44 AM, 09/08/2022 08:44 AM, Trouble Shooter is determining repairs required, , 1228972];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[4]=[072,09/08/2022 10:14 AM, 09/08/2022 10:14 AM, A crew is currently working on the problem, 09/08/2022 12:30 PM, 1228990];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[5]=[075,09/08/2022 07:29 AM, 09/08/2022 07:29 AM, Customer Svc is working this single customer outage, , 1228963];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[6]=[075,09/08/2022 10:19 AM, 09/08/2022 10:19 AM, Trouble Shooter is determining repairs required, , 1228991];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[7]=[084,09/08/2022 10:01 AM, 09/08/2022 10:01 AM, Customer Svc is working this single customer outage, , 1228985];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[8]=[084,09/08/2022 10:09 AM, 09/08/2022 10:09 AM, A crew is currently working on the problem, 09/08/2022 01:30 PM, 1228986];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[9]=[085,09/08/2022 10:35 AM, 09/08/2022 10:35 AM, A crew is currently working on the problem, 09/08/2022 01:00 PM, 1228993];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[10]=[086,09/08/2022 10:44 AM, 09/08/2022 10:44 AM, Customer Svc is working this single customer outage, , 1228996];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
+events[11]=[089,09/08/2022 07:20 AM, 09/08/2022 07:20 AM, A crew is currently working on the problem, 09/08/2022 03:30 PM, 1228957];,# of Outages: 12,Customers Affected: 173,2022-09-08T16:00:20Z
