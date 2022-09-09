@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[015,09/09/2022 09:22 AM, 09/09/2022 09:22 AM, A crew is currently working on the problem, 09/09/2022 11:00 AM, 1229114];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[1]=[064,09/09/2022 10:32 AM, 09/09/2022 10:32 AM, Customer Svc is working this single customer outage, , 1229122];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[2]=[064,09/09/2022 10:35 AM, 09/09/2022 10:35 AM, Customer Svc is working this single customer outage, , 1229123];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[3]=[076,09/09/2022 08:16 AM, 09/09/2022 08:16 AM, Tree Trimming is clearing debris from the area, , 1229108];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[4]=[085,09/09/2022 09:59 AM, 09/09/2022 09:59 AM, A crew is currently working on the problem, 09/09/2022 01:30 PM, 1229118];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[5]=[085,09/09/2022 10:02 AM, 09/09/2022 10:02 AM, A crew is currently working on the problem, 09/09/2022 01:30 PM, 1229120];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[6]=[086,09/09/2022 08:27 AM, 09/09/2022 08:27 AM, Customer Svc is working this single customer outage, , 1229109];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[7]=[086,09/09/2022 10:31 AM, 09/09/2022 10:31 AM, Trouble Shooter is determining repairs required, , 1229121];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[8]=[087,09/09/2022 08:14 AM, 09/09/2022 08:14 AM, A crew is currently working on the problem, 09/09/2022 11:00 AM, 1229107];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[9]=[088,09/09/2022 01:22 AM, 09/09/2022 01:22 AM, A crew is currently working on the problem, 09/09/2022 12:00 PM, 1229092];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[10]=[090,09/09/2022 10:48 AM, 09/09/2022 10:48 AM, Waiting to be analyzed, , 1229124];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[11]=[102,09/09/2022 10:48 AM, 09/09/2022 10:48 AM, Waiting to be analyzed, , 1229125];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[12]=[118,09/09/2022 10:48 AM, 09/09/2022 10:48 AM, Waiting to be analyzed, , 1229125];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
+events[13]=[122,09/09/2022 09:58 AM, 09/09/2022 09:58 AM, A crew is currently working on the problem, 09/09/2022 01:30 PM, 1229119];,# of Outages: 13,Customers Affected: 499,2022-09-09T15:49:38Z
