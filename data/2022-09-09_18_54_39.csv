@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,09/09/2022 11:57 AM, 09/09/2022 11:57 AM, Tree Trimming is clearing debris from the area, 09/09/2022 04:00 PM, 1229132];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[1]=[061,09/09/2022 11:57 AM, 09/09/2022 11:57 AM, Tree Trimming is clearing debris from the area, 09/09/2022 04:00 PM, 1229132];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[2]=[084,09/09/2022 01:10 PM, 09/09/2022 01:10 PM, Customer Svc is working this single customer outage, , 1229139];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[3]=[084,09/09/2022 01:32 PM, 09/09/2022 01:32 PM, A crew is currently working on the problem, 09/09/2022 06:00 PM, 1229143];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[4]=[084,09/09/2022 01:32 PM, 09/09/2022 01:32 PM, A crew is currently working on the problem, 09/09/2022 06:00 PM, 1229144];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[5]=[085,09/09/2022 01:35 PM, 09/09/2022 01:35 PM, Customer Svc is working this single customer outage, , 1229145];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[6]=[086,09/09/2022 12:44 PM, 09/09/2022 12:44 PM, A crew is currently working on the problem, 09/09/2022 03:00 PM, 1229137];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[7]=[087,09/09/2022 08:14 AM, 09/09/2022 08:14 AM, A crew is currently working on the problem, 09/09/2022 02:00 PM, 1229107];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[8]=[102,09/09/2022 01:31 PM, 09/09/2022 01:31 PM, Waiting to be analyzed, , 1229142];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[9]=[107,09/09/2022 12:17 PM, 09/09/2022 12:17 PM, A crew is currently working on the problem, 09/09/2022 04:00 PM, 1229134];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[10]=[115,09/09/2022 01:24 PM, 09/09/2022 01:24 PM, A crew is currently working on the problem, 09/09/2022 03:50 PM, 1229140];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
+events[11]=[115,09/09/2022 01:49 PM, 09/09/2022 01:49 PM, Waiting to be analyzed, , 1229146];,# of Outages: 11,Customers Affected: 184,2022-09-09T18:54:39Z
