@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[063,09/13/2022 06:37 PM, 09/13/2022 06:37 PM, The extent of the outage has been determined, , 1229680];,# of Outages: 8,Customers Affected: 217,2022-09-13T23:50:02Z
+events[1]=[072,09/13/2022 02:42 PM, 09/13/2022 02:42 PM, Waiting for an available crew to perform repairs, , 1229657];,# of Outages: 8,Customers Affected: 217,2022-09-13T23:50:02Z
+events[2]=[074,09/13/2022 02:29 PM, 09/13/2022 02:29 PM, A crew is currently working on the problem, 09/13/2022 10:30 PM, 1229654];,# of Outages: 8,Customers Affected: 217,2022-09-13T23:50:02Z
+events[3]=[075,09/13/2022 02:29 PM, 09/13/2022 02:29 PM, A crew is currently working on the problem, 09/13/2022 10:30 PM, 1229654];,# of Outages: 8,Customers Affected: 217,2022-09-13T23:50:02Z
+events[4]=[085,09/13/2022 05:44 PM, 09/13/2022 05:44 PM, Trouble Shooter is determining repairs required, , 1229673];,# of Outages: 8,Customers Affected: 217,2022-09-13T23:50:02Z
+events[5]=[085,09/13/2022 11:00 AM, 09/13/2022 11:00 AM, Trouble Shooter is determining repairs required, , 1229623];,# of Outages: 8,Customers Affected: 217,2022-09-13T23:50:02Z
+events[6]=[098,09/13/2022 06:45 PM, 09/13/2022 06:45 PM, Waiting to be analyzed, , 1229681];,# of Outages: 8,Customers Affected: 217,2022-09-13T23:50:02Z
+events[7]=[100,09/13/2022 06:35 PM, 09/13/2022 06:35 PM, Customer Svc is working this single customer outage, , 1229679];,# of Outages: 8,Customers Affected: 217,2022-09-13T23:50:02Z
+events[8]=[112,09/13/2022 05:10 AM, 09/13/2022 05:10 AM, A crew is currently working on the problem, 09/13/2022 10:30 PM, 1229519];,# of Outages: 8,Customers Affected: 217,2022-09-13T23:50:02Z
