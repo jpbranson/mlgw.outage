@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[027,09/13/2022 09:29 AM, 09/13/2022 09:29 AM, Trouble Shooter is determining repairs required, , 1229604];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[1]=[039,09/13/2022 10:18 AM, 09/13/2022 10:18 AM, Trouble Shooter is determining repairs required, , 1229618];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[2]=[049,09/13/2022 09:57 AM, 09/13/2022 09:57 AM, Tree Trimming is clearing debris from the area, , 1229612];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[3]=[066,09/13/2022 09:28 AM, 09/13/2022 09:28 AM, A crew is currently working on the problem, 09/13/2022 12:00 PM, 1229603];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[4]=[071,09/13/2022 10:26 AM, 09/13/2022 10:26 AM, A crew is currently working on the problem, 09/13/2022 01:30 PM, 1229619];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[5]=[071,09/13/2022 10:54 AM, 09/13/2022 10:54 AM, A crew is currently working on the problem, 09/13/2022 01:30 PM, 1229622];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[6]=[074,09/13/2022 11:22 AM, 09/13/2022 11:22 AM, A crew is currently working on the problem, 09/13/2022 01:30 PM, 1229625];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[7]=[085,09/13/2022 08:36 AM, 09/13/2022 08:36 AM, A crew is currently working on the problem, 09/13/2022 01:00 PM, 1229556];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[8]=[085,09/13/2022 11:00 AM, 09/13/2022 11:00 AM, Trouble Shooter is determining repairs required, , 1229623];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[9]=[112,09/13/2022 05:10 AM, 09/13/2022 05:10 AM, A crew is currently working on the problem, 09/13/2022 02:30 PM, 1229519];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[10]=[113,09/13/2022 09:06 AM, 09/13/2022 09:06 AM, A crew is currently working on the problem, 09/13/2022 12:30 PM, 1229561];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
+events[11]=[122,09/13/2022 10:33 AM, 09/13/2022 10:33 AM, Customer Svc is working this single customer outage, , 1229621];,# of Outages: 12,Customers Affected: 289,2022-09-13T16:33:30Z
