@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[072,09/13/2022 02:42 PM, 09/13/2022 02:42 PM, Waiting for an available crew to perform repairs, , 1229657];,# of Outages: 7,Customers Affected: 196,2022-09-14T04:26:56Z
+events[1]=[072,09/13/2022 10:09 PM, 09/13/2022 10:09 PM, Customer Svc is working this single customer outage, , 1229694];,# of Outages: 7,Customers Affected: 196,2022-09-14T04:26:56Z
+events[2]=[074,09/13/2022 02:29 PM, 09/13/2022 02:29 PM, A crew is currently working on the problem, 09/14/2022 03:30 AM, 1229654];,# of Outages: 7,Customers Affected: 196,2022-09-14T04:26:56Z
+events[3]=[085,09/13/2022 11:22 PM, 09/13/2022 11:22 PM, The extent of the outage has been determined, , 1229697];,# of Outages: 7,Customers Affected: 196,2022-09-14T04:26:56Z
+events[4]=[087,09/13/2022 11:19 PM, 09/13/2022 11:19 PM, Waiting to be analyzed, , 1229696];,# of Outages: 7,Customers Affected: 196,2022-09-14T04:26:56Z
+events[5]=[112,09/13/2022 05:10 AM, 09/13/2022 05:10 AM, A crew is currently working on the problem, 09/14/2022 02:30 AM, 1229519];,# of Outages: 7,Customers Affected: 196,2022-09-14T04:26:56Z
+events[6]=[115,09/13/2022 10:16 PM, 09/13/2022 10:16 PM, A crew is currently working on the problem, 09/14/2022 02:50 AM, 1229695];,# of Outages: 7,Customers Affected: 196,2022-09-14T04:26:56Z
