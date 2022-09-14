@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[045,09/14/2022 10:18 AM, 09/14/2022 10:18 AM, Customer Svc is working this single customer outage, , 1229741];,# of Outages: 9,Customers Affected: 79,2022-09-14T16:00:49Z
+events[1]=[083,09/14/2022 10:23 AM, 09/14/2022 10:23 AM, Waiting to be analyzed, , 1229743];,# of Outages: 9,Customers Affected: 79,2022-09-14T16:00:49Z
+events[2]=[084,09/14/2022 09:10 AM, 09/14/2022 09:10 AM, A crew is currently working on the problem, 09/14/2022 01:30 PM, 1229730];,# of Outages: 9,Customers Affected: 79,2022-09-14T16:00:49Z
+events[3]=[084,09/14/2022 09:11 AM, 09/14/2022 09:11 AM, A crew is currently working on the problem, 09/14/2022 01:30 PM, 1229731];,# of Outages: 9,Customers Affected: 79,2022-09-14T16:00:49Z
+events[4]=[086,09/14/2022 07:00 AM, 09/14/2022 07:00 AM, Tree Trimming is clearing debris from the area, , 1229711];,# of Outages: 9,Customers Affected: 79,2022-09-14T16:00:49Z
+events[5]=[089,09/14/2022 10:47 AM, 09/14/2022 10:47 AM, Trouble Shooter is determining repairs required, , 1229745];,# of Outages: 9,Customers Affected: 79,2022-09-14T16:00:49Z
+events[6]=[112,09/14/2022 08:43 AM, 09/14/2022 08:43 AM, A crew is currently working on the problem, 09/14/2022 02:00 PM, 1229725];,# of Outages: 9,Customers Affected: 79,2022-09-14T16:00:49Z
+events[7]=[115,09/14/2022 07:58 AM, 09/14/2022 07:58 AM, A crew is currently working on the problem, 09/14/2022 12:30 PM, 1229714];,# of Outages: 9,Customers Affected: 79,2022-09-14T16:00:49Z
+events[8]=[115,09/14/2022 09:26 AM, 09/14/2022 09:26 AM, Customer Svc is working this single customer outage, , 1229736];,# of Outages: 9,Customers Affected: 79,2022-09-14T16:00:49Z
