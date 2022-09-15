@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[062,09/15/2022 08:35 AM, 09/15/2022 08:35 AM, Customer Svc is working this single customer outage, , 1229840];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[1]=[062,09/15/2022 09:31 AM, 09/15/2022 09:31 AM, Waiting to be analyzed, , 1229846];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[2]=[071,09/15/2022 09:39 AM, 09/15/2022 09:39 AM, A crew is currently working on the problem, , 1229848];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[3]=[071,09/15/2022 09:39 AM, 09/15/2022 09:39 AM, A crew is currently working on the problem, , 1229849];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[4]=[083,09/15/2022 07:39 AM, 09/15/2022 07:39 AM, A crew is currently working on the problem, 09/15/2022 10:30 AM, 1229837];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[5]=[083,09/15/2022 08:37 AM, 09/15/2022 08:37 AM, Trouble Shooter is determining repairs required, , 1229841];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[6]=[084,09/15/2022 09:26 AM, 09/15/2022 09:26 AM, Trouble Shooter is determining repairs required, , 1229845];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[7]=[085,09/15/2022 09:27 AM, 09/15/2022 09:27 AM, A crew is currently working on the problem, 09/15/2022 02:00 PM, 1229844];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[8]=[086,09/15/2022 09:41 AM, 09/15/2022 09:41 AM, The extent of the outage has been determined, , 1229850];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[9]=[101,09/15/2022 09:33 AM, 09/15/2022 09:33 AM, Trouble Shooter is working on the problem, 09/15/2022 01:00 PM, 1229847];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[10]=[116,09/15/2022 09:33 AM, 09/15/2022 09:33 AM, Trouble Shooter is working on the problem, 09/15/2022 01:00 PM, 1229847];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
+events[11]=[117,09/15/2022 09:33 AM, 09/15/2022 09:33 AM, Trouble Shooter is working on the problem, 09/15/2022 01:00 PM, 1229847];,# of Outages: 10,Customers Affected: 293,2022-09-15T14:49:35Z
