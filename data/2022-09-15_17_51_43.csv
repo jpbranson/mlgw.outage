@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,09/15/2022 11:46 AM, 09/15/2022 11:46 AM, Trouble Shooter is working on the problem, 09/15/2022 03:30 PM, 1229864];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[1]=[060,09/15/2022 11:46 AM, 09/15/2022 11:46 AM, Trouble Shooter is working on the problem, 09/15/2022 03:30 PM, 1229864];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[2]=[061,09/15/2022 11:46 AM, 09/15/2022 11:46 AM, Trouble Shooter is working on the problem, 09/15/2022 03:30 PM, 1229864];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[3]=[071,09/15/2022 09:39 AM, 09/15/2022 09:39 AM, A crew is currently working on the problem, 09/15/2022 04:30 PM, 1229848];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[4]=[071,09/15/2022 09:39 AM, 09/15/2022 09:39 AM, A crew is currently working on the problem, 09/15/2022 04:30 PM, 1229849];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[5]=[084,09/15/2022 10:49 AM, 09/15/2022 10:49 AM, A crew is currently working on the problem, 09/15/2022 02:30 PM, 1229858];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[6]=[085,09/15/2022 09:50 AM, 09/15/2022 09:50 AM, A crew is currently working on the problem, 09/15/2022 04:00 PM, 1229852];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[7]=[085,09/15/2022 10:37 AM, 09/15/2022 10:37 AM, A crew is currently working on the problem, 09/15/2022 02:30 PM, 1229856];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[8]=[086,09/15/2022 12:13 PM, 09/15/2022 12:13 PM, Customer Svc is working this single customer outage, , 1229873];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[9]=[086,09/15/2022 12:35 PM, 09/15/2022 12:35 PM, Tree Trimming is clearing debris from the area, , 1229875];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[10]=[118,09/15/2022 11:51 AM, 09/15/2022 11:51 AM, A crew is currently working on the problem, 09/15/2022 02:30 PM, 1229869];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[11]=[119,09/15/2022 10:15 AM, 09/15/2022 10:15 AM, A crew is currently working on the problem, 09/15/2022 03:30 PM, 1229855];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
+events[12]=[119,09/15/2022 12:26 PM, 09/15/2022 12:26 PM, Customer Svc is working this single customer outage, , 1229874];,# of Outages: 11,Customers Affected: 746,2022-09-15T17:51:43Z
