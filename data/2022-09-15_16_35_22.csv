@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[045,09/15/2022 11:30 AM, 09/15/2022 11:30 AM, Waiting to be analyzed, , 1229863];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[1]=[064,09/15/2022 10:54 AM, 09/15/2022 10:54 AM, Trouble Shooter is determining repairs required, , 1229859];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[2]=[071,09/15/2022 09:39 AM, 09/15/2022 09:39 AM, A crew is currently working on the problem, 09/15/2022 04:30 PM, 1229848];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[3]=[071,09/15/2022 09:39 AM, 09/15/2022 09:39 AM, A crew is currently working on the problem, 09/15/2022 04:30 PM, 1229849];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[4]=[083,09/15/2022 08:37 AM, 09/15/2022 08:37 AM, Trouble Shooter is determining repairs required, , 1229841];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[5]=[084,09/15/2022 10:49 AM, 09/15/2022 10:49 AM, A crew is currently working on the problem, , 1229858];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[6]=[084,09/15/2022 11:24 AM, 09/15/2022 11:24 AM, Waiting to be analyzed, , 1229862];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[7]=[085,09/15/2022 09:27 AM, 09/15/2022 09:27 AM, A crew is currently working on the problem, 09/15/2022 02:00 PM, 1229844];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[8]=[085,09/15/2022 09:50 AM, 09/15/2022 09:50 AM, Tree Trimming is clearing debris from the area, 09/15/2022 04:00 PM, 1229852];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[9]=[085,09/15/2022 10:37 AM, 09/15/2022 10:37 AM, A crew is currently working on the problem, 09/15/2022 02:00 PM, 1229856];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[10]=[113,09/15/2022 10:59 AM, 09/15/2022 10:59 AM, A crew is currently working on the problem, 09/15/2022 12:30 PM, 1229860];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
+events[11]=[119,09/15/2022 10:15 AM, 09/15/2022 10:15 AM, Trouble Shooter is determining repairs required, , 1229855];,# of Outages: 12,Customers Affected: 69,2022-09-15T16:35:22Z
