@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[054,09/16/2022 09:28 AM, 09/16/2022 09:28 AM, Trouble Shooter is determining repairs required, , 1229963];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[1]=[072,09/16/2022 08:42 AM, 09/16/2022 08:42 AM, Trouble Shooter is determining repairs required, , 1229947];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[2]=[074,09/15/2022 11:01 PM, 09/15/2022 11:01 PM, A crew is currently working on the problem, 09/16/2022 10:00 AM, 1229930];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[3]=[074,09/15/2022 11:09 PM, 09/15/2022 11:09 PM, A crew is currently working on the problem, 09/16/2022 10:00 AM, 1229931];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[4]=[084,09/16/2022 09:11 AM, 09/16/2022 09:11 AM, Trouble Shooter is determining repairs required, , 1229954];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[5]=[085,09/16/2022 08:42 AM, 09/16/2022 08:42 AM, Trouble Shooter is working on the problem, 09/16/2022 10:00 AM, 1229946];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[6]=[086,09/16/2022 09:17 AM, 09/16/2022 09:17 AM, Tree Trimming is clearing debris from the area, 09/16/2022 12:00 PM, 1229955];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[7]=[087,09/16/2022 09:26 AM, 09/16/2022 09:26 AM, Trouble Shooter is determining repairs required, , 1229959];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[8]=[089,09/15/2022 11:32 PM, 09/15/2022 11:32 PM, A crew is currently working on the problem, 09/16/2022 12:30 PM, 1229933];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[9]=[105,09/16/2022 05:22 AM, 09/16/2022 05:22 AM, Tree Trimming is clearing debris from the area, , 1229937];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[10]=[106,09/16/2022 08:54 AM, 09/16/2022 08:54 AM, A crew is currently working on the problem, 09/16/2022 10:30 AM, 1229948];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
+events[11]=[106,09/16/2022 08:58 AM, 09/16/2022 08:58 AM, A crew is currently working on the problem, 09/16/2022 10:30 AM, 1229950];,# of Outages: 12,Customers Affected: 211,2022-09-16T14:43:57Z
