@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,09/19/2022 09:59 AM, 09/19/2022 09:59 AM, Trouble Shooter is working on the problem, 09/19/2022 12:00 PM, 1230148];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[1]=[049,09/19/2022 09:25 AM, 09/19/2022 09:25 AM, Trouble Shooter is determining repairs required, , 1230141];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[2]=[049,09/19/2022 09:43 AM, 09/19/2022 09:43 AM, A crew is currently working on the problem, 09/19/2022 12:00 PM, 1230144];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[3]=[050,09/19/2022 08:41 AM, 09/19/2022 08:41 AM, A crew is currently working on the problem, 09/19/2022 02:00 PM, 1230134];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[4]=[050,09/19/2022 10:46 AM, 09/19/2022 10:46 AM, The extent of the outage has been determined, , 1230155];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[5]=[051,09/19/2022 09:57 AM, 09/19/2022 09:57 AM, A crew is currently working on the problem, 09/19/2022 02:30 PM, 1230147];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[6]=[051,09/19/2022 10:04 AM, 09/19/2022 10:04 AM, A crew is currently working on the problem, 09/19/2022 02:30 PM, 1230150];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[7]=[060,09/19/2022 10:05 AM, 09/19/2022 10:05 AM, Trouble Shooter is determining repairs required, , 1230153];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[8]=[062,09/19/2022 09:19 AM, 09/19/2022 09:19 AM, Trouble Shooter is determining repairs required, , 1230140];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[9]=[071,09/19/2022 09:38 AM, 09/19/2022 09:38 AM, A crew is currently working on the problem, 09/19/2022 02:00 PM, 1230143];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[10]=[084,09/19/2022 09:15 AM, 09/19/2022 09:15 AM, A crew is currently working on the problem, 09/19/2022 02:00 PM, 1230137];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[11]=[086,09/19/2022 10:05 AM, 09/19/2022 10:05 AM, Trouble Shooter is determining repairs required, , 1230151];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
+events[12]=[087,09/19/2022 10:08 AM, 09/19/2022 10:08 AM, A crew is currently working on the problem, 09/19/2022 02:00 PM, 1230154];,# of Outages: 13,Customers Affected: 300,2022-09-19T15:51:09Z
