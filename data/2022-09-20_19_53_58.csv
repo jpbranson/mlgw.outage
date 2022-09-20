@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,09/20/2022 02:26 PM, 09/20/2022 02:26 PM, Waiting for an available crew to perform repairs, , 1230388];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[1]=[051,09/20/2022 09:12 AM, 09/20/2022 09:12 AM, A crew is currently working on the problem, 09/20/2022 03:00 PM, 1230261];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[2]=[052,09/20/2022 02:38 PM, 09/20/2022 02:38 PM, A crew is currently working on the problem, 09/20/2022 03:30 PM, 1230397];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[3]=[063,09/20/2022 02:24 PM, 09/20/2022 02:24 PM, Waiting for an available crew to perform repairs, , 1230385];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[4]=[072,09/20/2022 01:15 PM, 09/20/2022 01:15 PM, A crew is currently working on the problem, 09/20/2022 04:00 PM, 1230297];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[5]=[072,09/20/2022 02:27 PM, 09/20/2022 02:27 PM, A crew is currently working on the problem, 09/20/2022 06:00 PM, 1230396];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[6]=[072,09/20/2022 02:28 PM, 09/20/2022 02:28 PM, A crew is currently working on the problem, 09/20/2022 06:00 PM, 1230391];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[7]=[072,09/20/2022 12:25 PM, 09/20/2022 12:25 PM, Waiting for an available crew to perform repairs, , 1230288];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[8]=[074,09/20/2022 01:47 PM, 09/20/2022 01:47 PM, A crew is currently working on the problem, 09/20/2022 05:30 PM, 1230302];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[9]=[084,09/20/2022 01:58 PM, 09/20/2022 01:58 PM, Trouble Shooter is working on the problem, 09/20/2022 05:30 PM, 1230304];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[10]=[085,09/20/2022 01:42 PM, 09/20/2022 01:42 PM, A crew is currently working on the problem, 09/20/2022 05:00 PM, 1230300];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[11]=[088,09/20/2022 02:43 PM, 09/20/2022 02:43 PM, The extent of the outage has been determined, , 1230400];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[12]=[098,09/20/2022 01:58 PM, 09/20/2022 01:58 PM, Trouble Shooter is working on the problem, 09/20/2022 05:30 PM, 1230304];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
+events[13]=[098,09/20/2022 02:25 PM, 09/20/2022 02:25 PM, Customer Svc is working this single customer outage, , 1230386];,# of Outages: 13,Customers Affected: 1552,2022-09-20T19:53:58Z
