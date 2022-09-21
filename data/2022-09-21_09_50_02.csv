@@ -1,0 +1,11 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,09/21/2022 12:03 AM, 09/21/2022 12:03 AM, Waiting for an available crew to perform repairs, , 1230476];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
+events[1]=[062,09/21/2022 02:51 AM, 09/21/2022 02:51 AM, A crew is currently working on the problem, 09/21/2022 10:30 AM, 1230482];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
+events[2]=[073,09/21/2022 01:51 AM, 09/21/2022 01:51 AM, A crew is currently working on the problem, 09/21/2022 10:30 AM, 1230478];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
+events[3]=[073,09/21/2022 02:36 AM, 09/21/2022 02:36 AM, Trouble Shooter is determining repairs required, , 1230480];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
+events[4]=[073,09/21/2022 02:51 AM, 09/21/2022 02:51 AM, A crew is currently working on the problem, 09/21/2022 10:30 AM, 1230482];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
+events[5]=[073,09/21/2022 02:55 AM, 09/21/2022 02:55 AM, A crew is currently working on the problem, 09/21/2022 08:30 AM, 1230486];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
+events[6]=[074,09/21/2022 02:55 AM, 09/21/2022 02:55 AM, A crew is currently working on the problem, 09/21/2022 08:30 AM, 1230486];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
+events[7]=[083,09/21/2022 02:09 AM, 09/21/2022 02:09 AM, Waiting for an available crew to perform repairs, , 1230479];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
+events[8]=[087,09/21/2022 02:55 AM, 09/21/2022 02:55 AM, A crew is currently working on the problem, 09/21/2022 08:30 AM, 1230486];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
+events[9]=[087,09/21/2022 12:51 AM, 09/21/2022 12:51 AM, Waiting for an available crew to perform repairs, , 1230477];,# of Outages: 7,Customers Affected: 845,2022-09-21T09:50:02Z
