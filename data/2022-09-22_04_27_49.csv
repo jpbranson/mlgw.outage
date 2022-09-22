@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,09/21/2022 11:18 PM, 09/21/2022 11:18 PM, The extent of the outage has been determined, , 1230808];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[1]=[086,09/21/2022 10:01 PM, 09/21/2022 10:01 PM, A crew is currently working on the problem, 09/22/2022 01:30 AM, 1230800];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[2]=[086,09/21/2022 10:48 PM, 09/21/2022 10:48 PM, Customer Svc is working this single customer outage, , 1230805];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[3]=[102,09/21/2022 09:51 PM, 09/21/2022 09:51 PM, Trouble Shooter is working on the problem, 09/22/2022 12:30 AM, 1230758];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[4]=[102,09/21/2022 09:55 PM, 09/21/2022 09:55 PM, Trouble Shooter is working on the problem, 09/22/2022 12:30 AM, 1230789];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[5]=[102,09/21/2022 10:13 PM, 09/21/2022 10:13 PM, Trouble Shooter is working on the problem, 09/22/2022 12:30 AM, 1230802];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[6]=[102,09/21/2022 10:31 PM, 09/21/2022 10:31 PM, Trouble Shooter is working on the problem, 09/22/2022 12:30 AM, 1230803];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[7]=[103,09/21/2022 09:53 PM, 09/21/2022 09:53 PM, Trouble Shooter is working on the problem, 09/22/2022 12:30 AM, 1230777];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[8]=[103,09/21/2022 09:55 PM, 09/21/2022 09:55 PM, Trouble Shooter is working on the problem, 09/22/2022 12:30 AM, 1230790];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[9]=[103,09/21/2022 11:00 PM, 09/21/2022 11:00 PM, Trouble Shooter is working on the problem, 09/22/2022 12:30 AM, 1230806];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
+events[10]=[115,09/21/2022 10:38 PM, 09/21/2022 10:38 PM, Customer Svc is working this single customer outage, , 1230804];,# of Outages: 11,Customers Affected: 2200,2022-09-22T04:27:49Z
