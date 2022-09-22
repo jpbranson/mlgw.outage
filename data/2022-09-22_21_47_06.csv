@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,09/22/2022 02:01 PM, 09/22/2022 02:01 PM, Waiting for an available crew to perform repairs, , 1231151];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[1]=[049,09/22/2022 03:43 PM, 09/22/2022 03:43 PM, Customer Svc is working this single customer outage, , 1231163];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[2]=[071,09/22/2022 04:32 PM, 09/22/2022 04:32 PM, The extent of the outage has been determined, , 1231171];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[3]=[072,09/22/2022 04:43 PM, 09/22/2022 04:43 PM, The extent of the outage has been determined, , 1231172];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[4]=[074,09/22/2022 04:04 PM, 09/22/2022 04:04 PM, Customer Svc is working this single customer outage, , 1231166];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[5]=[085,09/22/2022 02:58 PM, 09/22/2022 02:58 PM, Customer Svc is working this single customer outage, , 1231156];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[6]=[089,09/22/2022 04:18 PM, 09/22/2022 04:18 PM, Customer Svc is working this single customer outage, , 1231167];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[7]=[090,09/22/2022 03:11 PM, 09/22/2022 03:11 PM, A crew is currently working on the problem, 09/22/2022 05:00 PM, 1231157];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[8]=[114,09/22/2022 04:19 PM, 09/22/2022 04:19 PM, Trouble Shooter is determining repairs required, , 1231168];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[9]=[115,09/22/2022 03:35 PM, 09/22/2022 03:35 PM, Waiting for an available crew to perform repairs, , 1231161];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[10]=[116,09/22/2022 02:28 PM, 09/22/2022 02:28 PM, A crew is currently working on the problem, 09/22/2022 05:00 PM, 1231154];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
+events[11]=[122,09/22/2022 04:21 PM, 09/22/2022 04:21 PM, Customer Svc is working this single customer outage, , 1231169];,# of Outages: 12,Customers Affected: 44,2022-09-22T21:47:06Z
