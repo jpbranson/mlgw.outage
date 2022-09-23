@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,09/23/2022 03:36 PM, 09/23/2022 03:36 PM, Customer Svc is working this single customer outage, , 1231305];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[1]=[050,09/23/2022 04:05 PM, 09/23/2022 04:05 PM, Customer Svc is working this single customer outage, , 1231315];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[2]=[071,09/23/2022 11:33 AM, 09/23/2022 11:33 AM, A crew is currently working on the problem, 09/23/2022 07:30 PM, 1231243];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[3]=[084,09/23/2022 04:46 PM, 09/23/2022 04:46 PM, The extent of the outage has been determined, , 1231321];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[4]=[085,09/23/2022 03:47 PM, 09/23/2022 03:47 PM, Trouble Shooter is determining repairs required, , 1231308];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[5]=[085,09/23/2022 04:26 PM, 09/23/2022 04:26 PM, Customer Svc is working this single customer outage, , 1231318];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[6]=[098,09/23/2022 02:33 PM, 09/23/2022 02:33 PM, Customer Svc is working this single customer outage, , 1231283];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[7]=[101,09/23/2022 04:08 PM, 09/23/2022 04:08 PM, Trouble Shooter is determining repairs required, , 1231316];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[8]=[102,09/23/2022 03:46 PM, 09/23/2022 03:46 PM, Trouble Shooter is determining repairs required, , 1231307];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[9]=[113,09/23/2022 04:39 PM, 09/23/2022 04:39 PM, Waiting for an available crew to perform repairs, , 1231320];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
+events[10]=[114,09/23/2022 03:32 PM, 09/23/2022 03:32 PM, Trouble Shooter is determining repairs required, , 1231302];,# of Outages: 11,Customers Affected: 110,2022-09-23T21:55:07Z
