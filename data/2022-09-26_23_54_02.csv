@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,09/26/2022 06:45 PM, 09/26/2022 06:45 PM, Waiting for an available crew to perform repairs, , 1232148];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[1]=[052,09/25/2022 05:57 PM, 09/25/2022 05:57 PM, A crew is currently working on the problem, 09/26/2022 08:00 PM, 1232001];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[2]=[053,09/26/2022 06:06 PM, 09/26/2022 06:06 PM, Trouble Shooter is determining repairs required, , 1232144];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[3]=[060,09/26/2022 08:24 AM, 09/26/2022 08:24 AM, A crew is currently working on the problem, 09/26/2022 09:30 PM, 1232072];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[4]=[061,09/26/2022 12:03 PM, 09/26/2022 12:03 PM, A crew is currently working on the problem, 09/26/2022 07:30 PM, 1232105];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[5]=[062,09/26/2022 05:39 PM, 09/26/2022 05:39 PM, Customer Svc is working this single customer outage, , 1232139];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[6]=[064,09/26/2022 03:52 PM, 09/26/2022 03:52 PM, A crew is currently working on the problem, 09/26/2022 07:30 PM, 1232130];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[7]=[064,09/26/2022 05:44 PM, 09/26/2022 05:44 PM, A crew is currently working on the problem, 09/26/2022 07:30 PM, 1232140];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[8]=[072,09/26/2022 10:52 AM, 09/26/2022 10:52 AM, A crew is currently working on the problem, 09/26/2022 07:30 PM, 1232093];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[9]=[073,09/26/2022 06:30 PM, 09/26/2022 06:30 PM, A crew is currently working on the problem, 09/26/2022 08:30 PM, 1232147];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[10]=[074,09/26/2022 05:37 PM, 09/26/2022 05:37 PM, Trouble Shooter is determining repairs required, , 1232138];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[11]=[074,09/26/2022 06:18 PM, 09/26/2022 06:18 PM, Tree Trimming is clearing debris from the area, , 1232146];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
+events[12]=[075,09/24/2022 11:02 PM, 09/24/2022 11:02 PM, Waiting to be analyzed, 09/26/2022 07:30 PM, 1231739];,# of Outages: 13,Customers Affected: 178,2022-09-26T23:54:02Z
