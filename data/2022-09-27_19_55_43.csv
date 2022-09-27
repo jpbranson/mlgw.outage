@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[031,09/27/2022 02:31 PM, 09/27/2022 02:31 PM, Waiting for an available crew to perform repairs, , 1232217];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[1]=[060,09/27/2022 02:48 PM, 09/27/2022 02:48 PM, Waiting to be analyzed, , 1232220];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[2]=[062,09/27/2022 11:13 AM, 09/27/2022 11:13 AM, A crew is currently working on the problem, 09/27/2022 03:30 PM, 1232196];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[3]=[071,09/27/2022 01:35 PM, 09/27/2022 01:35 PM, Customer Svc is working this single customer outage, , 1232209];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[4]=[071,09/27/2022 02:10 PM, 09/27/2022 02:10 PM, A crew is currently working on the problem, 09/27/2022 06:00 PM, 1232214];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[5]=[071,09/27/2022 02:51 PM, 09/27/2022 02:51 PM, Waiting to be analyzed, , 1232221];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[6]=[073,09/27/2022 02:38 PM, 09/27/2022 02:38 PM, The extent of the outage has been determined, , 1232219];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[7]=[073,09/27/2022 09:34 AM, 09/27/2022 09:34 AM, A crew is currently working on the problem, 09/27/2022 04:30 PM, 1232187];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[8]=[085,09/27/2022 02:22 PM, 09/27/2022 02:22 PM, A crew is currently working on the problem, 09/27/2022 05:00 PM, 1232215];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[9]=[098,09/27/2022 02:31 PM, 09/27/2022 02:31 PM, Customer Svc is working this single customer outage, , 1232218];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
+events[10]=[101,09/27/2022 01:44 PM, 09/27/2022 01:44 PM, Customer Svc is working this single customer outage, , 1232211];,# of Outages: 11,Customers Affected: 35,2022-09-27T19:55:43Z
