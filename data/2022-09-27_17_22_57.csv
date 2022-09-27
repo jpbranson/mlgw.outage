@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[019,09/27/2022 12:20 PM, 09/27/2022 12:20 PM, Waiting to be analyzed, , 1232201];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[1]=[049,09/27/2022 12:10 PM, 09/27/2022 12:10 PM, The extent of the outage has been determined, , 1232199];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[2]=[052,09/27/2022 12:19 PM, 09/27/2022 12:19 PM, Waiting to be analyzed, , 1232200];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[3]=[061,09/27/2022 10:45 AM, 09/27/2022 10:45 AM, A crew is currently working on the problem, 09/27/2022 02:00 PM, 1232193];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[4]=[062,09/27/2022 10:06 AM, 09/27/2022 10:06 AM, Trouble Shooter is determining repairs required, , 1232188];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[5]=[062,09/27/2022 11:13 AM, 09/27/2022 11:13 AM, Trouble Shooter is determining repairs required, , 1232196];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[6]=[073,09/27/2022 09:34 AM, 09/27/2022 09:34 AM, Tree Trimming is clearing debris from the area, , 1232187];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[7]=[074,09/27/2022 11:17 AM, 09/27/2022 11:17 AM, Trouble Shooter is determining repairs required, , 1232197];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[8]=[075,09/27/2022 10:50 AM, 09/27/2022 10:50 AM, A crew is currently working on the problem, 09/27/2022 02:30 PM, 1232194];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[9]=[076,09/27/2022 10:39 AM, 09/27/2022 10:39 AM, A crew is currently working on the problem, 09/27/2022 12:30 PM, 1232191];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[10]=[099,09/27/2022 11:07 AM, 09/27/2022 11:07 AM, Trouble Shooter is determining repairs required, , 1232195];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[11]=[100,09/27/2022 06:20 AM, 09/27/2022 06:20 AM, Waiting to be analyzed, , 1232167];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
+events[12]=[100,09/27/2022 10:23 AM, 09/27/2022 10:23 AM, Trouble Shooter is determining repairs required, , 1232190];,# of Outages: 13,Customers Affected: 56,2022-09-27T17:22:57Z
