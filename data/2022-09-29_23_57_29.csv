@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[039,09/29/2022 01:45 PM, 09/29/2022 01:45 PM, Waiting for an available crew to perform repairs, , 1232711];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[1]=[050,09/29/2022 01:45 PM, 09/29/2022 01:45 PM, Waiting for an available crew to perform repairs, , 1232711];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[2]=[051,09/29/2022 01:45 PM, 09/29/2022 01:45 PM, Waiting for an available crew to perform repairs, , 1232711];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[3]=[060,09/29/2022 01:07 PM, 09/29/2022 01:07 PM, Waiting to be analyzed, , 1232708];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[4]=[060,09/29/2022 06:36 PM, 09/29/2022 06:36 PM, Customer Svc is working this single customer outage, , 1232739];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[5]=[071,09/29/2022 06:30 PM, 09/29/2022 06:30 PM, Customer Svc is working this single customer outage, , 1232736];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[6]=[083,09/29/2022 06:33 PM, 09/29/2022 06:33 PM, Customer Svc is working this single customer outage, , 1232738];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[7]=[086,09/29/2022 04:37 PM, 09/29/2022 04:37 PM, Tree Trimming is clearing debris from the area, 09/29/2022 09:00 PM, 1232728];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[8]=[086,09/29/2022 05:42 PM, 09/29/2022 05:42 PM, Tree Trimming is clearing debris from the area, 09/29/2022 09:00 PM, 1232734];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[9]=[087,09/29/2022 06:37 PM, 09/29/2022 06:37 PM, Trouble Shooter is determining repairs required, , 1232740];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[10]=[100,09/29/2022 06:33 PM, 09/29/2022 06:33 PM, Customer Svc is working this single customer outage, , 1232737];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[11]=[100,09/29/2022 12:38 PM, 09/29/2022 12:38 PM, A crew is currently working on the problem, 09/29/2022 11:30 PM, 1232707];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
+events[12]=[113,09/29/2022 05:06 PM, 09/29/2022 05:06 PM, Trouble Shooter is determining repairs required, , 1232730];,# of Outages: 11,Customers Affected: 50,2022-09-29T23:57:29Z
