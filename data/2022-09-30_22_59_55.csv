@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[008,09/30/2022 05:59 PM, 09/30/2022 05:59 PM, Waiting to be analyzed, , 1232828];,# of Outages: 7,Customers Affected: 31,2022-09-30T22:59:55Z
+events[1]=[021,09/30/2022 05:48 PM, 09/30/2022 05:48 PM, The extent of the outage has been determined, , 1232827];,# of Outages: 7,Customers Affected: 31,2022-09-30T22:59:55Z
+events[2]=[038,09/30/2022 05:22 PM, 09/30/2022 05:22 PM, Trouble Shooter is determining repairs required, , 1232823];,# of Outages: 7,Customers Affected: 31,2022-09-30T22:59:55Z
+events[3]=[071,09/30/2022 05:33 PM, 09/30/2022 05:33 PM, Trouble Shooter is determining repairs required, , 1232825];,# of Outages: 7,Customers Affected: 31,2022-09-30T22:59:55Z
+events[4]=[085,09/30/2022 05:40 PM, 09/30/2022 05:40 PM, Trouble Shooter is determining repairs required, , 1232826];,# of Outages: 7,Customers Affected: 31,2022-09-30T22:59:55Z
+events[5]=[101,09/30/2022 02:09 PM, 09/30/2022 02:09 PM, Tree Trimming is clearing debris from the area, 09/30/2022 08:00 PM, 1232811];,# of Outages: 7,Customers Affected: 31,2022-09-30T22:59:55Z
+events[6]=[101,09/30/2022 12:15 PM, 09/30/2022 12:15 PM, Tree Trimming is clearing debris from the area, 09/30/2022 08:00 PM, 1232799];,# of Outages: 7,Customers Affected: 31,2022-09-30T22:59:55Z
