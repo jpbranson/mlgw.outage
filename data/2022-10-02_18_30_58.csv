@@ -1,0 +1,9 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[048,10/02/2022 08:55 AM, 10/02/2022 08:55 AM, Trouble Shooter is determining repairs required, , 1232925];,# of Outages: 8,Customers Affected: 8,2022-10-02T18:30:58Z
+events[1]=[051,10/02/2022 01:12 PM, 10/02/2022 01:12 PM, Waiting to be analyzed, , 1232945];,# of Outages: 8,Customers Affected: 8,2022-10-02T18:30:58Z
+events[2]=[051,10/02/2022 05:06 AM, 10/02/2022 05:06 AM, Customer Svc is working this single customer outage, , 1232918];,# of Outages: 8,Customers Affected: 8,2022-10-02T18:30:58Z
+events[3]=[066,10/02/2022 01:10 PM, 10/02/2022 01:10 PM, The extent of the outage has been determined, , 1232944];,# of Outages: 8,Customers Affected: 8,2022-10-02T18:30:58Z
+events[4]=[071,10/02/2022 12:39 PM, 10/02/2022 12:39 PM, Customer Svc is working this single customer outage, , 1232943];,# of Outages: 8,Customers Affected: 8,2022-10-02T18:30:58Z
+events[5]=[087,10/02/2022 10:05 AM, 10/02/2022 10:05 AM, Customer Svc is working this single customer outage, , 1232938];,# of Outages: 8,Customers Affected: 8,2022-10-02T18:30:58Z
+events[6]=[098,10/02/2022 08:18 AM, 10/02/2022 08:18 AM, Customer Svc is working this single customer outage, , 1232924];,# of Outages: 8,Customers Affected: 8,2022-10-02T18:30:58Z
+events[7]=[102,10/02/2022 08:57 AM, 10/02/2022 08:57 AM, Customer Svc is working this single customer outage, , 1232926];,# of Outages: 8,Customers Affected: 8,2022-10-02T18:30:58Z
