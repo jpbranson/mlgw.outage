@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[007,10/03/2022 12:05 PM, 10/03/2022 12:05 PM, Waiting to be analyzed, , 1233006];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[1]=[053,10/03/2022 09:25 AM, 10/03/2022 09:25 AM, Trouble Shooter is determining repairs required, , 1232982];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[2]=[070,10/03/2022 09:30 AM, 10/03/2022 09:30 AM, A crew is currently working on the problem, 10/03/2022 02:30 PM, 1232983];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[3]=[074,10/03/2022 08:51 AM, 10/03/2022 08:51 AM, Trouble Shooter is working on the problem, 10/03/2022 11:30 AM, 1232975];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[4]=[084,10/03/2022 11:07 AM, 10/03/2022 11:07 AM, A crew is currently working on the problem, , 1232989];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[5]=[088,10/03/2022 12:17 PM, 10/03/2022 12:17 PM, Waiting to be analyzed, , 1233007];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[6]=[101,10/03/2022 11:36 AM, 10/03/2022 11:36 AM, Trouble Shooter is working on the problem, 10/03/2022 02:30 PM, 1232997];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[7]=[101,10/03/2022 11:43 AM, 10/03/2022 11:43 AM, The extent of the outage has been determined, , 1233002];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[8]=[102,10/03/2022 11:47 AM, 10/03/2022 11:47 AM, Waiting for an available crew to perform repairs, , 1233003];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[9]=[103,10/03/2022 11:40 AM, 10/03/2022 11:40 AM, Trouble Shooter is determining repairs required, , 1233001];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[10]=[103,10/03/2022 12:04 PM, 10/03/2022 12:04 PM, Trouble Shooter is determining repairs required, , 1233005];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
+events[11]=[113,10/03/2022 11:52 AM, 10/03/2022 11:52 AM, The extent of the outage has been determined, , 1233004];,# of Outages: 12,Customers Affected: 442,2022-10-03T17:26:30Z
