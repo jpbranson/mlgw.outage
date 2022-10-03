@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[007,10/03/2022 12:05 PM, 10/03/2022 12:05 PM, Customer Svc is working this single customer outage, , 1233006];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[1]=[053,10/03/2022 09:25 AM, 10/03/2022 09:25 AM, Trouble Shooter is determining repairs required, , 1232982];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[2]=[070,10/03/2022 09:30 AM, 10/03/2022 09:30 AM, A crew is currently working on the problem, 10/03/2022 02:30 PM, 1232983];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[3]=[074,10/03/2022 08:51 AM, 10/03/2022 08:51 AM, Trouble Shooter is working on the problem, 10/03/2022 01:30 PM, 1232975];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[4]=[084,10/03/2022 11:07 AM, 10/03/2022 11:07 AM, A crew is currently working on the problem, 10/03/2022 04:00 PM, 1232989];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[5]=[085,10/03/2022 12:38 PM, 10/03/2022 12:38 PM, Trouble Shooter is determining repairs required, , 1233009];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[6]=[098,10/03/2022 01:01 PM, 10/03/2022 01:01 PM, The extent of the outage has been determined, , 1233010];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[7]=[101,10/03/2022 11:36 AM, 10/03/2022 11:36 AM, Trouble Shooter is working on the problem, 10/03/2022 02:30 PM, 1232997];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[8]=[102,10/03/2022 11:47 AM, 10/03/2022 11:47 AM, Waiting for an available crew to perform repairs, , 1233003];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[9]=[103,10/03/2022 11:40 AM, 10/03/2022 11:40 AM, Waiting for an available crew to perform repairs, , 1233001];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[10]=[103,10/03/2022 12:04 PM, 10/03/2022 12:04 PM, Waiting for an available crew to perform repairs, , 1233005];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
+events[11]=[114,10/03/2022 12:30 PM, 10/03/2022 12:30 PM, Customer Svc is working this single customer outage, , 1233008];,# of Outages: 12,Customers Affected: 465,2022-10-03T18:03:38Z
