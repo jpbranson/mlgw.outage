@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[039,10/05/2022 09:17 AM, 10/05/2022 09:17 AM, Trouble Shooter is determining repairs required, , 1233130];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[1]=[060,10/05/2022 09:16 AM, 10/05/2022 09:16 AM, Customer Svc is working this single customer outage, , 1233129];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[2]=[061,10/05/2022 08:32 AM, 10/05/2022 08:32 AM, Trouble Shooter is working on the problem, 10/05/2022 11:00 AM, 1233124];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[3]=[061,10/05/2022 10:03 AM, 10/05/2022 10:03 AM, Trouble Shooter is determining repairs required, , 1233136];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[4]=[072,10/05/2022 09:25 AM, 10/05/2022 09:25 AM, Waiting to be analyzed, , 1233131];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[5]=[073,10/05/2022 09:25 AM, 10/05/2022 09:25 AM, Waiting to be analyzed, , 1233131];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[6]=[073,10/05/2022 09:50 AM, 10/05/2022 09:50 AM, Trouble Shooter is determining repairs required, , 1233134];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[7]=[074,10/05/2022 08:57 AM, 10/05/2022 08:57 AM, A crew is currently working on the problem, 10/05/2022 12:30 PM, 1233127];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[8]=[074,10/05/2022 09:48 AM, 10/05/2022 09:48 AM, Trouble Shooter is determining repairs required, , 1233133];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[9]=[083,10/05/2022 09:14 AM, 10/05/2022 09:14 AM, Trouble Shooter is determining repairs required, , 1233128];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[10]=[085,10/05/2022 08:12 AM, 10/05/2022 08:12 AM, Trouble Shooter is determining repairs required, , 1233117];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
+events[11]=[086,10/05/2022 08:05 AM, 10/05/2022 08:05 AM, Trouble Shooter is working on the problem, 10/05/2022 11:30 AM, 1233116];,# of Outages: 11,Customers Affected: 108,2022-10-05T15:27:01Z
