@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[072,10/05/2022 09:25 AM, 10/05/2022 09:25 AM, Waiting for an available crew to perform repairs, , 1233131];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[1]=[073,10/05/2022 09:25 AM, 10/05/2022 09:25 AM, Waiting for an available crew to perform repairs, , 1233131];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[2]=[073,10/05/2022 09:50 AM, 10/05/2022 09:50 AM, A crew is currently working on the problem, 10/05/2022 03:30 PM, 1233134];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[3]=[073,10/05/2022 11:06 AM, 10/05/2022 11:06 AM, Waiting for an available crew to perform repairs, , 1233137];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[4]=[074,10/05/2022 02:21 PM, 10/05/2022 02:21 PM, The extent of the outage has been determined, , 1233160];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[5]=[074,10/05/2022 09:48 AM, 10/05/2022 09:48 AM, A crew is currently working on the problem, 10/05/2022 03:30 PM, 1233133];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[6]=[075,10/05/2022 02:26 PM, 10/05/2022 02:26 PM, Waiting to be analyzed, , 1233162];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[7]=[083,10/05/2022 12:50 PM, 10/05/2022 12:50 PM, A crew is currently working on the problem, 10/05/2022 03:30 PM, 1233153];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[8]=[098,10/05/2022 02:24 PM, 10/05/2022 02:24 PM, Waiting to be analyzed, , 1233161];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[9]=[100,10/05/2022 12:40 PM, 10/05/2022 12:40 PM, Customer Svc is working this single customer outage, , 1233151];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
+events[10]=[123,10/05/2022 12:57 PM, 10/05/2022 12:57 PM, Customer Svc is working this single customer outage, , 1233156];,# of Outages: 10,Customers Affected: 106,2022-10-05T19:32:28Z
