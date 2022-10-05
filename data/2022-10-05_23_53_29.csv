@@ -1,0 +1,4 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,10/05/2022 06:35 PM, 10/05/2022 06:35 PM, Customer Svc is working this single customer outage, , 1233176];,# of Outages: 3,Customers Affected: 3,2022-10-05T23:53:29Z
+events[1]=[052,10/05/2022 06:46 PM, 10/05/2022 06:46 PM, Waiting to be analyzed, , 1233177];,# of Outages: 3,Customers Affected: 3,2022-10-05T23:53:29Z
+events[2]=[098,10/05/2022 06:46 PM, 10/05/2022 06:46 PM, The extent of the outage has been determined, , 1233178];,# of Outages: 3,Customers Affected: 3,2022-10-05T23:53:29Z
