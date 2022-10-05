@@ -1,0 +1,5 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[019,10/05/2022 03:50 PM, 10/05/2022 03:50 PM, Trouble Shooter is determining repairs required, , 1233166];,# of Outages: 4,Customers Affected: 22,2022-10-05T21:56:50Z
+events[1]=[063,10/05/2022 04:40 PM, 10/05/2022 04:40 PM, Customer Svc is working this single customer outage, , 1233168];,# of Outages: 4,Customers Affected: 22,2022-10-05T21:56:50Z
+events[2]=[073,10/05/2022 11:06 AM, 10/05/2022 11:06 AM, Trouble Shooter is determining repairs required, , 1233137];,# of Outages: 4,Customers Affected: 22,2022-10-05T21:56:50Z
+events[3]=[113,10/05/2022 04:15 PM, 10/05/2022 04:15 PM, Trouble Shooter is determining repairs required, , 1233167];,# of Outages: 4,Customers Affected: 22,2022-10-05T21:56:50Z
