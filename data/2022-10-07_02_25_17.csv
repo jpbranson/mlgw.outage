@@ -1,0 +1,5 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[038,10/06/2022 12:50 PM, 10/06/2022 12:50 PM, A crew is currently working on the problem, 10/06/2022 09:30 PM, 1233244];,# of Outages: 4,Customers Affected: 51,2022-10-07T02:25:17Z
+events[1]=[067,10/06/2022 06:14 PM, 10/06/2022 06:14 PM, A crew is currently working on the problem, 10/06/2022 11:00 PM, 1233267];,# of Outages: 4,Customers Affected: 51,2022-10-07T02:25:17Z
+events[2]=[101,10/06/2022 07:40 PM, 10/06/2022 07:40 PM, A crew is currently working on the problem, 10/06/2022 11:00 PM, 1233274];,# of Outages: 4,Customers Affected: 51,2022-10-07T02:25:17Z
+events[3]=[118,10/06/2022 05:52 PM, 10/06/2022 05:52 PM, A crew is currently working on the problem, 10/06/2022 11:30 PM, 1233266];,# of Outages: 4,Customers Affected: 51,2022-10-07T02:25:17Z
