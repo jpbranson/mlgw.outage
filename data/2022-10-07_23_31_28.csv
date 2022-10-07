@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[026,10/07/2022 02:52 PM, 10/07/2022 02:52 PM, A crew is currently working on the problem, 10/07/2022 08:00 PM, 1233426];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[1]=[050,10/07/2022 05:33 PM, 10/07/2022 05:33 PM, Trouble Shooter is determining repairs required, , 1233435];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[2]=[064,10/07/2022 02:22 PM, 10/07/2022 02:22 PM, A crew is currently working on the problem, 10/07/2022 11:30 PM, 1233420];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[3]=[065,10/07/2022 02:39 PM, 10/07/2022 02:39 PM, Tree Trimming is clearing debris from the area, , 1233424];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[4]=[072,10/07/2022 06:24 PM, 10/07/2022 06:24 PM, Waiting to be analyzed, , 1233443];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[5]=[072,10/07/2022 12:47 PM, 10/07/2022 12:47 PM, Trouble Shooter is determining repairs required, , 1233406];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[6]=[085,10/07/2022 02:04 PM, 10/07/2022 02:04 PM, Waiting for an available crew to perform repairs, , 1233419];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[7]=[085,10/07/2022 04:10 PM, 10/07/2022 04:10 PM, Customer Svc is working this single customer outage, , 1233431];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[8]=[085,10/07/2022 06:03 PM, 10/07/2022 06:03 PM, Customer Svc is working this single customer outage, , 1233438];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[9]=[085,10/07/2022 06:05 PM, 10/07/2022 06:05 PM, Customer Svc is working this single customer outage, , 1233439];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[10]=[100,10/07/2022 08:51 AM, 10/07/2022 08:51 AM, Trouble Shooter is determining repairs required, , 1233348];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[11]=[103,10/07/2022 11:40 AM, 10/07/2022 11:40 AM, A crew is currently working on the problem, 10/07/2022 06:30 PM, 1233385];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
+events[12]=[103,10/07/2022 11:43 AM, 10/07/2022 11:43 AM, A crew is currently working on the problem, 10/07/2022 06:30 PM, 1233386];,# of Outages: 13,Customers Affected: 243,2022-10-07T23:31:28Z
