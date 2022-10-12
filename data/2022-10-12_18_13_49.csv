@@ -1,0 +1,23 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[040,10/12/2022 01:08 PM, 10/12/2022 01:08 PM, Waiting to be analyzed, , 1233778];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[1]=[053,10/12/2022 11:00 AM, 10/12/2022 11:00 AM, Trouble Shooter is working on the problem, 10/12/2022 02:00 PM, 1233755];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[2]=[053,10/12/2022 12:21 PM, 10/12/2022 12:21 PM, Trouble Shooter is working on the problem, 10/12/2022 02:00 PM, 1233767];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[3]=[061,10/12/2022 12:47 PM, 10/12/2022 12:47 PM, Customer Svc is working this single customer outage, , 1233774];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[4]=[062,10/12/2022 12:52 PM, 10/12/2022 12:52 PM, Trouble Shooter is determining repairs required, , 1233775];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[5]=[063,10/12/2022 09:31 AM, 10/12/2022 09:31 AM, Tree Trimming is clearing debris from the area, , 1233737];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[6]=[072,10/12/2022 09:45 AM, 10/12/2022 09:45 AM, A crew is currently working on the problem, 10/12/2022 01:30 PM, 1233741];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[7]=[073,10/12/2022 01:07 PM, 10/12/2022 01:07 PM, Waiting to be analyzed, , 1233777];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[8]=[073,10/12/2022 01:08 PM, 10/12/2022 01:08 PM, Waiting to be analyzed, , 1233779];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[9]=[073,10/12/2022 09:22 AM, 10/12/2022 09:22 AM, Trouble Shooter is determining repairs required, , 1233736];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[10]=[073,10/12/2022 12:43 PM, 10/12/2022 12:43 PM, A crew is currently working on the problem, 10/12/2022 02:00 PM, 1233773];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[11]=[074,10/12/2022 01:01 PM, 10/12/2022 01:01 PM, A crew is currently working on the problem, 10/12/2022 03:30 PM, 1233776];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[12]=[074,10/12/2022 10:31 AM, 10/12/2022 10:31 AM, A crew is currently working on the problem, 10/12/2022 02:00 PM, 1233749];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[13]=[074,10/12/2022 10:31 AM, 10/12/2022 10:31 AM, A crew is currently working on the problem, 10/12/2022 02:00 PM, 1233750];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[14]=[074,10/12/2022 10:31 AM, 10/12/2022 10:31 AM, A crew is currently working on the problem, 10/12/2022 02:00 PM, 1233751];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[15]=[074,10/12/2022 12:37 PM, 10/12/2022 12:37 PM, A crew is currently working on the problem, 10/12/2022 02:00 PM, 1233770];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[16]=[074,10/12/2022 12:38 PM, 10/12/2022 12:38 PM, A crew is currently working on the problem, 10/12/2022 02:00 PM, 1233772];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[17]=[074,10/12/2022 12:43 PM, 10/12/2022 12:43 PM, A crew is currently working on the problem, 10/12/2022 02:00 PM, 1233773];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[18]=[085,10/12/2022 10:25 AM, 10/12/2022 10:25 AM, A crew is currently working on the problem, 10/12/2022 02:30 PM, 1233747];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[19]=[086,10/12/2022 12:31 PM, 10/12/2022 12:31 PM, Customer Svc is working this single customer outage, , 1233769];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[20]=[102,10/12/2022 11:45 AM, 10/12/2022 11:45 AM, A crew is currently working on the problem, 10/12/2022 02:30 PM, 1233759];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
+events[21]=[120,10/12/2022 11:42 AM, 10/12/2022 11:42 AM, Trouble Shooter is determining repairs required, , 1233758];,# of Outages: 21,Customers Affected: 238,2022-10-12T18:13:49Z
