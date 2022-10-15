@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[035,10/15/2022 01:03 AM, 10/15/2022 01:03 AM, A crew is currently working on the problem, 10/15/2022 08:00 AM, 1234708];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[1]=[042,10/15/2022 04:21 AM, 10/15/2022 04:21 AM, Trouble Shooter is working on the problem, 10/15/2022 08:00 AM, 1234727];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[2]=[047,10/15/2022 01:03 AM, 10/15/2022 01:03 AM, A crew is currently working on the problem, 10/15/2022 08:00 AM, 1234708];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[3]=[052,10/15/2022 04:20 AM, 10/15/2022 04:20 AM, Trouble Shooter is working on the problem, 10/15/2022 08:00 AM, 1234723];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[4]=[053,10/15/2022 04:20 AM, 10/15/2022 04:20 AM, Trouble Shooter is working on the problem, 10/15/2022 08:00 AM, 1234723];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[5]=[053,10/15/2022 04:21 AM, 10/15/2022 04:21 AM, Trouble Shooter is working on the problem, 10/15/2022 08:00 AM, 1234727];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[6]=[063,10/15/2022 04:20 AM, 10/15/2022 04:20 AM, Trouble Shooter is working on the problem, 10/15/2022 08:00 AM, 1234723];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[7]=[064,10/15/2022 04:20 AM, 10/15/2022 04:20 AM, Trouble Shooter is working on the problem, 10/15/2022 08:00 AM, 1234723];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[8]=[064,10/15/2022 04:21 AM, 10/15/2022 04:21 AM, Trouble Shooter is working on the problem, 10/15/2022 08:00 AM, 1234727];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[9]=[085,10/15/2022 06:12 AM, 10/15/2022 06:12 AM, Waiting to be analyzed, , 1234768];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[10]=[089,10/15/2022 02:18 AM, 10/15/2022 02:18 AM, A crew is currently working on the problem, 10/15/2022 09:30 AM, 1234713];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[11]=[112,10/14/2022 04:09 PM, 10/14/2022 04:09 PM, A crew is currently working on the problem, 10/15/2022 06:30 AM, 1234679];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
+events[12]=[112,10/15/2022 06:03 AM, 10/15/2022 06:03 AM, The extent of the outage has been determined, , 1234767];,# of Outages: 7,Customers Affected: 4131,2022-10-15T11:21:30Z
