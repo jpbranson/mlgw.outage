@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[048,10/16/2022 11:13 AM, 10/16/2022 11:13 AM, Trouble Shooter is determining repairs required, , 1235017];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[1]=[049,10/16/2022 03:16 AM, 10/16/2022 03:16 AM, A crew is currently working on the problem, 10/16/2022 12:00 PM, 1234985];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[2]=[071,10/15/2022 02:02 PM, 10/15/2022 02:02 PM, Waiting for an available crew to perform repairs, , 1234913];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[3]=[085,10/15/2022 10:19 PM, 10/15/2022 10:19 PM, A crew is currently working on the problem, 10/16/2022 02:00 PM, 1234962];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[4]=[086,10/15/2022 06:40 PM, 10/15/2022 06:40 PM, A crew is currently working on the problem, 10/16/2022 12:00 PM, 1234955];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[5]=[088,10/16/2022 10:50 AM, 10/16/2022 10:50 AM, Trouble Shooter is determining repairs required, , 1235014];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[6]=[092,10/16/2022 11:22 AM, 10/16/2022 11:22 AM, Customer Svc is working this single customer outage, , 1235018];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[7]=[098,10/16/2022 08:56 AM, 10/16/2022 08:56 AM, Waiting for an available crew to perform repairs, , 1234999];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[8]=[099,10/16/2022 09:40 AM, 10/16/2022 09:40 AM, Waiting for an available crew to perform repairs, , 1235002];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[9]=[101,10/16/2022 11:24 AM, 10/16/2022 11:24 AM, Trouble Shooter is determining repairs required, , 1235019];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[10]=[103,10/16/2022 06:41 AM, 10/16/2022 06:41 AM, Waiting for an available crew to perform repairs, , 1234989];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
+events[11]=[114,10/16/2022 04:39 AM, 10/16/2022 04:39 AM, Waiting for an available crew to perform repairs, , 1234987];,# of Outages: 12,Customers Affected: 201,2022-10-16T16:36:29Z
