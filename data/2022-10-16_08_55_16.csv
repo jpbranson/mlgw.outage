@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[044,10/15/2022 12:28 PM, 10/15/2022 12:28 PM, A crew is currently working on the problem, 10/16/2022 05:30 AM, 1234844];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[1]=[049,10/15/2022 04:37 PM, 10/15/2022 04:37 PM, Waiting for an available crew to perform repairs, , 1234941];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[2]=[049,10/16/2022 03:16 AM, 10/16/2022 03:16 AM, Trouble Shooter is determining repairs required, , 1234985];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[3]=[062,10/15/2022 01:42 PM, 10/15/2022 01:42 PM, Waiting for an available crew to perform repairs, , 1234911];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[4]=[062,10/15/2022 04:05 PM, 10/15/2022 04:05 PM, Waiting for an available crew to perform repairs, , 1234939];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[5]=[071,10/15/2022 02:02 PM, 10/15/2022 02:02 PM, Waiting for an available crew to perform repairs, , 1234913];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[6]=[085,10/15/2022 10:19 PM, 10/15/2022 10:19 PM, Waiting for an available crew to perform repairs, , 1234962];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[7]=[086,10/15/2022 06:40 PM, 10/15/2022 06:40 PM, Waiting for an available crew to perform repairs, , 1234955];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[8]=[097,10/15/2022 11:01 PM, 10/15/2022 11:01 PM, Waiting for an available crew to perform repairs, , 1234966];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[9]=[098,10/15/2022 10:58 PM, 10/15/2022 10:58 PM, Trouble Shooter is determining repairs required, , 1234972];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[10]=[098,10/15/2022 11:14 PM, 10/15/2022 11:14 PM, Trouble Shooter is determining repairs required, , 1234975];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[11]=[102,10/16/2022 03:37 AM, 10/16/2022 03:37 AM, Customer Svc is working this single customer outage, , 1234986];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[12]=[114,10/15/2022 11:14 PM, 10/15/2022 11:14 PM, Trouble Shooter is determining repairs required, , 1234975];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[13]=[115,10/15/2022 04:00 PM, 10/15/2022 04:00 PM, A crew is currently working on the problem, 10/16/2022 06:45 AM, 1234938];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
+events[14]=[121,10/15/2022 04:37 PM, 10/15/2022 04:37 PM, Waiting for an available crew to perform repairs, , 1234945];,# of Outages: 14,Customers Affected: 391,2022-10-16T08:55:16Z
