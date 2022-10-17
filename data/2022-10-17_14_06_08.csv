@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[055,10/17/2022 08:45 AM, 10/17/2022 08:45 AM, A crew is currently working on the problem, 10/17/2022 11:30 AM, 1235073];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[1]=[055,10/17/2022 08:46 AM, 10/17/2022 08:46 AM, Waiting to be analyzed, , 1235075];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[2]=[055,10/17/2022 08:47 AM, 10/17/2022 08:47 AM, Waiting to be analyzed, , 1235076];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[3]=[064,10/17/2022 08:03 AM, 10/17/2022 08:03 AM, Trouble Shooter is determining repairs required, , 1235067];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[4]=[064,10/17/2022 08:56 AM, 10/17/2022 08:56 AM, Waiting for an available crew to perform repairs, , 1235078];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[5]=[070,10/17/2022 06:35 AM, 10/17/2022 06:35 AM, Waiting for an available crew to perform repairs, , 1235061];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[6]=[071,10/17/2022 08:45 AM, 10/17/2022 08:45 AM, Waiting for an available crew to perform repairs, , 1235074];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[7]=[073,10/17/2022 07:50 AM, 10/17/2022 07:50 AM, Trouble Shooter is working on the problem, 10/17/2022 10:30 AM, 1235066];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[8]=[085,10/17/2022 08:19 AM, 10/17/2022 08:19 AM, Trouble Shooter is determining repairs required, , 1235070];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[9]=[098,10/17/2022 08:22 AM, 10/17/2022 08:22 AM, Trouble Shooter is determining repairs required, , 1235072];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
+events[10]=[116,10/17/2022 08:48 AM, 10/17/2022 08:48 AM, A crew is currently working on the problem, 10/17/2022 12:30 PM, 1235077];,# of Outages: 11,Customers Affected: 156,2022-10-17T14:06:08Z
