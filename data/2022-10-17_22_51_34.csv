@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[014,10/17/2022 11:23 AM, 10/17/2022 11:23 AM, A crew is currently working on the problem, 10/17/2022 07:30 PM, 1235106];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[1]=[050,10/17/2022 01:38 PM, 10/17/2022 01:38 PM, A crew is currently working on the problem, 10/17/2022 11:30 PM, 1235123];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[2]=[065,10/17/2022 12:59 PM, 10/17/2022 12:59 PM, A crew is currently working on the problem, 10/17/2022 06:30 PM, 1235118];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[3]=[070,10/17/2022 03:21 PM, 10/17/2022 03:21 PM, Waiting for an available crew to perform repairs, , 1235135];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[4]=[072,10/17/2022 02:38 PM, 10/17/2022 02:38 PM, Customer Svc is working this single customer outage, , 1235128];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[5]=[076,10/17/2022 05:10 PM, 10/17/2022 05:10 PM, Customer Svc is working this single customer outage, , 1235148];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[6]=[085,10/17/2022 03:35 PM, 10/17/2022 03:35 PM, Tree Trimming is clearing debris from the area, , 1235142];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[7]=[092,10/17/2022 03:14 PM, 10/17/2022 03:14 PM, A crew is currently working on the problem, 10/17/2022 06:00 PM, 1235132];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[8]=[093,10/17/2022 03:14 PM, 10/17/2022 03:14 PM, A crew is currently working on the problem, 10/17/2022 06:00 PM, 1235132];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[9]=[093,10/17/2022 05:43 PM, 10/17/2022 05:43 PM, Waiting to be analyzed, , 1235150];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[10]=[101,10/17/2022 05:37 PM, 10/17/2022 05:37 PM, The extent of the outage has been determined, , 1235149];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[11]=[102,10/17/2022 04:21 PM, 10/17/2022 04:21 PM, Trouble Shooter is determining repairs required, , 1235145];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
+events[12]=[113,10/17/2022 03:30 PM, 10/17/2022 03:30 PM, Tree Trimming is clearing debris from the area, , 1235139];,# of Outages: 12,Customers Affected: 162,2022-10-17T22:51:34Z
