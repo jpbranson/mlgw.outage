@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[065,10/17/2022 12:59 PM, 10/17/2022 12:59 PM, A crew is currently working on the problem, 10/17/2022 09:30 PM, 1235118];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[1]=[070,10/17/2022 03:21 PM, 10/17/2022 03:21 PM, A crew is currently working on the problem, 10/17/2022 09:30 PM, 1235135];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[2]=[072,10/17/2022 02:38 PM, 10/17/2022 02:38 PM, Customer Svc is working this single customer outage, , 1235128];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[3]=[073,10/17/2022 06:39 PM, 10/17/2022 06:39 PM, The extent of the outage has been determined, , 1235152];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[4]=[085,10/17/2022 03:35 PM, 10/17/2022 03:35 PM, A crew is currently working on the problem, 10/17/2022 08:30 PM, 1235142];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[5]=[092,10/17/2022 03:14 PM, 10/17/2022 03:14 PM, A crew is currently working on the problem, 10/17/2022 06:00 PM, 1235132];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[6]=[093,10/17/2022 03:14 PM, 10/17/2022 03:14 PM, A crew is currently working on the problem, 10/17/2022 06:00 PM, 1235132];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[7]=[093,10/17/2022 05:43 PM, 10/17/2022 05:43 PM, Customer Svc is working this single customer outage, , 1235150];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[8]=[101,10/17/2022 06:32 PM, 10/17/2022 06:32 PM, Customer Svc is working this single customer outage, , 1235151];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[9]=[102,10/17/2022 04:21 PM, 10/17/2022 04:21 PM, Trouble Shooter is determining repairs required, , 1235145];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
+events[10]=[113,10/17/2022 03:30 PM, 10/17/2022 03:30 PM, Tree Trimming is clearing debris from the area, , 1235139];,# of Outages: 10,Customers Affected: 145,2022-10-17T23:53:39Z
