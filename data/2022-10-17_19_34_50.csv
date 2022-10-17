@@ -1,0 +1,9 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[014,10/17/2022 11:23 AM, 10/17/2022 11:23 AM, A crew is currently working on the problem, , 1235106];,# of Outages: 8,Customers Affected: 60,2022-10-17T19:34:50Z
+events[1]=[050,10/17/2022 01:38 PM, 10/17/2022 01:38 PM, A crew is currently working on the problem, , 1235123];,# of Outages: 8,Customers Affected: 60,2022-10-17T19:34:50Z
+events[2]=[065,10/17/2022 12:59 PM, 10/17/2022 12:59 PM, A crew is currently working on the problem, , 1235118];,# of Outages: 8,Customers Affected: 60,2022-10-17T19:34:50Z
+events[3]=[073,10/17/2022 01:59 PM, 10/17/2022 01:59 PM, A crew is currently working on the problem, 10/17/2022 04:30 PM, 1235124];,# of Outages: 8,Customers Affected: 60,2022-10-17T19:34:50Z
+events[4]=[073,10/17/2022 09:52 AM, 10/17/2022 09:52 AM, A crew is currently working on the problem, 10/17/2022 02:30 PM, 1235091];,# of Outages: 8,Customers Affected: 60,2022-10-17T19:34:50Z
+events[5]=[084,10/17/2022 02:11 PM, 10/17/2022 02:11 PM, A crew is currently working on the problem, 10/17/2022 04:30 PM, 1235125];,# of Outages: 8,Customers Affected: 60,2022-10-17T19:34:50Z
+events[6]=[087,10/17/2022 11:25 AM, 10/17/2022 11:25 AM, A crew is currently working on the problem, 10/17/2022 03:30 PM, 1235107];,# of Outages: 8,Customers Affected: 60,2022-10-17T19:34:50Z
+events[7]=[103,10/17/2022 02:18 PM, 10/17/2022 02:18 PM, The extent of the outage has been determined, , 1235126];,# of Outages: 8,Customers Affected: 60,2022-10-17T19:34:50Z
