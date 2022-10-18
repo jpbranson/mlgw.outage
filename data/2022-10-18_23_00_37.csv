@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,10/18/2022 04:33 PM, 10/18/2022 04:33 PM, A crew is currently working on the problem, , 1235258];,# of Outages: 7,Customers Affected: 82,2022-10-18T23:00:37Z
+events[1]=[071,10/18/2022 02:34 PM, 10/18/2022 02:34 PM, Tree Trimming is clearing debris from the area, , 1235235];,# of Outages: 7,Customers Affected: 82,2022-10-18T23:00:37Z
+events[2]=[071,10/18/2022 04:41 PM, 10/18/2022 04:41 PM, Tree Trimming is clearing debris from the area, , 1235260];,# of Outages: 7,Customers Affected: 82,2022-10-18T23:00:37Z
+events[3]=[083,10/18/2022 02:25 PM, 10/18/2022 02:25 PM, Tree Trimming is clearing debris from the area, , 1235233];,# of Outages: 7,Customers Affected: 82,2022-10-18T23:00:37Z
+events[4]=[084,10/18/2022 03:48 PM, 10/18/2022 03:48 PM, Customer Svc is working this single customer outage, , 1235244];,# of Outages: 7,Customers Affected: 82,2022-10-18T23:00:37Z
+events[5]=[084,10/18/2022 04:15 PM, 10/18/2022 04:15 PM, Waiting for an available crew to perform repairs, , 1235257];,# of Outages: 7,Customers Affected: 82,2022-10-18T23:00:37Z
+events[6]=[101,10/18/2022 04:49 PM, 10/18/2022 04:49 PM, Customer Svc is working this single customer outage, , 1235261];,# of Outages: 7,Customers Affected: 82,2022-10-18T23:00:37Z
