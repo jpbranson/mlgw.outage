@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,10/18/2022 12:09 PM, 10/18/2022 12:09 PM, Customer Svc is working this single customer outage, , 1235216];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[1]=[070,10/18/2022 11:41 AM, 10/18/2022 11:41 AM, A crew is currently working on the problem, 10/18/2022 04:30 PM, 1235214];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[2]=[072,10/18/2022 09:07 AM, 10/18/2022 09:07 AM, A crew is currently working on the problem, 10/18/2022 01:30 PM, 1235185];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[3]=[073,10/18/2022 09:26 AM, 10/18/2022 09:26 AM, Trouble Shooter is working on the problem, 10/18/2022 01:00 PM, 1235186];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[4]=[074,10/18/2022 11:41 AM, 10/18/2022 11:41 AM, Customer Svc is working this single customer outage, , 1235213];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[5]=[084,10/18/2022 11:36 AM, 10/18/2022 11:36 AM, A crew is currently working on the problem, 10/18/2022 02:30 PM, 1235212];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[6]=[085,10/18/2022 09:07 AM, 10/18/2022 09:07 AM, A crew is currently working on the problem, 10/18/2022 01:30 PM, 1235185];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[7]=[099,10/18/2022 08:18 AM, 10/18/2022 08:18 AM, A crew is currently working on the problem, 10/18/2022 01:00 PM, 1235181];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[8]=[101,10/18/2022 09:31 AM, 10/18/2022 09:31 AM, A crew is currently working on the problem, 10/18/2022 02:30 PM, 1235187];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[9]=[118,10/18/2022 12:24 PM, 10/18/2022 12:24 PM, A crew is currently working on the problem, 10/18/2022 02:00 PM, 1235219];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
+events[10]=[118,10/18/2022 12:29 PM, 10/18/2022 12:29 PM, A crew is currently working on the problem, 10/18/2022 02:00 PM, 1235220];,# of Outages: 10,Customers Affected: 55,2022-10-18T18:04:25Z
