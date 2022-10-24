@@ -1,0 +1,9 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[065,10/24/2022 12:02 PM, 10/24/2022 12:02 PM, A crew is currently working on the problem, 10/24/2022 03:30 PM, 1235797];,# of Outages: 8,Customers Affected: 181,2022-10-24T19:57:21Z
+events[1]=[065,10/24/2022 12:08 PM, 10/24/2022 12:08 PM, A crew is currently working on the problem, 10/24/2022 03:30 PM, 1235798];,# of Outages: 8,Customers Affected: 181,2022-10-24T19:57:21Z
+events[2]=[066,10/24/2022 02:33 PM, 10/24/2022 02:33 PM, Waiting for an available crew to perform repairs, , 1235803];,# of Outages: 8,Customers Affected: 181,2022-10-24T19:57:21Z
+events[3]=[075,10/24/2022 02:45 PM, 10/24/2022 02:45 PM, The extent of the outage has been determined, , 1235804];,# of Outages: 8,Customers Affected: 181,2022-10-24T19:57:21Z
+events[4]=[084,10/24/2022 12:01 PM, 10/24/2022 12:01 PM, A crew is currently working on the problem, 10/24/2022 04:30 PM, 1235796];,# of Outages: 8,Customers Affected: 181,2022-10-24T19:57:21Z
+events[5]=[085,10/24/2022 01:22 PM, 10/24/2022 01:22 PM, Waiting for an available crew to perform repairs, , 1235800];,# of Outages: 8,Customers Affected: 181,2022-10-24T19:57:21Z
+events[6]=[087,10/24/2022 01:25 PM, 10/24/2022 01:25 PM, Customer Svc is working this single customer outage, , 1235801];,# of Outages: 8,Customers Affected: 181,2022-10-24T19:57:21Z
+events[7]=[113,10/24/2022 07:16 AM, 10/24/2022 07:16 AM, A crew is currently working on the problem, 10/24/2022 09:30 PM, 1235759];,# of Outages: 8,Customers Affected: 181,2022-10-24T19:57:21Z
