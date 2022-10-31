@@ -1,0 +1,4 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[033,10/31/2022 01:15 AM, 10/31/2022 01:15 AM, Waiting for an available crew to perform repairs, , 1237349];,# of Outages: 3,Customers Affected: 3,2022-10-31T10:57:31Z
+events[1]=[033,10/31/2022 01:35 AM, 10/31/2022 01:35 AM, Waiting for an available crew to perform repairs, , 1237350];,# of Outages: 3,Customers Affected: 3,2022-10-31T10:57:31Z
+events[2]=[063,10/31/2022 05:43 AM, 10/31/2022 05:43 AM, The extent of the outage has been determined, , 1237351];,# of Outages: 3,Customers Affected: 3,2022-10-31T10:57:31Z
