@@ -1,0 +1,3 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[101,11/02/2022 04:08 AM, 11/02/2022 04:08 AM, Customer Svc is working this single customer outage, , 1237630];,# of Outages: 2,Customers Affected: 2,2022-11-02T09:54:15Z
+events[1]=[122,11/02/2022 04:34 AM, 11/02/2022 04:34 AM, Customer Svc is working this single customer outage, , 1237631];,# of Outages: 2,Customers Affected: 2,2022-11-02T09:54:15Z
