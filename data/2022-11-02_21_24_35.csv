@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,11/02/2022 01:59 PM, 11/02/2022 01:59 PM, A crew is currently working on the problem, 11/02/2022 05:00 PM, 1237701];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[1]=[049,11/02/2022 02:41 PM, 11/02/2022 02:41 PM, Trouble Shooter is determining repairs required, , 1237717];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[2]=[055,11/02/2022 03:06 PM, 11/02/2022 03:06 PM, Trouble Shooter is determining repairs required, , 1237721];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[3]=[055,11/02/2022 03:06 PM, 11/02/2022 03:06 PM, Trouble Shooter is determining repairs required, , 1237722];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[4]=[064,11/02/2022 01:35 PM, 11/02/2022 01:35 PM, Trouble Shooter is determining repairs required, , 1237698];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[5]=[070,11/02/2022 04:02 PM, 11/02/2022 04:02 PM, Customer Svc is working this single customer outage, , 1237727];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[6]=[073,11/02/2022 01:06 PM, 11/02/2022 01:06 PM, Waiting for an available crew to perform repairs, , 1237663];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[7]=[102,11/02/2022 03:25 PM, 11/02/2022 03:25 PM, Customer Svc is working this single customer outage, , 1237724];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[8]=[113,11/02/2022 03:54 PM, 11/02/2022 03:54 PM, Customer Svc is working this single customer outage, , 1237725];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[9]=[116,11/02/2022 04:18 PM, 11/02/2022 04:18 PM, Waiting to be analyzed, , 1237728];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
+events[10]=[130,11/02/2022 03:58 PM, 11/02/2022 03:58 PM, Customer Svc is working this single customer outage, , 1237726];,# of Outages: 11,Customers Affected: 42,2022-11-02T21:24:35Z
