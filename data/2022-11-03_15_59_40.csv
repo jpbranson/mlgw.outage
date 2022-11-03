@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,11/03/2022 10:50 AM, 11/03/2022 10:50 AM, The extent of the outage has been determined, , 1237780];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[1]=[050,11/03/2022 08:46 AM, 11/03/2022 08:46 AM, A crew is currently working on the problem, 11/03/2022 12:30 PM, 1237758];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[2]=[062,11/03/2022 10:42 AM, 11/03/2022 10:42 AM, Trouble Shooter is working on the problem, 11/03/2022 12:30 PM, 1237779];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[3]=[073,11/03/2022 08:47 AM, 11/03/2022 08:47 AM, A crew is currently working on the problem, 11/03/2022 12:30 PM, 1237759];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[4]=[073,11/03/2022 09:47 AM, 11/03/2022 09:47 AM, A crew is currently working on the problem, 11/03/2022 01:00 PM, 1237772];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[5]=[073,11/03/2022 10:42 AM, 11/03/2022 10:42 AM, Trouble Shooter is working on the problem, 11/03/2022 12:30 PM, 1237779];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[6]=[088,11/03/2022 09:05 AM, 11/03/2022 09:05 AM, Customer Svc is working this single customer outage, , 1237768];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[7]=[088,11/03/2022 10:05 AM, 11/03/2022 10:05 AM, A crew is currently working on the problem, 11/03/2022 12:30 PM, 1237775];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[8]=[103,11/03/2022 08:57 AM, 11/03/2022 08:57 AM, A crew is currently working on the problem, 11/03/2022 01:30 PM, 1237764];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[9]=[103,11/03/2022 08:57 AM, 11/03/2022 08:57 AM, A crew is currently working on the problem, 11/03/2022 01:30 PM, 1237765];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
+events[10]=[118,11/03/2022 10:13 AM, 11/03/2022 10:13 AM, Trouble Shooter is determining repairs required, , 1237776];,# of Outages: 10,Customers Affected: 162,2022-11-03T15:59:40Z
