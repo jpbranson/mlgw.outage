@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,11/04/2022 05:19 PM, 11/04/2022 05:19 PM, Customer Svc is working this single customer outage, , 1237933];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[1]=[062,11/04/2022 05:18 PM, 11/04/2022 05:18 PM, A crew is currently working on the problem, 11/04/2022 07:00 PM, 1237932];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[2]=[070,11/04/2022 04:47 PM, 11/04/2022 04:47 PM, Trouble Shooter is determining repairs required, , 1237925];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[3]=[073,11/04/2022 05:48 PM, 11/04/2022 05:48 PM, Waiting to be analyzed, , 1237935];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[4]=[083,11/04/2022 02:38 PM, 11/04/2022 02:38 PM, Trouble Shooter is determining repairs required, , 1237916];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[5]=[083,11/04/2022 04:51 PM, 11/04/2022 04:51 PM, Trouble Shooter is determining repairs required, , 1237927];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[6]=[083,11/04/2022 05:11 PM, 11/04/2022 05:11 PM, Trouble Shooter is determining repairs required, , 1237931];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[7]=[085,11/04/2022 02:36 PM, 11/04/2022 02:36 PM, Waiting for an available crew to perform repairs, , 1237915];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[8]=[089,11/04/2022 05:09 PM, 11/04/2022 05:09 PM, Trouble Shooter is determining repairs required, , 1237929];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[9]=[098,11/04/2022 05:11 PM, 11/04/2022 05:11 PM, Trouble Shooter is determining repairs required, , 1237930];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
+events[10]=[103,11/04/2022 03:25 PM, 11/04/2022 03:25 PM, A crew is currently working on the problem, 11/04/2022 09:00 PM, 1237920];,# of Outages: 11,Customers Affected: 81,2022-11-04T22:54:12Z
