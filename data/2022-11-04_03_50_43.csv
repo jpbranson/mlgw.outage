@@ -1,0 +1,7 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[022,11/03/2022 08:48 PM, 11/03/2022 08:48 PM, A crew is currently working on the problem, 11/04/2022 12:30 AM, 1237858];,# of Outages: 4,Customers Affected: 96,2022-11-04T03:50:43Z
+events[1]=[023,11/03/2022 08:48 PM, 11/03/2022 08:48 PM, A crew is currently working on the problem, 11/04/2022 12:30 AM, 1237858];,# of Outages: 4,Customers Affected: 96,2022-11-04T03:50:43Z
+events[2]=[034,11/03/2022 08:48 PM, 11/03/2022 08:48 PM, A crew is currently working on the problem, 11/04/2022 12:30 AM, 1237858];,# of Outages: 4,Customers Affected: 96,2022-11-04T03:50:43Z
+events[3]=[052,11/03/2022 09:53 PM, 11/03/2022 09:53 PM, Customer Svc is working this single customer outage, , 1237866];,# of Outages: 4,Customers Affected: 96,2022-11-04T03:50:43Z
+events[4]=[087,11/03/2022 06:51 PM, 11/03/2022 06:51 PM, Waiting for an available crew to perform repairs, , 1237846];,# of Outages: 4,Customers Affected: 96,2022-11-04T03:50:43Z
+events[5]=[087,11/03/2022 09:51 PM, 11/03/2022 09:51 PM, Waiting for an available crew to perform repairs, , 1237865];,# of Outages: 4,Customers Affected: 96,2022-11-04T03:50:43Z
