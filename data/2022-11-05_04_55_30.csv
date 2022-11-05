@@ -1,0 +1,14 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[015,11/04/2022 11:43 PM, 11/04/2022 11:43 PM, Waiting for an available crew to perform repairs, , 1237968];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[1]=[027,11/04/2022 11:43 PM, 11/04/2022 11:43 PM, Waiting for an available crew to perform repairs, , 1237968];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[2]=[049,11/04/2022 10:31 PM, 11/04/2022 10:31 PM, Trouble Shooter is determining repairs required, , 1237956];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[3]=[050,11/04/2022 11:41 PM, 11/04/2022 11:41 PM, The extent of the outage has been determined, , 1237966];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[4]=[073,11/04/2022 09:49 PM, 11/04/2022 09:49 PM, Trouble Shooter is determining repairs required, , 1237954];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[5]=[074,11/04/2022 11:07 PM, 11/04/2022 11:07 PM, Waiting for an available crew to perform repairs, , 1237958];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[6]=[083,11/04/2022 11:06 PM, 11/04/2022 11:06 PM, Waiting for an available crew to perform repairs, , 1237957];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[7]=[085,11/04/2022 11:24 PM, 11/04/2022 11:24 PM, Trouble Shooter is determining repairs required, , 1237959];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[8]=[085,11/04/2022 11:32 PM, 11/04/2022 11:32 PM, Trouble Shooter is determining repairs required, , 1237960];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[9]=[089,11/04/2022 09:15 PM, 11/04/2022 09:15 PM, Trouble Shooter is determining repairs required, , 1237950];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[10]=[103,11/04/2022 03:25 PM, 11/04/2022 03:25 PM, A crew is currently working on the problem, 11/05/2022 02:00 AM, 1237920];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[11]=[115,11/04/2022 11:39 PM, 11/04/2022 11:39 PM, Trouble Shooter is working on the problem, 11/05/2022 02:50 AM, 1237962];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
+events[12]=[116,11/04/2022 11:39 PM, 11/04/2022 11:39 PM, Trouble Shooter is working on the problem, 11/05/2022 02:50 AM, 1237962];,# of Outages: 11,Customers Affected: 1030,2022-11-05T04:55:30Z
