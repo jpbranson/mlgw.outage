@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[003,11/07/2022 08:20 AM, 11/07/2022 08:20 AM, Trouble Shooter is determining repairs required, , 1238742];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[1]=[009,11/07/2022 05:14 AM, 11/07/2022 05:14 AM, Trouble Shooter is determining repairs required, , 1238713];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[2]=[010,11/07/2022 05:14 AM, 11/07/2022 05:14 AM, Trouble Shooter is determining repairs required, , 1238713];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[3]=[040,11/07/2022 08:10 AM, 11/07/2022 08:10 AM, Trouble Shooter is determining repairs required, , 1238740];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[4]=[052,11/07/2022 06:32 AM, 11/07/2022 06:32 AM, Trouble Shooter is determining repairs required, , 1238723];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[5]=[061,11/07/2022 08:11 AM, 11/07/2022 08:11 AM, Customer Svc is working this single customer outage, , 1238741];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[6]=[087,11/07/2022 06:29 AM, 11/07/2022 06:29 AM, Tree Trimming is clearing debris from the area, , 1238721];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[7]=[087,11/07/2022 07:35 AM, 11/07/2022 07:35 AM, Customer Svc is working this single customer outage, , 1238735];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[8]=[097,11/07/2022 07:26 AM, 11/07/2022 07:26 AM, Waiting for an available crew to perform repairs, , 1238732];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[9]=[115,11/07/2022 06:54 AM, 11/07/2022 06:54 AM, A crew is currently working on the problem, 11/07/2022 12:30 PM, 1238727];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[10]=[116,11/07/2022 06:54 AM, 11/07/2022 06:54 AM, A crew is currently working on the problem, 11/07/2022 12:30 PM, 1238727];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
+events[11]=[133,11/07/2022 07:50 AM, 11/07/2022 07:50 AM, Customer Svc is working this single customer outage, , 1238739];,# of Outages: 10,Customers Affected: 259,2022-11-07T14:28:22Z
