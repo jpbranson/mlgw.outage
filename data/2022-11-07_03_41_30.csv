@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,11/05/2022 01:56 AM, 11/05/2022 01:56 AM, A crew is currently working on the problem, 11/06/2022 11:00 PM, 1238045];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[1]=[065,11/05/2022 08:48 AM, 11/05/2022 08:48 AM, A crew is currently working on the problem, 11/06/2022 11:00 PM, 1238249];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[2]=[072,11/06/2022 09:17 PM, 11/06/2022 09:17 PM, A crew is currently working on the problem, 11/06/2022 11:00 PM, 1238697];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[3]=[073,11/06/2022 09:28 PM, 11/06/2022 09:28 PM, A crew is currently working on the problem, 11/06/2022 11:30 PM, 1238698];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[4]=[083,11/05/2022 02:47 PM, 11/05/2022 02:47 PM, Waiting for an available crew to perform repairs, , 1238435];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[5]=[083,11/06/2022 09:06 PM, 11/06/2022 09:06 PM, A crew is currently working on the problem, 11/06/2022 11:30 PM, 1238694];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[6]=[084,11/05/2022 10:46 AM, 11/05/2022 10:46 AM, A crew is currently working on the problem, 11/06/2022 11:30 PM, 1238349];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[7]=[085,11/05/2022 09:21 AM, 11/05/2022 09:21 AM, A crew is currently working on the problem, 11/06/2022 11:30 PM, 1238269];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[8]=[090,11/06/2022 06:31 PM, 11/06/2022 06:31 PM, A crew is currently working on the problem, 11/06/2022 11:30 PM, 1238685];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[9]=[103,11/06/2022 11:21 AM, 11/06/2022 11:21 AM, A crew is currently working on the problem, 11/06/2022 11:30 PM, 1238657];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
+events[10]=[103,11/06/2022 11:22 AM, 11/06/2022 11:22 AM, A crew is currently working on the problem, 11/06/2022 11:30 PM, 1238658];,# of Outages: 11,Customers Affected: 121,2022-11-07T03:41:30Z
