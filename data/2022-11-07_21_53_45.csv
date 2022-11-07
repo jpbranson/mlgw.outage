@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,11/07/2022 01:22 PM, 11/07/2022 01:22 PM, Waiting for an available crew to perform repairs, , 1238866];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[1]=[049,11/07/2022 02:33 PM, 11/07/2022 02:33 PM, Trouble Shooter is working on the problem, 11/07/2022 06:00 PM, 1238905];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[2]=[049,11/07/2022 03:42 PM, 11/07/2022 03:42 PM, Waiting to be analyzed, , 1238930];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[3]=[060,11/07/2022 02:33 PM, 11/07/2022 02:33 PM, Trouble Shooter is working on the problem, 11/07/2022 06:00 PM, 1238905];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[4]=[063,11/07/2022 03:44 PM, 11/07/2022 03:44 PM, The extent of the outage has been determined, , 1238931];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[5]=[064,11/07/2022 02:04 PM, 11/07/2022 02:04 PM, Waiting for an available crew to perform repairs, , 1238874];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[6]=[073,11/07/2022 03:38 PM, 11/07/2022 03:38 PM, Waiting for an available crew to perform repairs, , 1238929];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[7]=[074,11/07/2022 02:00 PM, 11/07/2022 02:00 PM, Waiting for an available crew to perform repairs, , 1238872];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[8]=[087,11/07/2022 03:13 PM, 11/07/2022 03:13 PM, Customer Svc is working this single customer outage, , 1238927];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[9]=[100,11/07/2022 02:54 PM, 11/07/2022 02:54 PM, Customer Svc is working this single customer outage, , 1238924];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
+events[10]=[100,11/07/2022 03:24 PM, 11/07/2022 03:24 PM, Trouble Shooter is determining repairs required, , 1238928];,# of Outages: 10,Customers Affected: 595,2022-11-07T21:53:45Z
