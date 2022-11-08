@@ -1,0 +1,17 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,11/08/2022 11:34 AM, 11/08/2022 11:34 AM, Trouble Shooter is working on the problem, 11/08/2022 02:00 PM, 1239022];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[1]=[052,11/08/2022 10:55 AM, 11/08/2022 10:55 AM, A crew is currently working on the problem, 11/08/2022 05:30 PM, 1239014];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[2]=[053,11/08/2022 01:46 PM, 11/08/2022 01:46 PM, The extent of the outage has been determined, , 1239050];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[3]=[061,11/08/2022 12:27 PM, 11/08/2022 12:27 PM, Trouble Shooter is determining repairs required, , 1239031];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[4]=[063,11/08/2022 01:26 PM, 11/08/2022 01:26 PM, Customer Svc is working this single customer outage, , 1239047];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[5]=[065,11/08/2022 12:41 PM, 11/08/2022 12:41 PM, Trouble Shooter is determining repairs required, , 1239034];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[6]=[073,11/08/2022 01:13 PM, 11/08/2022 01:13 PM, Customer Svc is working this single customer outage, , 1239045];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[7]=[087,11/08/2022 01:21 PM, 11/08/2022 01:21 PM, Trouble Shooter is determining repairs required, , 1239046];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[8]=[096,11/08/2022 01:42 PM, 11/08/2022 01:42 PM, Waiting for an available crew to perform repairs, , 1239049];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[9]=[100,11/08/2022 11:31 AM, 11/08/2022 11:31 AM, Customer Svc is working this single customer outage, , 1239021];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[10]=[101,11/08/2022 10:56 AM, 11/08/2022 10:56 AM, A crew is currently working on the problem, 11/08/2022 02:30 PM, 1239016];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[11]=[101,11/08/2022 12:50 PM, 11/08/2022 12:50 PM, A crew is currently working on the problem, 11/08/2022 02:30 PM, 1239036];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[12]=[103,11/08/2022 01:28 PM, 11/08/2022 01:28 PM, Customer Svc is working this single customer outage, , 1239048];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[13]=[113,11/08/2022 09:51 AM, 11/08/2022 09:51 AM, A crew is currently working on the problem, 11/08/2022 02:30 PM, 1239009];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[14]=[117,11/08/2022 12:50 PM, 11/08/2022 12:50 PM, A crew is currently working on the problem, 11/08/2022 02:30 PM, 1239036];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
+events[15]=[118,11/08/2022 12:54 PM, 11/08/2022 12:54 PM, Customer Svc is working this single customer outage, , 1239044];,# of Outages: 15,Customers Affected: 1173,2022-11-08T19:54:30Z
