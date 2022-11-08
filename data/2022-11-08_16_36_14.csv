@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,11/08/2022 07:50 AM, 11/08/2022 07:50 AM, Waiting to be analyzed, , 1238984];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[1]=[055,11/08/2022 09:26 AM, 11/08/2022 09:26 AM, A crew is currently working on the problem, 11/08/2022 11:00 AM, 1239001];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[2]=[061,11/08/2022 09:39 AM, 11/08/2022 09:39 AM, A crew is currently working on the problem, 11/08/2022 12:30 PM, 1239006];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[3]=[074,11/08/2022 09:06 AM, 11/08/2022 09:06 AM, Trouble Shooter is working on the problem, 11/08/2022 11:30 AM, 1238997];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[4]=[083,11/08/2022 09:08 AM, 11/08/2022 09:08 AM, A crew is currently working on the problem, 11/08/2022 12:30 PM, 1238999];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[5]=[087,11/08/2022 09:30 AM, 11/08/2022 09:30 AM, A crew is currently working on the problem, 11/08/2022 12:00 PM, 1239004];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[6]=[087,11/08/2022 09:54 AM, 11/08/2022 09:54 AM, Trouble Shooter is determining repairs required, , 1239010];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[7]=[099,11/08/2022 08:34 AM, 11/08/2022 08:34 AM, Trouble Shooter is working on the problem, 11/08/2022 12:30 PM, 1238989];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[8]=[103,11/08/2022 07:03 AM, 11/08/2022 07:03 AM, A crew is currently working on the problem, 11/08/2022 11:30 AM, 1238981];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[9]=[113,11/08/2022 09:51 AM, 11/08/2022 09:51 AM, Trouble Shooter is determining repairs required, , 1239009];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[10]=[118,11/07/2022 08:06 PM, 11/07/2022 08:06 PM, A crew is currently working on the problem, 11/08/2022 12:30 PM, 1238958];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
+events[11]=[118,11/08/2022 09:06 AM, 11/08/2022 09:06 AM, Trouble Shooter is determining repairs required, , 1238998];,# of Outages: 12,Customers Affected: 120,2022-11-08T16:36:14Z
