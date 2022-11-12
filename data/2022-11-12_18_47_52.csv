@@ -1,0 +1,4 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[074,11/12/2022 11:09 AM, 11/12/2022 11:09 AM, A crew is currently working on the problem, 11/12/2022 02:00 PM, 1239474];,# of Outages: 3,Customers Affected: 13,2022-11-12T18:47:52Z
+events[1]=[083,11/12/2022 08:33 AM, 11/12/2022 08:33 AM, Waiting for an available crew to perform repairs, , 1239469];,# of Outages: 3,Customers Affected: 13,2022-11-12T18:47:52Z
+events[2]=[099,11/12/2022 12:43 PM, 11/12/2022 12:43 PM, Waiting to be analyzed, , 1239478];,# of Outages: 3,Customers Affected: 13,2022-11-12T18:47:52Z
