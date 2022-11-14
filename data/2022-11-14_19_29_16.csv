@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,11/14/2022 01:12 PM, 11/14/2022 01:12 PM, Customer Svc is working this single customer outage, , 1239610];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[1]=[054,11/14/2022 09:32 AM, 11/14/2022 09:32 AM, A crew is currently working on the problem, 11/14/2022 02:30 PM, 1239593];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[2]=[064,11/14/2022 12:20 PM, 11/14/2022 12:20 PM, Customer Svc is working this single customer outage, , 1239603];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[3]=[066,11/14/2022 12:21 PM, 11/14/2022 12:21 PM, Customer Svc is working this single customer outage, , 1239604];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[4]=[072,11/14/2022 01:18 PM, 11/14/2022 01:18 PM, The extent of the outage has been determined, , 1239611];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[5]=[086,11/14/2022 12:48 PM, 11/14/2022 12:48 PM, Trouble Shooter is determining repairs required, , 1239607];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[6]=[086,11/14/2022 12:50 PM, 11/14/2022 12:50 PM, Trouble Shooter is determining repairs required, , 1239608];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[7]=[087,11/14/2022 07:39 AM, 11/14/2022 07:39 AM, A crew is currently working on the problem, 11/14/2022 03:00 PM, 1239574];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[8]=[087,11/14/2022 08:25 AM, 11/14/2022 08:25 AM, A crew is currently working on the problem, 11/14/2022 03:00 PM, 1239581];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[9]=[100,11/14/2022 12:50 PM, 11/14/2022 12:50 PM, Trouble Shooter is determining repairs required, , 1239608];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
+events[10]=[101,11/14/2022 12:59 PM, 11/14/2022 12:59 PM, Customer Svc is working this single customer outage, , 1239609];,# of Outages: 10,Customers Affected: 72,2022-11-14T19:29:16Z
