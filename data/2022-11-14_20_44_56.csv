@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[052,11/14/2022 01:12 PM, 11/14/2022 01:12 PM, Customer Svc is working this single customer outage, , 1239610];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[1]=[054,11/14/2022 09:32 AM, 11/14/2022 09:32 AM, A crew is currently working on the problem, 11/14/2022 02:30 PM, 1239593];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[2]=[063,11/14/2022 02:36 PM, 11/14/2022 02:36 PM, The extent of the outage has been determined, , 1239621];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[3]=[069,11/14/2022 02:37 PM, 11/14/2022 02:37 PM, Waiting to be analyzed, , 1239622];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[4]=[083,11/14/2022 02:26 PM, 11/14/2022 02:26 PM, Waiting for an available crew to perform repairs, , 1239619];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[5]=[083,11/14/2022 02:34 PM, 11/14/2022 02:34 PM, Waiting to be analyzed, , 1239620];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[6]=[087,11/14/2022 07:39 AM, 11/14/2022 07:39 AM, A crew is currently working on the problem, 11/14/2022 03:00 PM, 1239574];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[7]=[087,11/14/2022 08:25 AM, 11/14/2022 08:25 AM, A crew is currently working on the problem, 11/14/2022 03:00 PM, 1239581];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[8]=[101,11/14/2022 01:52 PM, 11/14/2022 01:52 PM, A crew is currently working on the problem, 11/14/2022 04:00 PM, 1239614];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[9]=[101,11/14/2022 02:05 PM, 11/14/2022 02:05 PM, A crew is currently working on the problem, 11/14/2022 04:00 PM, 1239615];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
+events[10]=[101,11/14/2022 12:59 PM, 11/14/2022 12:59 PM, Customer Svc is working this single customer outage, , 1239609];,# of Outages: 11,Customers Affected: 24,2022-11-14T20:44:56Z
