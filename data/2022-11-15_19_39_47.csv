@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,11/15/2022 01:23 PM, 11/15/2022 01:23 PM, Customer Svc is working this single customer outage, , 1239763];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[1]=[055,11/15/2022 10:01 AM, 11/15/2022 10:01 AM, A crew is currently working on the problem, 11/15/2022 02:30 PM, 1239737];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[2]=[060,11/15/2022 12:32 PM, 11/15/2022 12:32 PM, Trouble Shooter is determining repairs required, , 1239759];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[3]=[065,11/15/2022 01:10 PM, 11/15/2022 01:10 PM, A crew is currently working on the problem, 11/15/2022 04:00 PM, 1239762];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[4]=[071,11/15/2022 08:47 AM, 11/15/2022 08:47 AM, A crew is currently working on the problem, 11/15/2022 02:30 PM, 1239722];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[5]=[071,11/15/2022 12:47 PM, 11/15/2022 12:47 PM, A crew is currently working on the problem, 11/15/2022 02:30 PM, 1239761];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[6]=[085,11/15/2022 11:12 AM, 11/15/2022 11:12 AM, A crew is currently working on the problem, 11/15/2022 03:00 PM, 1239752];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[7]=[089,11/15/2022 08:44 AM, 11/15/2022 08:44 AM, A crew is currently working on the problem, 11/15/2022 02:30 PM, 1239721];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[8]=[098,11/15/2022 01:25 PM, 11/15/2022 01:25 PM, A crew is currently working on the problem, 11/15/2022 04:00 PM, 1239764];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[9]=[101,11/15/2022 11:50 AM, 11/15/2022 11:50 AM, Customer Svc is working this single customer outage, , 1239756];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
+events[10]=[107,11/15/2022 11:47 AM, 11/15/2022 11:47 AM, Trouble Shooter is determining repairs required, , 1239755];,# of Outages: 11,Customers Affected: 89,2022-11-15T19:39:47Z
