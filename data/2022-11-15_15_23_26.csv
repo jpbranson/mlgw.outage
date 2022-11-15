@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,11/15/2022 08:59 AM, 11/15/2022 08:59 AM, Customer Svc is working this single customer outage, , 1239725];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[1]=[063,11/15/2022 08:50 AM, 11/15/2022 08:50 AM, A crew is currently working on the problem, 11/15/2022 10:30 AM, 1239724];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[2]=[071,11/15/2022 02:48 AM, 11/15/2022 02:48 AM, A crew is currently working on the problem, 11/15/2022 11:30 AM, 1239708];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[3]=[071,11/15/2022 02:50 AM, 11/15/2022 02:50 AM, A crew is currently working on the problem, 11/15/2022 11:30 AM, 1239709];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[4]=[071,11/15/2022 08:47 AM, 11/15/2022 08:47 AM, A crew is currently working on the problem, 11/15/2022 11:30 AM, 1239722];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[5]=[072,11/15/2022 02:50 AM, 11/15/2022 02:50 AM, A crew is currently working on the problem, 11/15/2022 11:30 AM, 1239709];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[6]=[072,11/15/2022 09:13 AM, 11/15/2022 09:13 AM, Trouble Shooter is determining repairs required, , 1239727];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[7]=[089,11/15/2022 08:44 AM, 11/15/2022 08:44 AM, A crew is currently working on the problem, , 1239721];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[8]=[100,11/15/2022 07:37 AM, 11/15/2022 07:37 AM, Customer Svc is working this single customer outage, , 1239713];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[9]=[114,11/14/2022 06:48 PM, 11/14/2022 06:48 PM, A crew is currently working on the problem, 11/15/2022 11:30 AM, 1239673];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[10]=[114,11/14/2022 06:52 PM, 11/14/2022 06:52 PM, A crew is currently working on the problem, 11/15/2022 11:30 AM, 1239674];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
+events[11]=[114,11/15/2022 07:07 AM, 11/15/2022 07:07 AM, Customer Svc is working this single customer outage, , 1239710];,# of Outages: 11,Customers Affected: 175,2022-11-15T15:23:26Z
