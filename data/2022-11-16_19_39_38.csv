@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,11/16/2022 10:10 AM, 11/16/2022 10:10 AM, A crew is currently working on the problem, 11/16/2022 02:30 PM, 1239846];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[1]=[017,11/16/2022 10:57 AM, 11/16/2022 10:57 AM, A crew is currently working on the problem, 11/16/2022 02:30 PM, 1239848];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[2]=[050,11/16/2022 01:06 PM, 11/16/2022 01:06 PM, Customer Svc is working this single customer outage, , 1239859];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[3]=[064,11/16/2022 01:22 PM, 11/16/2022 01:22 PM, Customer Svc is working this single customer outage, , 1239861];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[4]=[071,11/16/2022 01:26 PM, 11/16/2022 01:26 PM, Trouble Shooter is determining repairs required, , 1239862];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[5]=[071,11/16/2022 12:50 PM, 11/16/2022 12:50 PM, Trouble Shooter is determining repairs required, , 1239854];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[6]=[073,11/16/2022 09:21 AM, 11/16/2022 09:21 AM, Trouble Shooter is working on the problem, 11/16/2022 02:00 PM, 1239832];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[7]=[074,11/16/2022 01:04 PM, 11/16/2022 01:04 PM, A crew is currently working on the problem, 11/16/2022 04:30 PM, 1239857];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[8]=[074,11/16/2022 09:21 AM, 11/16/2022 09:21 AM, Trouble Shooter is working on the problem, 11/16/2022 02:00 PM, 1239832];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[9]=[085,11/16/2022 01:18 PM, 11/16/2022 01:18 PM, A crew is currently working on the problem, 11/16/2022 04:00 PM, 1239860];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[10]=[097,11/16/2022 01:32 PM, 11/16/2022 01:32 PM, Waiting to be analyzed, , 1239863];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
+events[11]=[114,11/16/2022 12:44 PM, 11/16/2022 12:44 PM, A crew is currently working on the problem, 11/16/2022 03:00 PM, 1239853];,# of Outages: 11,Customers Affected: 49,2022-11-16T19:39:38Z
