@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,11/16/2022 10:10 AM, 11/16/2022 10:10 AM, A crew is currently working on the problem, 11/16/2022 02:30 PM, 1239846];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[1]=[017,11/16/2022 10:57 AM, 11/16/2022 10:57 AM, A crew is currently working on the problem, 11/16/2022 02:30 PM, 1239848];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[2]=[050,11/16/2022 01:06 PM, 11/16/2022 01:06 PM, Customer Svc is working this single customer outage, , 1239859];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[3]=[071,11/16/2022 01:26 PM, 11/16/2022 01:26 PM, Trouble Shooter is determining repairs required, , 1239862];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[4]=[071,11/16/2022 02:18 PM, 11/16/2022 02:18 PM, Waiting to be analyzed, , 1239867];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[5]=[071,11/16/2022 12:50 PM, 11/16/2022 12:50 PM, Trouble Shooter is determining repairs required, , 1239854];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[6]=[074,11/16/2022 01:04 PM, 11/16/2022 01:04 PM, A crew is currently working on the problem, 11/16/2022 04:30 PM, 1239857];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[7]=[075,11/16/2022 01:40 PM, 11/16/2022 01:40 PM, Customer Svc is working this single customer outage, , 1239864];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[8]=[084,11/16/2022 01:55 PM, 11/16/2022 01:55 PM, Customer Svc is working this single customer outage, , 1239866];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[9]=[097,11/16/2022 01:32 PM, 11/16/2022 01:32 PM, Customer Svc is working this single customer outage, , 1239863];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
+events[10]=[114,11/16/2022 12:44 PM, 11/16/2022 12:44 PM, A crew is currently working on the problem, 11/16/2022 03:00 PM, 1239853];,# of Outages: 11,Customers Affected: 26,2022-11-16T20:23:53Z
