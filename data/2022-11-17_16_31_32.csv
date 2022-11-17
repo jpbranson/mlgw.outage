@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[050,11/17/2022 10:20 AM, 11/17/2022 10:20 AM, Waiting to be analyzed, , 1239999];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[1]=[062,11/17/2022 08:28 AM, 11/17/2022 08:28 AM, A crew is currently working on the problem, 11/17/2022 01:30 PM, 1239973];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[2]=[065,11/17/2022 10:11 AM, 11/17/2022 10:11 AM, Waiting to be analyzed, , 1239995];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[3]=[071,11/17/2022 10:14 AM, 11/17/2022 10:14 AM, A crew is currently working on the problem, 11/17/2022 12:00 PM, 1239997];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[4]=[073,11/17/2022 07:55 AM, 11/17/2022 07:55 AM, A crew is currently working on the problem, 11/17/2022 11:30 AM, 1239971];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[5]=[073,11/17/2022 09:12 AM, 11/17/2022 09:12 AM, A crew is currently working on the problem, 11/17/2022 11:30 AM, 1239987];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[6]=[073,11/17/2022 09:30 AM, 11/17/2022 09:30 AM, A crew is currently working on the problem, 11/17/2022 11:30 AM, 1239988];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[7]=[073,11/17/2022 10:18 AM, 11/17/2022 10:18 AM, Waiting to be analyzed, , 1239998];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[8]=[083,11/17/2022 09:52 AM, 11/17/2022 09:52 AM, Customer Svc is working this single customer outage, , 1239994];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[9]=[085,11/17/2022 09:30 AM, 11/17/2022 09:30 AM, Customer Svc is working this single customer outage, , 1239989];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[10]=[085,11/17/2022 09:48 AM, 11/17/2022 09:48 AM, Trouble Shooter is determining repairs required, , 1239993];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[11]=[114,11/17/2022 08:53 AM, 11/17/2022 08:53 AM, A crew is currently working on the problem, 11/17/2022 10:30 AM, 1239984];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[12]=[118,11/17/2022 10:14 AM, 11/17/2022 10:14 AM, Waiting to be analyzed, , 1239996];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
+events[13]=[130,11/17/2022 08:53 AM, 11/17/2022 08:53 AM, A crew is currently working on the problem, 11/17/2022 10:30 AM, 1239984];,# of Outages: 13,Customers Affected: 191,2022-11-17T16:31:32Z
