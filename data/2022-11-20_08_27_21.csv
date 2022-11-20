@@ -1,0 +1,11 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[051,11/20/2022 02:16 AM, 11/20/2022 02:16 AM, The extent of the outage has been determined, , 1240288];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
+events[1]=[051,11/20/2022 02:19 AM, 11/20/2022 02:19 AM, Waiting to be analyzed, , 1240289];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
+events[2]=[052,11/20/2022 02:21 AM, 11/20/2022 02:21 AM, Waiting to be analyzed, , 1240290];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
+events[3]=[088,11/20/2022 02:04 AM, 11/20/2022 02:04 AM, The extent of the outage has been determined, , 1240284];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
+events[4]=[088,11/20/2022 02:14 AM, 11/20/2022 02:14 AM, Waiting to be analyzed, , 1240286];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
+events[5]=[118,11/20/2022 01:52 AM, 11/20/2022 01:52 AM, Trouble Shooter is working on the problem, 11/20/2022 05:30 AM, 1240279];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
+events[6]=[118,11/20/2022 01:56 AM, 11/20/2022 01:56 AM, Trouble Shooter is determining repairs required, , 1240283];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
+events[7]=[119,11/20/2022 02:10 AM, 11/20/2022 02:10 AM, The extent of the outage has been determined, , 1240285];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
+events[8]=[119,11/20/2022 02:16 AM, 11/20/2022 02:16 AM, Waiting to be analyzed, , 1240287];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
+events[9]=[134,11/20/2022 01:52 AM, 11/20/2022 01:52 AM, Trouble Shooter is working on the problem, 11/20/2022 05:30 AM, 1240279];,# of Outages: 9,Customers Affected: 783,2022-11-20T08:27:21Z
