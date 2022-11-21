@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[064,11/21/2022 12:16 PM, 11/21/2022 12:16 PM, A crew is currently working on the problem, 11/21/2022 03:00 PM, 1240371];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[1]=[071,11/21/2022 01:19 PM, 11/21/2022 01:19 PM, A crew is currently working on the problem, 11/21/2022 03:30 PM, 1240380];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[2]=[072,11/21/2022 06:34 AM, 11/21/2022 06:34 AM, A crew is currently working on the problem, 11/21/2022 03:30 PM, 1240342];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[3]=[072,11/21/2022 09:31 AM, 11/21/2022 09:31 AM, A crew is currently working on the problem, 11/21/2022 03:30 PM, 1240357];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[4]=[074,11/21/2022 01:35 PM, 11/21/2022 01:35 PM, A crew is currently working on the problem, 11/21/2022 03:30 PM, 1240387];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[5]=[078,11/21/2022 12:58 PM, 11/21/2022 12:58 PM, Trouble Shooter is determining repairs required, , 1240377];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[6]=[083,11/21/2022 12:18 PM, 11/21/2022 12:18 PM, Trouble Shooter is determining repairs required, , 1240372];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[7]=[084,11/21/2022 01:12 PM, 11/21/2022 01:12 PM, A crew is currently working on the problem, 11/21/2022 05:30 PM, 1240378];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[8]=[084,11/21/2022 01:14 PM, 11/21/2022 01:14 PM, A crew is currently working on the problem, 11/21/2022 05:30 PM, 1240379];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[9]=[100,11/21/2022 12:55 PM, 11/21/2022 12:55 PM, Customer Svc is working this single customer outage, , 1240375];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
+events[10]=[115,11/21/2022 12:24 PM, 11/21/2022 12:24 PM, A crew is currently working on the problem, 11/21/2022 03:30 PM, 1240374];,# of Outages: 11,Customers Affected: 50,2022-11-21T19:54:11Z
