@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[029,11/23/2022 10:05 AM, 11/23/2022 10:05 AM, Waiting to be analyzed, , 1240598];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[1]=[051,11/23/2022 04:31 AM, 11/23/2022 04:31 AM, A crew is currently working on the problem, 11/23/2022 12:00 PM, 1240572];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[2]=[063,11/23/2022 10:41 AM, 11/23/2022 10:41 AM, A crew is currently working on the problem, 11/23/2022 01:00 PM, 1240600];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[3]=[065,11/23/2022 08:26 AM, 11/23/2022 08:26 AM, Trouble Shooter is determining repairs required, , 1240583];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[4]=[070,11/23/2022 09:57 AM, 11/23/2022 09:57 AM, Customer Svc is working this single customer outage, , 1240596];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[5]=[074,11/23/2022 10:41 AM, 11/23/2022 10:41 AM, A crew is currently working on the problem, 11/23/2022 01:00 PM, 1240600];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[6]=[083,11/23/2022 10:37 AM, 11/23/2022 10:37 AM, Waiting to be analyzed, , 1240599];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[7]=[085,11/23/2022 08:59 AM, 11/23/2022 08:59 AM, A crew is currently working on the problem, 11/23/2022 12:00 PM, 1240592];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[8]=[086,11/23/2022 09:30 AM, 11/23/2022 09:30 AM, Trouble Shooter is determining repairs required, , 1240593];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[9]=[098,11/23/2022 08:29 AM, 11/23/2022 08:29 AM, A crew is currently working on the problem, 11/23/2022 12:00 PM, 1240586];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[10]=[098,11/23/2022 10:00 AM, 11/23/2022 10:00 AM, Customer Svc is working this single customer outage, , 1240597];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
+events[11]=[101,11/23/2022 09:47 AM, 11/23/2022 09:47 AM, A crew is currently working on the problem, 11/23/2022 12:00 PM, 1240595];,# of Outages: 11,Customers Affected: 182,2022-11-23T16:52:31Z
