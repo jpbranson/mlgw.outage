@@ -1,0 +1,15 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[053,11/24/2022 04:50 PM, 11/24/2022 04:50 PM, Customer Svc is working this single customer outage, , 1240764];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[1]=[072,11/24/2022 05:11 PM, 11/24/2022 05:11 PM, Waiting to be analyzed, , 1240768];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[2]=[073,11/24/2022 04:02 PM, 11/24/2022 04:02 PM, Customer Svc is working this single customer outage, , 1240733];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[3]=[073,11/24/2022 04:21 PM, 11/24/2022 04:21 PM, Customer Svc is working this single customer outage, , 1240737];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[4]=[075,11/24/2022 04:53 PM, 11/24/2022 04:53 PM, Trouble Shooter is determining repairs required, , 1240765];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[5]=[076,11/24/2022 04:40 PM, 11/24/2022 04:40 PM, Trouble Shooter is working on the problem, 11/24/2022 08:00 PM, 1240742];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[6]=[077,11/24/2022 04:40 PM, 11/24/2022 04:40 PM, Trouble Shooter is working on the problem, 11/24/2022 08:00 PM, 1240742];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[7]=[077,11/24/2022 04:43 PM, 11/24/2022 04:43 PM, Waiting for an available crew to perform repairs, , 1240762];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[8]=[086,11/24/2022 03:32 PM, 11/24/2022 03:32 PM, Waiting for an available crew to perform repairs, , 1240717];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[9]=[088,11/24/2022 04:59 PM, 11/24/2022 04:59 PM, Customer Svc is working this single customer outage, , 1240766];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[10]=[089,11/24/2022 04:40 PM, 11/24/2022 04:40 PM, Trouble Shooter is working on the problem, 11/24/2022 08:00 PM, 1240742];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[11]=[098,11/24/2022 11:35 AM, 11/24/2022 11:35 AM, A crew is currently working on the problem, 11/24/2022 06:00 PM, 1240709];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[12]=[114,11/23/2022 07:19 PM, 11/23/2022 07:19 PM, A crew is currently working on the problem, 11/24/2022 06:30 PM, 1240644];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
+events[13]=[119,11/24/2022 02:44 PM, 11/24/2022 02:44 PM, A crew is currently working on the problem, , 1240714];,# of Outages: 12,Customers Affected: 2085,2022-11-24T23:22:11Z
