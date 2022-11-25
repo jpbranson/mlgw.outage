@@ -1,0 +1,8 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[049,11/25/2022 12:18 PM, 11/25/2022 12:18 PM, Customer Svc is working this single customer outage, , 1240852];,# of Outages: 7,Customers Affected: 30,2022-11-25T18:53:25Z
+events[1]=[052,11/25/2022 12:49 PM, 11/25/2022 12:49 PM, The extent of the outage has been determined, , 1240854];,# of Outages: 7,Customers Affected: 30,2022-11-25T18:53:25Z
+events[2]=[061,11/25/2022 08:35 AM, 11/25/2022 08:35 AM, Tree Trimming is clearing debris from the area, , 1240825];,# of Outages: 7,Customers Affected: 30,2022-11-25T18:53:25Z
+events[3]=[073,11/25/2022 09:03 AM, 11/25/2022 09:03 AM, Tree Trimming is clearing debris from the area, , 1240829];,# of Outages: 7,Customers Affected: 30,2022-11-25T18:53:25Z
+events[4]=[098,11/25/2022 11:13 AM, 11/25/2022 11:13 AM, Waiting for an available crew to perform repairs, , 1240848];,# of Outages: 7,Customers Affected: 30,2022-11-25T18:53:25Z
+events[5]=[098,11/25/2022 12:28 PM, 11/25/2022 12:28 PM, Customer Svc is working this single customer outage, , 1240853];,# of Outages: 7,Customers Affected: 30,2022-11-25T18:53:25Z
+events[6]=[117,11/25/2022 09:30 AM, 11/25/2022 09:30 AM, Waiting for an available crew to perform repairs, , 1240835];,# of Outages: 7,Customers Affected: 30,2022-11-25T18:53:25Z
