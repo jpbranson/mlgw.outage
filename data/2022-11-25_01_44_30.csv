@@ -1,0 +1,12 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[060,11/24/2022 06:48 PM, 11/24/2022 06:48 PM, Trouble Shooter is determining repairs required, , 1240777];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[1]=[072,11/24/2022 05:11 PM, 11/24/2022 05:11 PM, Waiting for an available crew to perform repairs, , 1240768];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[2]=[075,11/24/2022 04:53 PM, 11/24/2022 04:53 PM, Tree Trimming is clearing debris from the area, , 1240765];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[3]=[076,11/24/2022 07:37 PM, 11/24/2022 07:37 PM, Waiting to be analyzed, , 1240801];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[4]=[077,11/24/2022 07:09 PM, 11/24/2022 07:09 PM, Waiting for an available crew to perform repairs, , 1240795];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[5]=[077,11/24/2022 07:11 PM, 11/24/2022 07:11 PM, Waiting for an available crew to perform repairs, , 1240796];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[6]=[086,11/24/2022 03:32 PM, 11/24/2022 03:32 PM, Waiting for an available crew to perform repairs, , 1240717];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[7]=[086,11/24/2022 06:35 PM, 11/24/2022 06:35 PM, Customer Svc is working this single customer outage, , 1240774];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[8]=[098,11/24/2022 06:56 PM, 11/24/2022 06:56 PM, A crew is currently working on the problem, 11/24/2022 08:00 PM, 1240781];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[9]=[098,11/24/2022 11:35 AM, 11/24/2022 11:35 AM, A crew is currently working on the problem, 11/24/2022 08:00 PM, 1240709];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
+events[10]=[119,11/24/2022 02:44 PM, 11/24/2022 02:44 PM, A crew is currently working on the problem, 11/24/2022 09:00 PM, 1240714];,# of Outages: 11,Customers Affected: 213,2022-11-25T01:44:30Z
