@@ -1,0 +1,26 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[004,11/26/2022 11:31 PM, 11/26/2022 11:31 PM, Waiting to be analyzed, , 1241024];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[1]=[028,11/26/2022 05:25 PM, 11/26/2022 05:25 PM, Trouble Shooter is determining repairs required, , 1240909];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[2]=[028,11/26/2022 08:28 PM, 11/26/2022 08:28 PM, Trouble Shooter is determining repairs required, , 1240942];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[3]=[029,11/26/2022 05:25 PM, 11/26/2022 05:25 PM, Trouble Shooter is determining repairs required, , 1240909];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[4]=[038,11/26/2022 07:24 PM, 11/26/2022 07:24 PM, Waiting for an available crew to perform repairs, , 1240933];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[5]=[051,11/26/2022 08:44 PM, 11/26/2022 08:44 PM, A crew is currently working on the problem, 11/27/2022 02:00 AM, 1240983];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[6]=[052,11/26/2022 10:44 PM, 11/26/2022 10:44 PM, Trouble Shooter is determining repairs required, , 1241008];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[7]=[052,11/26/2022 11:27 PM, 11/26/2022 11:27 PM, Waiting for an available crew to perform repairs, , 1241018];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[8]=[060,11/26/2022 10:45 PM, 11/26/2022 10:45 PM, Customer Svc is working this single customer outage, , 1241009];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[9]=[072,11/26/2022 08:20 PM, 11/26/2022 08:20 PM, Waiting for an available crew to perform repairs, , 1240941];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[10]=[072,11/26/2022 11:22 PM, 11/26/2022 11:22 PM, The extent of the outage has been determined, , 1241014];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[11]=[073,11/26/2022 08:34 PM, 11/26/2022 08:34 PM, Trouble Shooter is determining repairs required, , 1240943];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[12]=[074,11/26/2022 10:57 PM, 11/26/2022 10:57 PM, Customer Svc is working this single customer outage, , 1241010];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[13]=[074,11/26/2022 11:30 PM, 11/26/2022 11:30 PM, Waiting to be analyzed, , 1241019];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[14]=[074,11/26/2022 11:30 PM, 11/26/2022 11:30 PM, Waiting to be analyzed, , 1241020];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[15]=[074,11/26/2022 11:30 PM, 11/26/2022 11:30 PM, Waiting to be analyzed, , 1241021];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[16]=[074,11/26/2022 11:31 PM, 11/26/2022 11:31 PM, Waiting to be analyzed, , 1241022];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[17]=[074,11/26/2022 11:31 PM, 11/26/2022 11:31 PM, Waiting to be analyzed, , 1241023];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[18]=[086,11/26/2022 05:03 PM, 11/26/2022 05:03 PM, Tree Trimming is clearing debris from the area, , 1240907];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[19]=[086,11/26/2022 11:11 PM, 11/26/2022 11:11 PM, Waiting for an available crew to perform repairs, , 1241012];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[20]=[087,11/26/2022 09:48 PM, 11/26/2022 09:48 PM, Waiting for an available crew to perform repairs, , 1240998];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[21]=[087,11/26/2022 11:24 PM, 11/26/2022 11:24 PM, Waiting for an available crew to perform repairs, , 1241015];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[22]=[098,11/26/2022 06:08 PM, 11/26/2022 06:08 PM, A crew is currently working on the problem, 11/26/2022 11:40 PM, 1240925];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[23]=[114,11/26/2022 11:14 PM, 11/26/2022 11:14 PM, Waiting for an available crew to perform repairs, , 1241013];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
+events[24]=[130,11/26/2022 11:14 PM, 11/26/2022 11:14 PM, Waiting for an available crew to perform repairs, , 1241013];,# of Outages: 23,Customers Affected: 435,2022-11-27T05:39:06Z
