@@ -1,0 +1,16 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[017,12/01/2022 12:32 PM, 12/01/2022 12:32 PM, Trouble Shooter is determining repairs required, , 1242265];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[1]=[056,12/01/2022 01:07 PM, 12/01/2022 01:07 PM, A crew is currently working on the problem, 12/01/2022 02:30 PM, 1242277];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[2]=[056,12/01/2022 01:12 PM, 12/01/2022 01:12 PM, A crew is currently working on the problem, 12/01/2022 02:30 PM, 1242280];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[3]=[056,12/01/2022 09:32 AM, 12/01/2022 09:32 AM, A crew is currently working on the problem, 12/01/2022 02:30 PM, 1242250];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[4]=[073,12/01/2022 12:39 PM, 12/01/2022 12:39 PM, A crew is currently working on the problem, 12/01/2022 03:00 PM, 1242272];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[5]=[075,12/01/2022 12:36 PM, 12/01/2022 12:36 PM, Trouble Shooter is determining repairs required, , 1242266];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[6]=[083,12/01/2022 12:51 PM, 12/01/2022 12:51 PM, Trouble Shooter is determining repairs required, , 1242274];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[7]=[085,12/01/2022 01:11 PM, 12/01/2022 01:11 PM, A crew is currently working on the problem, 12/01/2022 03:30 PM, 1242278];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[8]=[085,12/01/2022 01:11 PM, 12/01/2022 01:11 PM, A crew is currently working on the problem, 12/01/2022 03:30 PM, 1242279];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[9]=[085,12/01/2022 11:51 AM, 12/01/2022 11:51 AM, Customer Svc is working this single customer outage, , 1242263];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[10]=[086,12/01/2022 11:33 AM, 12/01/2022 11:33 AM, A crew is currently working on the problem, 12/01/2022 04:30 PM, 1242261];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[11]=[088,12/01/2022 10:29 AM, 12/01/2022 10:29 AM, Trouble Shooter is determining repairs required, , 1242256];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[12]=[097,12/01/2022 12:56 PM, 12/01/2022 12:56 PM, Customer Svc is working this single customer outage, , 1242275];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[13]=[100,12/01/2022 12:35 PM, 12/01/2022 12:35 PM, Customer Svc is working this single customer outage, , 1242267];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
+events[14]=[102,12/01/2022 01:01 PM, 12/01/2022 01:01 PM, Customer Svc is working this single customer outage, , 1242276];,# of Outages: 15,Customers Affected: 140,2022-12-01T19:26:17Z
