@@ -1,0 +1,19 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[043,12/01/2022 09:25 AM, 12/01/2022 09:25 AM, Customer Svc is working this single customer outage, , 1242247];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[1]=[049,12/01/2022 08:09 AM, 12/01/2022 08:09 AM, Trouble Shooter is determining repairs required, , 1242230];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[2]=[056,12/01/2022 09:24 AM, 12/01/2022 09:24 AM, Waiting to be analyzed, , 1242240];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[3]=[056,12/01/2022 09:24 AM, 12/01/2022 09:24 AM, Waiting to be analyzed, , 1242241];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[4]=[056,12/01/2022 09:24 AM, 12/01/2022 09:24 AM, Waiting to be analyzed, , 1242242];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[5]=[056,12/01/2022 09:24 AM, 12/01/2022 09:24 AM, Waiting to be analyzed, , 1242243];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[6]=[056,12/01/2022 09:25 AM, 12/01/2022 09:25 AM, Waiting to be analyzed, , 1242244];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[7]=[056,12/01/2022 09:25 AM, 12/01/2022 09:25 AM, Waiting to be analyzed, , 1242245];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[8]=[056,12/01/2022 09:32 AM, 12/01/2022 09:32 AM, Waiting to be analyzed, , 1242250];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[9]=[065,12/01/2022 08:51 AM, 12/01/2022 08:51 AM, Customer Svc is working this single customer outage, , 1242237];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[10]=[067,12/01/2022 09:36 AM, 12/01/2022 09:36 AM, Waiting to be analyzed, , 1242251];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[11]=[070,12/01/2022 09:29 AM, 12/01/2022 09:29 AM, Customer Svc is working this single customer outage, , 1242248];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[12]=[073,12/01/2022 09:31 AM, 12/01/2022 09:31 AM, Waiting for an available crew to perform repairs, , 1242249];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[13]=[078,12/01/2022 08:18 AM, 12/01/2022 08:18 AM, Trouble Shooter is determining repairs required, , 1242234];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[14]=[086,12/01/2022 08:44 AM, 12/01/2022 08:44 AM, Trouble Shooter is working on the problem, 12/01/2022 11:00 AM, 1242236];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[15]=[086,12/01/2022 09:22 AM, 12/01/2022 09:22 AM, Trouble Shooter is working on the problem, 12/01/2022 11:00 AM, 1242239];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[16]=[100,12/01/2022 06:09 AM, 12/01/2022 06:09 AM, Waiting for an available crew to perform repairs, , 1242213];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
+events[17]=[116,12/01/2022 07:10 AM, 12/01/2022 07:10 AM, Trouble Shooter is determining repairs required, , 1242228];,# of Outages: 18,Customers Affected: 75,2022-12-01T15:43:42Z
