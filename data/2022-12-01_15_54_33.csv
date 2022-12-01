@@ -1,0 +1,13 @@
+V1,V2,V3,V4,V5,V6,outage_num,cust_affected,time
+events[0]=[043,12/01/2022 09:25 AM, 12/01/2022 09:25 AM, Customer Svc is working this single customer outage, , 1242247];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[1]=[049,12/01/2022 08:09 AM, 12/01/2022 08:09 AM, Trouble Shooter is determining repairs required, , 1242230];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[2]=[056,12/01/2022 09:32 AM, 12/01/2022 09:32 AM, Trouble Shooter is determining repairs required, , 1242250];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[3]=[065,12/01/2022 08:51 AM, 12/01/2022 08:51 AM, Customer Svc is working this single customer outage, , 1242237];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[4]=[070,12/01/2022 09:29 AM, 12/01/2022 09:29 AM, Customer Svc is working this single customer outage, , 1242248];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[5]=[073,12/01/2022 09:31 AM, 12/01/2022 09:31 AM, A crew is currently working on the problem, , 1242249];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[6]=[078,12/01/2022 08:18 AM, 12/01/2022 08:18 AM, Trouble Shooter is determining repairs required, , 1242234];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[7]=[086,12/01/2022 08:44 AM, 12/01/2022 08:44 AM, Trouble Shooter is working on the problem, 12/01/2022 11:00 AM, 1242236];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[8]=[086,12/01/2022 09:22 AM, 12/01/2022 09:22 AM, Trouble Shooter is working on the problem, 12/01/2022 11:00 AM, 1242239];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[9]=[100,12/01/2022 06:09 AM, 12/01/2022 06:09 AM, A crew is currently working on the problem, , 1242213];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[10]=[101,12/01/2022 09:48 AM, 12/01/2022 09:48 AM, Waiting to be analyzed, , 1242252];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
+events[11]=[116,12/01/2022 07:10 AM, 12/01/2022 07:10 AM, Trouble Shooter is determining repairs required, , 1242228];,# of Outages: 12,Customers Affected: 69,2022-12-01T15:54:33Z
