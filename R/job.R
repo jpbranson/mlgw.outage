@@ -19,6 +19,7 @@ overall_outage <- page %>% html_elements(xpath = "//td//td//h2") %>% html_text()
 
 events <- page %>%
   html_elements(xpath = '/html/head/script[not(@src)]') %>%
+  as.character() %>%
   str_split(pattern = "\n") %>%
   unlist()
 
@@ -32,7 +33,8 @@ events_detail <- events[str_detect(events, regex("events\\[\\d*\\]"))] %>%
          cust_affected = overall_outage[2],
          time = timestamp)
 
-write_csv(events_detail, file = paste0("data/", datestamp, ".csv"))
+#write_csv(events_detail, file = paste0("data/", datestamp, ".csv"))
+save(events_detail, file = paste0("data/", datestamp, ".RData"))
 
 page %>%
   html_elements(xpath = '/html/head') %>%
