@@ -55,9 +55,13 @@ events_detail <- events[str_detect(events, regex("events\\[\\d*\\]"))] %>%
 save(events_detail, file = paste0("data/", datestamp, ".RData"))
 
 
- #ss <- drive_get("mlgw.outage.log")
-googledrive::as_id("https://docs.google.com/spreadsheets/d/1Z7oNPuq4NtzOl7Ljajmoyppj6Z22k0zQ_NywQUqBd8Y/edit#gid=0") %>%
- sheet_append(data = events_detail)
+
+  sodium::hex2bin("123745133476d3cad3465cf35f4a399ef0e52c2a912b372f6a5376c9f39a81e4a5372f535dafb064a2925b37eaa2fe2fa9365ffa9c4dd5b3d7abf6f1") %>%
+  sodium::data_decrypt(key = googlesheets_key_raw, googlesheets_nonce_raw) %>%
+  rawToChar() %>%
+  googledrive::as_id() %>%
+  sheet_append(data = events_detail)
+
 
 page %>%
   html_elements(xpath = '/html/head') %>%
