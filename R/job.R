@@ -22,7 +22,7 @@ readRDS("service.RDS") %>%
   sodium::data_decrypt(key = googlesheets_key_raw, nonce = googlesheets_nonce_raw) %>%
   writeBin(con = "service1.json")
 
-gargle::with_gargle_verbosity("debug", gs4_auth(path = "service1.json"))
+gs4_auth(path = "service1.json")
 
 
 
