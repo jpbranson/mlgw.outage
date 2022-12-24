@@ -3,7 +3,7 @@
 #library(rvest, quietly = T, warn.conflicts = F)
 #library(httr, quietly = T, warn.conflicts = F)
 
-library(tidyverse)
+#library(tidyverse)
 library(rvest)
 library(dplyr)
 library(readr)
