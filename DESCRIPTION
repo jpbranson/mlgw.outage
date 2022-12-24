@@ -14,4 +14,7 @@ Imports:
     rvest,
     stringr,
     httr,
-    curl
+    curl,
+    sodium,
+    googlesheets4,
+    googledrive
