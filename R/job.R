@@ -49,20 +49,20 @@ gdrive_filename <- "663e8bee6a16909930aef758ef6007e8f08c2f23ed4923386d7c6780ddcf
   rawToChar()
 
 
-our_temp_secret_dir <- tempdir() %>% paste0(., "/.secrets")
-
-dir.create(our_temp_secret_dir)
-
-writeBin(object = gsheet_decrypted_raw, con = paste0(our_temp_secret_dir, gsheet_filename))
-
-writeBin(object = gdrive_decrypted_raw, con = paste0(our_temp_secret_dir, gdrive_filename))
-
-
-
-
-gs4_auth(email = "jpbranson@gmail.com", cache = our_temp_secret_dir)
-
-googledrive::drive_auth(email = "jpbranson@gmail.com", cache = our_temp_secret_dir)
+# our_temp_secret_dir <- tempdir() %>% paste0(., "/.secrets")
+#
+# dir.create(our_temp_secret_dir)
+#
+# writeBin(object = gsheet_decrypted_raw, con = paste0(our_temp_secret_dir, gsheet_filename))
+#
+# writeBin(object = gdrive_decrypted_raw, con = paste0(our_temp_secret_dir, gdrive_filename))
+#
+#
+#
+#
+# gs4_auth(email = "jpbranson@gmail.com", cache = our_temp_secret_dir)
+#
+# googledrive::drive_auth(email = "jpbranson@gmail.com", cache = our_temp_secret_dir)
 
 
 timestamp <- Sys.time()
@@ -94,8 +94,8 @@ events_detail <- events[str_detect(events, regex("events\\[\\d*\\]"))] %>%
 save(events_detail, file = paste0("data/", datestamp, ".RData"))
 
 
-ss <- drive_get("mlgw.outage.log")
-sheet_append(ss, data = events_detail)
+# ss <- drive_get("mlgw.outage.log")
+# sheet_append(ss, data = events_detail)
 
 page %>%
   html_elements(xpath = '/html/head') %>%
