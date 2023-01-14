@@ -15,7 +15,7 @@ Imports:
     stringr,
     httr,
     curl,
-    sodium,
-    googlesheets4,
-    googledrive,
-    gargle
+    geofacet,
+    purrr,
+    ggplot2,
+    lubridate
