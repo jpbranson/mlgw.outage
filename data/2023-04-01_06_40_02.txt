@@ -1,0 +1,695 @@
+MLGW Outage
+  div.esri-view-width-xlarge .esri-popup__main-container {
+    width: 640px !important;
+}
+
+      var refreshTime=900;      
+      //var refreshTime=300;		//Refresh every 5 mins
+      var events=[];
+      
+      events[0]=["017","03/31/2023 05:59 PM", "03/31/2023 05:59 PM", "Waiting for an available crew to perform repairs", "", "1269819"];
+events[1]=["051","03/31/2023 07:03 PM", "03/31/2023 07:03 PM", "Waiting for an available crew to perform repairs", "", "1269826"];
+events[2]=["054","03/31/2023 08:31 PM", "03/31/2023 08:31 PM", "Waiting for an available crew to perform repairs", "", "1269845"];
+events[3]=["062","03/31/2023 09:13 PM", "03/31/2023 09:13 PM", "Waiting for an available crew to perform repairs", "", "1269849"];
+events[4]=["062","03/31/2023 09:59 PM", "03/31/2023 09:59 PM", "Waiting for an available crew to perform repairs", "", "1270330"];
+events[5]=["065","03/31/2023 10:03 PM", "03/31/2023 10:03 PM", "Trouble Shooter is working on the problem", "04/01/2023 03:30 AM", "1270331"];
+events[6]=["066","03/31/2023 10:03 PM", "03/31/2023 10:03 PM", "Trouble Shooter is working on the problem", "04/01/2023 03:30 AM", "1270331"];
+events[7]=["066","04/01/2023 12:30 AM", "04/01/2023 12:30 AM", "Waiting to be analyzed", "", "1270729"];
+events[8]=["072","03/31/2023 07:36 PM", "03/31/2023 07:36 PM", "Tree Trimming is clearing debris from the area", "", "1269841"];
+events[9]=["073","03/31/2023 09:13 PM", "03/31/2023 09:13 PM", "Waiting for an available crew to perform repairs", "", "1269849"];
+events[10]=["073","03/31/2023 09:23 PM", "03/31/2023 09:23 PM", "Waiting for an available crew to perform repairs", "", "1269854"];
+events[11]=["073","03/31/2023 09:41 PM", "03/31/2023 09:41 PM", "Waiting for an available crew to perform repairs", "", "1269856"];
+events[12]=["074","03/31/2023 10:00 PM", "03/31/2023 10:00 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270252"];
+events[13]=["075","03/31/2023 10:05 PM", "03/31/2023 10:05 PM", "Trouble Shooter is working on the problem", "04/01/2023 02:00 AM", "1270363"];
+events[14]=["076","03/31/2023 10:05 PM", "03/31/2023 10:05 PM", "Trouble Shooter is working on the problem", "04/01/2023 02:00 AM", "1270363"];
+events[15]=["077","03/31/2023 10:03 PM", "03/31/2023 10:03 PM", "Trouble Shooter is working on the problem", "04/01/2023 03:30 AM", "1270331"];
+events[16]=["077","03/31/2023 10:10 PM", "03/31/2023 10:10 PM", "Waiting for an available crew to perform repairs", "", "1270487"];
+events[17]=["077","03/31/2023 10:58 PM", "03/31/2023 10:58 PM", "Trouble Shooter is determining repairs required", "", "1270677"];
+events[18]=["077","04/01/2023 01:27 AM", "04/01/2023 01:27 AM", "Waiting to be analyzed", "", "1270737"];
+events[19]=["078","03/31/2023 09:02 PM", "03/31/2023 09:02 PM", "Trouble Shooter is determining repairs required", "", "1269847"];
+events[20]=["085","03/31/2023 09:54 PM", "03/31/2023 09:54 PM", "Waiting for an available crew to perform repairs", "", "1270085"];
+events[21]=["085","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Trouble Shooter is determining repairs required", "", "1270616"];
+events[22]=["085","03/31/2023 10:04 PM", "03/31/2023 10:04 PM", "Waiting to be analyzed", "", "1270400"];
+events[23]=["085","04/01/2023 01:20 AM", "04/01/2023 01:20 AM", "Waiting to be analyzed", "", "1270735"];
+events[24]=["086","03/31/2023 09:54 PM", "03/31/2023 09:54 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269928"];
+events[25]=["086","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Trouble Shooter is determining repairs required", "", "1270616"];
+events[26]=["086","03/31/2023 10:07 PM", "03/31/2023 10:07 PM", "Waiting for an available crew to perform repairs", "", "1270462"];
+events[27]=["087","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Trouble Shooter is determining repairs required", "", "1270616"];
+events[28]=["087","03/31/2023 09:57 PM", "03/31/2023 09:57 PM", "Trouble Shooter is determining repairs required", "", "1270406"];
+events[29]=["087","03/31/2023 09:58 PM", "03/31/2023 09:58 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270117"];
+events[30]=["087","03/31/2023 09:58 PM", "03/31/2023 09:58 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270163"];
+events[31]=["087","03/31/2023 10:00 PM", "03/31/2023 10:00 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270252"];
+events[32]=["087","03/31/2023 10:04 PM", "03/31/2023 10:04 PM", "Waiting for an available crew to perform repairs", "", "1270337"];
+events[33]=["087","03/31/2023 11:57 PM", "03/31/2023 11:57 PM", "Waiting for an available crew to perform repairs", "", "1270724"];
+events[34]=["088","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Waiting to be analyzed", "", "1270401"];
+events[35]=["088","03/31/2023 09:57 PM", "03/31/2023 09:57 PM", "Trouble Shooter is determining repairs required", "", "1270406"];
+events[36]=["088","03/31/2023 09:58 PM", "03/31/2023 09:58 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270117"];
+events[37]=["088","03/31/2023 09:58 PM", "03/31/2023 09:58 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270163"];
+events[38]=["088","03/31/2023 10:02 PM", "03/31/2023 10:02 PM", "Waiting to be analyzed", "", "1270306"];
+events[39]=["088","03/31/2023 10:05 PM", "03/31/2023 10:05 PM", "Waiting to be analyzed", "", "1270416"];
+events[40]=["088","03/31/2023 10:13 PM", "03/31/2023 10:13 PM", "Waiting to be analyzed", "", "1270513"];
+events[41]=["088","03/31/2023 10:39 PM", "03/31/2023 10:39 PM", "Trouble Shooter is working on the problem", "04/01/2023 04:00 AM", "1270601"];
+events[42]=["088","04/01/2023 01:08 AM", "04/01/2023 01:08 AM", "Waiting to be analyzed", "", "1270732"];
+events[43]=["088","04/01/2023 01:16 AM", "04/01/2023 01:16 AM", "Waiting to be analyzed", "", "1270733"];
+events[44]=["089","03/31/2023 10:01 PM", "03/31/2023 10:01 PM", "Waiting for an available crew to perform repairs", "", "1270562"];
+events[45]=["089","03/31/2023 10:02 PM", "03/31/2023 10:02 PM", "Waiting for an available crew to perform repairs", "", "1270281"];
+events[46]=["089","03/31/2023 10:07 PM", "03/31/2023 10:07 PM", "Waiting for an available crew to perform repairs", "", "1270418"];
+events[47]=["089","03/31/2023 10:14 PM", "03/31/2023 10:14 PM", "Waiting for an available crew to perform repairs", "", "1270524"];
+events[48]=["089","03/31/2023 10:39 PM", "03/31/2023 10:39 PM", "Trouble Shooter is working on the problem", "04/01/2023 04:00 AM", "1270601"];
+events[49]=["090","03/31/2023 10:48 PM", "03/31/2023 10:48 PM", "Waiting for an available crew to perform repairs", "", "1270641"];
+events[50]=["090","03/31/2023 10:52 PM", "03/31/2023 10:52 PM", "Waiting for an available crew to perform repairs", "", "1270660"];
+events[51]=["090","03/31/2023 10:54 PM", "03/31/2023 10:54 PM", "Waiting for an available crew to perform repairs", "", "1270670"];
+events[52]=["091","03/31/2023 10:48 PM", "03/31/2023 10:48 PM", "Waiting for an available crew to perform repairs", "", "1270641"];
+events[53]=["097","03/31/2023 07:07 PM", "03/31/2023 07:07 PM", "Waiting for an available crew to perform repairs", "", "1269834"];
+events[54]=["098","03/31/2023 09:50 PM", "03/31/2023 09:50 PM", "Trouble Shooter is working on the problem", "04/01/2023 03:00 AM", "1269881"];
+events[55]=["099","03/31/2023 09:50 PM", "03/31/2023 09:50 PM", "Trouble Shooter is working on the problem", "04/01/2023 03:00 AM", "1269881"];
+events[56]=["099","03/31/2023 09:52 PM", "03/31/2023 09:52 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269892"];
+events[57]=["099","03/31/2023 09:54 PM", "03/31/2023 09:54 PM", "Waiting to be analyzed", "", "1269909"];
+events[58]=["099","03/31/2023 09:54 PM", "03/31/2023 09:54 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269928"];
+events[59]=["099","03/31/2023 09:54 PM", "03/31/2023 09:54 PM", "Waiting for an available crew to perform repairs", "", "1270085"];
+events[60]=["099","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Trouble Shooter is determining repairs required", "", "1270616"];
+events[61]=["099","03/31/2023 09:57 PM", "03/31/2023 09:57 PM", "Waiting to be analyzed", "", "1270021"];
+events[62]=["099","03/31/2023 10:06 PM", "03/31/2023 10:06 PM", "Waiting for an available crew to perform repairs", "", "1270367"];
+events[63]=["100","03/31/2023 03:28 PM", "03/31/2023 03:28 PM", "A crew is currently working on the problem", "04/01/2023 01:30 AM", "1269810"];
+events[64]=["100","03/31/2023 09:52 PM", "03/31/2023 09:52 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269892"];
+events[65]=["100","03/31/2023 09:54 PM", "03/31/2023 09:54 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269928"];
+events[66]=["100","03/31/2023 09:54 PM", "03/31/2023 09:54 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269929"];
+events[67]=["100","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269970"];
+events[68]=["100","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Waiting to be analyzed", "", "1269975"];
+events[69]=["100","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270600"];
+events[70]=["100","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Trouble Shooter is determining repairs required", "", "1270616"];
+events[71]=["100","03/31/2023 09:56 PM", "03/31/2023 09:56 PM", "Waiting to be analyzed", "", "1270020"];
+events[72]=["100","03/31/2023 09:57 PM", "03/31/2023 09:57 PM", "Waiting to be analyzed", "", "1270021"];
+events[73]=["100","03/31/2023 09:58 PM", "03/31/2023 09:58 PM", "Waiting to be analyzed", "", "1270041"];
+events[74]=["100","03/31/2023 09:58 PM", "03/31/2023 09:58 PM", "Waiting for an available crew to perform repairs", "", "1270136"];
+events[75]=["100","03/31/2023 10:00 PM", "03/31/2023 10:00 PM", "Waiting for an available crew to perform repairs", "", "1270378"];
+events[76]=["100","03/31/2023 10:06 PM", "03/31/2023 10:06 PM", "Waiting for an available crew to perform repairs", "", "1270367"];
+events[77]=["100","03/31/2023 10:41 PM", "03/31/2023 10:41 PM", "Waiting to be analyzed", "", "1270611"];
+events[78]=["100","03/31/2023 11:08 PM", "03/31/2023 11:08 PM", "Waiting to be analyzed", "", "1270689"];
+events[79]=["100","03/31/2023 11:12 PM", "03/31/2023 11:12 PM", "Waiting to be analyzed", "", "1270696"];
+events[80]=["101","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Trouble Shooter is determining repairs required", "", "1269966"];
+events[81]=["101","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269970"];
+events[82]=["101","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270600"];
+events[83]=["101","03/31/2023 09:55 PM", "03/31/2023 09:55 PM", "Trouble Shooter is determining repairs required", "", "1270616"];
+events[84]=["101","03/31/2023 09:56 PM", "03/31/2023 09:56 PM", "Waiting for an available crew to perform repairs", "", "1269972"];
+events[85]=["101","03/31/2023 09:56 PM", "03/31/2023 09:56 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270083"];
+events[86]=["101","03/31/2023 10:05 PM", "03/31/2023 10:05 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270625"];
+events[87]=["101","03/31/2023 10:32 PM", "03/31/2023 10:32 PM", "Waiting to be analyzed", "", "1270580"];
+events[88]=["101","03/31/2023 10:46 PM", "03/31/2023 10:46 PM", "Waiting for an available crew to perform repairs", "", "1270623"];
+events[89]=["101","03/31/2023 11:25 PM", "03/31/2023 11:25 PM", "Waiting for an available crew to perform repairs", "", "1270699"];
+events[90]=["101","03/31/2023 11:35 PM", "03/31/2023 11:35 PM", "Waiting to be analyzed", "", "1270704"];
+events[91]=["101","03/31/2023 11:46 PM", "03/31/2023 11:46 PM", "Waiting to be analyzed", "", "1270721"];
+events[92]=["101","04/01/2023 01:34 AM", "04/01/2023 01:34 AM", "Waiting to be analyzed", "", "1270740"];
+events[93]=["102","03/31/2023 10:16 PM", "03/31/2023 10:16 PM", "Waiting to be analyzed", "", "1270540"];
+events[94]=["102","03/31/2023 10:45 PM", "03/31/2023 10:45 PM", "Waiting to be analyzed", "", "1270622"];
+events[95]=["102","03/31/2023 10:49 PM", "03/31/2023 10:49 PM", "Waiting to be analyzed", "", "1270628"];
+events[96]=["102","03/31/2023 10:50 PM", "03/31/2023 10:50 PM", "Waiting for an available crew to perform repairs", "", "1270640"];
+events[97]=["102","03/31/2023 10:50 PM", "03/31/2023 10:50 PM", "Waiting to be analyzed", "", "1270668"];
+events[98]=["102","03/31/2023 10:51 PM", "03/31/2023 10:51 PM", "Waiting to be analyzed", "", "1270649"];
+events[99]=["102","03/31/2023 10:53 PM", "03/31/2023 10:53 PM", "Waiting to be analyzed", "", "1270657"];
+events[100]=["102","03/31/2023 10:53 PM", "03/31/2023 10:53 PM", "Waiting for an available crew to perform repairs", "", "1270658"];
+events[101]=["102","03/31/2023 10:54 PM", "03/31/2023 10:54 PM", "Waiting to be analyzed", "", "1270667"];
+events[102]=["102","03/31/2023 10:56 PM", "03/31/2023 10:56 PM", "Waiting to be analyzed", "", "1270673"];
+events[103]=["102","03/31/2023 11:02 PM", "03/31/2023 11:02 PM", "Waiting to be analyzed", "", "1270678"];
+events[104]=["102","03/31/2023 11:10 PM", "03/31/2023 11:10 PM", "Customer Svc is working this single customer outage", "", "1270693"];
+events[105]=["102","03/31/2023 11:44 PM", "03/31/2023 11:44 PM", "Waiting to be analyzed", "", "1270706"];
+events[106]=["103","04/01/2023 01:18 AM", "04/01/2023 01:18 AM", "Waiting to be analyzed", "", "1270734"];
+events[107]=["104","03/31/2023 10:48 PM", "03/31/2023 10:48 PM", "Waiting for an available crew to perform repairs", "", "1270641"];
+events[108]=["104","03/31/2023 10:52 PM", "03/31/2023 10:52 PM", "Waiting for an available crew to perform repairs", "", "1270660"];
+events[109]=["104","03/31/2023 10:54 PM", "03/31/2023 10:54 PM", "Waiting for an available crew to perform repairs", "", "1270670"];
+events[110]=["104","04/01/2023 01:34 AM", "04/01/2023 01:34 AM", "Waiting to be analyzed", "", "1270741"];
+events[111]=["105","03/31/2023 10:48 PM", "03/31/2023 10:48 PM", "Waiting for an available crew to perform repairs", "", "1270641"];
+events[112]=["112","04/01/2023 01:35 AM", "04/01/2023 01:35 AM", "Waiting to be analyzed", "", "1270742"];
+events[113]=["113","03/31/2023 09:47 PM", "03/31/2023 09:47 PM", "Waiting for an available crew to perform repairs", "", "1269873"];
+events[114]=["113","03/31/2023 09:48 PM", "03/31/2023 09:48 PM", "Waiting for an available crew to perform repairs", "", "1269872"];
+events[115]=["113","03/31/2023 09:51 PM", "03/31/2023 09:51 PM", "Waiting for an available crew to perform repairs", "", "1269896"];
+events[116]=["113","03/31/2023 10:10 PM", "03/31/2023 10:10 PM", "Waiting for an available crew to perform repairs", "", "1270493"];
+events[117]=["113","04/01/2023 01:25 AM", "04/01/2023 01:25 AM", "Waiting to be analyzed", "", "1270736"];
+events[118]=["113","04/01/2023 01:30 AM", "04/01/2023 01:30 AM", "Waiting to be analyzed", "", "1270738"];
+events[119]=["113","04/01/2023 01:33 AM", "04/01/2023 01:33 AM", "Waiting to be analyzed", "", "1270739"];
+events[120]=["114","03/31/2023 09:45 PM", "03/31/2023 09:45 PM", "Waiting for an available crew to perform repairs", "04/01/2023 03:00 AM", "1269860"];
+events[121]=["114","03/31/2023 09:46 PM", "03/31/2023 09:46 PM", "Waiting for an available crew to perform repairs", "", "1270497"];
+events[122]=["114","03/31/2023 09:50 PM", "03/31/2023 09:50 PM", "Trouble Shooter is working on the problem", "04/01/2023 03:00 AM", "1269881"];
+events[123]=["114","03/31/2023 09:51 PM", "03/31/2023 09:51 PM", "Waiting for an available crew to perform repairs", "", "1269874"];
+events[124]=["114","03/31/2023 09:51 PM", "03/31/2023 09:51 PM", "Waiting for an available crew to perform repairs", "", "1269889"];
+events[125]=["114","03/31/2023 09:51 PM", "03/31/2023 09:51 PM", "Waiting for an available crew to perform repairs", "", "1269900"];
+events[126]=["114","03/31/2023 10:01 PM", "03/31/2023 10:01 PM", "Waiting for an available crew to perform repairs", "", "1270277"];
+events[127]=["114","03/31/2023 10:02 PM", "03/31/2023 10:02 PM", "Waiting for an available crew to perform repairs", "", "1270260"];
+events[128]=["114","03/31/2023 10:02 PM", "03/31/2023 10:02 PM", "Waiting for an available crew to perform repairs", "", "1270261"];
+events[129]=["114","03/31/2023 10:35 PM", "03/31/2023 10:35 PM", "Waiting for an available crew to perform repairs", "", "1270596"];
+events[130]=["114","04/01/2023 12:54 AM", "04/01/2023 12:54 AM", "Waiting to be analyzed", "", "1270731"];
+events[131]=["115","03/31/2023 09:50 PM", "03/31/2023 09:50 PM", "Waiting for an available crew to perform repairs", "", "1269876"];
+events[132]=["115","03/31/2023 09:50 PM", "03/31/2023 09:50 PM", "Trouble Shooter is working on the problem", "04/01/2023 03:00 AM", "1269881"];
+events[133]=["115","03/31/2023 09:52 PM", "03/31/2023 09:52 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269892"];
+events[134]=["115","03/31/2023 09:53 PM", "03/31/2023 09:53 PM", "Waiting for an available crew to perform repairs", "", "1269897"];
+events[135]=["115","03/31/2023 09:56 PM", "03/31/2023 09:56 PM", "Waiting for an available crew to perform repairs", "", "1269971"];
+events[136]=["115","03/31/2023 10:06 PM", "03/31/2023 10:06 PM", "Waiting for an available crew to perform repairs", "", "1270367"];
+events[137]=["115","03/31/2023 10:38 PM", "03/31/2023 10:38 PM", "Waiting to be analyzed", "", "1270593"];
+events[138]=["115","03/31/2023 11:26 PM", "03/31/2023 11:26 PM", "Waiting to be analyzed", "", "1270700"];
+events[139]=["116","03/31/2023 09:52 PM", "03/31/2023 09:52 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269892"];
+events[140]=["116","03/31/2023 09:54 PM", "03/31/2023 09:54 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1269929"];
+events[141]=["116","03/31/2023 09:57 PM", "03/31/2023 09:57 PM", "Waiting to be analyzed", "", "1269995"];
+events[142]=["116","03/31/2023 10:06 PM", "03/31/2023 10:06 PM", "Waiting for an available crew to perform repairs", "", "1270367"];
+events[143]=["117","03/31/2023 10:05 PM", "03/31/2023 10:05 PM", "Waiting for an available crew to perform repairs", "04/01/2023 04:00 AM", "1270625"];
+events[144]=["118","03/31/2023 08:14 PM", "03/31/2023 08:14 PM", "Waiting for an available crew to perform repairs", "", "1269842"];
+events[145]=["118","03/31/2023 10:50 PM", "03/31/2023 10:50 PM", "Waiting to be analyzed", "", "1270645"];
+events[146]=["118","03/31/2023 11:23 PM", "03/31/2023 11:23 PM", "Waiting for an available crew to perform repairs", "", "1270698"];
+events[147]=["119","03/31/2023 10:04 PM", "03/31/2023 10:04 PM", "Waiting for an available crew to perform repairs", "", "1270377"];
+events[148]=["130","03/31/2023 09:45 PM", "03/31/2023 09:45 PM", "Waiting for an available crew to perform repairs", "04/01/2023 03:00 AM", "1269860"];
+events[149]=["131","04/01/2023 12:53 AM", "04/01/2023 12:53 AM", "Waiting to be analyzed", "", "1270730"];
+    
+      if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+         function refreshTimerDesktop()
+          {
+          mins=Math.floor(refreshTime/60);
+          secs=refreshTime-mins*60;
+          if (mins < 10) mins="0"+mins;
+          if (secs < 10) secs="0" + secs;
+          document.getElementById("clockDesktop").innerHTML="Time to refresh:<br>" + mins + ":" + secs;
+          refreshTime=refreshTime-1;
+          if (refreshTime == 0) window.location.reload();
+          var t=setTimeout("refreshTimerDesktop()", 1000);
+          }
+      }else{
+         function refreshTimerMobile()
+          {
+          mins=Math.floor(refreshTime/60);
+          secs=refreshTime-mins*60;
+          if (mins < 10) mins="0"+mins;
+          if (secs < 10) secs="0" + secs;
+          document.getElementById("clockMobile").innerHTML="Time to refresh:<br>" + mins + ":" + secs;
+          refreshTime=refreshTime-1;
+          if (refreshTime == 0) window.location.reload();
+          var t=setTimeout("refreshTimerMobile()", 1000);
+          }
+      }
+ 
+      function eventDetail( id, custs)
+      {
+        var is_mobile = !!navigator.userAgent.match(/Android|webOS|iPhone|blackberry|iemobile|Opera Mini/ig)|| true;
+        el=document.getElementById("eventDetail");
+        while ( el.hasChildNodes()) el.removeChild(el.lastChild);
+        el.style.height="90px";
+        detailTable=document.createElement("table");
+        detailTable.style.overflow="auto";
+        detailTable.style.maxHeight="90px";
+        detailTable.width="100%";
+        detailTable.border=1;
+        detailTable.cellSpacing=0;
+        el.appendChild(detailTable);
+        header=detailTable.insertRow(-1);
+        
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+        a=header.insertCell(-1);
+        a.vAlign="bottom";
+        a.align="center";
+        a.style.font="normal bold 12px arial";
+        a.innerHTML="Outage<br>Number";
+        }
+        
+        b=header.insertCell(-1);
+        b.vAlign="bottom";
+        b.align="center";
+        b.style.font="normal bold 12px arial";
+        b.innerHTML="Status";
+        
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+        c=header.insertCell(-1);
+        c.vAlign="bottom";
+        c.align="center";
+        c.style.font="normal bold 12px arial";
+        c.innerHTML="Time Reported";
+        }
+        
+        d=header.insertCell(-1);
+        d.vAlign="bottom";
+        d.align="center";
+        d.style.font="normal bold 12px arial";
+        d.innerHTML="Est. Repair Time";
+        for ( thisEvent in events)
+        {
+          if (events[thisEvent][0] == id )
+          {
+            eventRow=detailTable.insertRow(-1);
+            if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+            thisCell=eventRow.insertCell(-1);
+            thisCell.align="center";
+            thisCell.innerHTML=events[thisEvent][5];
+            }
+            
+            thisCell=eventRow.insertCell(-1);
+            thisCell.innerHTML=events[thisEvent][3];
+            if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+            thisCell=eventRow.insertCell(-1);
+            thisCell.align="center";
+            thisCell.innerHTML=events[thisEvent][2];
+            }
+            thisCell=eventRow.insertCell(-1);
+            thisCell.align="center";
+            thisCell.innerHTML=(events[thisEvent][4] == "") ? "&nbsp;" : events[thisEvent][4];
+
+          }
+        }
+      }
+      
+      
+      
+      
+    require([
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/Graphic",
+      //"esri/geometry/Point",
+      //"esri/symbols/SimpleMarkerSymbol",
+      //"esri/geometry/Polyline",
+      //"esri/symbols/SimpleLineSymbol",
+      "esri/geometry/Polygon",
+      "esri/symbols/SimpleFillSymbol",
+      "dojo/domReady!"
+     
+    ], function(Map, MapView, Graphic, 
+//Point, SimpleMarkerSymbol, Polyline, SimpleLineSymbol, 
+Polygon, 
+SimpleFillSymbol, 
+InfoWindowLite, InfoTemplate, domConstruct) {
+              
+      var layers = [];
+      var defualtCenter = [-89.915372, 35.192833];//[-90.04898,35.14953];
+      
+      if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)==true){
+        defualtCenter = [-89.959297, 35.191150];
+      }
+
+      var map = new Map({
+        basemap: "streets"  //"terrain" //"gray"  //"osm"   //"streets-navigation-vector" //"topo-vector"
+      });
+      
+      var view = new MapView({
+        container: "mapArea",
+        map: map,
+        center: defualtCenter,
+        zoom: 11
+      });
+      
+      var county = new Polygon({rings:[[-90.308408, 34.994848],[-89.643066, 34.994988],[-89.637259, 35.256133],[-89.640688, 35.258376],[-89.633129, 35.377714],[-89.644811, 35.372115],[-89.646873, 35.377714],[-89.640688, 35.386111],[-89.703209, 35.388910],[-89.701819, 35.406261],[-89.732743, 35.406821],[-89.730681, 35.400105],[-89.776724, 35.402344],[-89.779473, 35.390589],[-90.041986, 35.393948],[-90.059166, 35.386111],[-90.074972, 35.383312],[-90.090090, 35.360916],[-90.093526, 35.360356],[-90.110019, 35.341875],[-90.103147, 35.331232],[-90.106583, 35.323949],[-90.108645, 35.304339],[-90.116204, 35.302658],[-90.123076, 35.303778],[-90.138195, 35.298175],[-90.150338, 35.302658],[-90.159949, 35.300416],[-90.164751, 35.295372],[-90.169558, 35.280800],[-90.151686, 35.255572],[-90.140004, 35.252208],[-90.117326, 35.255012],[-90.107705, 35.255012],[-90.098772, 35.251086],[-90.080904, 35.228093],[-90.078843, 35.217435],[-90.080904, 35.213508],[-90.088463, 35.212947],[-90.097397, 35.193871],[-90.109767, 35.198921],[-90.115952, 35.197799],[-90.117372, 35.187769],[-90.113936, 35.181034],[-90.111530, 35.178509],[-90.108781, 35.178509],[-90.108438, 35.168125],[-90.100879, 35.161109],[-90.092289, 35.157460],[-90.070298, 35.153530],[-90.066862, 35.151565],[-90.064457, 35.139774],[-90.064800, 35.138090],[-90.085760, 35.120119],[-90.099848, 35.116749],[-90.109125, 35.118434],[-90.143142, 35.135282],[-90.151388, 35.132474],[-90.156199, 35.130790],[-90.157917, 35.129947],[-90.174066, 35.117592],[-90.176471, 35.114503],[-90.181282, 35.090909],[-90.196400, 35.060283],[-90.197775, 35.049884],[-90.196057, 35.038078],[-90.200180, 35.032737],[-90.208770, 35.027115],[-90.215298, 35.025428],[-90.224576, 35.029645],[-90.256187, 35.034143],[-90.262716, 35.036111],[-90.264777, 35.040046],[-90.291922, 35.041733],[-90.296732, 35.039203],[-90.300856, 35.028239],[-90.308071, 35.016712],[-90.310476, 35.009120],[-90.308408, 34.994848] //78 points
+      ]});
+      var countyFill = new SimpleFillSymbol({color:[0, 0, 0, 0.1],outline:{color:[227, 139, 79],width: 1}});
+      var countyLine = new Graphic({geometry: county,symbol: countyFill});
+      layers.push(countyLine);
+      
+      var colour = [0, 255, 0, 0.3];
+var cusAffected0 = "<center><h3>Customers Affected: 6</h3></center>"  
+var id0= "017";
+var custs0= "6";
+eventDetail(id0, custs0);
+var contentString0='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon0        = new Polygon({rings:[[parseFloat(-89.91675), parseFloat(35.33343)],[parseFloat(-89.87508), parseFloat(35.33344)],[parseFloat(-89.87508), parseFloat(35.37510)],[parseFloat(-89.91675), parseFloat(35.37510)],[parseFloat(-89.91675), parseFloat(35.33343)]]});
+var fillSymbol0     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic0 = new Graphic({geometry: polygon0,symbol: fillSymbol0,popupTemplate:{title: 'Customers Affected: '+ custs0,content: contentString0}});
+layers.push(polygonGraphic0);
+var colour = [255, 255, 0, 0.3];
+var cusAffected1 = "<center><h3>Customers Affected: 54</h3></center>"  
+var id1= "051";
+var custs1= "54";
+eventDetail(id1, custs1);
+var contentString1='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon1        = new Polygon({rings:[[parseFloat(-89.95842), parseFloat(35.20844)],[parseFloat(-89.91675), parseFloat(35.20844)],[parseFloat(-89.91675), parseFloat(35.25010)],[parseFloat(-89.95842), parseFloat(35.25010)],[parseFloat(-89.95842), parseFloat(35.20844)]]});
+var fillSymbol1     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic1 = new Graphic({geometry: polygon1,symbol: fillSymbol1,popupTemplate:{title: 'Customers Affected: '+ custs1,content: contentString1}});
+layers.push(polygonGraphic1);
+var colour = [0, 255, 0, 0.3];
+var cusAffected2 = "<center><h3>Customers Affected: 1</h3></center>"  
+var id2= "054";
+var custs2= "1";
+eventDetail(id2, custs2);
+var contentString2='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon2        = new Polygon({rings:[[parseFloat(-89.83341), parseFloat(35.20844)],[parseFloat(-89.79174), parseFloat(35.20844)],[parseFloat(-89.79175), parseFloat(35.25010)],[parseFloat(-89.83341), parseFloat(35.25010)],[parseFloat(-89.83341), parseFloat(35.20844)]]});
+var fillSymbol2     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic2 = new Graphic({geometry: polygon2,symbol: fillSymbol2,popupTemplate:{title: 'Customers Affected: '+ custs2,content: contentString2}});
+layers.push(polygonGraphic2);
+var colour = [255, 119, 0, 0.3];
+var cusAffected3 = "<center><h3>Customers Affected: 107</h3></center>"  
+var id3= "062";
+var custs3= "107";
+eventDetail(id3, custs3);
+var contentString3='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon3        = new Polygon({rings:[[parseFloat(-89.95842), parseFloat(35.16677)],[parseFloat(-89.91675), parseFloat(35.16677)],[parseFloat(-89.91675), parseFloat(35.20844)],[parseFloat(-89.95842), parseFloat(35.20844)],[parseFloat(-89.95842), parseFloat(35.16677)]]});
+var fillSymbol3     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic3 = new Graphic({geometry: polygon3,symbol: fillSymbol3,popupTemplate:{title: 'Customers Affected: '+ custs3,content: contentString3}});
+layers.push(polygonGraphic3);
+var colour = [255, 255, 0, 0.3];
+var cusAffected4 = "<center><h3>Customers Affected: 19</h3></center>"  
+var id4= "065";
+var custs4= "19";
+eventDetail(id4, custs4);
+var contentString4='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon4        = new Polygon({rings:[[parseFloat(-89.83341), parseFloat(35.16677)],[parseFloat(-89.79175), parseFloat(35.16677)],[parseFloat(-89.79174), parseFloat(35.20844)],[parseFloat(-89.83341), parseFloat(35.20844)],[parseFloat(-89.83341), parseFloat(35.16677)]]});
+var fillSymbol4     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic4 = new Graphic({geometry: polygon4,symbol: fillSymbol4,popupTemplate:{title: 'Customers Affected: '+ custs4,content: contentString4}});
+layers.push(polygonGraphic4);
+var colour = [255, 0, 0, 0.3];
+var cusAffected5 = "<center><h3>Customers Affected: 2668</h3></center>"  
+var id5= "066";
+var custs5= "2668";
+eventDetail(id5, custs5);
+var contentString5='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon5        = new Polygon({rings:[[parseFloat(-89.79175), parseFloat(35.16677)],[parseFloat(-89.75008), parseFloat(35.16677)],[parseFloat(-89.75008), parseFloat(35.20844)],[parseFloat(-89.79174), parseFloat(35.20844)],[parseFloat(-89.79175), parseFloat(35.16677)]]});
+var fillSymbol5     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic5 = new Graphic({geometry: polygon5,symbol: fillSymbol5,popupTemplate:{title: 'Customers Affected: '+ custs5,content: contentString5}});
+layers.push(polygonGraphic5);
+var colour = [0, 255, 0, 0.3];
+var cusAffected6 = "<center><h3>Customers Affected: 4</h3></center>"  
+var id6= "072";
+var custs6= "4";
+eventDetail(id6, custs6);
+var contentString6='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon6        = new Polygon({rings:[[parseFloat(-90.00009), parseFloat(35.12511)],[parseFloat(-89.95842), parseFloat(35.12510)],[parseFloat(-89.95842), parseFloat(35.16677)],[parseFloat(-90.00008), parseFloat(35.16677)],[parseFloat(-90.00009), parseFloat(35.12511)]]});
+var fillSymbol6     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic6 = new Graphic({geometry: polygon6,symbol: fillSymbol6,popupTemplate:{title: 'Customers Affected: '+ custs6,content: contentString6}});
+layers.push(polygonGraphic6);
+var colour = [255, 255, 0, 0.3];
+var cusAffected7 = "<center><h3>Customers Affected: 39</h3></center>"  
+var id7= "073";
+var custs7= "39";
+eventDetail(id7, custs7);
+var contentString7='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon7        = new Polygon({rings:[[parseFloat(-89.95842), parseFloat(35.12510)],[parseFloat(-89.91675), parseFloat(35.12511)],[parseFloat(-89.91675), parseFloat(35.16677)],[parseFloat(-89.95842), parseFloat(35.16677)],[parseFloat(-89.95842), parseFloat(35.12510)]]});
+var fillSymbol7     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic7 = new Graphic({geometry: polygon7,symbol: fillSymbol7,popupTemplate:{title: 'Customers Affected: '+ custs7,content: contentString7}});
+layers.push(polygonGraphic7);
+var colour = [255, 119, 0, 0.3];
+var cusAffected8 = "<center><h3>Customers Affected: 281</h3></center>"  
+var id8= "074";
+var custs8= "281";
+eventDetail(id8, custs8);
+var contentString8='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon8        = new Polygon({rings:[[parseFloat(-89.91675), parseFloat(35.12511)],[parseFloat(-89.87508), parseFloat(35.12511)],[parseFloat(-89.87508), parseFloat(35.16677)],[parseFloat(-89.91675), parseFloat(35.16677)],[parseFloat(-89.91675), parseFloat(35.12511)]]});
+var fillSymbol8     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic8 = new Graphic({geometry: polygon8,symbol: fillSymbol8,popupTemplate:{title: 'Customers Affected: '+ custs8,content: contentString8}});
+layers.push(polygonGraphic8);
+var colour = [0, 255, 0, 0.3];
+var cusAffected9 = "<center><h3>Customers Affected: 6</h3></center>"  
+var id9= "075";
+var custs9= "6";
+eventDetail(id9, custs9);
+var contentString9='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon9        = new Polygon({rings:[[parseFloat(-89.87508), parseFloat(35.12511)],[parseFloat(-89.83341), parseFloat(35.12511)],[parseFloat(-89.83341), parseFloat(35.16677)],[parseFloat(-89.87508), parseFloat(35.16677)],[parseFloat(-89.87508), parseFloat(35.12511)]]});
+var fillSymbol9     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic9 = new Graphic({geometry: polygon9,symbol: fillSymbol9,popupTemplate:{title: 'Customers Affected: '+ custs9,content: contentString9}});
+layers.push(polygonGraphic9);
+var colour = [255, 255, 0, 0.3];
+var cusAffected10 = "<center><h3>Customers Affected: 60</h3></center>"  
+var id10= "076";
+var custs10= "60";
+eventDetail(id10, custs10);
+var contentString10='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon10        = new Polygon({rings:[[parseFloat(-89.83341), parseFloat(35.12511)],[parseFloat(-89.79174), parseFloat(35.12510)],[parseFloat(-89.79175), parseFloat(35.16677)],[parseFloat(-89.83341), parseFloat(35.16677)],[parseFloat(-89.83341), parseFloat(35.12511)]]});
+var fillSymbol10     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic10 = new Graphic({geometry: polygon10,symbol: fillSymbol10,popupTemplate:{title: 'Customers Affected: '+ custs10,content: contentString10}});
+layers.push(polygonGraphic10);
+var colour = [255, 119, 0, 0.3];
+var cusAffected11 = "<center><h3>Customers Affected: 254</h3></center>"  
+var id11= "077";
+var custs11= "254";
+eventDetail(id11, custs11);
+var contentString11='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon11        = new Polygon({rings:[[parseFloat(-89.79174), parseFloat(35.12510)],[parseFloat(-89.75008), parseFloat(35.12510)],[parseFloat(-89.75008), parseFloat(35.16677)],[parseFloat(-89.79175), parseFloat(35.16677)],[parseFloat(-89.79174), parseFloat(35.12510)]]});
+var fillSymbol11     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic11 = new Graphic({geometry: polygon11,symbol: fillSymbol11,popupTemplate:{title: 'Customers Affected: '+ custs11,content: contentString11}});
+layers.push(polygonGraphic11);
+var colour = [0, 255, 0, 0.3];
+var cusAffected12 = "<center><h3>Customers Affected: 1</h3></center>"  
+var id12= "078";
+var custs12= "1";
+eventDetail(id12, custs12);
+var contentString12='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon12        = new Polygon({rings:[[parseFloat(-89.75008), parseFloat(35.12510)],[parseFloat(-89.70841), parseFloat(35.12511)],[parseFloat(-89.70841), parseFloat(35.16677)],[parseFloat(-89.75008), parseFloat(35.16677)],[parseFloat(-89.75008), parseFloat(35.12510)]]});
+var fillSymbol12     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic12 = new Graphic({geometry: polygon12,symbol: fillSymbol12,popupTemplate:{title: 'Customers Affected: '+ custs12,content: contentString12}});
+layers.push(polygonGraphic12);
+var colour = [255, 0, 0, 0.3];
+var cusAffected13 = "<center><h3>Customers Affected: 2600</h3></center>"  
+var id13= "085";
+var custs13= "2600";
+eventDetail(id13, custs13);
+var contentString13='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon13        = new Polygon({rings:[[parseFloat(-90.00009), parseFloat(35.08344)],[parseFloat(-89.95842), parseFloat(35.08344)],[parseFloat(-89.95842), parseFloat(35.12510)],[parseFloat(-90.00009), parseFloat(35.12511)],[parseFloat(-90.00009), parseFloat(35.08344)]]});
+var fillSymbol13     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic13 = new Graphic({geometry: polygon13,symbol: fillSymbol13,popupTemplate:{title: 'Customers Affected: '+ custs13,content: contentString13}});
+layers.push(polygonGraphic13);
+var colour = [255, 0, 0, 0.3];
+var cusAffected14 = "<center><h3>Customers Affected: 6269</h3></center>"  
+var id14= "086";
+var custs14= "6269";
+eventDetail(id14, custs14);
+var contentString14='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon14        = new Polygon({rings:[[parseFloat(-89.95842), parseFloat(35.08344)],[parseFloat(-89.91675), parseFloat(35.08344)],[parseFloat(-89.91675), parseFloat(35.12511)],[parseFloat(-89.95842), parseFloat(35.12510)],[parseFloat(-89.95842), parseFloat(35.08344)]]});
+var fillSymbol14     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic14 = new Graphic({geometry: polygon14,symbol: fillSymbol14,popupTemplate:{title: 'Customers Affected: '+ custs14,content: contentString14}});
+layers.push(polygonGraphic14);
+var colour = [255, 0, 0, 0.3];
+var cusAffected15 = "<center><h3>Customers Affected: 5076</h3></center>"  
+var id15= "087";
+var custs15= "5076";
+eventDetail(id15, custs15);
+var contentString15='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon15        = new Polygon({rings:[[parseFloat(-89.91675), parseFloat(35.08344)],[parseFloat(-89.87508), parseFloat(35.08344)],[parseFloat(-89.87508), parseFloat(35.12511)],[parseFloat(-89.91675), parseFloat(35.12511)],[parseFloat(-89.91675), parseFloat(35.08344)]]});
+var fillSymbol15     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic15 = new Graphic({geometry: polygon15,symbol: fillSymbol15,popupTemplate:{title: 'Customers Affected: '+ custs15,content: contentString15}});
+layers.push(polygonGraphic15);
+var colour = [255, 0, 0, 0.3];
+var cusAffected16 = "<center><h3>Customers Affected: 1582</h3></center>"  
+var id16= "088";
+var custs16= "1582";
+eventDetail(id16, custs16);
+var contentString16='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon16        = new Polygon({rings:[[parseFloat(-89.87508), parseFloat(35.08344)],[parseFloat(-89.83341), parseFloat(35.08344)],[parseFloat(-89.83341), parseFloat(35.12511)],[parseFloat(-89.87508), parseFloat(35.12511)],[parseFloat(-89.87508), parseFloat(35.08344)]]});
+var fillSymbol16     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic16 = new Graphic({geometry: polygon16,symbol: fillSymbol16,popupTemplate:{title: 'Customers Affected: '+ custs16,content: contentString16}});
+layers.push(polygonGraphic16);
+var colour = [255, 119, 0, 0.3];
+var cusAffected17 = "<center><h3>Customers Affected: 169</h3></center>"  
+var id17= "089";
+var custs17= "169";
+eventDetail(id17, custs17);
+var contentString17='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon17        = new Polygon({rings:[[parseFloat(-89.83341), parseFloat(35.08344)],[parseFloat(-89.79175), parseFloat(35.08344)],[parseFloat(-89.79174), parseFloat(35.12510)],[parseFloat(-89.83341), parseFloat(35.12511)],[parseFloat(-89.83341), parseFloat(35.08344)]]});
+var fillSymbol17     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic17 = new Graphic({geometry: polygon17,symbol: fillSymbol17,popupTemplate:{title: 'Customers Affected: '+ custs17,content: contentString17}});
+layers.push(polygonGraphic17);
+var colour = [255, 119, 0, 0.3];
+var cusAffected18 = "<center><h3>Customers Affected: 302</h3></center>"  
+var id18= "090";
+var custs18= "302";
+eventDetail(id18, custs18);
+var contentString18='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon18        = new Polygon({rings:[[parseFloat(-89.79175), parseFloat(35.08344)],[parseFloat(-89.75008), parseFloat(35.08344)],[parseFloat(-89.75008), parseFloat(35.12510)],[parseFloat(-89.79174), parseFloat(35.12510)],[parseFloat(-89.79175), parseFloat(35.08344)]]});
+var fillSymbol18     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic18 = new Graphic({geometry: polygon18,symbol: fillSymbol18,popupTemplate:{title: 'Customers Affected: '+ custs18,content: contentString18}});
+layers.push(polygonGraphic18);
+var colour = [255, 119, 0, 0.3];
+var cusAffected19 = "<center><h3>Customers Affected: 116</h3></center>"  
+var id19= "091";
+var custs19= "116";
+eventDetail(id19, custs19);
+var contentString19='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon19        = new Polygon({rings:[[parseFloat(-89.75008), parseFloat(35.08344)],[parseFloat(-89.70841), parseFloat(35.08344)],[parseFloat(-89.70841), parseFloat(35.12511)],[parseFloat(-89.75008), parseFloat(35.12510)],[parseFloat(-89.75008), parseFloat(35.08344)]]});
+var fillSymbol19     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic19 = new Graphic({geometry: polygon19,symbol: fillSymbol19,popupTemplate:{title: 'Customers Affected: '+ custs19,content: contentString19}});
+layers.push(polygonGraphic19);
+var colour = [255, 119, 0, 0.3];
+var cusAffected20 = "<center><h3>Customers Affected: 192</h3></center>"  
+var id20= "097";
+var custs20= "192";
+eventDetail(id20, custs20);
+var contentString20='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon20        = new Polygon({rings:[[parseFloat(-90.08342), parseFloat(35.04177)],[parseFloat(-90.04175), parseFloat(35.04177)],[parseFloat(-90.04175), parseFloat(35.08344)],[parseFloat(-90.08342), parseFloat(35.08344)],[parseFloat(-90.08342), parseFloat(35.04177)]]});
+var fillSymbol20     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic20 = new Graphic({geometry: polygon20,symbol: fillSymbol20,popupTemplate:{title: 'Customers Affected: '+ custs20,content: contentString20}});
+layers.push(polygonGraphic20);
+var colour = [255, 255, 0, 0.3];
+var cusAffected21 = "<center><h3>Customers Affected: 26</h3></center>"  
+var id21= "098";
+var custs21= "26";
+eventDetail(id21, custs21);
+var contentString21='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon21        = new Polygon({rings:[[parseFloat(-90.04175), parseFloat(35.04177)],[parseFloat(-90.00008), parseFloat(35.04177)],[parseFloat(-90.00009), parseFloat(35.08344)],[parseFloat(-90.04175), parseFloat(35.08344)],[parseFloat(-90.04175), parseFloat(35.04177)]]});
+var fillSymbol21     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic21 = new Graphic({geometry: polygon21,symbol: fillSymbol21,popupTemplate:{title: 'Customers Affected: '+ custs21,content: contentString21}});
+layers.push(polygonGraphic21);
+var colour = [255, 119, 0, 0.3];
+var cusAffected22 = "<center><h3>Customers Affected: 689</h3></center>"  
+var id22= "099";
+var custs22= "689";
+eventDetail(id22, custs22);
+var contentString22='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon22        = new Polygon({rings:[[parseFloat(-90.00008), parseFloat(35.04177)],[parseFloat(-89.95842), parseFloat(35.04177)],[parseFloat(-89.95842), parseFloat(35.08344)],[parseFloat(-90.00009), parseFloat(35.08344)],[parseFloat(-90.00008), parseFloat(35.04177)]]});
+var fillSymbol22     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic22 = new Graphic({geometry: polygon22,symbol: fillSymbol22,popupTemplate:{title: 'Customers Affected: '+ custs22,content: contentString22}});
+layers.push(polygonGraphic22);
+var colour = [255, 0, 0, 0.3];
+var cusAffected23 = "<center><h3>Customers Affected: 4209</h3></center>"  
+var id23= "100";
+var custs23= "4209";
+eventDetail(id23, custs23);
+var contentString23='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon23        = new Polygon({rings:[[parseFloat(-89.95842), parseFloat(35.04177)],[parseFloat(-89.91675), parseFloat(35.04177)],[parseFloat(-89.91675), parseFloat(35.08344)],[parseFloat(-89.95842), parseFloat(35.08344)],[parseFloat(-89.95842), parseFloat(35.04177)]]});
+var fillSymbol23     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic23 = new Graphic({geometry: polygon23,symbol: fillSymbol23,popupTemplate:{title: 'Customers Affected: '+ custs23,content: contentString23}});
+layers.push(polygonGraphic23);
+var colour = [255, 0, 0, 0.3];
+var cusAffected24 = "<center><h3>Customers Affected: 4511</h3></center>"  
+var id24= "101";
+var custs24= "4511";
+eventDetail(id24, custs24);
+var contentString24='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon24        = new Polygon({rings:[[parseFloat(-89.91675), parseFloat(35.04177)],[parseFloat(-89.87508), parseFloat(35.04177)],[parseFloat(-89.87508), parseFloat(35.08344)],[parseFloat(-89.91675), parseFloat(35.08344)],[parseFloat(-89.91675), parseFloat(35.04177)]]});
+var fillSymbol24     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic24 = new Graphic({geometry: polygon24,symbol: fillSymbol24,popupTemplate:{title: 'Customers Affected: '+ custs24,content: contentString24}});
+layers.push(polygonGraphic24);
+var colour = [255, 119, 0, 0.3];
+var cusAffected25 = "<center><h3>Customers Affected: 568</h3></center>"  
+var id25= "102";
+var custs25= "568";
+eventDetail(id25, custs25);
+var contentString25='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon25        = new Polygon({rings:[[parseFloat(-89.87508), parseFloat(35.04177)],[parseFloat(-89.83341), parseFloat(35.04177)],[parseFloat(-89.83341), parseFloat(35.08344)],[parseFloat(-89.87508), parseFloat(35.08344)],[parseFloat(-89.87508), parseFloat(35.04177)]]});
+var fillSymbol25     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic25 = new Graphic({geometry: polygon25,symbol: fillSymbol25,popupTemplate:{title: 'Customers Affected: '+ custs25,content: contentString25}});
+layers.push(polygonGraphic25);
+var colour = [0, 255, 0, 0.3];
+var cusAffected26 = "<center><h3>Customers Affected: 1</h3></center>"  
+var id26= "103";
+var custs26= "1";
+eventDetail(id26, custs26);
+var contentString26='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon26        = new Polygon({rings:[[parseFloat(-89.83341), parseFloat(35.04177)],[parseFloat(-89.79174), parseFloat(35.04177)],[parseFloat(-89.79175), parseFloat(35.08344)],[parseFloat(-89.83341), parseFloat(35.08344)],[parseFloat(-89.83341), parseFloat(35.04177)]]});
+var fillSymbol26     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic26 = new Graphic({geometry: polygon26,symbol: fillSymbol26,popupTemplate:{title: 'Customers Affected: '+ custs26,content: contentString26}});
+layers.push(polygonGraphic26);
+var colour = [255, 119, 0, 0.3];
+var cusAffected27 = "<center><h3>Customers Affected: 370</h3></center>"  
+var id27= "104";
+var custs27= "370";
+eventDetail(id27, custs27);
+var contentString27='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon27        = new Polygon({rings:[[parseFloat(-89.79174), parseFloat(35.04177)],[parseFloat(-89.75008), parseFloat(35.04177)],[parseFloat(-89.75008), parseFloat(35.08344)],[parseFloat(-89.79175), parseFloat(35.08344)],[parseFloat(-89.79174), parseFloat(35.04177)]]});
+var fillSymbol27     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic27 = new Graphic({geometry: polygon27,symbol: fillSymbol27,popupTemplate:{title: 'Customers Affected: '+ custs27,content: contentString27}});
+layers.push(polygonGraphic27);
+var colour = [255, 119, 0, 0.3];
+var cusAffected28 = "<center><h3>Customers Affected: 110</h3></center>"  
+var id28= "105";
+var custs28= "110";
+eventDetail(id28, custs28);
+var contentString28='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon28        = new Polygon({rings:[[parseFloat(-89.75008), parseFloat(35.04177)],[parseFloat(-89.70841), parseFloat(35.04177)],[parseFloat(-89.70841), parseFloat(35.08344)],[parseFloat(-89.75008), parseFloat(35.08344)],[parseFloat(-89.75008), parseFloat(35.04177)]]});
+var fillSymbol28     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic28 = new Graphic({geometry: polygon28,symbol: fillSymbol28,popupTemplate:{title: 'Customers Affected: '+ custs28,content: contentString28}});
+layers.push(polygonGraphic28);
+var colour = [0, 255, 0, 0.3];
+var cusAffected29 = "<center><h3>Customers Affected: 1</h3></center>"  
+var id29= "112";
+var custs29= "1";
+eventDetail(id29, custs29);
+var contentString29='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon29        = new Polygon({rings:[[parseFloat(-90.12509), parseFloat(35.00011)],[parseFloat(-90.08342), parseFloat(35.00011)],[parseFloat(-90.08342), parseFloat(35.04177)],[parseFloat(-90.12509), parseFloat(35.04177)],[parseFloat(-90.12509), parseFloat(35.00011)]]});
+var fillSymbol29     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic29 = new Graphic({geometry: polygon29,symbol: fillSymbol29,popupTemplate:{title: 'Customers Affected: '+ custs29,content: contentString29}});
+layers.push(polygonGraphic29);
+var colour = [255, 119, 0, 0.3];
+var cusAffected30 = "<center><h3>Customers Affected: 252</h3></center>"  
+var id30= "113";
+var custs30= "252";
+eventDetail(id30, custs30);
+var contentString30='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon30        = new Polygon({rings:[[parseFloat(-90.08342), parseFloat(35.00011)],[parseFloat(-90.04175), parseFloat(35.00011)],[parseFloat(-90.04175), parseFloat(35.04177)],[parseFloat(-90.08342), parseFloat(35.04177)],[parseFloat(-90.08342), parseFloat(35.00011)]]});
+var fillSymbol30     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic30 = new Graphic({geometry: polygon30,symbol: fillSymbol30,popupTemplate:{title: 'Customers Affected: '+ custs30,content: contentString30}});
+layers.push(polygonGraphic30);
+var colour = [255, 0, 0, 0.3];
+var cusAffected31 = "<center><h3>Customers Affected: 1464</h3></center>"  
+var id31= "114";
+var custs31= "1464";
+eventDetail(id31, custs31);
+var contentString31='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon31        = new Polygon({rings:[[parseFloat(-90.04175), parseFloat(35.00011)],[parseFloat(-90.00008), parseFloat(35.00011)],[parseFloat(-90.00008), parseFloat(35.04177)],[parseFloat(-90.04175), parseFloat(35.04177)],[parseFloat(-90.04175), parseFloat(35.00011)]]});
+var fillSymbol31     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic31 = new Graphic({geometry: polygon31,symbol: fillSymbol31,popupTemplate:{title: 'Customers Affected: '+ custs31,content: contentString31}});
+layers.push(polygonGraphic31);
+var colour = [255, 0, 0, 0.3];
+var cusAffected32 = "<center><h3>Customers Affected: 1205</h3></center>"  
+var id32= "115";
+var custs32= "1205";
+eventDetail(id32, custs32);
+var contentString32='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon32        = new Polygon({rings:[[parseFloat(-90.00008), parseFloat(35.00011)],[parseFloat(-89.95842), parseFloat(35.00011)],[parseFloat(-89.95842), parseFloat(35.04177)],[parseFloat(-90.00008), parseFloat(35.04177)],[parseFloat(-90.00008), parseFloat(35.00011)]]});
+var fillSymbol32     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic32 = new Graphic({geometry: polygon32,symbol: fillSymbol32,popupTemplate:{title: 'Customers Affected: '+ custs32,content: contentString32}});
+layers.push(polygonGraphic32);
+var colour = [255, 119, 0, 0.3];
+var cusAffected33 = "<center><h3>Customers Affected: 384</h3></center>"  
+var id33= "116";
+var custs33= "384";
+eventDetail(id33, custs33);
+var contentString33='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon33        = new Polygon({rings:[[parseFloat(-89.95842), parseFloat(35.00011)],[parseFloat(-89.91675), parseFloat(35.00011)],[parseFloat(-89.91675), parseFloat(35.04177)],[parseFloat(-89.95842), parseFloat(35.04177)],[parseFloat(-89.95842), parseFloat(35.00011)]]});
+var fillSymbol33     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic33 = new Graphic({geometry: polygon33,symbol: fillSymbol33,popupTemplate:{title: 'Customers Affected: '+ custs33,content: contentString33}});
+layers.push(polygonGraphic33);
+var colour = [255, 119, 0, 0.3];
+var cusAffected34 = "<center><h3>Customers Affected: 109</h3></center>"  
+var id34= "117";
+var custs34= "109";
+eventDetail(id34, custs34);
+var contentString34='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon34        = new Polygon({rings:[[parseFloat(-89.91675), parseFloat(35.00011)],[parseFloat(-89.87508), parseFloat(35.00011)],[parseFloat(-89.87508), parseFloat(35.04177)],[parseFloat(-89.91675), parseFloat(35.04177)],[parseFloat(-89.91675), parseFloat(35.00011)]]});
+var fillSymbol34     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic34 = new Graphic({geometry: polygon34,symbol: fillSymbol34,popupTemplate:{title: 'Customers Affected: '+ custs34,content: contentString34}});
+layers.push(polygonGraphic34);
+var colour = [255, 255, 0, 0.3];
+var cusAffected35 = "<center><h3>Customers Affected: 48</h3></center>"  
+var id35= "118";
+var custs35= "48";
+eventDetail(id35, custs35);
+var contentString35='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon35        = new Polygon({rings:[[parseFloat(-89.87508), parseFloat(35.00011)],[parseFloat(-89.83341), parseFloat(35.00011)],[parseFloat(-89.83341), parseFloat(35.04177)],[parseFloat(-89.87508), parseFloat(35.04177)],[parseFloat(-89.87508), parseFloat(35.00011)]]});
+var fillSymbol35     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic35 = new Graphic({geometry: polygon35,symbol: fillSymbol35,popupTemplate:{title: 'Customers Affected: '+ custs35,content: contentString35}});
+layers.push(polygonGraphic35);
+var colour = [0, 255, 0, 0.3];
+var cusAffected36 = "<center><h3>Customers Affected: 7</h3></center>"  
+var id36= "119";
+var custs36= "7";
+eventDetail(id36, custs36);
+var contentString36='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon36        = new Polygon({rings:[[parseFloat(-89.83341), parseFloat(35.00011)],[parseFloat(-89.79174), parseFloat(35.00011)],[parseFloat(-89.79174), parseFloat(35.04177)],[parseFloat(-89.83341), parseFloat(35.04177)],[parseFloat(-89.83341), parseFloat(35.00011)]]});
+var fillSymbol36     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic36 = new Graphic({geometry: polygon36,symbol: fillSymbol36,popupTemplate:{title: 'Customers Affected: '+ custs36,content: contentString36}});
+layers.push(polygonGraphic36);
+var colour = [255, 119, 0, 0.3];
+var cusAffected37 = "<center><h3>Customers Affected: 237</h3></center>"  
+var id37= "130";
+var custs37= "237";
+eventDetail(id37, custs37);
+var contentString37='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon37        = new Polygon({rings:[[parseFloat(-90.04175), parseFloat(34.99415)],[parseFloat(-90.00009), parseFloat(34.99415)],[parseFloat(-90.00008), parseFloat(35.00011)],[parseFloat(-90.04175), parseFloat(35.00011)],[parseFloat(-90.04175), parseFloat(34.99415)]]});
+var fillSymbol37     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic37 = new Graphic({geometry: polygon37,symbol: fillSymbol37,popupTemplate:{title: 'Customers Affected: '+ custs37,content: contentString37}});
+layers.push(polygonGraphic37);
+var colour = [0, 255, 0, 0.3];
+var cusAffected38 = "<center><h3>Customers Affected: 1</h3></center>"  
+var id38= "131";
+var custs38= "1";
+eventDetail(id38, custs38);
+var contentString38='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon38        = new Polygon({rings:[[parseFloat(-90.00009), parseFloat(34.99415)],[parseFloat(-89.95842), parseFloat(34.99415)],[parseFloat(-89.95842), parseFloat(35.00011)],[parseFloat(-90.00008), parseFloat(35.00011)],[parseFloat(-90.00009), parseFloat(34.99415)]]});
+var fillSymbol38     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic38 = new Graphic({geometry: polygon38,symbol: fillSymbol38,popupTemplate:{title: 'Customers Affected: '+ custs38,content: contentString38}});
+layers.push(polygonGraphic38);
+
+      view.graphics.addMany(layers);
+    });
+    
+    
+    
