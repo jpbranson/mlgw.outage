@@ -1,0 +1,435 @@
+MLGW Outage
+  div.esri-view-width-xlarge .esri-popup__main-container {
+    width: 640px !important;
+}
+
+      var refreshTime=900;      
+      //var refreshTime=300;		//Refresh every 5 mins
+      var events=[];
+      
+      events[0]=["052","04/14/2023 09:07 AM", "04/14/2023 09:07 AM", "A crew is currently working on the problem", "04/14/2023 02:30 PM", "1273747"];
+events[1]=["059","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273759"];
+events[2]=["059","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273762"];
+events[3]=["059","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273766"];
+events[4]=["059","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273767"];
+events[5]=["059","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273774"];
+events[6]=["059","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273784"];
+events[7]=["059","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273786"];
+events[8]=["059","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273789"];
+events[9]=["059","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273806"];
+events[10]=["059","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273807"];
+events[11]=["059","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273809"];
+events[12]=["059","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273817"];
+events[13]=["059","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273818"];
+events[14]=["059","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273819"];
+events[15]=["059","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273834"];
+events[16]=["059","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273837"];
+events[17]=["059","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273839"];
+events[18]=["059","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273840"];
+events[19]=["059","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273841"];
+events[20]=["059","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273859"];
+events[21]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273867"];
+events[22]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273869"];
+events[23]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273870"];
+events[24]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273872"];
+events[25]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273873"];
+events[26]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273881"];
+events[27]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273882"];
+events[28]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273890"];
+events[29]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273897"];
+events[30]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273898"];
+events[31]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273899"];
+events[32]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273900"];
+events[33]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273901"];
+events[34]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273902"];
+events[35]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273903"];
+events[36]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273904"];
+events[37]=["059","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273905"];
+events[38]=["059","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273923"];
+events[39]=["059","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273933"];
+events[40]=["059","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273934"];
+events[41]=["059","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273941"];
+events[42]=["059","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273942"];
+events[43]=["059","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273943"];
+events[44]=["059","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273945"];
+events[45]=["059","04/14/2023 10:22 AM", "04/14/2023 10:22 AM", "Waiting to be analyzed", "", "1273957"];
+events[46]=["059","04/14/2023 10:22 AM", "04/14/2023 10:22 AM", "Waiting to be analyzed", "", "1273958"];
+events[47]=["059","04/14/2023 10:22 AM", "04/14/2023 10:22 AM", "Waiting to be analyzed", "", "1273959"];
+events[48]=["060","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273770"];
+events[49]=["060","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273771"];
+events[50]=["060","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273776"];
+events[51]=["060","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273782"];
+events[52]=["060","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273791"];
+events[53]=["060","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273798"];
+events[54]=["060","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273799"];
+events[55]=["060","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273801"];
+events[56]=["060","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273805"];
+events[57]=["060","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273815"];
+events[58]=["060","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273825"];
+events[59]=["060","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273826"];
+events[60]=["060","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273849"];
+events[61]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273884"];
+events[62]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273887"];
+events[63]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273888"];
+events[64]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273889"];
+events[65]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273892"];
+events[66]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273894"];
+events[67]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273896"];
+events[68]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273917"];
+events[69]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273918"];
+events[70]=["060","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273919"];
+events[71]=["060","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273951"];
+events[72]=["060","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273953"];
+events[73]=["060","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273955"];
+events[74]=["060","04/14/2023 10:22 AM", "04/14/2023 10:22 AM", "Waiting to be analyzed", "", "1273961"];
+events[75]=["070","04/14/2023 09:57 AM", "04/14/2023 09:57 AM", "Customer Svc is working this single customer outage", "", "1273752"];
+events[76]=["070","04/14/2023 10:16 AM", "04/14/2023 10:16 AM", "Waiting to be analyzed", "", "1273754"];
+events[77]=["070","04/14/2023 10:16 AM", "04/14/2023 10:16 AM", "Waiting to be analyzed", "", "1273755"];
+events[78]=["070","04/14/2023 10:16 AM", "04/14/2023 10:16 AM", "Waiting to be analyzed", "", "1273756"];
+events[79]=["070","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273758"];
+events[80]=["070","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273765"];
+events[81]=["070","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273777"];
+events[82]=["070","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273778"];
+events[83]=["070","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273780"];
+events[84]=["070","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273781"];
+events[85]=["070","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273788"];
+events[86]=["070","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273795"];
+events[87]=["070","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273809"];
+events[88]=["070","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273813"];
+events[89]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273816"];
+events[90]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273822"];
+events[91]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273823"];
+events[92]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273824"];
+events[93]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273828"];
+events[94]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273830"];
+events[95]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273835"];
+events[96]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273836"];
+events[97]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273838"];
+events[98]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273846"];
+events[99]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273847"];
+events[100]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273848"];
+events[101]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273853"];
+events[102]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273856"];
+events[103]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273862"];
+events[104]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273863"];
+events[105]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273864"];
+events[106]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273865"];
+events[107]=["070","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273866"];
+events[108]=["070","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273868"];
+events[109]=["070","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273876"];
+events[110]=["070","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273877"];
+events[111]=["070","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273878"];
+events[112]=["070","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273914"];
+events[113]=["070","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273915"];
+events[114]=["070","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273926"];
+events[115]=["070","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273927"];
+events[116]=["070","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273928"];
+events[117]=["070","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273932"];
+events[118]=["070","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273940"];
+events[119]=["070","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273952"];
+events[120]=["071","04/14/2023 10:16 AM", "04/14/2023 10:16 AM", "Waiting to be analyzed", "", "1273753"];
+events[121]=["071","04/14/2023 10:16 AM", "04/14/2023 10:16 AM", "Waiting to be analyzed", "", "1273757"];
+events[122]=["071","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273761"];
+events[123]=["071","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273763"];
+events[124]=["071","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273764"];
+events[125]=["071","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273768"];
+events[126]=["071","04/14/2023 10:17 AM", "04/14/2023 10:17 AM", "Waiting to be analyzed", "", "1273769"];
+events[127]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273772"];
+events[128]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273775"];
+events[129]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273779"];
+events[130]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273790"];
+events[131]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273792"];
+events[132]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273793"];
+events[133]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273794"];
+events[134]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273797"];
+events[135]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273800"];
+events[136]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273802"];
+events[137]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273803"];
+events[138]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273804"];
+events[139]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273810"];
+events[140]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273811"];
+events[141]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273812"];
+events[142]=["071","04/14/2023 10:18 AM", "04/14/2023 10:18 AM", "Waiting to be analyzed", "", "1273814"];
+events[143]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273820"];
+events[144]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273821"];
+events[145]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273822"];
+events[146]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273827"];
+events[147]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273829"];
+events[148]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273831"];
+events[149]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273832"];
+events[150]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273842"];
+events[151]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273843"];
+events[152]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273844"];
+events[153]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273845"];
+events[154]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273850"];
+events[155]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273851"];
+events[156]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273854"];
+events[157]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273855"];
+events[158]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273860"];
+events[159]=["071","04/14/2023 10:19 AM", "04/14/2023 10:19 AM", "Waiting to be analyzed", "", "1273861"];
+events[160]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273874"];
+events[161]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273875"];
+events[162]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273879"];
+events[163]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273880"];
+events[164]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273883"];
+events[165]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273885"];
+events[166]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273886"];
+events[167]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273891"];
+events[168]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273893"];
+events[169]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273895"];
+events[170]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273906"];
+events[171]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273907"];
+events[172]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273908"];
+events[173]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273909"];
+events[174]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273910"];
+events[175]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273911"];
+events[176]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273912"];
+events[177]=["071","04/14/2023 10:20 AM", "04/14/2023 10:20 AM", "Waiting to be analyzed", "", "1273913"];
+events[178]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273921"];
+events[179]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273922"];
+events[180]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273924"];
+events[181]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273925"];
+events[182]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273929"];
+events[183]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273930"];
+events[184]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273935"];
+events[185]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273936"];
+events[186]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273937"];
+events[187]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273938"];
+events[188]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273939"];
+events[189]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273946"];
+events[190]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273947"];
+events[191]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273948"];
+events[192]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273949"];
+events[193]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273950"];
+events[194]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273954"];
+events[195]=["071","04/14/2023 10:21 AM", "04/14/2023 10:21 AM", "Waiting to be analyzed", "", "1273956"];
+events[196]=["071","04/14/2023 10:22 AM", "04/14/2023 10:22 AM", "Waiting to be analyzed", "", "1273960"];
+events[197]=["084","04/14/2023 07:17 AM", "04/14/2023 07:17 AM", "A crew is currently working on the problem", "04/14/2023 12:30 PM", "1273743"];
+events[198]=["086","04/14/2023 09:31 AM", "04/14/2023 09:31 AM", "Trouble Shooter is working on the problem", "04/14/2023 11:00 AM", "1273750"];
+events[199]=["114","04/14/2023 09:11 AM", "04/14/2023 09:11 AM", "A crew is currently working on the problem", "04/14/2023 12:30 PM", "1273748"];
+    
+      if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+         function refreshTimerDesktop()
+          {
+          mins=Math.floor(refreshTime/60);
+          secs=refreshTime-mins*60;
+          if (mins < 10) mins="0"+mins;
+          if (secs < 10) secs="0" + secs;
+          document.getElementById("clockDesktop").innerHTML="Time to refresh:<br>" + mins + ":" + secs;
+          refreshTime=refreshTime-1;
+          if (refreshTime == 0) window.location.reload();
+          var t=setTimeout("refreshTimerDesktop()", 1000);
+          }
+      }else{
+         function refreshTimerMobile()
+          {
+          mins=Math.floor(refreshTime/60);
+          secs=refreshTime-mins*60;
+          if (mins < 10) mins="0"+mins;
+          if (secs < 10) secs="0" + secs;
+          document.getElementById("clockMobile").innerHTML="Time to refresh:<br>" + mins + ":" + secs;
+          refreshTime=refreshTime-1;
+          if (refreshTime == 0) window.location.reload();
+          var t=setTimeout("refreshTimerMobile()", 1000);
+          }
+      }
+ 
+      function eventDetail( id, custs)
+      {
+        var is_mobile = !!navigator.userAgent.match(/Android|webOS|iPhone|blackberry|iemobile|Opera Mini/ig)|| true;
+        el=document.getElementById("eventDetail");
+        while ( el.hasChildNodes()) el.removeChild(el.lastChild);
+        el.style.height="90px";
+        detailTable=document.createElement("table");
+        detailTable.style.overflow="auto";
+        detailTable.style.maxHeight="90px";
+        detailTable.width="100%";
+        detailTable.border=1;
+        detailTable.cellSpacing=0;
+        el.appendChild(detailTable);
+        header=detailTable.insertRow(-1);
+        
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+        a=header.insertCell(-1);
+        a.vAlign="bottom";
+        a.align="center";
+        a.style.font="normal bold 12px arial";
+        a.innerHTML="Outage<br>Number";
+        }
+        
+        b=header.insertCell(-1);
+        b.vAlign="bottom";
+        b.align="center";
+        b.style.font="normal bold 12px arial";
+        b.innerHTML="Status";
+        
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+        c=header.insertCell(-1);
+        c.vAlign="bottom";
+        c.align="center";
+        c.style.font="normal bold 12px arial";
+        c.innerHTML="Time Reported";
+        }
+        
+        d=header.insertCell(-1);
+        d.vAlign="bottom";
+        d.align="center";
+        d.style.font="normal bold 12px arial";
+        d.innerHTML="Est. Repair Time";
+        for ( thisEvent in events)
+        {
+          if (events[thisEvent][0] == id )
+          {
+            eventRow=detailTable.insertRow(-1);
+            if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+            thisCell=eventRow.insertCell(-1);
+            thisCell.align="center";
+            thisCell.innerHTML=events[thisEvent][5];
+            }
+            
+            thisCell=eventRow.insertCell(-1);
+            thisCell.innerHTML=events[thisEvent][3];
+            if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)!=true){
+            thisCell=eventRow.insertCell(-1);
+            thisCell.align="center";
+            thisCell.innerHTML=events[thisEvent][2];
+            }
+            thisCell=eventRow.insertCell(-1);
+            thisCell.align="center";
+            thisCell.innerHTML=(events[thisEvent][4] == "") ? "&nbsp;" : events[thisEvent][4];
+
+          }
+        }
+      }
+      
+      
+      
+      
+    require([
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/Graphic",
+      //"esri/geometry/Point",
+      //"esri/symbols/SimpleMarkerSymbol",
+      //"esri/geometry/Polyline",
+      //"esri/symbols/SimpleLineSymbol",
+      "esri/geometry/Polygon",
+      "esri/symbols/SimpleFillSymbol",
+      "dojo/domReady!"
+     
+    ], function(Map, MapView, Graphic, 
+//Point, SimpleMarkerSymbol, Polyline, SimpleLineSymbol, 
+Polygon, 
+SimpleFillSymbol, 
+InfoWindowLite, InfoTemplate, domConstruct) {
+              
+      var layers = [];
+      var defualtCenter = [-89.915372, 35.192833];//[-90.04898,35.14953];
+      
+      if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)==true){
+        defualtCenter = [-89.959297, 35.191150];
+      }
+
+      var map = new Map({
+        basemap: "streets"  //"terrain" //"gray"  //"osm"   //"streets-navigation-vector" //"topo-vector"
+      });
+      
+      var view = new MapView({
+        container: "mapArea",
+        map: map,
+        center: defualtCenter,
+        zoom: 11
+      });
+      
+      var county = new Polygon({rings:[[-90.308408, 34.994848],[-89.643066, 34.994988],[-89.637259, 35.256133],[-89.640688, 35.258376],[-89.633129, 35.377714],[-89.644811, 35.372115],[-89.646873, 35.377714],[-89.640688, 35.386111],[-89.703209, 35.388910],[-89.701819, 35.406261],[-89.732743, 35.406821],[-89.730681, 35.400105],[-89.776724, 35.402344],[-89.779473, 35.390589],[-90.041986, 35.393948],[-90.059166, 35.386111],[-90.074972, 35.383312],[-90.090090, 35.360916],[-90.093526, 35.360356],[-90.110019, 35.341875],[-90.103147, 35.331232],[-90.106583, 35.323949],[-90.108645, 35.304339],[-90.116204, 35.302658],[-90.123076, 35.303778],[-90.138195, 35.298175],[-90.150338, 35.302658],[-90.159949, 35.300416],[-90.164751, 35.295372],[-90.169558, 35.280800],[-90.151686, 35.255572],[-90.140004, 35.252208],[-90.117326, 35.255012],[-90.107705, 35.255012],[-90.098772, 35.251086],[-90.080904, 35.228093],[-90.078843, 35.217435],[-90.080904, 35.213508],[-90.088463, 35.212947],[-90.097397, 35.193871],[-90.109767, 35.198921],[-90.115952, 35.197799],[-90.117372, 35.187769],[-90.113936, 35.181034],[-90.111530, 35.178509],[-90.108781, 35.178509],[-90.108438, 35.168125],[-90.100879, 35.161109],[-90.092289, 35.157460],[-90.070298, 35.153530],[-90.066862, 35.151565],[-90.064457, 35.139774],[-90.064800, 35.138090],[-90.085760, 35.120119],[-90.099848, 35.116749],[-90.109125, 35.118434],[-90.143142, 35.135282],[-90.151388, 35.132474],[-90.156199, 35.130790],[-90.157917, 35.129947],[-90.174066, 35.117592],[-90.176471, 35.114503],[-90.181282, 35.090909],[-90.196400, 35.060283],[-90.197775, 35.049884],[-90.196057, 35.038078],[-90.200180, 35.032737],[-90.208770, 35.027115],[-90.215298, 35.025428],[-90.224576, 35.029645],[-90.256187, 35.034143],[-90.262716, 35.036111],[-90.264777, 35.040046],[-90.291922, 35.041733],[-90.296732, 35.039203],[-90.300856, 35.028239],[-90.308071, 35.016712],[-90.310476, 35.009120],[-90.308408, 34.994848] //78 points
+      ]});
+      var countyFill = new SimpleFillSymbol({color:[0, 0, 0, 0.1],outline:{color:[227, 139, 79],width: 1}});
+      var countyLine = new Graphic({geometry: county,symbol: countyFill});
+      layers.push(countyLine);
+      
+      var colour = [0, 255, 0, 0.3];
+var cusAffected0 = "<center><h3>Customers Affected: 6</h3></center>"  
+var id0= "052";
+var custs0= "6";
+eventDetail(id0, custs0);
+var contentString0='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon0        = new Polygon({rings:[[parseFloat(-89.91675), parseFloat(35.20844)],[parseFloat(-89.87508), parseFloat(35.20844)],[parseFloat(-89.87508), parseFloat(35.25010)],[parseFloat(-89.91675), parseFloat(35.25010)],[parseFloat(-89.91675), parseFloat(35.20844)]]});
+var fillSymbol0     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic0 = new Graphic({geometry: polygon0,symbol: fillSymbol0,popupTemplate:{title: 'Customers Affected: '+ custs0,content: contentString0}});
+layers.push(polygonGraphic0);
+var colour = [255, 119, 0, 0.3];
+var cusAffected1 = "<center><h3>Customers Affected: 482</h3></center>"  
+var id1= "059";
+var custs1= "482";
+eventDetail(id1, custs1);
+var contentString1='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon1        = new Polygon({rings:[[parseFloat(-90.08342), parseFloat(35.16677)],[parseFloat(-90.04175), parseFloat(35.16677)],[parseFloat(-90.04175), parseFloat(35.20844)],[parseFloat(-90.08342), parseFloat(35.20844)],[parseFloat(-90.08342), parseFloat(35.16677)]]});
+var fillSymbol1     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic1 = new Graphic({geometry: polygon1,symbol: fillSymbol1,popupTemplate:{title: 'Customers Affected: '+ custs1,content: contentString1}});
+layers.push(polygonGraphic1);
+var colour = [255, 255, 0, 0.3];
+var cusAffected2 = "<center><h3>Customers Affected: 87</h3></center>"  
+var id2= "060";
+var custs2= "87";
+eventDetail(id2, custs2);
+var contentString2='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon2        = new Polygon({rings:[[parseFloat(-90.04175), parseFloat(35.16677)],[parseFloat(-90.00008), parseFloat(35.16677)],[parseFloat(-90.00008), parseFloat(35.20844)],[parseFloat(-90.04175), parseFloat(35.20844)],[parseFloat(-90.04175), parseFloat(35.16677)]]});
+var fillSymbol2     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic2 = new Graphic({geometry: polygon2,symbol: fillSymbol2,popupTemplate:{title: 'Customers Affected: '+ custs2,content: contentString2}});
+layers.push(polygonGraphic2);
+var colour = [255, 119, 0, 0.3];
+var cusAffected3 = "<center><h3>Customers Affected: 706</h3></center>"  
+var id3= "070";
+var custs3= "706";
+eventDetail(id3, custs3);
+var contentString3='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon3        = new Polygon({rings:[[parseFloat(-90.08342), parseFloat(35.12511)],[parseFloat(-90.04175), parseFloat(35.12511)],[parseFloat(-90.04175), parseFloat(35.16677)],[parseFloat(-90.08342), parseFloat(35.16677)],[parseFloat(-90.08342), parseFloat(35.12511)]]});
+var fillSymbol3     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic3 = new Graphic({geometry: polygon3,symbol: fillSymbol3,popupTemplate:{title: 'Customers Affected: '+ custs3,content: contentString3}});
+layers.push(polygonGraphic3);
+var colour = [255, 119, 0, 0.3];
+var cusAffected4 = "<center><h3>Customers Affected: 397</h3></center>"  
+var id4= "071";
+var custs4= "397";
+eventDetail(id4, custs4);
+var contentString4='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon4        = new Polygon({rings:[[parseFloat(-90.04175), parseFloat(35.12511)],[parseFloat(-90.00009), parseFloat(35.12511)],[parseFloat(-90.00008), parseFloat(35.16677)],[parseFloat(-90.04175), parseFloat(35.16677)],[parseFloat(-90.04175), parseFloat(35.12511)]]});
+var fillSymbol4     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic4 = new Graphic({geometry: polygon4,symbol: fillSymbol4,popupTemplate:{title: 'Customers Affected: '+ custs4,content: contentString4}});
+layers.push(polygonGraphic4);
+var colour = [0, 255, 0, 0.3];
+var cusAffected5 = "<center><h3>Customers Affected: 7</h3></center>"  
+var id5= "084";
+var custs5= "7";
+eventDetail(id5, custs5);
+var contentString5='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon5        = new Polygon({rings:[[parseFloat(-90.04175), parseFloat(35.08344)],[parseFloat(-90.00009), parseFloat(35.08344)],[parseFloat(-90.00009), parseFloat(35.12511)],[parseFloat(-90.04175), parseFloat(35.12511)],[parseFloat(-90.04175), parseFloat(35.08344)]]});
+var fillSymbol5     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic5 = new Graphic({geometry: polygon5,symbol: fillSymbol5,popupTemplate:{title: 'Customers Affected: '+ custs5,content: contentString5}});
+layers.push(polygonGraphic5);
+var colour = [0, 255, 0, 0.3];
+var cusAffected6 = "<center><h3>Customers Affected: 6</h3></center>"  
+var id6= "086";
+var custs6= "6";
+eventDetail(id6, custs6);
+var contentString6='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon6        = new Polygon({rings:[[parseFloat(-89.95842), parseFloat(35.08344)],[parseFloat(-89.91675), parseFloat(35.08344)],[parseFloat(-89.91675), parseFloat(35.12511)],[parseFloat(-89.95842), parseFloat(35.12510)],[parseFloat(-89.95842), parseFloat(35.08344)]]});
+var fillSymbol6     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic6 = new Graphic({geometry: polygon6,symbol: fillSymbol6,popupTemplate:{title: 'Customers Affected: '+ custs6,content: contentString6}});
+layers.push(polygonGraphic6);
+var colour = [0, 255, 0, 0.3];
+var cusAffected7 = "<center><h3>Customers Affected: 5</h3></center>"  
+var id7= "114";
+var custs7= "5";
+eventDetail(id7, custs7);
+var contentString7='<div style="height: 100px; ">' + document.getElementById("eventDetail").innerHTML + '</div>';
+var polygon7        = new Polygon({rings:[[parseFloat(-90.04175), parseFloat(35.00011)],[parseFloat(-90.00008), parseFloat(35.00011)],[parseFloat(-90.00008), parseFloat(35.04177)],[parseFloat(-90.04175), parseFloat(35.04177)],[parseFloat(-90.04175), parseFloat(35.00011)]]});
+var fillSymbol7     = new SimpleFillSymbol({color: colour,outline:{color: colour,width: 1}});
+var polygonGraphic7 = new Graphic({geometry: polygon7,symbol: fillSymbol7,popupTemplate:{title: 'Customers Affected: '+ custs7,content: contentString7}});
+layers.push(polygonGraphic7);
+
+      view.graphics.addMany(layers);
+    });
+    
+    
+    
